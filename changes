@@ -1,0 +1,137 @@
+
+* Thanks to Jo <jo@winfix.it>
+
+pasta /wlb/items/reboot_all_the_time>diff index.php*
+17,19c17
+< restart the computer. And if you happen to be away from your computer
+< and you didn't see the question, it will happily reboot automatically.
+< Bye bye long download.</p>
+---
+> restart the computer.</p>
+
+* The FAQ
+
+* The "click on icons to get an explanation" text.
+
+* "alive" and "help"
+
+pasta /wlb/items/viruses>diff index.php*
+22,26c22,24
+< But that's not the only reason, the Apache web server (a web server is 
+a
+< program located on a remote computer that sends web pages to your
+< browser when you ask for them) has the biggest market share (against
+< Microsoft's IIS server), but it still suffers from <i>much</i> less
+< attacks/flaws than the Microsoft one.</li>
+---
+> But that's not the only reason, the Apache web server has the biggest
+> market share (against Microsoft's IIS server), but it still suffers 
+from
+> <i>much</i> less attacks/flaws than the Microsoft one.</li>
+
+et dire qu'apache est un logiciel libre.
+
+
+* Thanks to Simon <fast99@gmail.com>
+
+pasta /wlb/items>diff free_games/index.php*
+13c13
+< <td>Battle for Wesnoth (turn based strategy)</td><td><a href="Images/battle_for_wesnoth.jpg"><img 
+src="Images/battle_for_wesnoth_thumbnail.jpg" /></a></td>
+---
+> <td>Battle for Wesnoth (real time strategy)</td><td><a href="Images/battle_for_wesnoth.jpg"><img 
+src="Images/battle_for_wesnoth_thumbnail.jpg" /></a></td>
+
+* Thanks to Christoph Ostermayer <christoph.ostermayer@gmx.de>
+
+pasta /wlb/items/security>diff index.php*
+10c10
+< infected is <b>40 minutes</b> (and it sometimes takes as little time as 30 seconds).</p>
+---
+> infected is <b>40 minutes</b>.</p>
+
+* Updated the "proprietary software you can't live without" a little 
+bit (same content, better wording, but last paragraph changed a bit).
+
+* Updated the section about Live CDs to say that lack of speed is 
+normal.
+
+ help).</li>
+ 
+ <li>And voilà, Linux runs on your system, you can test it and see 
+-how you like it!</li>
++how you like it! Don't worry if the system seems a bit slow right 
++now: it takes some time to load everything from the CD. Your Linux 
++system will be much quicker once actually installed on your hard disk. 
++</li>
+ 
+ </ul>
+
+* Added the mention of Adium instead of Pidgin for Mac OS X:
+
+ <p>With Pidgin, the instant messenger for Linux (it exists for Windows 
+-as well), you can connect to all these services at once, with this one 
+-program, and see all your buddies at the same time.</p>
++as well, and for Mac OS X with the name "Adium"), you can connect to 
+all 
++these services at once, with this one program, and see all your buddies 
++at the same time.</p>
+
+* Added the "environment" item
+
+
+* Modified the FAQ:
+
+--- faq.php.orig        2008-02-11 13:13:39.000000000 +0100
++++ faq.php     2008-02-17 16:07:02.000000000 +0100
+@@ -20,8 +20,11 @@
+ different vendors choose to ship Linux with their choice of software to 
+ make a "Linux distribution", etc., half of the audience has already 
+ left. This is not a website for people already using Linux as their 
+main 
+-OS (unless they want to help out making the site better -- and 
+-correct my bad English, I need it !).</p> </li>
++OS (unless they want to help out making the site better). For the 
++same reasons, and for the sake of simplicity, I don't speak about 
++the various BSDs and the fact that many of the <i>big</i> servers 
++run BSD and not Linux.</p> 
++</li>
+ 
+ <li><p><b>Q: Why are you saying an OS is better than another? It 
+depends 
+ on what people want to do with it.</b></p>
+@@ -84,6 +87,15 @@
+ to know about Linux and want to create my own version, which I'll 
+ undoubtedly call "Manux" -- okay, maybe not).</p> </li>
+ 
++<a name="gaming"><li><p><b>Q: You said gamers shouldn't switch to 
+Linux, 
++but don't you know about Wine, Cedega? These work fine for a growing 
++number of Windows games.</b></p><p>A: I agree that various software 
++solutions make running Windows games under Linux much easier than it 
++used to be. This is a good solution for casual gamers. However, note 
++that I used the expression "hardcore gamers", the ones who buy the most 
++recent games and overclock their CPUs to get better performance; I 
+doubt 
++that these are willing to make that kind of compromise.</p></li>
++
+ <li><p><b>Q: Hey, aren't you that wacky <a 
+ href="http://www.manucornet.net/pcjacking">PCJacking</a> guy ?</b></p>
+ <p>A: Woops, yeah.</p>
+
+
+
+-----------------------------------
+
+--- a/www.whylinuxisbetter.net/stick_to_windows/hardcore_gamer/index.php
++++ b/www.whylinuxisbetter.net/stick_to_windows/hardcore_gamer/index.php
+@@ -12,6 +12,10 @@ Neverwinter Nights, etc.), but most of them just run on Windo
+ to Windows.  But you can still install Linux, keep Windows (see the 
+ install section), and use both of them, depending on your needs.</p>
+ 
++<p>If you do like to play games but aren't very demanding on their
++recency, note that software like Wine or Cedega can help you run
++not-so-recent Windows games under Linux without any problem.</p>
++
+ </div>
+

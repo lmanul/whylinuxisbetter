@@ -1,0 +1,80 @@
+title_es.txt --> Añadido signo de interrogación al final.
+stick_to_windows/hardware/index_es.php --> antigüedad EN LUGAR DE antiguedad
+stick_to_windows/software/index_es.php --> pero, EN LUGAR DE pero
+stick_to_windows/software/index_es.php --> perfectamente EN LUGAR DE perfectamente,
+stick_to_windows/software/index_es.php --> ) echa EN LUGAR DE ) hecha
+stick_to_windows/software/index_es.php --> p. ej. EN LUGAR DE ej
+stick_to_windows/cmjn/index_es.php --> mejorando; pero, realmente, EN LUGAR DE mejorando pero realmente 
+stick_to_windows/cmjn/index_es.php --> (¿y no se ven fenomenal?) si EN LUGAR DE (¿y no se ven fenomenal?). Si
+stick_to_windows/cmjn/index_es.php --> Windows, EN LUGAR DE Windows
+stick_to_windows/hardcore_gamer/index_es.php --> , exclusivamente, con Windows. EN LUGAR DE con Windows exclusivamente
+stick_to_windows/hardcore_gamer/index_es.php --> etc.), EN LUGAR DE etc.) 
+stick_to_windows/hardcore_gamer/index_es.php --> Entonces, EN LUGAR DE Entonces si
+stick_to_windows/faq_es.php --> tí  EN LUGAR DE ti
+stick_to_windows/faq_es.php --> /. EN LUGAR DE slashdot
+stick_to_windows/faq_es.php -->  y, honestamente, ¡lo necesito! EN LUGAR DE -- y honestamente, lo necesito!!
+stick_to_windows/faq_es.php --> ¿debería haber EN LUGAR DE debía haber
+stick_to_windows/faq_es.php --> qué EN LUGAR DE que
+stick_to_windows/faq_es.php --> (¡y GNOME!) EN LUGAR DE (y GNOME!)
+stick_to_windows/faq_es.php --> etc.), EN LUGAR DE etc.)
+stick_to_windows/faq_es.php --> eso: EN LUGAR DE eso, 
+stick_to_windows/faq_es.php --> abierto EN LUGAR DE abiert 
+switch/install/index_es.php --> No, realmente, no EN LUGAR DE No, realmente no
+switch/install/index_es.php --> todos los rincones EN LUGAR DE todos rincones
+switch/install/index_es.php --> estás listo. Todo EN LUGAR DE estás listo, todo
+switch/install/index_es.php --> De todas maneras, EN LUGAR DE De todas maneras 
+switch/try/index_es.php --> Y listo: EN LUGAR DE Y listo,
+switch/try/index_es.php --> sistema. Puedes EN LUGAR DE sistema, puedes
+switch/try/index_es.php --> estos, por ejemplo: EN LUGAR DE estos por ejemplo:
+switch/try/oneday/index_es.php --> alquilártela EN LUGAR DE rentártela
+switch/try/oneday/index_es.php --> mencionó EN LUGAR DE menciono
+switch/try/oneday/index_es.php --> instalados). EN LUGAR DE instalados)
+switch/try/oneday/index_es.php --> Si necesitas algo que no está instalado, sólo tienes que cargar el "Centro de Software" (o la herramienta equivalente para el sabor de Linux que elijas) en el menú de Aplicaciones EN LUGAR DE If you need something that's not installed yet, just load the "Ubuntu Software Center" (or the equivalent tool for the Linux flavor you'll choose) for the Applications menu
+switch/try/oneday/index_es.php --> Si deseas navegar a través de los archivos, el menú Lugares te da un montón de atajos útiles (todos son, evidentemente, personalizables) EN LUGAR DE If you want to browse through your available files, the Places menu gives you plenty of handy shortcuts (all are obviously customizable)
+switch/try/oneday/index_es.php --> ¿Las aplicaciones que más usas? Si eres como la mayoría de la gente, no serás capaz de funcionar adecuadamente sin un navegador web muy bueno. Firefox viene preinstalado EN LUGAR DE Which applications do you use the most? If you're like most people, you won't be able to work properly without a very good web browser. Firefox comes preinstalled
+switch/try/oneday/index_es.php --> Sin embargo, puedes, fácilmente, instalar otros navegadores, como Chrome EN LUGAR DE But you can easily install other browsers, such as Chrome
+switch/try/oneday/index_es.php --> Las versiones de Linux para estos navegadores son más o menos lo mismo que su contraparte Windows, por lo que debe serte bastante familiar EN LUGAR DE The Linux versions for these browsers are pretty much the same as their Windows counterpart, so you should feel pretty familiar there
+switch/try/oneday/index_es.php --> A mucha gente le gusta comprobar su correo electrónico en línea, con las aplicaciones web como Gmail, Yahoo Mail o Hotmail... en ese caso todo lo que necesitas es un navegador web. Pero a muchos les gusta procesar su correo electrónico en una aplicación local. Evolution es el habitual aquí, y debe resultarle familiar EN LUGAR DE Many people like to check their email online, with web applications like Gmail, Yahoo Mail or Hotmail -- in that case all you need is a web browser. But many like to process their email in a local application. Evolution is the default here, and should look familiar
+switch/try/oneday/index_es.php --> Pero muchos otros están disponibles, tales como Thunderbird, que es exactamente lo mismo que su versión de Windows EN LUGAR DE But many others are available, such as Thunderbird, which is exactly the same as its Windows version
+Su suite de oficina es, probablemente, un lugar donde pasar un poco de tiempo. Una buena opción es la línea de Google Apps con las herramientas que funciona muy bien para compartir y hacer los documentos disponibles desde cualquier ordenador, pero si lo prefiere para ejecutar el software en su computadora, la suite OpenOffice.org le proporciona las herramientas que necesita, una vez más, con un aspecto familiar, un procesador de textos EN LUGAR DE Your usual office-like suite of application is probably a place where you spend quite a bit of time. A good choice is the online Google Apps tools which works great for sharing and making your documents available from any computer, but if you prefer to run the software on your computer, the OpenOffice.org suite provides you with tools that should, here again, look familiar, like a word processor
+switch/try/oneday/index_es.php --> o un editor de hoja de cálculo EN LUGAR DE or a spreadsheet editor
+switch/try/oneday/index_es.php --> o un editor de presentaciones EN LUGAR DE or a presentation editor
+switch/try/oneday/index_es.php --> Todos deben parecerle muy similares a los que ya utiliza. El visor de documentos PDF predeterminado también está bien, sencillo pero muy potente EN LUGAR DE All of these should look very similar to what you already use. The default PDF document viewer is also nice, simple but very powerful
+switch/try/oneday/index_es.php --> Si te gusta chatear en línea, pasarás algún tiempo con el cliente de mensajería instantánea Empathy (pero muchos otros están disponibles) EN LUGAR DE If you like to chat online, you'll spend some time with the Empathy instant messenger (but many others are available)
+switch/try/oneday/index_es.php --> Recuerda: éstas son sólo ejemplos de herramientas muy comunes, pero muchos, muchos otros están disponibles para cada tipo de tarea, debes sentirte muy libre para instalar otras herramientas y probarlos, ya que es tan fácil de encontrar, instalar y desinstalar desde un lugar centralizado, sin tener que buscar en la web para encontrar los instaladores para descargar EN LUGAR DE Remember, these are only examples of very common tools, but many, many others are available for each kind of task, you should feel very free to install other tools and try them out since it's so easy to find, install and uninstall them from a central place without having to search the web to find installers to download
+Cuando se trata de reproductores multimedia, el reproductor de películas por defecto funciona a la perfección y lee casi todos los formatos de vídeo que abras en él EN LUGAR DE When it comes to playing media, the default movie player works flawlessly and reads pretty much every video format you throw at it
+switch/try/oneday/index_es.php --> pero VLC Media Player también está disponible y es idéntico a su versión de Windows EN LUGAR DE but the VLC media player is also available and is identical to its Windows version
+switch/try/oneday/index_es.php --> Para la música, el reproductor de música Rhythmbox hace todo lo que necesitas EN LUGAR DE For music, the Rhythmbox music player does everything you need it to
+switch/try/oneday/index_es.php --> pero hay muchos otros grandes reproductores, como Amarok, Banshee, etc EN LUGAR DE but there are many other great players, such as AmaroK, Banshee, etc
+switch/try/oneday/index_es.php --> Una herramienta de gestión de fotos muy eficiente (administrar, clasificar, etiquetar, editar, etc) es F-Spot EN LUGAR DE A very efficient photo management tool (manage, sort, tag, edit, etc.) is F-Spot
+switch/try/oneday/index_es.php --> Ahora bien, si también quieres crear contenido, disfrutarás de aplicaciones como The GIMP para manipulación de imágenes, una pieza muy potente de software (puedes probar su versión de Windows para ver si se adapta a sus necesidades) EN LUGAR DE Now if you also like to create content, you'll enjoy applications such as The GIMP for image manipulation, an extremely powerful piece of software (you can try its Windows version to see if it suits your needs)
+switch/try/oneday/index_es.php --> Para la elaboración de imágenes vectoriales, Inkscape es una potente herramienta muy fácil de usar ( también disponible la versión para Windows) EN LUGAR DE For vector-based drawing, Inkscape is a very easy to use and powerful tool (Windows version available as well)
+switch/try/oneday/index_es.php --> Audacity es perfecto para la grabación de sonido multipista y edición (disponible también para Windows) EN LUGAR DE Audacity is perfect for multi-track sound recording/editing (also available for Windows)
+switch/try/oneday/index_es.php --> y PiTiVi hace un gran trabajo de edición de vídeo EN LUGAR DE and Pitivi does a great job for video editing
+Por supuesto, si posees un escáner de documentos, necesitarás ser capaz de adquirir imágenes EN LUGAR DE Of course if you own a document scanner you'll need to be able to let it acquire some images
+switch/try/oneday/index_es.php --> Vamos a terminar esta gira de capturas de pantalla con algunas aplicaciones sencillas que puedes encontrar útiles, tales como una grabadora de medios (CD, DVD) EN LUGAR DE Let us finish this screenshot tour with a few simple applications that you may find handy, such as a media (CD, DVD) burner
+switch/try/oneday/index_es.php --> Un analizador de uso del disco, para ver qué ficheros ocupan la mayor cantidad de espacio en el disco duro EN LUGAR DE A neat disk usage analyzer, to see which files takes the most amount of space on your hard disk
+switch/try/oneday/index_es.php --> o un poco de juego de las minas cuando su jefe no está mirando EN LUGAR DE or a little game of mines when your boss isn't looking
+Si todo lo que has visto parece que te gusta para pasar tiempo con todas estas herramientas (que, una vez más, son sólo una pequeña fracción del conjunto predeterminado de herramientas, y una parte pequeñita del software disponible), entonces ¡parece que debes continuar con el siguiente paso y probar Linux de verdad! EN LUGAR DE If all this looks like you would enjoy spending time with all these tools (which, once again, are only a small fraction of the default set of tools, and a teeny tiny fraction of the available software), then it sounds like you should process to the next step and try out Linux for real!
+items/alive/index_es.php --> ordenadores cada vez EN LUGAR DE cada vez ordenadores
+items/alive/index_es.php --> ordenador EN LUGAR DE ordenado
+items/alive/index_es.php --> un nuevo EN LUGAR DE unnuevo
+items/alive/index_es.php --> 3 ó 4 EN LUGAR DE 3 o 4
+items/alive/index_es.php --> aparte EN LUGAR DE a parte
+items/alive/index_es.php --> haciendo  perfectamente bien lo que hizo hace 5 año EN LUGAR DE haciendo lo que hizo hace 5 años perfectamente bien
+items/alive/index_es.php --> perfectamente EN LUGAR DE perfectamente bien
+items/all_in_one/index_es.php --> (¿cuántos cientos de euros más es eso?) EN LUGAR DE (cuántos cientos de dólares más es eso?)
+items/all_in_one/index_es.php --> mensajería EN LUGAR DE mensajeria
+items/all_in_one/index_es.php --> enseguida EN LUGAR DE en seguida
+items/backdoors/index_es.php --> por qué EN LUGAR DE porqué
+items/backdoors/index_es.php -->por sí mismos EN LUGAR DE por si mismos
+items/backdoors/index_es.php -->Ahora el punto no es que el software fue pirateado: la piratería de software está
+items/backdoors/index_es.php -->mal EN LUGAR DE Ahora, el punto no es que el software fuera pirateado, piratear software el malo, punto.
+items/backdoors/index_es.php -->tí EN LUGAR DE ti
+items/categories/index_es.php --> tí EN LUGAR DE ti
+items/defragment/index_es.php --> ¡Tú decides! EN LUGAR DE  Tú decides!
+items/dollars/index_es.php --> euros EN LUGAR DE dólares
+items/dollars/index_es.php --> te estés diciendo a tí mismo EN LUGAR DE estás diciendo para ti mismo
+items/dollars/index_es.php --> ser, de promedio, EN LUGAR DE ser en promedio 
+items/dollars/index_es.php --> línea EN LUGAR DE linea
+items/drivers/index_es.php --> usar EN LUGAR DE re usar

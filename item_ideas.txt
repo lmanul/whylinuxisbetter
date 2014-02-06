@@ -1,0 +1,150 @@
+* Change your langauge! Without paying extra $$$.
+
+* Boot time comparison. Not sure if Windows 7 will not be super-fast?
+
+* From 
+http://mediakey.dk/~cc/what-is-the-coolest-thing-you-can-do-using-linux-that-you-cant-do-with-windows-or-on-a-mac/
+
+11. Try out software, decide I don’t like it, uninstall it, and know 
+that it didn’t leave little bits of stuff in a registry that can build 
+up and slow down my machine
+
+* WUBI: http://wubi-installer.org/
+
+* Architects doing without Windows with Wine:
+
+    http://architectafrica.com/bin0/news200411111_wine.html
+
+
+* From mac@nkoni.org :
+
+
+Hi Manu,
+
+       congratulations for your website "whylinuxisbetter.net". Well 
+done, nice sense of humour, simple yet nice graphics, etc, etc... I am a 
+GNU/Linux advocate and member of the FSF, and I will definitively add 
+you website in my talks now.
+
+       One suggestion/reflection for the entry on Environment: I am 
+under the impression that the biggest impact on environment in 
+proprietary software relies
+ more on the production process, rather than on the final product.
+
+       Take the example of Windows. In order for MS to have their 
+business going they had to build facilities around the world, they have 
+dozens of thousands of staff members travelling daily, they produce huge 
+amount of gadgets and advertising material to persuade people their 
+product is good, organise promotional conventions with attendees coming 
+from all around the world, ship material around the planet, etc...
+
+       CO2 emissions/fuel consumption could be a straightforward element 
+to use to make the point in a simple form on your website: M$ uses oil 
+to commute its employees, build their compounds, build the 
+infrastructures needed around it, powering the facilities, flying people 
+around the globe, moving goods around the words, producing gadgets, etc, 
+etc, etc....
+
+       In terms of being simple in the presentation, it looks like you 
+are far more skilled than me, a possibility could be to focus on even 
+only one factor. For example: fuel consumption for commuting employees. 
+Microsoft has 79.000 employees (April 2007). Take a [conservative] 
+average of 1 litre of fuel per day per employee. Take 5 days per week, 
+46 weeks per year, and a production cycle for windows of 3 years... it 
+gives over 90 million litres of fuel used just to move the employees for 
+the time needed to deploy a new version of windows.
+       You could then make a funny comparison. For example, knowing that 
+one CD weight 16 grams, and that to produce a unit of plastic you need 
+about two of oil, you could deduce that you could use that fuel to 
+produce around 2,8 billions ubuntu CD's. Roughly one for every second 
+person on the planet.
+
+* From Denis den Besten
+
+> Most people don’t move to Linux because they are afraid that they will not
+> be able to create/modify their Word & Excel files and send them and receive
+> them from people they do business with.  I think this should be addressed on
+> the site.
+>
+>  
+>
+> My personal opinion is that I think it would be too difficult to share the
+> office files I commonly use with a pc running linux....and I’m too scared
+> that if I change my small office completely over to Linux, I would not be
+> able to do all the things I commonly need to do;
+>
+> Ie
+>
+> 1.       Use Quickbooks to do my accounting
+>
+> 2.       Use spreadsheets.
+>
+> 3.       Be able to send professional looking html email to clients.
+>
+> 4.       Downloads files from the net to help pressing needs in my computer
+> repair shop.
+>
+>  
+>
+> OK, I thought this list would have been bigger.  I guess this is the whold
+> fear.....fear of the unknown.  I am going to google my concerns now to see
+> about the quickbooks thing as a starter.
+>
+> Good luck with the site.
+>
+> Dennis Den Besten
+
+* Search for "installing Linux on another hard drive" on Gmail, addition to the installation page.
+
+* From Christian Hagen
+
+On this page:
+http://www.whylinuxisbetter.net/items/warez/index.php?lang=
+you describe some open-source alternatives for commercial Windows
+applications, but on a few of the options you have listed no open-source
+app existing on Windows. I know you want to make people switch, as do I,
+but I think you should also list open-source Windows-apps equivalent to
+the commercial app.
+
+After some quick googling, I found this:
+
+Adobe Premiere - Avidemux (Linux, Mac OSX, Windows)
+Adobe Reader - Sumatra PDF (Windows only)
+Apple iTunes - aTunes (Java-program), Amarok, Songbird, SqueezeCenter
+(Windows, Mac, Linux, BSD and Solaris)
+Nero - InfraRecorder, cdrtfe
+
+Just couldn't find any open-source replacements for Windows under Palm
+Desktop. I don't even know what Palm Desktop is, so that may be it. What
+I did find was this website: www.palmopensource.com which may or may not
+contain a replacement.
+
+* Item showing the results made with open source software. Stuff done with the GIMP, blender but also Rosegarden, Ardour,
+transcode, etc. Idea by Ralph Müller-Welt.
+
+* Environment and thin clients: see thread "Suggestuiion: Environment"
+
+----------------------------------
+
+Some remarks from the Dutch translator
+
+GAIM: Please delete MSN from the list, replace it by Facebook Chat and IRC
+FAQ: Please delete Cedega and replace it by CrossOver and PlayOnLinux
+FAQ: Next year I'm gonna open source my automatic project generator. (hmm, that has crossed the deadline, I presume?)
+Backdoors: a little while ago (2008) => just remove the little :D
+Environment: Mac OS => Mac OS X
+Environment: Mac OS X is no longer being sold on DVD (download too)
+Environment: Linux also needs to be burnt on a CD before
+installation (in most cases at least -- installation from the network
+or from a hard disk is also quite common) --> Please note that USB can also be used (UNetBootin)
+Hardcore gamer: replace Cedega with CrossOver and PlayOnLinux
+Viruses: <i>much</i> fewer => <i>much fewer</i>
+Install: please mention DVD as a medium to burn to
+Try: please mention DVD, please provide a range of sizes (650MB to 1.5GB)
+Oneday: add to Evolution also Geary
+Oneday: replace Openoffice by LibreOffice
+Oneday: replace Hotmail by Outlook.com
+Oneday: "If you need something that's not installed yet" (later in this sentence, there if for => from). Also, this is no longer valid since Ubuntu now uses Unity Dash.
+Oneday: (instant messaging/online chat) but many others are available => add between brackets like Pidgin (it's very popular)
+Oneday: ShotWell => Shotwell
+
