@@ -14,9 +14,11 @@ particular translation.</li>
 for Russian, "ser" for Serbian). We will call this suffix "lang" for the 
 purpose of this tutorial.</li>
 
-<li><b>Download</b> and extract <a 
-href="http://www.manucornet.net/pub/www.whylinuxisbetter.net.tgz">this 
-archive</a>.</li>
+<li>The code for the website itself is open source. You can find it on
+<a href="http://github.com/lmanul/whylinuxisbetter">GitHub</a> and contribute
+through that channel. What if you don't know how to use git or GitHub? You
+can always send the files to me via email instead, but it will probably take
+much more time overall.</li>
 
 <li>Make sure you use a simple text editor (for example gedit in Linux) and make sure you open and save files in the 
 <b>UTF-8</b> encoding. With this editor, create a file called title_lang.txt at 
@@ -47,16 +49,7 @@ for each of these lines, replace the empty string "" by your
 language suffix with an underscore: "_lang" and translate the 
 title of this item.</li>
 
-<li><b>Remove all the files you did not touch, only include the new
-translations</b>, and possibly the files in which you fixed mistakes.</li>
-
-<li><b>Compress</b> the resulting directory into a TAR or a <b>Gzipped tar</b> (extensions
-.tar, .tgz or .tar.gz). You can also zip it, but that will be less convenient
-for me.</li>
-
-<li>Send this file to me by <b>email</b> (same address as above). In this email, please include the name under which
-you would like to appear, and the web page of yours I can
-link to, if there is one.</li>
+<li>Send me (lmanul) a pull request on GitHub.</li>
 
 <li>See your translation appear on the website with your name on 
 your language's first page and get billions of thanks from me and above 
