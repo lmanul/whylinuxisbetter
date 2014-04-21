@@ -17,8 +17,8 @@ recency, note that software like Wine or Cedega can help you run
 not-so-recent Windows games under Linux without any problem.</p>
 
 <p>Note the upcoming Steambox will be running a fork of Debian and 
-CEO of Valve (Gabe Newell) has pledged to support Linux will all
-of the company's games and upcoming titles.</p>
+CEO of Valve (Gabe Newell) has pledged to support Linux with all
+of the company's games (Team Fortress 2, DOTA 2, Half Life, etc.) and upcoming titles.</p>
 
 </div>
 </body>
