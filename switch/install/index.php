@@ -39,11 +39,8 @@ href="http://www.distrowatch.com">distrowatch.com</a> :</p>
 <? make_distros_table() ?>
 
 <p>When you have chosen a distribution, download the CD(s) image(s). 
-Then, burn it (or them) onto blank CD(s). If you're not sure how to do
-this or you'd rather pay a few bucks and get CDs delivered to you, you
-can try <a href="http://www.easylinuxcds.com">EasyLinuxCDs.com</a>, they have a
-pretty good reputation. Now insert the first one in your CD 
-drive, and reboot. Your PC should use the CD to boot ; if it doesn't, 
+Then, burn it (or them) onto blank CD(s) or onto a USB drive.
+Now insert the CD or USB drive, and reboot. Your PC should use the CD to boot ; if it doesn't, 
 your BIOS configuration is faulty (see the "Try Linux" section).</p>
 
 <p>After that, just follow the instructions on the screen : they're 
