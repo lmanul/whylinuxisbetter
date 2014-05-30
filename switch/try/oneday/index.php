@@ -42,7 +42,7 @@
 
 <p>But many others are available, such as Evolution.</p>
 
-<p>Your usual office-like suite of application is probably a place where you spend quite a bit of time. A good choice is the online Google Apps tools which works great for sharing and making your documents available from any computer, but if you prefer to run the software on your computer, the OpenOffice.org suite provides you with tools that should, here again, look familiar, like a word processor:</p>
+<p>Your usual office-like suite of application is probably a place where you spend quite a bit of time. A good choice is the online Google Apps tools which works great for sharing and making your documents available from any computer, but if you prefer to run the software on your computer, the LibreOffice suite provides you with tools that should, here again, look familiar, like a word processor:</p>
 
 <img style="width:100%" src="Images/oowriter.png" />
 

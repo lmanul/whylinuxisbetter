@@ -44,7 +44,7 @@ Was du hier sehen wirst, ist lediglich die Standardeinstellung.</p>
 
 <p>Aber viele andere sind verfügbar.
 
-<p>Die Büro-Software, die du normalerweise nutzt, ist möglicherweise etwas, mit dem du viel Zeit verbringst. Eine gute Wahl hier sind die online Google Apps Tools, die sehr gut sind, um deine Dokumente zu teilen und für alle Computer verfügbar zu machen, aber wenn du es bevorzugst, solche Software auf deinem Computer laufen zu lassen, bietet dir die OpenOffice.org-Suite Anwendungen, die ebenfalls bekannt aussehen sollten, wie ein Textverarbeitungsprogramm:</p>
+<p>Die Büro-Software, die du normalerweise nutzt, ist möglicherweise etwas, mit dem du viel Zeit verbringst. Eine gute Wahl hier sind die online Google Apps Tools, die sehr gut sind, um deine Dokumente zu teilen und für alle Computer verfügbar zu machen, aber wenn du es bevorzugst, solche Software auf deinem Computer laufen zu lassen, bietet dir die LibreOffice-Suite Anwendungen, die ebenfalls bekannt aussehen sollten, wie ein Textverarbeitungsprogramm:</p>
 
 <img style="width:100%" src="Images/oowriter.png" />
 

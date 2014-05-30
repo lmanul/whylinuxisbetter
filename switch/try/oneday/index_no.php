@@ -40,7 +40,7 @@
 
 <p>Men mange andre applikasjoner er tilgjengelige, som Thunderbird, som er helt lik Windows-versjonen.</p>
 
-<p>Dagligdagse applikasjoner er muligens noe du er vant med. Et godt valg er onlineversjonen Google Apps som virker perfekt for å dele og gjøre dokumenter tilgjengelige fra hvilken som helst datamaskin, men hvis du heller vil kjøre programvare lokalt, er OpenOffice.org et godt valg som er nesten helt likt Microsoft Office:</p>  
+<p>Dagligdagse applikasjoner er muligens noe du er vant med. Et godt valg er onlineversjonen Google Apps som virker perfekt for å dele og gjøre dokumenter tilgjengelige fra hvilken som helst datamaskin, men hvis du heller vil kjøre programvare lokalt, er LibreOffice et godt valg som er nesten helt likt Microsoft Office:</p>  
 
 <img style="width:100%" src="Images/oowriter.png" />
 
