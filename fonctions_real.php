@@ -1,8 +1,12 @@
-<?
+<?php
 $GLOBALS['website_root_path'] = "/srv/www/www.whylinuxisbetter.net";
 
 function item ($nom, $texte, $suffix) {
-	$lang = $_GET['lang'];
+  if (isset($_GET["lang"])) {
+  	$lang = $_GET['lang'];
+  } else {
+    $lang ="";
+  }
 	echo "
 	<a href=\"/items/$nom/index" . $suffix . ".php?lang=$lang\">
 	<div class=\"item\">

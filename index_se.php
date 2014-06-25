@@ -27,36 +27,36 @@
 
 <div id="items">
 <p>
-<? item (viruses, "Glöm virus.", "_se"); ?>
-<? item (stability, "Är ditt system instabilt?", "_se"); ?>
-<? item (security, "Linux skyddar din dator.", "_se"); ?>
-<? item (dollars, "Betala inte 1000kr för ditt operativsystem.", "_se"); ?>
-<? item (crapware, "No more c**pware.", ""); ?>
-<? item (freedom, "Frihet!", "_se"); ?>
-<? item (all_in_one, "När ditt system har installerats, varför skulle du då <i>fortfarande</i> behöva installera saker?", "_se"); ?>
-<? item (drivers, "Glöm drivrutiner.", "_se"); ?>
-<? item (global_update, "Uppdatera all din mjukvara med ett klick.", "_se"); ?>
-<? item (warez, "Varför kopiera mjukvara olagligt när du kan få allt gratis?", "_se"); ?>
-<? item (search_software, "Behöver du nya program? Bry dig inte om att söka på nätet, Linux hittar det åt dig.", "_se"); ?>
-<? item (spatial_desktop, "Hoppa in i nästa generations skrivbord.", "_se"); ?>
-<? item (defragment, "Är ditt digitala liv fragmenterat?", "_se"); ?>
-<? item (window_managers, "Välj hur du vill att ditt skrivbord ska se ut.", "_se"); ?>
-<? #item (network_security, "Låt piraterna äta jord.", "_se"); ?>
-<? item (old_and_sluggish, "Varför blir Windows långsammare för varje dag som går?", "_se"); ?>
-<? item (environment, "Gör någonting för miljön.", "_se"); ?>
-<? item (backdoors, "Inga bakdörrar i mjukvaran.", "_se"); ?>
-<? item (help, "Njut av fri och oändlig support.", "_se"); ?>
-<? item (virtual_desktops, "För många fönster? Använd olika skrivbord.", "_se"); ?>
-<? item (categories, "Inget kaos i startmenyn.", "_se"); ?>
-<? #item (suspend_hibernate, "Spara energi: Låt datorn sova.", "_se"); ?>
-<? item (report_bugs, "Vänta inte år för att en bugg ska fixas, rapportera och spåra ner dem.", "_se"); ?>
-<? item (reboot_all_the_time, "Är du trött på att starta om datorn hela tiden?", "_se"); ?>
-<? item (alive, "Låt din dator få ett andra liv.", "_se"); ?>
-<? item (free_games, "Spela hundratals spel helt gratis.", "_se"); ?>
-<? item (other_countries, "Hjälp andra länder, och ditt eget.", "_se"); ?>
-<? item (gaim_im_services, "Använd MSN, AIM, ICQ, Jabber med ett enda program.", "_se"); ?>
-<? item (amarok, "Få en fantastisk musikspelare.", "_se"); ?>
-<? item (weather, "Håll koll på vädret.", "_se"); ?>
+<?php item ("viruses", "Glöm virus.", "_se"); ?>
+<?php item (stability, "Är ditt system instabilt?", "_se"); ?>
+<?php item (security, "Linux skyddar din dator.", "_se"); ?>
+<?php item (dollars, "Betala inte 1000kr för ditt operativsystem.", "_se"); ?>
+<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item (freedom, "Frihet!", "_se"); ?>
+<?php item (all_in_one, "När ditt system har installerats, varför skulle du då <i>fortfarande</i> behöva installera saker?", "_se"); ?>
+<?php item (drivers, "Glöm drivrutiner.", "_se"); ?>
+<?php item (global_update, "Uppdatera all din mjukvara med ett klick.", "_se"); ?>
+<?php item (warez, "Varför kopiera mjukvara olagligt när du kan få allt gratis?", "_se"); ?>
+<?php item (search_software, "Behöver du nya program? Bry dig inte om att söka på nätet, Linux hittar det åt dig.", "_se"); ?>
+<?php item (spatial_desktop, "Hoppa in i nästa generations skrivbord.", "_se"); ?>
+<?php item (defragment, "Är ditt digitala liv fragmenterat?", "_se"); ?>
+<?php item (window_managers, "Välj hur du vill att ditt skrivbord ska se ut.", "_se"); ?>
+<?php #item (network_security, "Låt piraterna äta jord.", "_se"); ?>
+<?php item (old_and_sluggish, "Varför blir Windows långsammare för varje dag som går?", "_se"); ?>
+<?php item (environment, "Gör någonting för miljön.", "_se"); ?>
+<?php item (backdoors, "Inga bakdörrar i mjukvaran.", "_se"); ?>
+<?php item ("help", "Njut av fri och oändlig support.", "_se"); ?>
+<?php item (virtual_desktops, "För många fönster? Använd olika skrivbord.", "_se"); ?>
+<?php item (categories, "Inget kaos i startmenyn.", "_se"); ?>
+<?php #item (suspend_hibernate, "Spara energi: Låt datorn sova.", "_se"); ?>
+<?php item (report_bugs, "Vänta inte år för att en bugg ska fixas, rapportera och spåra ner dem.", "_se"); ?>
+<?php item (reboot_all_the_time, "Är du trött på att starta om datorn hela tiden?", "_se"); ?>
+<?php item ("alive", "Låt din dator få ett andra liv.", "_se"); ?>
+<?php item ("free_games", "Spela hundratals spel helt gratis.", "_se"); ?>
+<?php item ("other_countries", "Hjälp andra länder, och ditt eget.", "_se"); ?>
+<?php item ("gaim_im_services", "Använd MSN, AIM, ICQ, Jabber med ett enda program.", "_se"); ?>
+<?php item ("amarok", "Få en fantastisk musikspelare.", "_se"); ?>
+<?php item ("weather", "Håll koll på vädret.", "_se"); ?>
 </p>
 </div>
 

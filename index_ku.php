@@ -28,36 +28,36 @@ January 2006, this website has seen 453&nbsp;409 visits
 
 <div id="items">
 <p>
-<? item (viruses, "ڤایرۆس لە بیر بکە.", "_ku"); ?>
-<? item (stability, "ئایە سیستەمەکت ناجێگیرە؟", "_ku"); ?>
-<? item (security, "لینوکس پارێزگاری لە کۆمپیوتەرەکەت دەکات.", "_ku"); ?>
-<? item (dollars, "۳۰۰ دۆلار مەدە بۆ سیسیتەمە کارگێڕیەکەت", "_ku"); ?>
-<? item (crapware, "No more c**pware.", ""); ?>
-<? item (freedom, "ئازادی!", "_ku"); ?>
-<? item (all_in_one, "When the system has installed, why would you <i>still</i> need to install stuff?", ""); ?>
-<? item (drivers, "وەگەڕ خەر لە بیر بکە.", "_ku"); ?>
-<? item (global_update, "سیستمەکەت نوێبکەرەوە بە یەک کرتە", "_ku"); ?>
-<? item (warez, "بۆ هەوڵ ئەدەی نەرمەکاڵای نا یاسایی بەکاربێنیت ،ئەگەر بە خۆڕایی دەستت بکەوێ؟", "_ku"); ?>
-<? item (search_software, "نەرمەکاڵای نوێت دەوێت؟ خۆت عەزێت مەدە بە گەڕان لە ئینتەرنێتدا ، لینوکس بۆت بە دەست دەهێنێت.", "_ku"); ?>
-<? item (spatial_desktop, "بڕۆ بۆ نەوەی نوێی ڕوومێزەکان", "_ku"); ?>
-<? item (defragment, "Does your digital life seem fragmented?", ""); ?>
-<? item (window_managers, "هەڵی بژێرە کە ڕوومێزەکەت چۆن دەربکەوێت؟", "_ku"); ?>
-<? #item (network_security, "Let pirates bite the dust.", ""); ?>
-<? item (old_and_sluggish, "بۆچی ویندۆزەکەت ڕۆژ لە دووای رۆژ خاوتر دەبیتەوە؟", "_ku"); ?>
-<? item (environment, "هەندێ شت بکە بۆ ژینگە.", "_ku"); ?>
-<? item (backdoors, "دەرگای دوواوە نیە لە نەرمەواڵاکانتدا.", "_ku"); ?>
-<? item (help, "کاتێکی خۆش بەسەر بەرە لەگەڵ ئازادی و پشتگیرییەکی بێ سنوور", "_ku"); ?>
-<? item (virtual_desktops, "Too many windows? Use workspaces.", ""); ?>
-<? item (categories, "هیچ قەرەباڵغیەک نیە لە لیستەی سەرەتادا", "_ku"); ?>
-<? #item (suspend_hibernate, "هەنێ ووزە پاشەکەوت بکە:ڕیگە بدە کۆمپیوتەرەکەت بخەوێ  ", "_ku"); ?>
-<? item (report_bugs, "چاوەڕێ مەکە چەند ساڵێک بۆ بوگێک تا کێشەکەت بۆ چارەسەر دەکەن : ڕاپۆرت بنووسە و بیاندە بە زەوەیدا", "_ku"); ?>
-<? item (reboot_all_the_time, "ئایە تۆ هیلاک بووی لەوەی بەردەوام کۆمپیوتەرەکەت دووبارە پیبکەیتەوە؟", "_ku"); ?>
-<? item (alive, "رێگە بدە کۆمپیوتەرە کۆنەکەت دووبارە بژێتەوە .", "_ku"); ?>
-<? item (free_games, "هەزارەها یاری بکە بە خۆڕا", "_ku"); ?>
-<? item (other_countries, "یارمەتی وڵاتانی تر و خۆتان بدە", "_ku"); ?>
-<? item (gaim_im_services, ".هتد بەکار بەرە بە تەنها یەک نەرمەکاڵا MSN , ICQ , YAHOO , JABBER , AIM", "_ku"); ?>
-<? item (amarok, "لێدەری مۆسیقا و گۆرانی و ڤیدیۆی زۆر باش بەکاربەرە", "_ku"); ?>
-<? item (weather, "چاودیری کەش و هەوا بکە", "_ku"); ?>
+<?php item ("viruses", "ڤایرۆس لە بیر بکە.", "_ku"); ?>
+<?php item (stability, "ئایە سیستەمەکت ناجێگیرە؟", "_ku"); ?>
+<?php item (security, "لینوکس پارێزگاری لە کۆمپیوتەرەکەت دەکات.", "_ku"); ?>
+<?php item (dollars, "۳۰۰ دۆلار مەدە بۆ سیسیتەمە کارگێڕیەکەت", "_ku"); ?>
+<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item (freedom, "ئازادی!", "_ku"); ?>
+<?php item (all_in_one, "When the system has installed, why would you <i>still</i> need to install stuff?", ""); ?>
+<?php item (drivers, "وەگەڕ خەر لە بیر بکە.", "_ku"); ?>
+<?php item (global_update, "سیستمەکەت نوێبکەرەوە بە یەک کرتە", "_ku"); ?>
+<?php item (warez, "بۆ هەوڵ ئەدەی نەرمەکاڵای نا یاسایی بەکاربێنیت ،ئەگەر بە خۆڕایی دەستت بکەوێ؟", "_ku"); ?>
+<?php item (search_software, "نەرمەکاڵای نوێت دەوێت؟ خۆت عەزێت مەدە بە گەڕان لە ئینتەرنێتدا ، لینوکس بۆت بە دەست دەهێنێت.", "_ku"); ?>
+<?php item (spatial_desktop, "بڕۆ بۆ نەوەی نوێی ڕوومێزەکان", "_ku"); ?>
+<?php item (defragment, "Does your digital life seem fragmented?", ""); ?>
+<?php item (window_managers, "هەڵی بژێرە کە ڕوومێزەکەت چۆن دەربکەوێت؟", "_ku"); ?>
+<?php #item (network_security, "Let pirates bite the dust.", ""); ?>
+<?php item (old_and_sluggish, "بۆچی ویندۆزەکەت ڕۆژ لە دووای رۆژ خاوتر دەبیتەوە؟", "_ku"); ?>
+<?php item (environment, "هەندێ شت بکە بۆ ژینگە.", "_ku"); ?>
+<?php item (backdoors, "دەرگای دوواوە نیە لە نەرمەواڵاکانتدا.", "_ku"); ?>
+<?php item ("help", "کاتێکی خۆش بەسەر بەرە لەگەڵ ئازادی و پشتگیرییەکی بێ سنوور", "_ku"); ?>
+<?php item (virtual_desktops, "Too many windows? Use workspaces.", ""); ?>
+<?php item (categories, "هیچ قەرەباڵغیەک نیە لە لیستەی سەرەتادا", "_ku"); ?>
+<?php #item (suspend_hibernate, "هەنێ ووزە پاشەکەوت بکە:ڕیگە بدە کۆمپیوتەرەکەت بخەوێ  ", "_ku"); ?>
+<?php item (report_bugs, "چاوەڕێ مەکە چەند ساڵێک بۆ بوگێک تا کێشەکەت بۆ چارەسەر دەکەن : ڕاپۆرت بنووسە و بیاندە بە زەوەیدا", "_ku"); ?>
+<?php item (reboot_all_the_time, "ئایە تۆ هیلاک بووی لەوەی بەردەوام کۆمپیوتەرەکەت دووبارە پیبکەیتەوە؟", "_ku"); ?>
+<?php item ("alive", "رێگە بدە کۆمپیوتەرە کۆنەکەت دووبارە بژێتەوە .", "_ku"); ?>
+<?php item ("free_games", "هەزارەها یاری بکە بە خۆڕا", "_ku"); ?>
+<?php item ("other_countries", "یارمەتی وڵاتانی تر و خۆتان بدە", "_ku"); ?>
+<?php item ("gaim_im_services", ".هتد بەکار بەرە بە تەنها یەک نەرمەکاڵا MSN , ICQ , YAHOO , JABBER , AIM", "_ku"); ?>
+<?php item ("amarok", "لێدەری مۆسیقا و گۆرانی و ڤیدیۆی زۆر باش بەکاربەرە", "_ku"); ?>
+<?php item ("weather", "چاودیری کەش و هەوا بکە", "_ku"); ?>
 </p>
 </div>
 

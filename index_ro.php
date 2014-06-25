@@ -21,35 +21,35 @@ January 2006, this website has seen 453&nbsp;409 visits
 
 <div id="items">
 <p>
-<? item (viruses, "Uitaţi de viruşi.", "_ro"); ?>
-<? item (stability, "Sistemul dumneavoastră e instabil?", "_ro"); ?>
-<? item (security, "Linux vă protejează PC-ul.", "_ro"); ?>
-<? item (dollars, "Nu plătiţi $100 pentru un sistem de operare.", "_ro"); ?>
-<? item (crapware, "No more c**pware.", ""); ?>
-<? item (freedom, "Libertate!", "_ro"); ?>
-<? item (all_in_one, "Când sistemul a fost instalat, de ce <i>aţi mai avea nevoie</i> să instalaţi şi altceva?", "_ro"); ?>
-<? item (drivers, "Uitaţi de drivere.", "_ro"); ?>
-<? item (global_update, "Actualizaţi toate software-urile cu un singur click.", "_ro"); ?>
-<? item (warez, "De ce să copiaţi software ilegal când îl puteţi obţine gratis?", "_ro"); ?>
-<? item (search_software, "Aveţi nevoie de programe noi? Nu vă obosiţi căutând, Linux vi le oferă.", "_ro"); ?>
-<? item (spatial_desktop, "Intraţi în noua generaţie de desktop-uri.", "_ro"); ?>
-<? item (defragment, "Viaţa dumneavoastră digitală pare fragmentată?", "_ro"); ?>
-<? item (window_managers, "Alegeţi cum vreţi să arate desktop-ul dumneavoastră.", "_ro"); ?>
-<? #item (network_security, "Lăsaţi crackerii să eşueze.", "_ro"); ?>
-<? item (old_and_sluggish, "De ce Windows e mai lent în fiecare zi?", "_ro"); ?>
-<? item (environment, "Faceţi ceva pentru mediu.", "_ro"); ?>
-<? item (backdoors, "Fără vulnerabilităţi în software.", "_ro"); ?>
-<? item (help, "Bucuraţi-vă de ajutor gratuit şi nelimitat.", "_ro"); ?>
-<? item (virtual_desktops, "Prea multe ferestre? Folosiţi spaţiile de lucru.", "_ro"); ?>
-<? #item (suspend_hibernate, "Salvaţi energie: lăsaţi-vă PC-ul să doarmă sau să hiberneze.", "_ro"); ?>
-<? item (report_bugs, "Nu aşteptaţi ani ca un defect să fie rezolvat.", "_ro"); ?>
-<? item (reboot_all_the_time, "V-aţi săturat să vă restartaţi PC-ul tot timpul?", "_ro"); ?>
-<? item (alive, "Oferiţi PC-ului dumneavoastră şansa să aibă a doua viaţă.", "_ro"); ?>
-<? item (free_games, "Mii de jocuri gratuite.", "_ro"); ?>
-<? item (other_countries, "Ajutaţi alte ţări şi pe a voastră.", "_ro"); ?>
-<? item (gaim_im_services, "Folosiţi MSN, AIM, ICQ, Jabber cu un singur program.", "_ro"); ?>
-<? item (amarok, "Obţineţi un music player uimitor.", "_ro"); ?>
-<? item (weather, "Supravegheaţi vremea.", "_ro"); ?>
+<?php item ("viruses", "Uitaţi de viruşi.", "_ro"); ?>
+<?php item (stability, "Sistemul dumneavoastră e instabil?", "_ro"); ?>
+<?php item (security, "Linux vă protejează PC-ul.", "_ro"); ?>
+<?php item (dollars, "Nu plătiţi $100 pentru un sistem de operare.", "_ro"); ?>
+<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item (freedom, "Libertate!", "_ro"); ?>
+<?php item (all_in_one, "Când sistemul a fost instalat, de ce <i>aţi mai avea nevoie</i> să instalaţi şi altceva?", "_ro"); ?>
+<?php item (drivers, "Uitaţi de drivere.", "_ro"); ?>
+<?php item (global_update, "Actualizaţi toate software-urile cu un singur click.", "_ro"); ?>
+<?php item (warez, "De ce să copiaţi software ilegal când îl puteţi obţine gratis?", "_ro"); ?>
+<?php item (search_software, "Aveţi nevoie de programe noi? Nu vă obosiţi căutând, Linux vi le oferă.", "_ro"); ?>
+<?php item (spatial_desktop, "Intraţi în noua generaţie de desktop-uri.", "_ro"); ?>
+<?php item (defragment, "Viaţa dumneavoastră digitală pare fragmentată?", "_ro"); ?>
+<?php item (window_managers, "Alegeţi cum vreţi să arate desktop-ul dumneavoastră.", "_ro"); ?>
+<?php #item (network_security, "Lăsaţi crackerii să eşueze.", "_ro"); ?>
+<?php item (old_and_sluggish, "De ce Windows e mai lent în fiecare zi?", "_ro"); ?>
+<?php item (environment, "Faceţi ceva pentru mediu.", "_ro"); ?>
+<?php item (backdoors, "Fără vulnerabilităţi în software.", "_ro"); ?>
+<?php item ("help", "Bucuraţi-vă de ajutor gratuit şi nelimitat.", "_ro"); ?>
+<?php item (virtual_desktops, "Prea multe ferestre? Folosiţi spaţiile de lucru.", "_ro"); ?>
+<?php #item (suspend_hibernate, "Salvaţi energie: lăsaţi-vă PC-ul să doarmă sau să hiberneze.", "_ro"); ?>
+<?php item (report_bugs, "Nu aşteptaţi ani ca un defect să fie rezolvat.", "_ro"); ?>
+<?php item (reboot_all_the_time, "V-aţi săturat să vă restartaţi PC-ul tot timpul?", "_ro"); ?>
+<?php item ("alive", "Oferiţi PC-ului dumneavoastră şansa să aibă a doua viaţă.", "_ro"); ?>
+<?php item ("free_games", "Mii de jocuri gratuite.", "_ro"); ?>
+<?php item ("other_countries", "Ajutaţi alte ţări şi pe a voastră.", "_ro"); ?>
+<?php item ("gaim_im_services", "Folosiţi MSN, AIM, ICQ, Jabber cu un singur program.", "_ro"); ?>
+<?php item ("amarok", "Obţineţi un music player uimitor.", "_ro"); ?>
+<?php item ("weather", "Supravegheaţi vremea.", "_ro"); ?>
 </p>
 </div>
 

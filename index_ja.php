@@ -15,35 +15,35 @@ href="faq_ja.php">こっちのFAQ</a>を見た方がいいかもね。</p>
 
 <div id="items">
 <p>
-<? item (viruses, "さよなら、ウィルス！", "_ja"); ?>
-<? item (stability, "システムが不安定だって？", "_ja"); ?>
-<? item (security, "Linuxがパソコンを守ります！", "_ja"); ?>
-<? item (dollars, "OSに3万円？", "_ja"); ?>
-<? item (crapware, "No more c**pware.", ""); ?>
-<? item (freedom, "自由バンザイ！", "_ja"); ?>
-<? item (all_in_one, "「OS入れただけじゃ何もできない」なんて、おかしいじゃない？", "_ja"); ?>
-<? item (global_update, "クリックひとつで、ぜーんぶアップデート！", "_ja"); ?>
-<? item (drivers, "Forget about drivers.", ""); ?>
-<? item (warez, "フリーで使えるソフトがこんなにあるのに、何で違法コピーすんのよ！", "_ja"); ?>
-<? item (search_software, "ソフトをお探し？　Web検索なんてやめとこうよ。Linuxにお任せ！", "_ja"); ?>
-<? item (spatial_desktop, "新世代デスクトップへ飛び出そう！", "_ja"); ?>
-<? item (defragment, "デフラグって何さ！", "_ja"); ?>
-<? item (window_managers, "デスクトップぐらい自分色に染めたいわな", "_ja"); ?>
-<? #item (network_security, "クラッカーなんてこてんぱ", ""); ?>
-<? item (old_and_sluggish, "Windows使ってるとだんだん遅くならない？", "_ja"); ?>
-<? item (environment, "Do something for the environment.", ""); ?>
-<? item (backdoors, "No back doors in your software.", ""); ?>
-<? item (help, "無料で無期限のサポートがあるって？", "_ja"); ?>
-<? item (virtual_desktops, "ウィンドウ散らかりっぱなし。ワークスペース使えばいいのに", "_ja"); ?>
-<? #item (suspend_hibernate, "省エネでエコ。使わないパソコンは眠らせよっ", ""); ?>
-<? item (report_bugs, "いつまでも直らないバグ。バグ退治に協力すれば解決は早いのにぃ", "_ja"); ?>
-<? item (reboot_all_the_time, "再起動、再起動、再起動。もううんざり！", "_ja"); ?>
-<? item (alive, "昔のパソコンに第二の人生を！", "_ja"); ?>
-<? item (free_games, "無料ゲームが無数にあるんだよ", "_ja"); ?>
-<? item (other_countries, "途上国のため、世界のために", "_ja"); ?>
-<? item (gaim_im_services, "MSNにAIMにICQにGoogle Talkに。ああ、どれを使ったらいいのさ？", "_ja"); ?>
-<? item (amarok, "音楽聞くならLinux！", "_ja"); ?>
-<? item (weather, "天気予報もLinux！", "_ja"); ?>
+<?php item ("viruses", "さよなら、ウィルス！", "_ja"); ?>
+<?php item (stability, "システムが不安定だって？", "_ja"); ?>
+<?php item (security, "Linuxがパソコンを守ります！", "_ja"); ?>
+<?php item (dollars, "OSに3万円？", "_ja"); ?>
+<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item (freedom, "自由バンザイ！", "_ja"); ?>
+<?php item (all_in_one, "「OS入れただけじゃ何もできない」なんて、おかしいじゃない？", "_ja"); ?>
+<?php item (global_update, "クリックひとつで、ぜーんぶアップデート！", "_ja"); ?>
+<?php item (drivers, "Forget about drivers.", ""); ?>
+<?php item (warez, "フリーで使えるソフトがこんなにあるのに、何で違法コピーすんのよ！", "_ja"); ?>
+<?php item (search_software, "ソフトをお探し？　Web検索なんてやめとこうよ。Linuxにお任せ！", "_ja"); ?>
+<?php item (spatial_desktop, "新世代デスクトップへ飛び出そう！", "_ja"); ?>
+<?php item (defragment, "デフラグって何さ！", "_ja"); ?>
+<?php item (window_managers, "デスクトップぐらい自分色に染めたいわな", "_ja"); ?>
+<?php #item (network_security, "クラッカーなんてこてんぱ", ""); ?>
+<?php item (old_and_sluggish, "Windows使ってるとだんだん遅くならない？", "_ja"); ?>
+<?php item (environment, "Do something for the environment.", ""); ?>
+<?php item (backdoors, "No back doors in your software.", ""); ?>
+<?php item ("help", "無料で無期限のサポートがあるって？", "_ja"); ?>
+<?php item (virtual_desktops, "ウィンドウ散らかりっぱなし。ワークスペース使えばいいのに", "_ja"); ?>
+<?php #item (suspend_hibernate, "省エネでエコ。使わないパソコンは眠らせよっ", ""); ?>
+<?php item (report_bugs, "いつまでも直らないバグ。バグ退治に協力すれば解決は早いのにぃ", "_ja"); ?>
+<?php item (reboot_all_the_time, "再起動、再起動、再起動。もううんざり！", "_ja"); ?>
+<?php item ("alive", "昔のパソコンに第二の人生を！", "_ja"); ?>
+<?php item ("free_games", "無料ゲームが無数にあるんだよ", "_ja"); ?>
+<?php item ("other_countries", "途上国のため、世界のために", "_ja"); ?>
+<?php item ("gaim_im_services", "MSNにAIMにICQにGoogle Talkに。ああ、どれを使ったらいいのさ？", "_ja"); ?>
+<?php item ("amarok", "音楽聞くならLinux！", "_ja"); ?>
+<?php item ("weather", "天気予報もLinux！", "_ja"); ?>
 </p>
 </div>
 

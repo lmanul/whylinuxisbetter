@@ -16,35 +16,35 @@ Siin on <b>m&otilde;ned p&otilde;hjused, miks Linux rokib</b>!</p>
 
 <div id="items">
 <p>
-<? item (viruses, "J&auml;ta viirustega h&uuml;vasti.", "_et"); ?>
-<? item (stability, "Kas su arvuti on ebastabiilne?", "_et"); ?>
-<? item (security, "Linux kaitseb sinu arvutit", "_et"); ?>
-<? item (dollars, "&Auml;ra maksa operatsioonis&uuml;steemi eest 4 000.", "_et"); ?>
-<? item (crapware, "No more c**pware.", ""); ?>
-<? item (freedom, "Freedom!", ""); ?>
-<? item (all_in_one, "When the system has installed, why would you <i>still</i> need to install stuff?", ""); ?>
-<? item (drivers, "Forget about drivers.", ""); ?>
-<? item (global_update, "Update all your software with a single click.", ""); ?>
-<? item (warez, "Why copy software illegally if you can get it for free?", ""); ?>
-<? item (search_software, "Need new software? Don't bother searching the web, Linux gets it for you.", ""); ?>
-<? item (spatial_desktop, "Jump into the next generation of desktops.", ""); ?>
-<? item (defragment, "Does your digital life seem fragmented?", ""); ?>
-<? item (window_managers, "Choose what your desktop looks like.", ""); ?>
-<? #item (network_security, "Let pirates bite the dust.", ""); ?>
-<? item (old_and_sluggish, "Why does your Windows get slower day after day?", ""); ?>
-<? item (environment, "Do something for the environment.", ""); ?>
-<? item (backdoors, "No back doors in your software.", ""); ?>
-<? item (help, "Enjoy free and unlimited support.", ""); ?>
-<? item (virtual_desktops, "Too many windows? Use workspaces.", ""); ?>
-<? #item (suspend_hibernate, "Save some energy: let your computer sleep or hibernate.", ""); ?>
-<? item (report_bugs, "Don't wait years for bugs to be solved, report and track them down.", ""); ?>
-<? item (reboot_all_the_time, "Are you tired of restarting your computer all the time?", ""); ?>
-<? item (alive, "Let your old computer have a second life.", ""); ?>
-<? item (free_games, "Play hundreds of games for free.", ""); ?>
-<? item (other_countries, "Help other countries, and your own.", ""); ?>
-<? item (gaim_im_services, "Use MSN, AIM, ICQ, Jabber, with a single program.", ""); ?>
-<? item (amarok, "Get a great music player.", ""); ?>
-<? item (weather, "Keep an eye on the weather.", ""); ?>
+<?php item ("viruses", "J&auml;ta viirustega h&uuml;vasti.", "_et"); ?>
+<?php item (stability, "Kas su arvuti on ebastabiilne?", "_et"); ?>
+<?php item (security, "Linux kaitseb sinu arvutit", "_et"); ?>
+<?php item (dollars, "&Auml;ra maksa operatsioonis&uuml;steemi eest 4 000.", "_et"); ?>
+<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item (freedom, "Freedom!", ""); ?>
+<?php item (all_in_one, "When the system has installed, why would you <i>still</i> need to install stuff?", ""); ?>
+<?php item (drivers, "Forget about drivers.", ""); ?>
+<?php item (global_update, "Update all your software with a single click.", ""); ?>
+<?php item (warez, "Why copy software illegally if you can get it for free?", ""); ?>
+<?php item (search_software, "Need new software? Don't bother searching the web, Linux gets it for you.", ""); ?>
+<?php item (spatial_desktop, "Jump into the next generation of desktops.", ""); ?>
+<?php item (defragment, "Does your digital life seem fragmented?", ""); ?>
+<?php item (window_managers, "Choose what your desktop looks like.", ""); ?>
+<?php #item (network_security, "Let pirates bite the dust.", ""); ?>
+<?php item (old_and_sluggish, "Why does your Windows get slower day after day?", ""); ?>
+<?php item (environment, "Do something for the environment.", ""); ?>
+<?php item (backdoors, "No back doors in your software.", ""); ?>
+<?php item ("help", "Enjoy free and unlimited support.", ""); ?>
+<?php item (virtual_desktops, "Too many windows? Use workspaces.", ""); ?>
+<?php #item (suspend_hibernate, "Save some energy: let your computer sleep or hibernate.", ""); ?>
+<?php item (report_bugs, "Don't wait years for bugs to be solved, report and track them down.", ""); ?>
+<?php item (reboot_all_the_time, "Are you tired of restarting your computer all the time?", ""); ?>
+<?php item ("alive", "Let your old computer have a second life.", ""); ?>
+<?php item ("free_games", "Play hundreds of games for free.", ""); ?>
+<?php item ("other_countries", "Help other countries, and your own.", ""); ?>
+<?php item ("gaim_im_services", "Use MSN, AIM, ICQ, Jabber, with a single program.", ""); ?>
+<?php item ("amarok", "Get a great music player.", ""); ?>
+<?php item ("weather", "Keep an eye on the weather.", ""); ?>
 </p>
 </div>
 

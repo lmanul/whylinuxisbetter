@@ -1,4 +1,4 @@
-<?
+<?php
 require ("fonctions_real.php");
 $lang = $_GET['lang'];
 if ($lang == "") {

@@ -21,35 +21,35 @@ queira ler <a href="faq.php">este FAQ</a>.</p>
 
 <div id="items">
 <p>
-<? item (viruses, "Esqueça os vírus.", "_br"); ?>
-<? item (stability, "Seu sistema é instável ?", "_br"); ?>
-<? item (security, "O Linux protege seu computador.", "_br"); ?>
-<? item (dollars, "﻿Não pague $100 pelo seu sistema operacional.", "_br"); ?>
-<? item (crapware, "Esqueça os \"crapwares\"", "_br"); ?>
-<? item (freedom, "Liberdade!", "_br"); ?>
-<? item (all_in_one, "Quando o sistema é instalado, por que você <i>ainda</i> precisa instalar coisas?", "_br"); ?>
-<? item (drivers, "Esqueça os drivers.", "_br"); ?>
-<? item (global_update, "Atualize todos seus programas com um simples clique.", "_br"); ?>
-<? item (warez, "Por que copiar programas ilegalmente se você pode consegui-los de graça ?", "_br"); ?>
-<? item (search_software, "Precisa de programas novos? Não se aborreça procurando na internet, o Linux pega para você.", "_br"); ?>
-<? item (spatial_desktop, "Salte para a próxima geração de desktops.", "_br"); ?>
-<? item (defragment, "Sua vida digital parece fragmentada ?", "_br"); ?>
-<? item (window_managers, "Escolha o visual de sua área de trabalho.", "_br"); ?>
-<? #item (network_security, "Let pirates bite the dust.", ""); ?>
-<? item (old_and_sluggish, "Por que seu Windows fica mais lento dia após dia ?", "_br"); ?>
-<? item (environment, "Faça algo pelo meio ambiente.", "_br"); ?>
-<? item (backdoors, "Sem \"invasões\" no seu software.", "_br"); ?>
-<? item (help, "Desfrute de suporte grátis e ilimitado.", "_br"); ?>
-<? item (virtual_desktops, "Muitas janelas? Use desktops virtuais.", "_br"); ?>
-<? #item (suspend_hibernate, "Economize energia: deixe seu computador dormir ou hibernar.", "_br"); ?>
-<? item (report_bugs, "Relatando Bugs.", "_br"); ?>
-<? item (reboot_all_the_time, "Cansou de reiniciar seu computador toda hora?", "_br"); ?>
-<? item (alive, "Deixe seu computador velho ter uma segunda vida.", "_br"); ?>
-<? item (free_games, "Jogue centenas de jogos de graça", "_br"); ?>
-<? item (other_countries, "Ajude outros países, inclusive o seu.", "_br"); ?>
-<? item (gaim_im_services, "Use MSN, AIM, ICQ, Jabber, com um único programa.", "_br"); ?>
-<? item (amarok, "Tenha um ótimo tocador de músicas.", "_br"); ?>
-<? item (weather, "Fique de olho no tempo.", "_br"); ?>
+<?php item ("viruses", "Esqueça os vírus.", "_br"); ?>
+<?php item (stability, "Seu sistema é instável ?", "_br"); ?>
+<?php item (security, "O Linux protege seu computador.", "_br"); ?>
+<?php item (dollars, "﻿Não pague $100 pelo seu sistema operacional.", "_br"); ?>
+<?php item ("crapware", "Esqueça os \"crapwares\"", "_br"); ?>
+<?php item (freedom, "Liberdade!", "_br"); ?>
+<?php item (all_in_one, "Quando o sistema é instalado, por que você <i>ainda</i> precisa instalar coisas?", "_br"); ?>
+<?php item (drivers, "Esqueça os drivers.", "_br"); ?>
+<?php item (global_update, "Atualize todos seus programas com um simples clique.", "_br"); ?>
+<?php item (warez, "Por que copiar programas ilegalmente se você pode consegui-los de graça ?", "_br"); ?>
+<?php item (search_software, "Precisa de programas novos? Não se aborreça procurando na internet, o Linux pega para você.", "_br"); ?>
+<?php item (spatial_desktop, "Salte para a próxima geração de desktops.", "_br"); ?>
+<?php item (defragment, "Sua vida digital parece fragmentada ?", "_br"); ?>
+<?php item (window_managers, "Escolha o visual de sua área de trabalho.", "_br"); ?>
+<?php #item (network_security, "Let pirates bite the dust.", ""); ?>
+<?php item (old_and_sluggish, "Por que seu Windows fica mais lento dia após dia ?", "_br"); ?>
+<?php item (environment, "Faça algo pelo meio ambiente.", "_br"); ?>
+<?php item (backdoors, "Sem \"invasões\" no seu software.", "_br"); ?>
+<?php item ("help", "Desfrute de suporte grátis e ilimitado.", "_br"); ?>
+<?php item (virtual_desktops, "Muitas janelas? Use desktops virtuais.", "_br"); ?>
+<?php #item (suspend_hibernate, "Economize energia: deixe seu computador dormir ou hibernar.", "_br"); ?>
+<?php item (report_bugs, "Relatando Bugs.", "_br"); ?>
+<?php item (reboot_all_the_time, "Cansou de reiniciar seu computador toda hora?", "_br"); ?>
+<?php item ("alive", "Deixe seu computador velho ter uma segunda vida.", "_br"); ?>
+<?php item ("free_games", "Jogue centenas de jogos de graça", "_br"); ?>
+<?php item ("other_countries", "Ajude outros países, inclusive o seu.", "_br"); ?>
+<?php item ("gaim_im_services", "Use MSN, AIM, ICQ, Jabber, com um único programa.", "_br"); ?>
+<?php item ("amarok", "Tenha um ótimo tocador de músicas.", "_br"); ?>
+<?php item ("weather", "Fique de olho no tempo.", "_br"); ?>
 </p>
 </div>
 
