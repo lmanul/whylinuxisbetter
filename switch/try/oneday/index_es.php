@@ -40,7 +40,7 @@
 
 <p>Pero muchos otros están disponibles, tales como Thunderbird, que es exactamente lo mismo que su versión de Windows.</p>
 
-<p>Su suite de oficina es, probablemente, un lugar donde pasar un poco de tiempo. Una buena opción es la línea de Google Apps con las herramientas que funciona muy bien para compartir y hacer los documentos disponibles desde cualquier ordenador, pero si lo prefiere para ejecutar el software en su computadora, la suite OpenOffice.org le proporciona las herramientas que necesita, una vez más, con un aspecto familiar, un procesador de textos:</p>
+<p>Su suite de oficina es, probablemente, un lugar donde pasar un poco de tiempo. Una buena opción es la línea de Google Apps con las herramientas que funciona muy bien para compartir y hacer los documentos disponibles desde cualquier ordenador, pero si lo prefiere para ejecutar el software en su computadora, la suite LibreOffice le proporciona las herramientas que necesita, una vez más, con un aspecto familiar, un procesador de textos:</p>
 
 <img style="width:100%" src="Images/oowriter.png" />
 

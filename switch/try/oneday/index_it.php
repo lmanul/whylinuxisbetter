@@ -42,7 +42,7 @@
 
 <p>Ma molti altri sono disponibili, come Evolution, scaricabile dall'Ubuntu Software Center.</p>
 
-<p>La tua suite di applicazioni simil-office abituale è probabilmente uno strumento con cui trascorri molto tempo. Una buona scelta sono gli strumenti online di Google Apps che funzionano alla grande per la condivisione e rendere i tuoi documenti disponibili da qualsiasi computer, ma se preferisci avviare il software dal tuo computer, la suite OpenOffice.org (o recentemente LibreOffice) si presenta con strumenti che, di nuovo, dovrebbero sembrarti familiari, come un gestore di testi:</p>
+<p>La tua suite di applicazioni simil-office abituale è probabilmente uno strumento con cui trascorri molto tempo. Una buona scelta sono gli strumenti online di Google Apps che funzionano alla grande per la condivisione e rendere i tuoi documenti disponibili da qualsiasi computer, ma se preferisci avviare il software dal tuo computer, la suite LibreOffice (o recentemente LibreOffice) si presenta con strumenti che, di nuovo, dovrebbero sembrarti familiari, come un gestore di testi:</p>
 
 <img style="width:100%" src="Images/oowriter.png" />
 

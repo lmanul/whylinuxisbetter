@@ -20,8 +20,7 @@ January 2006, this website has seen 453&nbsp;409 visits
 <div id="news-img"><img src="Images/news.png" /></div>
 
 <p>The code for this site itself is now open source. Check it out on
-<a href="http://github.com/lmanul/whylinuxisbetter">GitHub</a>
-and come contribute!</p>
+<a href="http://github.com/lmanul/whylinuxisbetter">GitHub</a> and come contribute!</p>
 
 <p>Have a look at <a href="switch/try/oneday/index.php">One day with Linux (a screenshot tour)</a>!</p>
 

@@ -40,7 +40,7 @@
 
 <p>De sok más is elérhető, mint pl. a Thunderbird, ami pontosan ugyanolyan, mint a Windowsos verziója.</p>
 
-<p>Valószínűleg sok időt töltesz valamilyen irodai programcsomag használatával. Jó választás lehet az online Google Apps, amivel kiválóan megoszthatod és elérheted dokumentumaidat más számítógépekről. De ha inkább a saját gépeden szeretnél futtatni ilyesmit, az OpenOffice.org csomagja szintén ismerős eszközöket biztosít számodra, mint például egy szövegszerkesztőt:</p>
+<p>Valószínűleg sok időt töltesz valamilyen irodai programcsomag használatával. Jó választás lehet az online Google Apps, amivel kiválóan megoszthatod és elérheted dokumentumaidat más számítógépekről. De ha inkább a saját gépeden szeretnél futtatni ilyesmit, az LibreOffice csomagja szintén ismerős eszközöket biztosít számodra, mint például egy szövegszerkesztőt:</p>
 
 <img style="width:100%" src="Images/oowriter.png" />
 
