@@ -16,35 +16,35 @@ Zato evo <b>par razloga zašto linux razbija!</b>! </p>
 
 <div id="items">
 <p>
-<? item (viruses, "Zaboravite na viruse.", "_ser"); ?>
-<? item (stability, "Jel Vaš sistem nestabilan?", "_ser"); ?>
-<? item (security, "Linux štiti Vaš kompjuter.", "_ser"); ?>
-<? item (dollars, "Nemojte plaćati 100$ za operativni sistem.", "_ser"); ?>
-<? item (crapware, "Bez sr**vera", "_ser"); ?>
-<? item (freedom, "Sloboda!", "_ser"); ?>
-<? item (all_in_one, "Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?", "_ser"); ?>
-<? item (drivers, "Zaboravite na drajvere.", "_ser"); ?>
-<? item (global_update, "Osvežite Vaš sistem jednim klikom.", "_ser"); ?>
-<? item (warez, "Zašto kopirati sistem ilegalno, kada možete da ga dobijete besplatno?", "_ser"); ?>
-<? item (search_software, "Treba Vam nov softver? Ne smarajte se da pretražujete web, linux će Vam ga nabaviti.", "_ser"); ?>
-<? item (spatial_desktop, "Uskočite u novu generaciju radne površine.", "_ser"); ?>
-<? item (defragment, "Da li Vaš digitalni život izgleda fragmentiran?", "_ser"); ?>
-<? item (window_managers, "Izaberite kako će Vaš desktop izgledati.", "_ser"); ?>
-<? #item (network_security, "Let pirates bite the dust.", ""); ?>
-<? item (old_and_sluggish, "Zašto Vaš Windows postaje sporiji svakim danom?", "_ser"); ?>
-<? item (environment, "Učinite nešto za okolinu.", "_ser"); ?>
-<? item (backdoors, "Bez tajnih vrata u vašem softveru.", "_ser"); ?>
-<? item (help, "Uživajte u besplatnoj i neograničenoj podršci.", "_ser"); ?>
-<? item (virtual_desktops, "Previše prozora? Koristite radne površine.", "_ser"); ?>
-<? #item (suspend_hibernate, "Čuvajte energiju: neka Vaš spava ili hibernira.", "_ser"); ?>
-<? item (report_bugs, "Ne čekajte da se bagovi rešavaju godinama, nađite ih i prijavite.", "_ser"); ?>
-<? item (reboot_all_the_time, "Zar niste umorni od stalnog restartovanja sistema?", "_ser"); ?>
-<? item (alive, "Neka Vaš stari kompjuter dobije drugi život.", "_ser"); ?>
-<? item (free_games, "Igrajte stotine igara besplatno.", "_ser"); ?>
-<? item (other_countries, "Pomozite drugim zemljama, a i svojoj.", "_ser"); ?>
-<? item (gaim_im_services, "Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom.", "_ser"); ?>
-<? item (amarok, "Nabavite odličan muzički plejer.", "_ser"); ?>
-<? item (weather, "Pratite vreme.", "_ser"); ?>
+<?php item ("viruses", "Zaboravite na viruse.", "_ser"); ?>
+<?php item ("stability", "Jel Vaš sistem nestabilan?", "_ser"); ?>
+<?php item ("security", "Linux štiti Vaš kompjuter.", "_ser"); ?>
+<?php item ("dollars", "Nemojte plaćati 100$ za operativni sistem.", "_ser"); ?>
+<?php item ("crapware", "Bez sr**vera", "_ser"); ?>
+<?php item ("freedom", "Sloboda!", "_ser"); ?>
+<?php item ("all_in_one", "Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?", "_ser"); ?>
+<?php item ("drivers", "Zaboravite na drajvere.", "_ser"); ?>
+<?php item ("global_update", "Osvežite Vaš sistem jednim klikom.", "_ser"); ?>
+<?php item ("warez", "Zašto kopirati sistem ilegalno, kada možete da ga dobijete besplatno?", "_ser"); ?>
+<?php item ("search_software", "Treba Vam nov softver? Ne smarajte se da pretražujete web, linux će Vam ga nabaviti.", "_ser"); ?>
+<?php item ("spatial_desktop", "Uskočite u novu generaciju radne površine.", "_ser"); ?>
+<?php item ("defragment", "Da li Vaš digitalni život izgleda fragmentiran?", "_ser"); ?>
+<?php item ("window_managers", "Izaberite kako će Vaš desktop izgledati.", "_ser"); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
+<?php item ("old_and_sluggish", "Zašto Vaš Windows postaje sporiji svakim danom?", "_ser"); ?>
+<?php item ("environment", "Učinite nešto za okolinu.", "_ser"); ?>
+<?php item ("backdoors", "Bez tajnih vrata u vašem softveru.", "_ser"); ?>
+<?php item ("help", "Uživajte u besplatnoj i neograničenoj podršci.", "_ser"); ?>
+<?php item ("virtual_desktops", "Previše prozora? Koristite radne površine.", "_ser"); ?>
+<?php #item ("suspend_hibernate", "Čuvajte energiju: neka Vaš spava ili hibernira.", "_ser"); ?>
+<?php item ("report_bugs", "Ne čekajte da se bagovi rešavaju godinama, nađite ih i prijavite.", "_ser"); ?>
+<?php item ("reboot_all_the_time", "Zar niste umorni od stalnog restartovanja sistema?", "_ser"); ?>
+<?php item ("alive", "Neka Vaš stari kompjuter dobije drugi život.", "_ser"); ?>
+<?php item ("free_games", "Igrajte stotine igara besplatno.", "_ser"); ?>
+<?php item ("other_countries", "Pomozite drugim zemljama, a i svojoj.", "_ser"); ?>
+<?php item ("gaim_im_services", "Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom.", "_ser"); ?>
+<?php item ("amarok", "Nabavite odličan muzički plejer.", "_ser"); ?>
+<?php item ("weather", "Pratite vreme.", "_ser"); ?>
 </p>
 </div>
 

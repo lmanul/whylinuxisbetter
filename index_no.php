@@ -14,36 +14,36 @@
 
 <div id="items">
 <p>
-<? item (viruses, "Glem alt om virus.", "_no"); ?>
-<? item (stability, "Er systemet ditt ustabilt?", "_no"); ?>
-<? item (security, "Linux beskytter datamaskinen din.", "_no"); ?>
-<? item (dollars, "Ikke betal hundrevis av kroner for ditt operativsystem!", "_no"); ?>
-<? item (crapware, "No more c**pware.", ""); ?>
-<? item (freedom, "Frihet!", "_no"); ?>
-<? item (all_in_one, "Når systemet er installert, hvorfor må du <i>stadig</i> installere nye ting?", "_no"); ?>
-<? item (drivers, "Glem alt om drivere.", "_no"); ?>
-<? item (global_update, "Oppdater all din programvare med ett enkelt museklikk.", "_no"); ?>
-<? item (warez, "Hvorfor kopiere programvare på ulovlig vis når du kan få det helt gratis?", "_no"); ?>
-<? item (search_software, "Trenger du ny programvare? Ikke søk på Internett, Linux skaffer det for deg.", "_no"); ?>
-<? item (spatial_desktop, "Gjør deg klar for neste generasjons skrivebord.", "_no"); ?>
-<? item (defragment, "Er ditt digitale liv fragmentert?", "_no"); ?>
-<? item (window_managers, "Velg hvordan ditt skrivebord skal se ut.", "_no"); ?>
-<? #item (network_security, "Ikke gi hackere sjansen.", "_no"); ?>
-<? item (old_and_sluggish, "Hvorfor blir din Windows tregere for hver dag som går?", "_no"); ?>
-<? item (environment, "Hjelp miljøet.", "_no"); ?>
-<? item (backdoors, "Programvaren din er fri for bakdører.", "_no"); ?>
-<? item (help, "Dra nyte av gratis og ubegrenset support.", "_no"); ?>
-<? item (virtual_desktops, "For mange vinduer? Bruk flere skrivebord.", "_no"); ?>
-<? item (categories, "Ikke noe rot i Start-menyen din.", "_no"); ?>
-<? #item (suspend_hibernate, "Spar på strømmen: La datamaskinen din «sove» eller «gå i dvale».", "_no"); ?>
-<? item (report_bugs, "Ikke vent årevis på at feil skal bli fikset – rapporter dem.", "_no"); ?>
-<? item (reboot_all_the_time, "Er du lei av å måtte restarte datamaskinen din hele tiden?", "_no"); ?>
-<? item (alive, "Gi nytt liv til din gamle datamaskin!", "_no"); ?>
-<? item (free_games, "Spill hundrevis av spill helt gratis.", "_no"); ?>
-<? item (other_countries, "Hjelp andre land og ditt eget!", "_no"); ?>
-<? item (gaim_im_services, "Bruk MSN, AIM, ICQ, Jabber, alt med ett enkelt program.", "_no"); ?>
-<? item (amarok, "Få en god musikkavspiller.", "_no"); ?>
-<? item (weather, "Hold øye med været.", "_no"); ?>
+<?php item ("viruses", "Glem alt om virus.", "_no"); ?>
+<?php item ("stability", "Er systemet ditt ustabilt?", "_no"); ?>
+<?php item ("security", "Linux beskytter datamaskinen din.", "_no"); ?>
+<?php item ("dollars", "Ikke betal hundrevis av kroner for ditt operativsystem!", "_no"); ?>
+<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item ("freedom", "Frihet!", "_no"); ?>
+<?php item ("all_in_one", "Når systemet er installert, hvorfor må du <i>stadig</i> installere nye ting?", "_no"); ?>
+<?php item ("drivers", "Glem alt om drivere.", "_no"); ?>
+<?php item ("global_update", "Oppdater all din programvare med ett enkelt museklikk.", "_no"); ?>
+<?php item ("warez", "Hvorfor kopiere programvare på ulovlig vis når du kan få det helt gratis?", "_no"); ?>
+<?php item ("search_software", "Trenger du ny programvare? Ikke søk på Internett, Linux skaffer det for deg.", "_no"); ?>
+<?php item ("spatial_desktop", "Gjør deg klar for neste generasjons skrivebord.", "_no"); ?>
+<?php item ("defragment", "Er ditt digitale liv fragmentert?", "_no"); ?>
+<?php item ("window_managers", "Velg hvordan ditt skrivebord skal se ut.", "_no"); ?>
+<?php #item ("network_security", "Ikke gi hackere sjansen.", "_no"); ?>
+<?php item ("old_and_sluggish", "Hvorfor blir din Windows tregere for hver dag som går?", "_no"); ?>
+<?php item ("environment", "Hjelp miljøet.", "_no"); ?>
+<?php item ("backdoors", "Programvaren din er fri for bakdører.", "_no"); ?>
+<?php item ("help", "Dra nyte av gratis og ubegrenset support.", "_no"); ?>
+<?php item ("virtual_desktops", "For mange vinduer? Bruk flere skrivebord.", "_no"); ?>
+<?php item ("categories", "Ikke noe rot i Start-menyen din.", "_no"); ?>
+<?php #item ("suspend_hibernate", "Spar på strømmen: La datamaskinen din «sove» eller «gå i dvale».", "_no"); ?>
+<?php item ("report_bugs", "Ikke vent årevis på at feil skal bli fikset – rapporter dem.", "_no"); ?>
+<?php item ("reboot_all_the_time", "Er du lei av å måtte restarte datamaskinen din hele tiden?", "_no"); ?>
+<?php item ("alive", "Gi nytt liv til din gamle datamaskin!", "_no"); ?>
+<?php item ("free_games", "Spill hundrevis av spill helt gratis.", "_no"); ?>
+<?php item ("other_countries", "Hjelp andre land og ditt eget!", "_no"); ?>
+<?php item ("gaim_im_services", "Bruk MSN, AIM, ICQ, Jabber, alt med ett enkelt program.", "_no"); ?>
+<?php item ("amarok", "Få en god musikkavspiller.", "_no"); ?>
+<?php item ("weather", "Hold øye med været.", "_no"); ?>
 </p>
 </div>
 

@@ -17,35 +17,35 @@
 
 <div id="items">
 <p>
-<? item (viruses, "أنسى الفيروسات.", ""); ?>
-<? item (stability, "هل نظامك غير مستقر؟", ""); ?>
-<? item (security, "اللينكس يحمي جهازك.", ""); ?>
-<? item (dollars, "لا تدفع 100$ دولار لتشتري نظام تشغيل.", "_ar"); ?>
-<? item (crapware, "No more c**pware.", ""); ?>
-<? item (freedom, "الحرية!", "_ar"); ?>
-<? item (all_in_one, "إذا قمت بتخزين نظام التشغيل، لماذا <i>أيضاً</i> تحتاج إلى تخزين الكثير من البرامج الأخرى؟", "_ar"); ?>
-<? item (drivers, "Forget about drivers.", ""); ?>
-<? item (global_update, "قم بتحديث جميع برامجك و نظام التشغيل بضغطة زر واحدة.", ""); ?>
-<? item (warez, "لماذا تقوم بنسخ البرامج بشكل غير نظامي إذا كان يمكنك الحصول عليها مجاناً؟", ""); ?>
-<? item (search_software, "هل تريد برنامج جديد؟ لا تتعب نفسك في البحث في الإنترنت. اللينكس يوفرها لك.	", ""); ?>
-<? item (spatial_desktop, "أنتقل إلى الجيل الجديد من سطح المكتب.", ""); ?>
-<? item (defragment, "هل صورك مبعثرة؟", ""); ?>
-<? item (window_managers, "أختر شكل سطح مكتبك.", ""); ?>
-<? #item (network_security, "Let pirates bite the dust.", ""); ?>
-<? item (old_and_sluggish, "لماذا الويندوز يزداد بطأ يوم بعد يوم؟", ""); ?>
-<? item (environment, "Do something for the environment.", ""); ?>
-<? item (backdoors, "No back doors in your software.", ""); ?>
-<? item (help, "أستمتع بالدعم المجاني و الغير محدود.", ""); ?>
-<? item (virtual_desktops, "هل تستخدم عدد كبير من البرامج في نفس الوقت؟ أستخدم ساحات العمل.", ""); ?>
-<? #item (suspend_hibernate, "أحفظ بعض الطاقة: نوم جهازك أو أحفظ جميع البرامج المستخدمة و أغلقه.", ""); ?>
-<? item (report_bugs, "لا تنتظر الوقت الطويل لحل المشاكل، بلغ عن المشكلة و تابع حلها.", ""); ?>
-<? item (reboot_all_the_time, "هل تعبت من إعادة تشغيل جهازك طوال الوقت؟", ""); ?>
-<? item (alive, "بإمكانك إستخدام جهازك القديم مدة أطول.", "_ar"); ?>
-<? item (free_games, "ألعب الكثير من الألعاب مجاناً.", "_ar"); ?>
-<? item (other_countries, "ساعد الغير، وساعد بلدك", ""); ?>
-<? item (gaim_im_services, "أستخدم الهوت ميل ، الياهو ، القوقل ، أي سي كيو و غيرها من خدمات المحادثة من خلال برنامج واحد فقط.", ""); ?>
-<? item (amarok, "أستخدم مشغل صوتيات ممتاز.", "_ar"); ?>
-<? item (weather, "تابع حالة الجو دائماً.", ""); ?>
+<?php item ("viruses", "أنسى الفيروسات.", ""); ?>
+<?php item ("stability", "هل نظامك غير مستقر؟", ""); ?>
+<?php item ("security", "اللينكس يحمي جهازك.", ""); ?>
+<?php item ("dollars", "لا تدفع 100$ دولار لتشتري نظام تشغيل.", "_ar"); ?>
+<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item ("freedom", "الحرية!", "_ar"); ?>
+<?php item ("all_in_one", "إذا قمت بتخزين نظام التشغيل، لماذا <i>أيضاً</i> تحتاج إلى تخزين الكثير من البرامج الأخرى؟", "_ar"); ?>
+<?php item ("drivers", "Forget about drivers.", ""); ?>
+<?php item ("global_update", "قم بتحديث جميع برامجك و نظام التشغيل بضغطة زر واحدة.", ""); ?>
+<?php item ("warez", "لماذا تقوم بنسخ البرامج بشكل غير نظامي إذا كان يمكنك الحصول عليها مجاناً؟", ""); ?>
+<?php item ("search_software", "هل تريد برنامج جديد؟ لا تتعب نفسك في البحث في الإنترنت. اللينكس يوفرها لك.	", ""); ?>
+<?php item ("spatial_desktop", "أنتقل إلى الجيل الجديد من سطح المكتب.", ""); ?>
+<?php item ("defragment", "هل صورك مبعثرة؟", ""); ?>
+<?php item ("window_managers", "أختر شكل سطح مكتبك.", ""); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
+<?php item ("old_and_sluggish", "لماذا الويندوز يزداد بطأ يوم بعد يوم؟", ""); ?>
+<?php item ("environment", "Do something for the environment.", ""); ?>
+<?php item ("backdoors", "No back doors in your software.", ""); ?>
+<?php item ("help", "أستمتع بالدعم المجاني و الغير محدود.", ""); ?>
+<?php item ("virtual_desktops", "هل تستخدم عدد كبير من البرامج في نفس الوقت؟ أستخدم ساحات العمل.", ""); ?>
+<?php #item ("suspend_hibernate", "أحفظ بعض الطاقة: نوم جهازك أو أحفظ جميع البرامج المستخدمة و أغلقه.", ""); ?>
+<?php item ("report_bugs", "لا تنتظر الوقت الطويل لحل المشاكل، بلغ عن المشكلة و تابع حلها.", ""); ?>
+<?php item ("reboot_all_the_time", "هل تعبت من إعادة تشغيل جهازك طوال الوقت؟", ""); ?>
+<?php item ("alive", "بإمكانك إستخدام جهازك القديم مدة أطول.", "_ar"); ?>
+<?php item ("free_games", "ألعب الكثير من الألعاب مجاناً.", "_ar"); ?>
+<?php item ("other_countries", "ساعد الغير، وساعد بلدك", ""); ?>
+<?php item ("gaim_im_services", "أستخدم الهوت ميل ، الياهو ، القوقل ، أي سي كيو و غيرها من خدمات المحادثة من خلال برنامج واحد فقط.", ""); ?>
+<?php item ("amarok", "أستخدم مشغل صوتيات ممتاز.", "_ar"); ?>
+<?php item ("weather", "تابع حالة الجو دائماً.", ""); ?>
 </p>
 </div>
 

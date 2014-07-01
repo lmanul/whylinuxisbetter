@@ -17,35 +17,35 @@ mutta koska he n&auml;kev&auml;t uudet, <b>mahtavat ominaisuudet joita ei Window
 
 <div id="items">
 <p>
-<? item (viruses, "Unohda virukset.", ""); ?>
-<? item (stability, "Onko j&auml;rjestelm&auml;si ep&auml;vakaa?", ""); ?>
-<? item (security, "Linux suojelee&nbsp; Tietokonettasi.", ""); ?>
-<? item (dollars, "&Auml;l&auml; maksa&nbsp;100e K&auml;ytt&ouml;j&auml;rjestelm&auml;st&auml;si.", ""); ?>
-<? item (crapware, "No more c**pware.", ""); ?>
-<? item (freedom, "Vapaus!", ""); ?>
-<? item (all_in_one, "Kun k&auml;ytt&ouml;j&auml;rjestelm&auml; on asentunut, miksi pit&auml;isi viel&auml; asentaa ohjelmia?", ""); ?>
-<? item (drivers, "Forget about drivers.", ""); ?>
-<? item (global_update, "P&auml;ivit&auml; kaikki parilla napsautuksella.", ""); ?>
-<? item (warez, "Miksi kopioida ohjelmia laittomasti kun voit saada ne ilmaiseksi?", ""); ?>
-<? item (search_software, "Tarvitsetko uusia ohjelmia? &Auml;l&auml; turhaan hae netist&auml;, Linuxilla saat ne hetkess&auml;.", ""); ?>
-<? item (spatial_desktop, "Jump into the next generation of desktops.", ""); ?>
-<? item (defragment, "Vaikuttaako digitaalinen el&auml;m&auml;si ehyelt&auml;?", ""); ?>
-<? item (window_managers, "Valitse itse milt&auml; ty&ouml;p&ouml;yt&auml;si n&auml;ytt&auml;&auml;.", ""); ?>
-<? #item (network_security, "Let pirates bite the dust.", ""); ?>
-<? item (environment, "Do something for the environment.", ""); ?>
-<? item (backdoors, "No back doors in your software.", ""); ?>
-<? item (old_and_sluggish, "Miksi Windowsisi on hitaampi p&auml;iv&auml; p&auml;iv&auml;lt&auml;?", ""); ?>
-<? item (help, "Nauti ilmaisesta ja ikuisesta tuesta.", ""); ?>
-<? item (virtual_desktops, "Liikaa ikkunoita? K&auml;yt&auml; montaa ty&ouml;p&ouml;yt&auml;&auml; samaa aikaa.", ""); ?>
-<? #item (suspend_hibernate, "S&auml;&auml;st&auml; s&auml;hk&ouml;&auml;: anna tietokoneesi nukkua tai hibernatea.", ""); ?>
-<? item (report_bugs, "&Auml;l&auml; odota vuosia bugien selvitt&auml;miseen, reportoi niist&auml; ja tuhoa ne!", ""); ?>
-<? item (reboot_all_the_time, "Oletko v&auml;synyt k&auml;ynnist&auml;m&auml;&auml;n tietokonettasi koko ajan uudelleen?", ""); ?>
-<? item (alive, "Anna vanhalle tietokoneelle uusi el&auml;m&auml;.", ""); ?>
-<? item (free_games, "Pelaa satoja pelej&auml; ilmaiseksi.", ""); ?>
-<? item (other_countries, "Auta muita maita, mukaan lukien omaasi.", ""); ?>
-<? item (gaim_im_services, "K&auml;yt&auml; MSN, AIM, ICQ, Jabber,verkkoja&nbsp;yhdell&auml; ohjelmalla.", ""); ?>
-<? item (amarok, "Hommaa hieno musiikki soitin.", ""); ?>
-<? item (weather, "Pid&auml; s&auml;&auml;t&auml; silm&auml;ll&auml;.", ""); ?>
+<?php item ("viruses", "Unohda virukset.", ""); ?>
+<?php item ("stability", "Onko j&auml;rjestelm&auml;si ep&auml;vakaa?", ""); ?>
+<?php item ("security", "Linux suojelee&nbsp; Tietokonettasi.", ""); ?>
+<?php item ("dollars", "&Auml;l&auml; maksa&nbsp;100e K&auml;ytt&ouml;j&auml;rjestelm&auml;st&auml;si.", ""); ?>
+<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item ("freedom", "Vapaus!", ""); ?>
+<?php item ("all_in_one", "Kun k&auml;ytt&ouml;j&auml;rjestelm&auml; on asentunut, miksi pit&auml;isi viel&auml; asentaa ohjelmia?", ""); ?>
+<?php item ("drivers", "Forget about drivers.", ""); ?>
+<?php item ("global_update", "P&auml;ivit&auml; kaikki parilla napsautuksella.", ""); ?>
+<?php item ("warez", "Miksi kopioida ohjelmia laittomasti kun voit saada ne ilmaiseksi?", ""); ?>
+<?php item ("search_software", "Tarvitsetko uusia ohjelmia? &Auml;l&auml; turhaan hae netist&auml;, Linuxilla saat ne hetkess&auml;.", ""); ?>
+<?php item ("spatial_desktop", "Jump into the next generation of desktops.", ""); ?>
+<?php item ("defragment", "Vaikuttaako digitaalinen el&auml;m&auml;si ehyelt&auml;?", ""); ?>
+<?php item ("window_managers", "Valitse itse milt&auml; ty&ouml;p&ouml;yt&auml;si n&auml;ytt&auml;&auml;.", ""); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
+<?php item ("environment", "Do something for the environment.", ""); ?>
+<?php item ("backdoors", "No back doors in your software.", ""); ?>
+<?php item ("old_and_sluggish", "Miksi Windowsisi on hitaampi p&auml;iv&auml; p&auml;iv&auml;lt&auml;?", ""); ?>
+<?php item ("help", "Nauti ilmaisesta ja ikuisesta tuesta.", ""); ?>
+<?php item ("virtual_desktops", "Liikaa ikkunoita? K&auml;yt&auml; montaa ty&ouml;p&ouml;yt&auml;&auml; samaa aikaa.", ""); ?>
+<?php #item ("suspend_hibernate", "S&auml;&auml;st&auml; s&auml;hk&ouml;&auml;: anna tietokoneesi nukkua tai hibernatea.", ""); ?>
+<?php item ("report_bugs", "&Auml;l&auml; odota vuosia bugien selvitt&auml;miseen, reportoi niist&auml; ja tuhoa ne!", ""); ?>
+<?php item ("reboot_all_the_time", "Oletko v&auml;synyt k&auml;ynnist&auml;m&auml;&auml;n tietokonettasi koko ajan uudelleen?", ""); ?>
+<?php item ("alive", "Anna vanhalle tietokoneelle uusi el&auml;m&auml;.", ""); ?>
+<?php item ("free_games", "Pelaa satoja pelej&auml; ilmaiseksi.", ""); ?>
+<?php item ("other_countries", "Auta muita maita, mukaan lukien omaasi.", ""); ?>
+<?php item ("gaim_im_services", "K&auml;yt&auml; MSN, AIM, ICQ, Jabber,verkkoja&nbsp;yhdell&auml; ohjelmalla.", ""); ?>
+<?php item ("amarok", "Hommaa hieno musiikki soitin.", ""); ?>
+<?php item ("weather", "Pid&auml; s&auml;&auml;t&auml; silm&auml;ll&auml;.", ""); ?>
 </p>
 </div>
 

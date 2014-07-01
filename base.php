@@ -1,6 +1,10 @@
-<?
+<?php
 require ("fonctions_real.php");
-$lang = $_GET['lang'];
+if (isset($_GET['lang'])) {
+  $lang = $_GET['lang'];
+} else {
+  $lang = "";
+}
 if ($lang == "") {
 	$title = "Why Linux is Better";
 	$index_page = "index.php";

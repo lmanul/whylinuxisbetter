@@ -15,36 +15,36 @@ und <a href="http://www.pasipage.weebly.com/">Pascal Wittler</a>.
 
 <div id="items">
 <p>
-<? item (viruses, "Vergiss Viren.", "_de"); ?>
-<? item (stability, "Ist dein System instabil?", "_de"); ?>
-<? item (security, "Linux besch&uuml;tzt deinen Computer.", "_de"); ?>
-<? item (dollars, "Bezahl keine 100&#x202f;&euro; f&uuml;r dein Betriebssystem.", "_de"); ?>
-<? item (crapware, "Nie wieder Crapware.", "_de"); ?>
-<? item (freedom, "Freiheit!", "_de"); ?>
-<? item (all_in_one, "Wenn dein System installiert ist, warum solltest du dann <i>immer noch</i> Software nachinstallieren müssen?", "_de"); ?>
-<? item (drivers, "Denk nicht über Treiber nach.", "_de"); ?>
-<? item (global_update, "Update deine komplette Software mit einem einzigen Klick.", "_de"); ?>
-<? item (warez, "Warum Software illegal kopieren, wenn du sie umsonst haben kannst?", "_de"); ?>
-<? item (search_software, "Du brauchst neue Software? Durchsuche nicht das Netz, Linux besorgt sie f&uuml;r dich.", "_de"); ?>
-<? item (spatial_desktop, "Erlebe die nächste Desktop-Generation.", "_de"); ?>
-<? item (defragment, "Scheint dein digitales Leben fragmentiert zu sein?", "_de"); ?>
-<? item (window_managers, "Such dir aus, wie dein Desktop aussehen soll.", "_de"); ?>
-<? #item (network_security, "Let pirates bite the dust.", ""); ?>
-<? item (old_and_sluggish, "Warum wird dein Windows Tag f&uuml;r Tag langsamer?", "_de"); ?>
-<? item (environment, "Tue etwas für die Umwelt.", "_de"); ?>
-<? item (backdoors, "Keine Hintertüren in deiner Software.", "_de"); ?>
-<? item (help, "Komm in den Genuss freien und unbegrenzten Supports.", "_de"); ?>
-<? item (virtual_desktops, "Zu viele Fenster? Benutz Arbeitsfl&auml;chen.", "_de"); ?>
-<? item (categories, "Kein Riesendurcheinander in deinem Startmenü.", "_de"); ?>
-<? #item (suspend_hibernate, "Spar Energie: Lass Deinen Computer d&ouml;sen oder Winterschlaf halten.", ""); ?>
-<? item (report_bugs, "Warte nicht jahrelang darauf, dass Bugs behoben werden; melde sie und bring sie zur Strecke", "_de"); ?>
-<? item (reboot_all_the_time, "Bist du es leid, deinen Computer st&auml;ndig neustarten zu m&uuml;ssen?", "_de"); ?>
-<? item (alive, "Lass deinen alten Computer einen zweiten Frühling erleben.", "_de"); ?>
-<? item (free_games, "Spiel hunderte von freien Spielen.", "_de"); ?>
-<? item (other_countries, "Hilf anderen L&auml;ndern inklusive deinem eigenen.", "_de"); ?>
-<? item (gaim_im_services, "Benutz MSN, AIM, ICQ und Jabber mit einem einzigen Programm.", "_de"); ?>
-<? item (amarok, "Hol dir einen gro&szlig;artigen Musikplayer.", "_de"); ?>
-<? item (weather, "Behalt das Wetter im Auge.", "_de"); ?>
+<?php item ("viruses", "Vergiss Viren.", "_de"); ?>
+<?php item ("stability", "Ist dein System instabil?", "_de"); ?>
+<?php item ("security", "Linux besch&uuml;tzt deinen Computer.", "_de"); ?>
+<?php item ("dollars", "Bezahl keine 100&#x202f;&euro; f&uuml;r dein Betriebssystem.", "_de"); ?>
+<?php item ("crapware", "Nie wieder Crapware.", "_de"); ?>
+<?php item ("freedom", "Freiheit!", "_de"); ?>
+<?php item ("all_in_one", "Wenn dein System installiert ist, warum solltest du dann <i>immer noch</i> Software nachinstallieren müssen?", "_de"); ?>
+<?php item ("drivers", "Denk nicht über Treiber nach.", "_de"); ?>
+<?php item ("global_update", "Update deine komplette Software mit einem einzigen Klick.", "_de"); ?>
+<?php item ("warez", "Warum Software illegal kopieren, wenn du sie umsonst haben kannst?", "_de"); ?>
+<?php item ("search_software", "Du brauchst neue Software? Durchsuche nicht das Netz, Linux besorgt sie f&uuml;r dich.", "_de"); ?>
+<?php item ("spatial_desktop", "Erlebe die nächste Desktop-Generation.", "_de"); ?>
+<?php item ("defragment", "Scheint dein digitales Leben fragmentiert zu sein?", "_de"); ?>
+<?php item ("window_managers", "Such dir aus, wie dein Desktop aussehen soll.", "_de"); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
+<?php item ("old_and_sluggish", "Warum wird dein Windows Tag f&uuml;r Tag langsamer?", "_de"); ?>
+<?php item ("environment", "Tue etwas für die Umwelt.", "_de"); ?>
+<?php item ("backdoors", "Keine Hintertüren in deiner Software.", "_de"); ?>
+<?php item ("help", "Komm in den Genuss freien und unbegrenzten Supports.", "_de"); ?>
+<?php item ("virtual_desktops", "Zu viele Fenster? Benutz Arbeitsfl&auml;chen.", "_de"); ?>
+<?php item ("categories", "Kein Riesendurcheinander in deinem Startmenü.", "_de"); ?>
+<?php #item ("suspend_hibernate", "Spar Energie: Lass Deinen Computer d&ouml;sen oder Winterschlaf halten.", ""); ?>
+<?php item ("report_bugs", "Warte nicht jahrelang darauf, dass Bugs behoben werden; melde sie und bring sie zur Strecke", "_de"); ?>
+<?php item ("reboot_all_the_time", "Bist du es leid, deinen Computer st&auml;ndig neustarten zu m&uuml;ssen?", "_de"); ?>
+<?php item ("alive", "Lass deinen alten Computer einen zweiten Frühling erleben.", "_de"); ?>
+<?php item ("free_games", "Spiel hunderte von freien Spielen.", "_de"); ?>
+<?php item ("other_countries", "Hilf anderen L&auml;ndern inklusive deinem eigenen.", "_de"); ?>
+<?php item ("gaim_im_services", "Benutz MSN, AIM, ICQ und Jabber mit einem einzigen Programm.", "_de"); ?>
+<?php item ("amarok", "Hol dir einen gro&szlig;artigen Musikplayer.", "_de"); ?>
+<?php item ("weather", "Behalt das Wetter im Auge.", "_de"); ?>
 </p>
 </div>
 

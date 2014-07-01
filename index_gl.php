@@ -16,35 +16,35 @@
 
 <div id="items">
 <p>
-<? item (viruses, "Esquecete dos virus.", "_gl"); ?>
-<? item (stability, "O teu sistema é inestable?", "_gl"); ?>
-<? item (security, "Linux protexe a túa computadora.", "_gl"); ?>
-<? item (dollars, "Non pagas 100 € polo teu sistema operativo.", "_gl"); ?>
-<? item (crapware, "No more c**pware.", ""); ?>
-<? item (freedom, "Liberdade!", "_gl"); ?>
-<? item (all_in_one, "Cando o sistema xa foi instalado, por qué <i>aínda</i> necesitas instalar máis cousas?", "_gl"); ?>
-<? item (drivers, "Forget about drivers.", ""); ?>
-<? item (global_update, "Actualiza todo o teu software cun só; clic.", "_gl"); ?>
-<? item (warez, "Por qué copiar software ilegalmente se o podes ter gratis?", "_gl"); ?>
-<? item (search_software, "Necesitas novos programas? Non busques en internet, Linux os trae para ti.", "_gl"); ?>
-<? item (spatial_desktop, "Salta á próxima xeración de contornas gráficas de escritorio.", "_gl"); ?>
-<? item (defragment, "A túa vida dixital parece fragmentada?", "_gl"); ?>
-<? item (window_managers, "Escolle como queres que se vexa o teu escritorio.", "_gl"); ?>
-<? #item (network_security, "Fai morder o po aos piratas", "_gl"); ?>
-<? item (old_and_sluggish, "Por qué Windows vai má¡s devagar cada día?", "_gl"); ?>
-<? item (environment, "Do something for the environment.", ""); ?>
-<? item (backdoors, "No back doors in your software.", ""); ?>
-<? item (help, "Goza de soporte técnico gratis e ilimitado.", "_gl"); ?>
-<? item (virtual_desktops, "Moitas ventás abertas? Usa as Áreas de traballo.", "_gl"); ?>
-<? item (suspend_hibernate, "Aforra algo de enerxía: deixa que a túa computadora durma ou hiberne.", "_gl"); ?>
-<? item (report_bugs, "Non esperes anos a que os erros sexan resoltos, encontraos e informa deles.", "_gl"); ?>
-<? item (reboot_all_the_time, "Estás cansado de reiniciar a túa computadora todo o tempo?", "_gl"); ?>
-<? item (alive, "Dálle á túa vella computadora unha segunda vida.", "_gl"); ?>
-<? item (free_games, "Accede a centos de xogos gratis.", "_gl"); ?>
-<? item (other_countries, "Axuda a outros países, incluído o teu.", "_gl"); ?>
-<? item (gaim_im_services, "Usa MSN, AIM, ICQ, Jabber, cun só programa.", "_gl"); ?>
-<? item (amarok, "Ten un gran reprodutor de música.", "_gl"); ?>
-<? item (weather, "Non perdas de vista o clima.", "_gl"); ?>
+<?php item ("viruses", "Esquecete dos virus.", "_gl"); ?>
+<?php item ("stability", "O teu sistema é inestable?", "_gl"); ?>
+<?php item ("security", "Linux protexe a túa computadora.", "_gl"); ?>
+<?php item ("dollars", "Non pagas 100 € polo teu sistema operativo.", "_gl"); ?>
+<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item ("freedom", "Liberdade!", "_gl"); ?>
+<?php item ("all_in_one", "Cando o sistema xa foi instalado, por qué <i>aínda</i> necesitas instalar máis cousas?", "_gl"); ?>
+<?php item ("drivers", "Forget about drivers.", ""); ?>
+<?php item ("global_update", "Actualiza todo o teu software cun só; clic.", "_gl"); ?>
+<?php item ("warez", "Por qué copiar software ilegalmente se o podes ter gratis?", "_gl"); ?>
+<?php item ("search_software", "Necesitas novos programas? Non busques en internet, Linux os trae para ti.", "_gl"); ?>
+<?php item ("spatial_desktop", "Salta á próxima xeración de contornas gráficas de escritorio.", "_gl"); ?>
+<?php item ("defragment", "A túa vida dixital parece fragmentada?", "_gl"); ?>
+<?php item ("window_managers", "Escolle como queres que se vexa o teu escritorio.", "_gl"); ?>
+<?php #item ("network_security", "Fai morder o po aos piratas", "_gl"); ?>
+<?php item ("old_and_sluggish", "Por qué Windows vai má¡s devagar cada día?", "_gl"); ?>
+<?php item ("environment", "Do something for the environment.", ""); ?>
+<?php item ("backdoors", "No back doors in your software.", ""); ?>
+<?php item ("help", "Goza de soporte técnico gratis e ilimitado.", "_gl"); ?>
+<?php item ("virtual_desktops", "Moitas ventás abertas? Usa as Áreas de traballo.", "_gl"); ?>
+<?php item ("suspend_hibernate", "Aforra algo de enerxía: deixa que a túa computadora durma ou hiberne.", "_gl"); ?>
+<?php item ("report_bugs", "Non esperes anos a que os erros sexan resoltos, encontraos e informa deles.", "_gl"); ?>
+<?php item ("reboot_all_the_time", "Estás cansado de reiniciar a túa computadora todo o tempo?", "_gl"); ?>
+<?php item ("alive", "Dálle á túa vella computadora unha segunda vida.", "_gl"); ?>
+<?php item ("free_games", "Accede a centos de xogos gratis.", "_gl"); ?>
+<?php item ("other_countries", "Axuda a outros países, incluído o teu.", "_gl"); ?>
+<?php item ("gaim_im_services", "Usa MSN, AIM, ICQ, Jabber, cun só programa.", "_gl"); ?>
+<?php item ("amarok", "Ten un gran reprodutor de música.", "_gl"); ?>
+<?php item ("weather", "Non perdas de vista o clima.", "_gl"); ?>
 </p>
 </div>
 

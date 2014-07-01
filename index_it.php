@@ -36,36 +36,36 @@ Quindi, ecco qui <b>alcuni motivi della grandiosità di Linux</b>! </p>-->
 
 <div id="items">
 <p>
-<? item (viruses, "Dimenticati dei virus", "_it"); ?>
-<? item (stability, "Il tuo sistema è instabile?", "_it"); ?>
-<? item (security, "Linux protegge il tuo computer", "_it"); ?>
-<? item (dollars, "Non pagare 250 € per il tuo sistema operativo", "_it"); ?>
-<? item (crapware, "Mai più software spazzatura", "_it"); ?>
-<? item (freedom, "Libertà!", "_it"); ?>
-<? item (all_in_one, "Quando il sistema è installato, perché hai <i>ancora</i> bisogno di installare altre cose?", "_it"); ?>
-<? item (drivers, "Dimenticati dei driver", "_it"); ?>
-<? item (global_update, "Aggiorna tutto il tuo software con un unico clic", "_it"); ?>
-<? item (warez, "Perché copiare software illegalmente quando puoi ottenerlo gratuitamente?", "_it"); ?>
-<? item (search_software, "Bisogno di nuovo software? Non ti preoccupare di cercarlo in rete, Linux lo prende per te", "_it"); ?>
-<? item (spatial_desktop, "Jump into the next generation of desktops.", ""); ?>
-<? item (defragment, "La tua vita digitale sembra frammentata?", "_it"); ?>
-<? item (window_managers, "Scegli l'aspetto del tuo desktop", "_it"); ?>
-<? #item (network_security, "Fai mangiare la polvere ai pirati", "_it"); ?>
-<? item (old_and_sluggish, "Perché Windows rallenta giorno dopo giorno?", "_it"); ?>
-<? item (environment, "Ambiente", "_it"); ?>
-<? item (backdoors, "Nessuna backdoor nel tuo software", "_it"); ?>
-<? item (help, "Ottieni supporto gratuito e illimitato", "_it"); ?>
-<? item (virtual_desktops, "Troppe finestre? Usa gli ambienti di lavoro", "_it"); ?>
-<? item (categories, "Nessuna confusione nel tuo menu di avvio.", "_it"); ?>
-<? #item (suspend_hibernate, "Risparmia energia: puoi ibernare o mandare in sleep il tuo computer", "_it"); ?>
-<? item (report_bugs, "Non attendere per anni le risoluzioni dei bug, riportali e controlla lo stato della situazione", "_it"); ?>
-<? item (reboot_all_the_time, "Stanco di dover riavviare il computer tutte le volte?", "_it"); ?>
-<? item (alive, "Regala una seconda vita al tuo vecchio computer", "_it"); ?>
-<? item (free_games, "Gioca a centinaia di videogame gratuitamente", "_it"); ?>
-<? item (other_countries, "Aiuta gli altri Paesi, ed il tuo", "_it"); ?>
-<? item (gaim_im_services, "Usa MSN, AIM, ICQ, Jabber, con un singolo programma", "_it"); ?>
-<? item (amarok, "Rilassati con un eccezionale riproduttore musicale", "_it"); ?>
-<? item (weather, "Dà un occhiata al tempo", "_it"); ?>
+<?php item ("viruses", "Dimenticati dei virus", "_it"); ?>
+<?php item ("stability", "Il tuo sistema è instabile?", "_it"); ?>
+<?php item ("security", "Linux protegge il tuo computer", "_it"); ?>
+<?php item ("dollars", "Non pagare 250 € per il tuo sistema operativo", "_it"); ?>
+<?php item ("crapware", "Mai più software spazzatura", "_it"); ?>
+<?php item ("freedom", "Libertà!", "_it"); ?>
+<?php item ("all_in_one", "Quando il sistema è installato, perché hai <i>ancora</i> bisogno di installare altre cose?", "_it"); ?>
+<?php item ("drivers", "Dimenticati dei driver", "_it"); ?>
+<?php item ("global_update", "Aggiorna tutto il tuo software con un unico clic", "_it"); ?>
+<?php item ("warez", "Perché copiare software illegalmente quando puoi ottenerlo gratuitamente?", "_it"); ?>
+<?php item ("search_software", "Bisogno di nuovo software? Non ti preoccupare di cercarlo in rete, Linux lo prende per te", "_it"); ?>
+<?php item ("spatial_desktop", "Jump into the next generation of desktops.", ""); ?>
+<?php item ("defragment", "La tua vita digitale sembra frammentata?", "_it"); ?>
+<?php item ("window_managers", "Scegli l'aspetto del tuo desktop", "_it"); ?>
+<?php #item ("network_security", "Fai mangiare la polvere ai pirati", "_it"); ?>
+<?php item ("old_and_sluggish", "Perché Windows rallenta giorno dopo giorno?", "_it"); ?>
+<?php item ("environment", "Ambiente", "_it"); ?>
+<?php item ("backdoors", "Nessuna backdoor nel tuo software", "_it"); ?>
+<?php item ("help", "Ottieni supporto gratuito e illimitato", "_it"); ?>
+<?php item ("virtual_desktops", "Troppe finestre? Usa gli ambienti di lavoro", "_it"); ?>
+<?php item ("categories", "Nessuna confusione nel tuo menu di avvio.", "_it"); ?>
+<?php #item ("suspend_hibernate", "Risparmia energia: puoi ibernare o mandare in sleep il tuo computer", "_it"); ?>
+<?php item ("report_bugs", "Non attendere per anni le risoluzioni dei bug, riportali e controlla lo stato della situazione", "_it"); ?>
+<?php item ("reboot_all_the_time", "Stanco di dover riavviare il computer tutte le volte?", "_it"); ?>
+<?php item ("alive", "Regala una seconda vita al tuo vecchio computer", "_it"); ?>
+<?php item ("free_games", "Gioca a centinaia di videogame gratuitamente", "_it"); ?>
+<?php item ("other_countries", "Aiuta gli altri Paesi, ed il tuo", "_it"); ?>
+<?php item ("gaim_im_services", "Usa MSN, AIM, ICQ, Jabber, con un singolo programma", "_it"); ?>
+<?php item ("amarok", "Rilassati con un eccezionale riproduttore musicale", "_it"); ?>
+<?php item ("weather", "Dà un occhiata al tempo", "_it"); ?>
 </p>
 </div>
 

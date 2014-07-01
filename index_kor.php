@@ -27,35 +27,35 @@ January 2006, this website has seen 453&nbsp;409 visits
 
 <div id="items">
 <p>
-<? item (viruses, "﻿바이러스 고민 뚝!", "_kor"); ?>
-<? item (stability, "시스템이 불안정 하신가요?", "_kor"); ?>
-<? item (security, "리눅스, 당신의 컴퓨터를 지킵니다.", "_kor"); ?>
-<? item (dollars, "운영체제에 30만원이나 쓰지 마세요.", "_kor"); ?>
-<? item (crapware, "크랩웨어(사전설치된 소프트웨어)는 그만", "_kor"); ?>
-<? item (freedom, "자유!", "_kor"); ?>
-<? item (all_in_one, "시스템을 설치하고 난 뒤에도 왜 <i>여전히</i> 이것저것 추가로 설치해야 하나요? ", "_kor"); ?>
-<? item (drivers, "드라이버는 잊어라!", "_kor"); ?>
-<? item (global_update, "클릭 한번으로 모든 소프트웨어 업데이트하기", "_kor"); ?>
-<? item (warez, "공개 소프트웨어라면 불법복제걱정은 없겠죠?", "_kor"); ?>
-<? item (search_software, "소프트웨어가 필요하시다구요? 웹에서 찾느라 고생하지 마세요, 리눅스가 찾아줍니다.", "_kor"); ?>
-<? item (spatial_desktop, "차세대 데스크탑으로 뛰어들기", "_kor"); ?>
-<? item (defragment, "조각모음이 필요하십니까?", "_kor"); ?>
-<? item (window_managers, "원하는 바탕환경을 고르세요.", "_kor"); ?>
-<? #item (network_security, "Let pirates bite the dust.", ""); ?>
-<? item (old_and_sluggish, "윈도우즈는 왜 날이갈수록 버벅이나요?", "_kor"); ?>
-<? item (environment, "친환경적인 방법을 사용해주세요.", "_kor"); ?>
-<? item (backdoors, "백도어는 가라!", "_kor"); ?>
-<? item (help, "무료! 무제한! 문제해결 즐기기", "_kor"); ?>
-<? item (virtual_desktops, "창이 너무 많다고요? 작업공간을 사용하세요.", "_kor"); ?>
-<? #item (suspend_hibernate, "Save some energy: let your computer sleep or hibernate.", ""); ?>
-<? item (report_bugs, "버그해결을 위해 너무 오래 기다리지 마세요. 해결되는 과정을 지켜보세요.", "_kor"); ?>
-<? item (reboot_all_the_time, "계속되는 재부팅에 지치셨나요?", "_kor"); ?>
-<? item (alive, "늙은 컴퓨터에게도 할 일을 주세요.", "_kor"); ?>
-<? item (free_games, "무료로 즐기는 수백 가지의 게임들", "_kor"); ?>
-<? item (other_countries, "다른 나라를 도와주세요, 당신의 나라도요.", "_kor"); ?>
-<? item (gaim_im_services, "MSN, AIM, ICQ, Jabber를 한꺼번에 사용하기", "_kor"); ?>
-<? item (amarok, "훌륭한 음악 재생기를 써보세요.", "_kor"); ?>
-<? item (weather, "날씨를 살펴보세요.", "_kor"); ?>
+<?php item ("viruses", "﻿바이러스 고민 뚝!", "_kor"); ?>
+<?php item ("stability", "시스템이 불안정 하신가요?", "_kor"); ?>
+<?php item ("security", "리눅스, 당신의 컴퓨터를 지킵니다.", "_kor"); ?>
+<?php item ("dollars", "운영체제에 30만원이나 쓰지 마세요.", "_kor"); ?>
+<?php item ("crapware", "크랩웨어(사전설치된 소프트웨어)는 그만", "_kor"); ?>
+<?php item ("freedom", "자유!", "_kor"); ?>
+<?php item ("all_in_one", "시스템을 설치하고 난 뒤에도 왜 <i>여전히</i> 이것저것 추가로 설치해야 하나요? ", "_kor"); ?>
+<?php item ("drivers", "드라이버는 잊어라!", "_kor"); ?>
+<?php item ("global_update", "클릭 한번으로 모든 소프트웨어 업데이트하기", "_kor"); ?>
+<?php item ("warez", "공개 소프트웨어라면 불법복제걱정은 없겠죠?", "_kor"); ?>
+<?php item ("search_software", "소프트웨어가 필요하시다구요? 웹에서 찾느라 고생하지 마세요, 리눅스가 찾아줍니다.", "_kor"); ?>
+<?php item ("spatial_desktop", "차세대 데스크탑으로 뛰어들기", "_kor"); ?>
+<?php item ("defragment", "조각모음이 필요하십니까?", "_kor"); ?>
+<?php item ("window_managers", "원하는 바탕환경을 고르세요.", "_kor"); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
+<?php item ("old_and_sluggish", "윈도우즈는 왜 날이갈수록 버벅이나요?", "_kor"); ?>
+<?php item ("environment", "친환경적인 방법을 사용해주세요.", "_kor"); ?>
+<?php item ("backdoors", "백도어는 가라!", "_kor"); ?>
+<?php item ("help", "무료! 무제한! 문제해결 즐기기", "_kor"); ?>
+<?php item ("virtual_desktops", "창이 너무 많다고요? 작업공간을 사용하세요.", "_kor"); ?>
+<?php #item ("suspend_hibernate", "Save some energy: let your computer sleep or hibernate.", ""); ?>
+<?php item ("report_bugs", "버그해결을 위해 너무 오래 기다리지 마세요. 해결되는 과정을 지켜보세요.", "_kor"); ?>
+<?php item ("reboot_all_the_time", "계속되는 재부팅에 지치셨나요?", "_kor"); ?>
+<?php item ("alive", "늙은 컴퓨터에게도 할 일을 주세요.", "_kor"); ?>
+<?php item ("free_games", "무료로 즐기는 수백 가지의 게임들", "_kor"); ?>
+<?php item ("other_countries", "다른 나라를 도와주세요, 당신의 나라도요.", "_kor"); ?>
+<?php item ("gaim_im_services", "MSN, AIM, ICQ, Jabber를 한꺼번에 사용하기", "_kor"); ?>
+<?php item ("amarok", "훌륭한 음악 재생기를 써보세요.", "_kor"); ?>
+<?php item ("weather", "날씨를 살펴보세요.", "_kor"); ?>
 </p>
 </div>
 
