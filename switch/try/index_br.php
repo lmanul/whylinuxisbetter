@@ -28,20 +28,17 @@
 
 <table cols="3">
 <tbody><tr>
-<th>Kurumin</th>
 <th>Ubuntu Live</th>
 <th>Knoppix</th>
 </tr>
 
 
 <tr>
-<td><a href=" http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Screenshot-kurumin_6.0.png/800px-Screenshot-kurumin_6.0.png"><img src=" http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Screenshot-kurumin_6.0.png/250px-Screenshot-kurumin_6.0.png"></a></td>
 <td><a href="Images/ubuntu.png"><img src="Images/ubuntu_thumbnail.png"></a></td>
 <td><a href="Images/knoppix.png"><img src="Images/knoppix_thumbnail.png"></a></td>
 </tr>
 
 <tr>
-<td><a href=" http://www.guiadohardware.net/gdhpress/kurumin/#download"> http://www.guiadohardware.net/gdhpress/kurumin/#download</a></td>
 <td><a href="http://www.ubuntu.com/download"> http://www.ubuntu.com/download</a></td>
 <td><a href="http://www.knoppix.net/get.php"> http://www.knoppix.net/get.php</a></td>
 

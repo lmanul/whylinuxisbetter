@@ -5,7 +5,7 @@
 <h2>Liberdade!</h2>
 
 <p>O Linux e os programas "Open Source" são "livres". Isso significa que 
-sua licensa é uma "licença livre", e a mais comum é a GPL (Licença 
+sua licença é uma "licença livre", e a mais comum é a GPL (Licença 
 Pública Geral). Essa licença afirma que qualquer um tem a permissão de 
 copiar o programa, ver seu código fonte (a "receita"), modificá-lo, e 
 redistribuí-lo enquanto continuar licenciado com a GPL.</p>
