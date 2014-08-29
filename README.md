@@ -1,4 +1,4 @@
 whylinuxisbetter
 ================
 
-Code for the www.whylinuxisnetter.net web site.
+Code for the www.whylinuxisbetter.net web site.
