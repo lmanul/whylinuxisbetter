@@ -15,28 +15,28 @@ poques raons per les quals Linux és excel·lent</b>!
 <div id="items">
 <p>
 <?php item ("viruses", "Oblida't dels virus.", "_cat"); ?>
-<?php item (stability, "El teu sistema &eacute;s inestable?", "_cat"); ?>
-<?php item (security, "Linux protegeix el teu ordinador.", "_cat"); ?>
-<?php item (dollars, "No paguis 100&euro; pel teu sistema operatiu.", "_cat"); ?>
+<?php item ("stability", "El teu sistema &eacute;s inestable?", "_cat"); ?>
+<?php item ("security", "Linux protegeix el teu ordinador.", "_cat"); ?>
+<?php item ("dollars", "No paguis 100&euro; pel teu sistema operatiu.", "_cat"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "Llibertat!", "_cat"); ?>
-<?php item (all_in_one, "Quan el teu sistema està instal·lat, per què necessites instal·lar encara més coses?", "_cat"); ?>
-<?php item (drivers, "Oblida't dels controladors.", "_cat"); ?>
-<?php item (global_update, "Actualitza el teu programari amb un sol clic.", "_cat"); ?>
-<?php item (warez, "Per què copiar programari il·legal quan pots tenir-lo de franc?", "_cat"); ?>
-<?php item (search_software, "Necessites m&eacute;s programari? No cerques a la web, Linux l'aconsegueix per tu.", "_cat"); ?>
-<?php item (spatial_desktop, "Salta a la nova generació d'escriptoris.", "_cat"); ?>
-<?php item (defragment, "La teva vida digital sembla fragmentada?", "_cat"); ?>
-<?php item (window_managers, "Tria l'aparen&ccedil;a del teu escriptori.", "_cat"); ?>
-<?php #item (network_security, "Let pirates bite the dust.", ""); ?>
-<?php item (old_and_sluggish, "Per què el teu Windows cada dia que passa va més lent?", "_cat"); ?>
-<?php item (environment, "Fes alguna cosa pel medi ambient.", "_cat"); ?>
-<?php item (backdoors, "Sense portes falses al teu programari.", "_cat"); ?>
+<?php item ("freedom", "Llibertat!", "_cat"); ?>
+<?php item ("all_in_one", "Quan el teu sistema està instal·lat, per què necessites instal·lar encara més coses?", "_cat"); ?>
+<?php item ("drivers", "Oblida't dels controladors.", "_cat"); ?>
+<?php item ("global_update", "Actualitza el teu programari amb un sol clic.", "_cat"); ?>
+<?php item ("warez", "Per què copiar programari il·legal quan pots tenir-lo de franc?", "_cat"); ?>
+<?php item ("search_software", "Necessites m&eacute;s programari? No cerques a la web, Linux l'aconsegueix per tu.", "_cat"); ?>
+<?php item ("spatial_desktop", "Salta a la nova generació d'escriptoris.", "_cat"); ?>
+<?php item ("defragment", "La teva vida digital sembla fragmentada?", "_cat"); ?>
+<?php item ("window_managers", "Tria l'aparen&ccedil;a del teu escriptori.", "_cat"); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
+<?php item ("old_and_sluggish", "Per què el teu Windows cada dia que passa va més lent?", "_cat"); ?>
+<?php item ("environment", "Fes alguna cosa pel medi ambient.", "_cat"); ?>
+<?php item ("backdoors", "Sense portes falses al teu programari.", "_cat"); ?>
 <?php item ("help", "Gaudeix de suport lliure i il·limitat.", "_cat"); ?>
-<?php item (virtual_desktops, "Massa finestres? Fes servir els espais de treball.", "_cat"); ?>
-<?php #item (suspend_hibernate, "Estalvia un poc d'energia: bloca o hiverna el teu ordinador.", "_cat"); ?>
-<?php item (report_bugs, "No esperis anys perqu&egrave; les errades siguin resoltes, informa i fes un seguiment d'elles.", "_cat"); ?>
-<?php item (reboot_all_the_time, "N'est&agrave;s ben tip de reiniciar el teu ordinador a sovint?", "_cat"); ?>
+<?php item ("virtual_desktops", "Massa finestres? Fes servir els espais de treball.", "_cat"); ?>
+<?php #item ("suspend_hibernate", "Estalvia un poc d'energia: bloca o hiverna el teu ordinador.", "_cat"); ?>
+<?php item ("report_bugs", "No esperis anys perqu&egrave; les errades siguin resoltes, informa i fes un seguiment d'elles.", "_cat"); ?>
+<?php item ("reboot_all_the_time", "N'est&agrave;s ben tip de reiniciar el teu ordinador a sovint?", "_cat"); ?>
 <?php item ("alive", "Dóna una segona vida al teu ordinador.", "_cat"); ?>
 <?php item ("free_games", "Juga a centenars de jocs de franc.", "_cat"); ?>
 <?php item ("other_countries", "Ajuda altres pa&iuml;ssos i al teu tamb&eacute;", "_cat"); ?>

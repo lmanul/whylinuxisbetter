@@ -28,28 +28,28 @@ software</a>.</p>-->
 <div id="items">
 <p>
 <?php item ("viruses", "اینٹی وائرسس کو بھول جائیں۔", "_ur"); ?>
-<?php item (stability, "کیا آپ کا سسٹم ناپائیدار ہے؟", "_ur"); ?>
-<?php item (security, "لینکس آپکے کمپیوٹر کو محفوظ رکھتی ہے۔", "_ur"); ?>
-<?php item (dollars, "اپنے اپریٹنگ سسٹم کے لیے 100 ڈالر مت دیں۔", "_ur"); ?>
+<?php item ("stability", "کیا آپ کا سسٹم ناپائیدار ہے؟", "_ur"); ?>
+<?php item ("security", "لینکس آپکے کمپیوٹر کو محفوظ رکھتی ہے۔", "_ur"); ?>
+<?php item ("dollars", "اپنے اپریٹنگ سسٹم کے لیے 100 ڈالر مت دیں۔", "_ur"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "آزادی!", "_ur"); ?>
-<?php item (all_in_one, "جب سسٹم انسٹال ہو چکا، آپ کو <i>ابھی تک</i> چیزیں‌ انسٹال کرنے کی کیوں‌ضرورت ہے؟", "_ur"); ?>
-<?php item (drivers, "ڈرائیورز کو بھول جائیں۔", "_ur"); ?>
-<?php item (global_update, "صرف ایک کلک سے تمام سافٹ ویرز کو اپڈیٹ کریں۔", "_ur"); ?>
-<?php item (warez, "کیوں‌ غیر قانونی سافٹ ویر کاپی بنائیں جبکہ آپ اس کو مفت حاصل کر سکتے ہیں؟", "_ur"); ?>
-<?php item (search_software, "نئے سافٹ ویر کی ضرورت؟ پریشانی نہی، ویب کو سرچ کریں، لینکس نے آپ کے لیے لے رکھا ہو گا۔", "_ur"); ?>
-<?php item (spatial_desktop, "نئی جنریشن کے ڈیسک ٹاپس میں کود جائیں۔", "_ur"); ?>
-<?php item (defragment, "کیا آپ کی ڈیجیٹل زندگی بکھری ہوئی محسوس ہوتی ہے؟", "_ur"); ?>
-<?php item (window_managers, "منتخب کریں‌ آپکا ڈیسک ٹاپ کیسے دیکھائی دے۔", "_ur"); ?>
-<?php #item (network_security, "چوری کرنے والے کو گندہ کریں۔", "_ur"); ?>
-<?php item (old_and_sluggish, "ونڈوز کیوں روز بروز آہستہ ہو جاتی ہے؟", "_ur"); ?>
-<?php item (environment, "ماحول کے لیے کچھ کریں۔", "_ur"); ?>
-<?php item (backdoors, "آپ کے سافٹ ویر میں کوئی چور راستے نہیں", "_ur"); ?>
+<?php item ("freedom", "آزادی!", "_ur"); ?>
+<?php item ("all_in_one", "جب سسٹم انسٹال ہو چکا، آپ کو <i>ابھی تک</i> چیزیں‌ انسٹال کرنے کی کیوں‌ضرورت ہے؟", "_ur"); ?>
+<?php item ("drivers", "ڈرائیورز کو بھول جائیں۔", "_ur"); ?>
+<?php item ("global_update", "صرف ایک کلک سے تمام سافٹ ویرز کو اپڈیٹ کریں۔", "_ur"); ?>
+<?php item ("warez", "کیوں‌ غیر قانونی سافٹ ویر کاپی بنائیں جبکہ آپ اس کو مفت حاصل کر سکتے ہیں؟", "_ur"); ?>
+<?php item ("search_software", "نئے سافٹ ویر کی ضرورت؟ پریشانی نہی، ویب کو سرچ کریں، لینکس نے آپ کے لیے لے رکھا ہو گا۔", "_ur"); ?>
+<?php item ("spatial_desktop", "نئی جنریشن کے ڈیسک ٹاپس میں کود جائیں۔", "_ur"); ?>
+<?php item ("defragment", "کیا آپ کی ڈیجیٹل زندگی بکھری ہوئی محسوس ہوتی ہے؟", "_ur"); ?>
+<?php item ("window_managers", "منتخب کریں‌ آپکا ڈیسک ٹاپ کیسے دیکھائی دے۔", "_ur"); ?>
+<?php #item ("network_security", "چوری کرنے والے کو گندہ کریں۔", "_ur"); ?>
+<?php item ("old_and_sluggish", "ونڈوز کیوں روز بروز آہستہ ہو جاتی ہے؟", "_ur"); ?>
+<?php item ("environment", "ماحول کے لیے کچھ کریں۔", "_ur"); ?>
+<?php item ("backdoors", "آپ کے سافٹ ویر میں کوئی چور راستے نہیں", "_ur"); ?>
 <?php item ("help", "مفت اور لامحدود سپورٹ‌ کے مزے لیں۔", "_ur"); ?>
-<?php item (virtual_desktops, "بہت زیادہ ونڈوز؟‌ ورک سپیسز استعمال کریں۔", "_ur"); ?>
-<?php #item (suspend_hibernate, "توانائی کو بچائیں: اپنے کمپیٹور کو سونے یا ہابرنیٹ ہونے دیں۔", "_ur"); ?>
-<?php item (report_bugs, "خرابی سے نمٹنے کے لیے سالوں‌ انتظار نہ کریں:‌ اطلاع دیں‌ اور اس کو نوٹ رکھیں۔", "_ur"); ?>
-<?php item (reboot_all_the_time, "کیا آپ کمپیوٹر کے بار بار ری سٹارٹ ہونے سے تنگ ہیں؟", "_ur"); ?>
+<?php item ("virtual_desktops", "بہت زیادہ ونڈوز؟‌ ورک سپیسز استعمال کریں۔", "_ur"); ?>
+<?php #item ("suspend_hibernate", "توانائی کو بچائیں: اپنے کمپیٹور کو سونے یا ہابرنیٹ ہونے دیں۔", "_ur"); ?>
+<?php item ("report_bugs", "خرابی سے نمٹنے کے لیے سالوں‌ انتظار نہ کریں:‌ اطلاع دیں‌ اور اس کو نوٹ رکھیں۔", "_ur"); ?>
+<?php item ("reboot_all_the_time", "کیا آپ کمپیوٹر کے بار بار ری سٹارٹ ہونے سے تنگ ہیں؟", "_ur"); ?>
 <?php item ("alive", "اپنے پرانے کمپیوٹر کو دوسرے زندگی دیں۔", "_ur"); ?>
 <?php item ("free_games", "ہزاروں‌ گیمز مفت کھیلیں", "_ur"); /* used word thousands in translation instead of hundreds as it is more used in Urdu OR reflect the current situation */ ?>
 <?php item ("other_countries", "دوسرے ممالک کی مدد کریں اور اپنی بھی۔", "_ur"); ?>

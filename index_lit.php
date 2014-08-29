@@ -15,28 +15,28 @@
 <div id="items">
 <p>
 <?php item ("viruses", "Pamiršk apie virusus.", "_lit"); ?>
-<?php item (stability, "Ar jūsų sistema nestabili?", "_lit"); ?>
-<?php item (security, "Linux'ai saugo jūsų kompiuterį.", "_lit"); ?>
-<?php item (dollars, "Nemokėk $100 už operacinę sistemą.", "_lit"); ?>
+<?php item ("stability", "Ar jūsų sistema nestabili?", "_lit"); ?>
+<?php item ("security", "Linux'ai saugo jūsų kompiuterį.", "_lit"); ?>
+<?php item ("dollars", "Nemokėk $100 už operacinę sistemą.", "_lit"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "Laisvė!", "_lit"); ?>
-<?php item (all_in_one, "Kai sistema jau įdiegta, kodėl jums <i>vis dar</i> reikia įdiegti visa kita?", "_lit"); ?>
-<?php item (drivers, "Pamirškite tvarkykles (draiverius).", "_lit"); ?>
-<?php item (global_update, "Atnaujink visas programas vienu spragtelėjimu.", "_lit"); ?>
-<?php item (warez, "Kam kopijuoti programinę įrangą neteisėtai, kai gali ją gauti nemokamai?", "_lit"); ?>
-<?php item (search_software, "Reikia naujos programos? Neieškokite tinkle, Linux'ai gaus tai už jus.", "_lit"); ?>
-<?php item (spatial_desktop, "Pasinerkite į naują darbalaukių kartą.", "_lit"); ?>
-<?php item (defragment, "Ar jūsų skaitmeninis gyvenimas atrodo išsibarstęs?", "_lit"); ?>
-<?php item (window_managers, "Pasirink savo darbastalį.", "_lit"); ?>
-<?php #item (network_security, "Let pirates bite the dust.", ""); ?>
-<?php item (old_and_sluggish, "Kodėl jūsų Windows'ai kasdien vis lėtėja?", "_lit"); ?>
-<?php item (environment, "Saugok aplinką.", "_lit"); ?>
-<?php item (backdoors, "Programinės įrangos durys yra atviros.", "_lit"); ?>
+<?php item ("freedom", "Laisvė!", "_lit"); ?>
+<?php item ("all_in_one", "Kai sistema jau įdiegta, kodėl jums <i>vis dar</i> reikia įdiegti visa kita?", "_lit"); ?>
+<?php item ("drivers", "Pamirškite tvarkykles (draiverius).", "_lit"); ?>
+<?php item ("global_update", "Atnaujink visas programas vienu spragtelėjimu.", "_lit"); ?>
+<?php item ("warez", "Kam kopijuoti programinę įrangą neteisėtai, kai gali ją gauti nemokamai?", "_lit"); ?>
+<?php item ("search_software", "Reikia naujos programos? Neieškokite tinkle, Linux'ai gaus tai už jus.", "_lit"); ?>
+<?php item ("spatial_desktop", "Pasinerkite į naują darbalaukių kartą.", "_lit"); ?>
+<?php item ("defragment", "Ar jūsų skaitmeninis gyvenimas atrodo išsibarstęs?", "_lit"); ?>
+<?php item ("window_managers", "Pasirink savo darbastalį.", "_lit"); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
+<?php item ("old_and_sluggish", "Kodėl jūsų Windows'ai kasdien vis lėtėja?", "_lit"); ?>
+<?php item ("environment", "Saugok aplinką.", "_lit"); ?>
+<?php item ("backdoors", "Programinės įrangos durys yra atviros.", "_lit"); ?>
 <?php item ("help", "Mėgaukitės nemokamu ir neribotu palaikymu.", "_lit"); ?>
-<?php item (virtual_desktops, "Perdaug lang&#371;? Naudok virtualius ekranus.", "_lit"); ?>
-<?php #item (suspend_hibernate, "Sutaupyk &#353;iek tiek energijos: leisk kompiuteriui miegoti arba hibernuoti.", ""); ?>
-<?php item (report_bugs, "Nelauk metų metus kol riktai bus išspręsti, susek ir pranešk apie juos.", "_lit"); ?>
-<?php item (reboot_all_the_time, "Pavargai nuolat perkraudinėti kompiuterį?", "_lit"); ?>
+<?php item ("virtual_desktops", "Perdaug lang&#371;? Naudok virtualius ekranus.", "_lit"); ?>
+<?php #item ("suspend_hibernate", "Sutaupyk &#353;iek tiek energijos: leisk kompiuteriui miegoti arba hibernuoti.", ""); ?>
+<?php item ("report_bugs", "Nelauk metų metus kol riktai bus išspręsti, susek ir pranešk apie juos.", "_lit"); ?>
+<?php item ("reboot_all_the_time", "Pavargai nuolat perkraudinėti kompiuterį?", "_lit"); ?>
 <?php item ("alive", "Suteik savo senam kompiuteriui naują gyvenimą.", "_lit"); ?>
 <?php item ("free_games", "Žaisk šimtus žaidimų nemokamai.", "_lit"); ?>
 <?php item ("other_countries", "Padėk kitoms šalis, taip pat ir savo.", "_lit"); ?>

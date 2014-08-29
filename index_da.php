@@ -8,28 +8,28 @@
 <div id="items">
 <p>
 <?php item ("viruses", "Glem alt om virusser.", "_da"); ?>
-<?php item (stability, "Er dit system ustabilt?", "_da"); ?>
-<?php item (security, "Linux beskytter din computer.", "_da"); ?>
-<?php item (dollars, "Lad være med at betale 1000 kr. for dit operativ system.", "_da"); ?>
+<?php item ("stability", "Er dit system ustabilt?", "_da"); ?>
+<?php item ("security", "Linux beskytter din computer.", "_da"); ?>
+<?php item ("dollars", "Lad være med at betale 1000 kr. for dit operativ system.", "_da"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "Frihed!", "_da"); ?>
-<?php item (all_in_one, "Når systemet er installeret, hvorfor skal du så <i>stadig</i> installere ting?", "_da"); ?>
-<?php item (drivers, "Glem alt om drivere.", "_da"); ?>
-<?php item (global_update, "Opdatér al din software med et enkelt klik.", "_da"); ?>
-<?php item (warez, "Hvorfor kopiere software ulovligt, når du kan få det gratis?", "_da"); ?>
-<?php item (search_software, "Har du brug for ny software? No worries, Linux finder det for dig.", "_da"); ?>
-<?php item (spatial_desktop, "Anvend den næste generation af desktops.", "_da"); ?>
-<?php item (defragment, "Virker dit digitale liv fragmenteret?", "_da"); ?>
-<?php item (window_managers, "Bestem selv hvordan din desktop ser ud.", "_da"); ?>
-<?php #item (network_security, "Giv hackerne baghjul.", "_da"); ?>
-<?php item (old_and_sluggish, "Hvorfor bliver Windows langsommere dag for dag?", "_da"); ?>
-<?php item (environment, "Gør noget for miljøet.", "_da"); ?>
-<?php item (backdoors, "Der er ingen bagdøre i dine programmer.", "_da"); ?>
+<?php item ("freedom", "Frihed!", "_da"); ?>
+<?php item ("all_in_one", "Når systemet er installeret, hvorfor skal du så <i>stadig</i> installere ting?", "_da"); ?>
+<?php item ("drivers", "Glem alt om drivere.", "_da"); ?>
+<?php item ("global_update", "Opdatér al din software med et enkelt klik.", "_da"); ?>
+<?php item ("warez", "Hvorfor kopiere software ulovligt, når du kan få det gratis?", "_da"); ?>
+<?php item ("search_software", "Har du brug for ny software? No worries, Linux finder det for dig.", "_da"); ?>
+<?php item ("spatial_desktop", "Anvend den næste generation af desktops.", "_da"); ?>
+<?php item ("defragment", "Virker dit digitale liv fragmenteret?", "_da"); ?>
+<?php item ("window_managers", "Bestem selv hvordan din desktop ser ud.", "_da"); ?>
+<?php #item ("network_security", "Giv hackerne baghjul.", "_da"); ?>
+<?php item ("old_and_sluggish", "Hvorfor bliver Windows langsommere dag for dag?", "_da"); ?>
+<?php item ("environment", "Gør noget for miljøet.", "_da"); ?>
+<?php item ("backdoors", "Der er ingen bagdøre i dine programmer.", "_da"); ?>
 <?php item ("help", "Nyd gratis og ubegrænset support.", "_da"); ?>
-<?php item (virtual_desktops, "For mange vinduer? Brug flere skriveborde!.", "_da"); ?>
-<?php #item (suspend_hibernate, "Spar på strømmen. Lad din computer sove eller gå i dvale.", "_da"); ?>
-<?php item (report_bugs, "Vent ikke år på at fejl bliver rettet, rapportér dem og udryd dem.", "_da"); ?>
-<?php item (reboot_all_the_time, "Er du træt af at genstarte din computer igen og igen?", "_da"); ?>
+<?php item ("virtual_desktops", "For mange vinduer? Brug flere skriveborde!.", "_da"); ?>
+<?php #item ("suspend_hibernate", "Spar på strømmen. Lad din computer sove eller gå i dvale.", "_da"); ?>
+<?php item ("report_bugs", "Vent ikke år på at fejl bliver rettet, rapportér dem og udryd dem.", "_da"); ?>
+<?php item ("reboot_all_the_time", "Er du træt af at genstarte din computer igen og igen?", "_da"); ?>
 <?php item ("alive", "Giv din gamle computer nyt liv.", "_da"); ?>
 <?php item ("free_games", "Spil hundredevis af spil, helt gratis.", "_da"); ?>
 <?php item ("other_countries", "Hjælp andre lande, og dit eget.", "_da"); ?>

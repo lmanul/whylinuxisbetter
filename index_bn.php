@@ -29,29 +29,29 @@ January 2006, this website has seen 453&nbsp;409 visits
 <div id="items">
 <p>
 <?php item ("viruses", "ভাইরাস থেকে চিরতরে মুক্তি।", "_bn"); ?>
-<?php item (stability, "স্ট্যাবিলিটি নিয়ে সমস্যা?", "_bn"); ?>
-<?php item (security, "নিরাপদ রাখুন কম্পিউটার।", "_bn"); ?>
-<?php item (dollars, "অপারেটিং সিস্টেমের জন্য $100 খরচ করতে হবে না।", "_bn"); ?>
+<?php item ("stability", "স্ট্যাবিলিটি নিয়ে সমস্যা?", "_bn"); ?>
+<?php item ("security", "নিরাপদ রাখুন কম্পিউটার।", "_bn"); ?>
+<?php item ("dollars", "অপারেটিং সিস্টেমের জন্য $100 খরচ করতে হবে না।", "_bn"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "স্বাধীনতা!", "_bn"); ?>
-<?php item (all_in_one, "নতুন করে অপারেটিং সিস্টেম ইন্সটল করেছেন? কিন্তু হায়! শেষ হইয়াও হইলোনা শেষ...", "_bn"); ?>
-<?php item (drivers, "ড্রাইভার? ভুলে যান", "_bn"); ?>
-<?php item (global_update, "এক ক্লিকে আপডেট করুন সবকিছু।", "_bn"); ?>
-<?php item (warez, "ফ্রিতেই যদি সফটওয়্যার পাওয়া যায়, তাহলে অবৈধভাবে কপি করবো কেন?", "_bn"); ?>
-<?php item (search_software, "নতুন সফটওয়্যার খুজে বের করুন সহজেই।", "_bn"); ?>
-<?php item (spatial_desktop, "উপভোগ করুন পরবর্তী প্রজন্মের ডেস্কটপ-পরিবেশ।", "_bn"); ?>
-<?php item (defragment, "ডিস্ক ডিফ্রাগমেন্টের ঝামেলা থেকে মুক্তি।", "_bn"); ?>
-<?php item (window_managers, "নিজের পছন্দমত ডেস্কটপ-পরিবেশ বেছে নিন।", "_bn"); ?>
-<?php #item (network_security, "হ্যাকাররা আঙুল চুষুক।", "_bn"); ?>
-<?php item (old_and_sluggish, "যত দিন যায়, তত স্লো হয় Windows... কেন?", "_bn"); ?>
-<?php item (environment, "পরিবেশ রক্ষায় ভূমিকা রাখুন।", "_bn"); ?>
-<?php item (backdoors, "সফটওয়্যারে গোপন কিছু থাকবে না।", "_bn"); ?>
+<?php item ("freedom", "স্বাধীনতা!", "_bn"); ?>
+<?php item ("all_in_one", "নতুন করে অপারেটিং সিস্টেম ইন্সটল করেছেন? কিন্তু হায়! শেষ হইয়াও হইলোনা শেষ...", "_bn"); ?>
+<?php item ("drivers", "ড্রাইভার? ভুলে যান", "_bn"); ?>
+<?php item ("global_update", "এক ক্লিকে আপডেট করুন সবকিছু।", "_bn"); ?>
+<?php item ("warez", "ফ্রিতেই যদি সফটওয়্যার পাওয়া যায়, তাহলে অবৈধভাবে কপি করবো কেন?", "_bn"); ?>
+<?php item ("search_software", "নতুন সফটওয়্যার খুজে বের করুন সহজেই।", "_bn"); ?>
+<?php item ("spatial_desktop", "উপভোগ করুন পরবর্তী প্রজন্মের ডেস্কটপ-পরিবেশ।", "_bn"); ?>
+<?php item ("defragment", "ডিস্ক ডিফ্রাগমেন্টের ঝামেলা থেকে মুক্তি।", "_bn"); ?>
+<?php item ("window_managers", "নিজের পছন্দমত ডেস্কটপ-পরিবেশ বেছে নিন।", "_bn"); ?>
+<?php #item ("network_security", "হ্যাকাররা আঙুল চুষুক।", "_bn"); ?>
+<?php item ("old_and_sluggish", "যত দিন যায়, তত স্লো হয় Windows... কেন?", "_bn"); ?>
+<?php item ("environment", "পরিবেশ রক্ষায় ভূমিকা রাখুন।", "_bn"); ?>
+<?php item ("backdoors", "সফটওয়্যারে গোপন কিছু থাকবে না।", "_bn"); ?>
 <?php item ("help", "আপনাকে ফ্রি সাহায্য করার জন্যে আছে একটি বিশাল কমিউনিটি।", "_bn"); ?>
-<?php item (virtual_desktops, "বেশি উইন্ডো নিয়ে ঝামেলা? ওয়ার্কস্পেস ব্যবহার করুন।", "_bn"); ?>
-<?php item (categories, "স্টার্ট মেনু রাখুন পরিচ্ছন্ন।", "_bn"); ?>
-<?php #item (suspend_hibernate, ""Sleep" এবং "Hibernate" মোড ব্যবহার করুন, শক্তি অপচয় কমান।", "_bn"); ?>
-<?php item (report_bugs, "সহজে বাগ রিপোর্ট, ট্র্যাক করুন।", "_bn"); ?>
-<?php item (reboot_all_the_time, "বারবার কম্পিউটার রিস্টার্ট করতে করতে বিরক্ত?", "_bn"); ?>
+<?php item ("virtual_desktops", "বেশি উইন্ডো নিয়ে ঝামেলা? ওয়ার্কস্পেস ব্যবহার করুন।", "_bn"); ?>
+<?php item ("categories", "স্টার্ট মেনু রাখুন পরিচ্ছন্ন।", "_bn"); ?>
+<?php #item ("suspend_hibernate", ""Sleep" এবং "Hibernate" মোড ব্যবহার করুন, শক্তি অপচয় কমান।", "_bn"); ?>
+<?php item ("report_bugs", "সহজে বাগ রিপোর্ট, ট্র্যাক করুন।", "_bn"); ?>
+<?php item ("reboot_all_the_time", "বারবার কম্পিউটার রিস্টার্ট করতে করতে বিরক্ত?", "_bn"); ?>
 <?php item ("alive", "পুরনো পিসিকে নতুন প্রাণ দিন।", "_bn"); ?>
 <?php item ("free_games", "অসংখ্য গেম খেলুন, সম্পূর্ণ ফ্রি", "_bn"); ?>
 <?php item ("other_countries", "নিজ দেশের উন্নয়নে ভূমিকা রাখুন", "_bn"); ?>

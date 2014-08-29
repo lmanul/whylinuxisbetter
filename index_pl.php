@@ -24,28 +24,28 @@ zadawanych pytań (FAQ) dla Linuksowych maniaków</a>.</p>
 <div id="items">
 <p>
 <?php item ("viruses", "Zapomnij o wirusach", "_pl"); ?>
-<?php item (stability, "Czy Twój system jest niestabilny?", "_pl"); ?>
-<?php item (security, "Linuks chroni Twój komputer", "_pl"); ?>
-<?php #item (dollars, "Nie płać za system operacyjny", "_pl"); ?>
+<?php item ("stability", "Czy Twój system jest niestabilny?", "_pl"); ?>
+<?php item ("security", "Linuks chroni Twój komputer", "_pl"); ?>
+<?php #item ("dollars", "Nie płać za system operacyjny", "_pl"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "Wolność!", "_pl"); ?>
-<?php item (all_in_one, "System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?", "_pl"); ?>
-<?php item (drivers, "Forget about drivers.", ""); ?>
-<?php item (global_update, "Aktualizuj <i>całe</i> swoje oprogramowanie jednym kliknięciem", "_pl"); ?>
-<?php item (warez, "Po co piracić, jeśli to samo można mieć legalnie i za darmo?", "_pl"); ?>
-<?php item (search_software, "Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci, Linuks zrobi to za Ciebie", "_pl"); ?>
-<?php item (spatial_desktop, "Nowa generacja rozwiązań wizualnych czeka na Ciebie", "_pl"); ?>
-<?php #item (defragment, "Czy Twoje życie wydaje się pofragmentowane?", "_pl"); ?>
-<?php item (window_managers, "Dostosuj wygląd systemu do swoich potrzeb", "_pl"); ?>
-<?php #item (network_security, "Nie daj szansy oszustom i internetowym włamywaczom", "_pl"); ?>
-<?php item (old_and_sluggish, "Czemu Twój Windows spowalnia z każdym dniem?", "_pl"); ?>
-<?php item (environment, "Do something for the environment.", ""); ?>
-<?php item (backdoors, "No back doors in your software.", ""); ?>
+<?php item ("freedom", "Wolność!", "_pl"); ?>
+<?php item ("all_in_one", "System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?", "_pl"); ?>
+<?php item ("drivers", "Forget about drivers.", ""); ?>
+<?php item ("global_update", "Aktualizuj <i>całe</i> swoje oprogramowanie jednym kliknięciem", "_pl"); ?>
+<?php item ("warez", "Po co piracić, jeśli to samo można mieć legalnie i za darmo?", "_pl"); ?>
+<?php item ("search_software", "Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci, Linuks zrobi to za Ciebie", "_pl"); ?>
+<?php item ("spatial_desktop", "Nowa generacja rozwiązań wizualnych czeka na Ciebie", "_pl"); ?>
+<?php #item ("defragment", "Czy Twoje życie wydaje się pofragmentowane?", "_pl"); ?>
+<?php item ("window_managers", "Dostosuj wygląd systemu do swoich potrzeb", "_pl"); ?>
+<?php #item ("network_security", "Nie daj szansy oszustom i internetowym włamywaczom", "_pl"); ?>
+<?php item ("old_and_sluggish", "Czemu Twój Windows spowalnia z każdym dniem?", "_pl"); ?>
+<?php item ("environment", "Do something for the environment.", ""); ?>
+<?php item ("backdoors", "No back doors in your software.", ""); ?>
 <?php item ("help", "Ciesz się darmowym i nieograniczonym wsparciem", "_pl"); ?>
-<?php item (virtual_desktops, "Zbyt wiele okien? Użyj wirtualnych pulpitów", "_pl"); ?>
-<?php #item (suspend_hibernate, "Oszczędź nieco prądu: wprowadź komputer w stan uśpienia lub hibernacji", "_pl"); ?>
-<?php item (report_bugs, "Zgłaszanie problemów <i>[nie musisz czekać latami na ich rozwiązanie]</i>", "_pl"); ?>
-<?php item (reboot_all_the_time, "Czy nie męczą Cię ciągłe restarty?", "_pl"); ?>
+<?php item ("virtual_desktops", "Zbyt wiele okien? Użyj wirtualnych pulpitów", "_pl"); ?>
+<?php #item ("suspend_hibernate", "Oszczędź nieco prądu: wprowadź komputer w stan uśpienia lub hibernacji", "_pl"); ?>
+<?php item ("report_bugs", "Zgłaszanie problemów <i>[nie musisz czekać latami na ich rozwiązanie]</i>", "_pl"); ?>
+<?php item ("reboot_all_the_time", "Czy nie męczą Cię ciągłe restarty?", "_pl"); ?>
 <?php item ("alive", "Podaruj staruszkowi nowe życie", "_pl"); ?>
 <?php item ("free_games", "Zagraj w setki darmowych gier", "_pl"); ?>
 <?php item ("other_countries", "Pomóż innym krajom, w tym również Twojemu", "_pl"); ?>

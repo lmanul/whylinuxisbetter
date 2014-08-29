@@ -21,27 +21,27 @@ href="http://www.whylinuxisbetter.net/faq_eu.php">FAQ hau</a> irakurtzea gustatu
 <div id="items">
 <p>
 <?php item ("viruses", "Birusak betirako ahaztu.", ""); ?>
-<?php item (stability, "Zure sistema desegonkorra al da?", ""); ?>
-<?php item (security, "Linuxek zure ordenagailua babesten du.", ""); ?>
-<?php item (dollars, "Ez dituzu 100€ ordaindu behar izango zure sistema eragilearen truke.", "_eu"); ?>
+<?php item ("stability", "Zure sistema desegonkorra al da?", ""); ?>
+<?php item ("security", "Linuxek zure ordenagailua babesten du.", ""); ?>
+<?php item ("dollars", "Ez dituzu 100€ ordaindu behar izango zure sistema eragilearen truke.", "_eu"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "¡Askatasuna!", ""); ?>
-<?php item (all_in_one, "Sistema instalatu ostean, zergaitik <i>ondino</i> gauza gehiago instalatu behar dituzu?", "_eu"); ?>
-<?php item (drivers, "Forget about drivers.", ""); ?>
-<?php item (global_update, "Zure software guztia klik bakar baten bidez eguneratu.", "_es"); ?>
-<?php item (warez, "Zergaitik sofwarea ilegalki kopiatu behar duzu dohain lor dezakezunean?", ""); ?>
-<?php item (search_software, "Programa berriren bila zabiltza? Ez bilatu interneten, Linuxek zure ordez egiten baitu.", ""); ?>
-<?php item (spatial_desktop, "Idazmahaien hurrengo generaziora salto egizu.", ""); ?>
-<?php item (defragment, "Zure bizitza digitala zatituta dirudi?", "_eu"); ?>
-<?php item (window_managers, "Zure idazmahaia nola ikusiko den modua aukera ezazu.", ""); ?>
-<?php item (old_and_sluggish, "Zergaitik Windows egunero moteltzen da?", ""); ?>
-<?php item (environment, "Do something for the environment.", ""); ?>
-<?php item (backdoors, "No back doors in your software.", ""); ?>
+<?php item ("freedom", "¡Askatasuna!", ""); ?>
+<?php item ("all_in_one", "Sistema instalatu ostean, zergaitik <i>ondino</i> gauza gehiago instalatu behar dituzu?", "_eu"); ?>
+<?php item ("drivers", "Forget about drivers.", ""); ?>
+<?php item ("global_update", "Zure software guztia klik bakar baten bidez eguneratu.", "_es"); ?>
+<?php item ("warez", "Zergaitik sofwarea ilegalki kopiatu behar duzu dohain lor dezakezunean?", ""); ?>
+<?php item ("search_software", "Programa berriren bila zabiltza? Ez bilatu interneten, Linuxek zure ordez egiten baitu.", ""); ?>
+<?php item ("spatial_desktop", "Idazmahaien hurrengo generaziora salto egizu.", ""); ?>
+<?php item ("defragment", "Zure bizitza digitala zatituta dirudi?", "_eu"); ?>
+<?php item ("window_managers", "Zure idazmahaia nola ikusiko den modua aukera ezazu.", ""); ?>
+<?php item ("old_and_sluggish", "Zergaitik Windows egunero moteltzen da?", ""); ?>
+<?php item ("environment", "Do something for the environment.", ""); ?>
+<?php item ("backdoors", "No back doors in your software.", ""); ?>
 <?php item ("help", "Nahi duzun laguntza guztia, eta dohain.", ""); ?>
-<?php item (virtual_desktops, "Lehio gehiegi? Lantokiak erabil itzazu.", ""); ?>
-<?php #item (suspend_hibernate, "Energia apur bat aurrez ezazu: zure ordenagailua lotara bidali, edo hibernatu.", ""); ?>
-<?php item (report_bugs, "Ez itxaron urtez akatsak konpondu arte, aurki itzazu zu zeuk eta bidal itzazu.", ""); ?>
-<?php item (reboot_all_the_time, "Etengabe zure ordenagailua berpizteaz nekaturik al zaude?", "_es"); ?>
+<?php item ("virtual_desktops", "Lehio gehiegi? Lantokiak erabil itzazu.", ""); ?>
+<?php #item ("suspend_hibernate", "Energia apur bat aurrez ezazu: zure ordenagailua lotara bidali, edo hibernatu.", ""); ?>
+<?php item ("report_bugs", "Ez itxaron urtez akatsak konpondu arte, aurki itzazu zu zeuk eta bidal itzazu.", ""); ?>
+<?php item ("reboot_all_the_time", "Etengabe zure ordenagailua berpizteaz nekaturik al zaude?", "_es"); ?>
 <?php item ("alive", "Zure ordenagailu zaharrari bigarren bizitza bat emaiozu.", ""); ?>
 <?php item ("free_games", "Ehunaka joku dohain zure esku.", ""); ?>
 <?php item ("other_countries", "Beste herrialde batzuk lagun ditzakezu, zurea barne.", ""); ?>

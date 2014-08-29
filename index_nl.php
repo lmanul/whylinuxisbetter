@@ -15,29 +15,29 @@
 <div id="items">
 <p>
 <?php item ("viruses", "Geen virussen meer.", "_nl"); ?>
-<?php item (stability, "Is uw systeem onstabiel?", "_nl"); ?>
-<?php item (security, "Linux beschermt uw computer.", "_nl"); ?>
-<?php item (dollars, "Betaal geen €100 voor uw besturingssysteem.", "_nl"); ?>
+<?php item ("stability", "Is uw systeem onstabiel?", "_nl"); ?>
+<?php item ("security", "Linux beschermt uw computer.", "_nl"); ?>
+<?php item ("dollars", "Betaal geen €100 voor uw besturingssysteem.", "_nl"); ?>
 <?php item ("crapware", "Geen c**pware meer.", "_nl"); ?>
-<?php item (freedom, "Vrijheid!", "_nl"); ?>
-<?php item (all_in_one, "Waarom zou u na de installatie <i>nog</i> software moeten installeren??", "_nl"); ?>
-<?php item (drivers, "Vergeet stuurprogramma's.", "_nl"); ?>
-<?php item (global_update, "Update uw software met 1 klik.", "_nl"); ?>
-<?php item (warez, "Waarom illegale software gebruiken als het ook gratis kan?", "_nl"); ?>
-<?php item (search_software, "Nieuwe software nodig? Verspil uw tijd niet met het zoeken op internet, Linux heeft het voor u.", "_nl"); ?>
-<?php item (spatial_desktop, "Probeer de laatste generatie van bureaubladomgevingen.", "_nl"); ?>
-<?php item (defragment, "Is uw digitale leven een beetje gefragmenteerd?", "_nl"); ?>
-<?php item (window_managers, "Kies hoe uw bureaubladomgeving eruit ziet.", "_nl"); ?>
-<?php #item (network_security, "Laat piraten in het stof bijten.", "_nl"); ?>
-<?php item (old_and_sluggish, "Waarom wordt Windows steeds langzamer?", "_nl"); ?>
-<?php item (environment, "Doe iets voor het milieu.", "_nl"); ?>
-<?php item (backdoors, "Geen achterpoortjes in uw software.", "_nl"); ?>
+<?php item ("freedom", "Vrijheid!", "_nl"); ?>
+<?php item ("all_in_one", "Waarom zou u na de installatie <i>nog</i> software moeten installeren??", "_nl"); ?>
+<?php item ("drivers", "Vergeet stuurprogramma's.", "_nl"); ?>
+<?php item ("global_update", "Update uw software met 1 klik.", "_nl"); ?>
+<?php item ("warez", "Waarom illegale software gebruiken als het ook gratis kan?", "_nl"); ?>
+<?php item ("search_software", "Nieuwe software nodig? Verspil uw tijd niet met het zoeken op internet, Linux heeft het voor u.", "_nl"); ?>
+<?php item ("spatial_desktop", "Probeer de laatste generatie van bureaubladomgevingen.", "_nl"); ?>
+<?php item ("defragment", "Is uw digitale leven een beetje gefragmenteerd?", "_nl"); ?>
+<?php item ("window_managers", "Kies hoe uw bureaubladomgeving eruit ziet.", "_nl"); ?>
+<?php #item ("network_security", "Laat piraten in het stof bijten.", "_nl"); ?>
+<?php item ("old_and_sluggish", "Waarom wordt Windows steeds langzamer?", "_nl"); ?>
+<?php item ("environment", "Doe iets voor het milieu.", "_nl"); ?>
+<?php item ("backdoors", "Geen achterpoortjes in uw software.", "_nl"); ?>
 <?php item ("help", "Geniet van gratis, onbeperkte ondersteuning.", "_nl"); ?>
-<?php item (virtual_desktops, "Te veel schermen tegelijk open? Gebruik werkbladen.", "_nl"); ?>
-<?php item (categories, "Geen grote rommel in uw startmenu.", "_nl"); ?>
-<?php #item (suspend_hibernate, "Bespaar energie: zet uw computer in slaapstand of pauzestand", "_nl"); ?>
-<?php item (report_bugs, "Wacht geen jaren totdat problemen opgelost worden, rapporteer ze en vind de oorzaak.", "_nl"); ?>
-<?php item (reboot_all_the_time, "Ben je moe om de hele tijd te herstarten?", "_nl"); ?>
+<?php item ("virtual_desktops", "Te veel schermen tegelijk open? Gebruik werkbladen.", "_nl"); ?>
+<?php item ("categories", "Geen grote rommel in uw startmenu.", "_nl"); ?>
+<?php #item ("suspend_hibernate", "Bespaar energie: zet uw computer in slaapstand of pauzestand", "_nl"); ?>
+<?php item ("report_bugs", "Wacht geen jaren totdat problemen opgelost worden, rapporteer ze en vind de oorzaak.", "_nl"); ?>
+<?php item ("reboot_all_the_time", "Ben je moe om de hele tijd te herstarten?", "_nl"); ?>
 <?php item ("alive", "Geef je computer een tweede leven.", "_nl"); ?>
 <?php item ("free_games", "Speel honderden gratis spellen.", "_nl"); ?>
 <?php item ("other_countries", "Help andere landen, ook uw eigen.", "_nl"); ?>

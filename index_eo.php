@@ -20,29 +20,29 @@ January 2006, this website has seen 453&nbsp;409 visits
 <div id="items">
 <p>
 <?php item ("viruses", "Forgesu la virusojn.", "_eo"); ?>
-<?php item (stability, "Ĉu via operaciumo estas nestabila?", "_eo"); ?>
-<?php item (security, "Linux protektas vian komputilon.", "_eo"); ?>
-<?php item (dollars, "Ne pagu 100 dolarojn por via operaciumo.", "_eo"); ?>
+<?php item ("stability", "Ĉu via operaciumo estas nestabila?", "_eo"); ?>
+<?php item ("security", "Linux protektas vian komputilon.", "_eo"); ?>
+<?php item ("dollars", "Ne pagu 100 dolarojn por via operaciumo.", "_eo"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "Libereco!", "_eo"); ?>
-<?php item (all_in_one, "Kiam la operaciumo estas instalita, kial vi<i>ankoraŭ</i> bezonas instali pli?", "_eo"); ?>
-<?php item (drivers, "Forgesu la pelilojn.", "_eo"); ?>
-<?php item (global_update, "Aktualigu vian tutan programaron per unu klako.", "_eo"); ?>
-<?php item (warez, "Kial kopii programaron neleĝe se vi povas akiri ĝin senkoste?", "_eo"); ?>
-<?php item (search_software, "Ĉu necesas nova programo? Ne zorgu serĉi rete, Linux faras tion por vi.", "_eo"); ?>
-<?php item (spatial_desktop, "Eniru en la novan generacion de labortabloj.", "_eo"); ?>
-<?php item (defragment, "Ĉu via cifereca vivo ŝajnas fragmentigita?", "_eo"); ?>
-<?php item (window_managers, "Elektu la ŝajnon de via labortablo.", "_eo"); ?>
-<?php #item (network_security, "Ni lasu ke la piratoj leku polvon.", "_eo"); ?>
-<?php item (old_and_sluggish, "Kial via Windows iĝas pli malrapida ĉiutage?", "_eo"); ?>
-<?php item (environment, "Medio.", "_eo"); ?>
-<?php item (backdoors, "Sen post-pordoj en via programaro.", "_eo"); ?>
+<?php item ("freedom", "Libereco!", "_eo"); ?>
+<?php item ("all_in_one", "Kiam la operaciumo estas instalita, kial vi<i>ankoraŭ</i> bezonas instali pli?", "_eo"); ?>
+<?php item ("drivers", "Forgesu la pelilojn.", "_eo"); ?>
+<?php item ("global_update", "Aktualigu vian tutan programaron per unu klako.", "_eo"); ?>
+<?php item ("warez", "Kial kopii programaron neleĝe se vi povas akiri ĝin senkoste?", "_eo"); ?>
+<?php item ("search_software", "Ĉu necesas nova programo? Ne zorgu serĉi rete, Linux faras tion por vi.", "_eo"); ?>
+<?php item ("spatial_desktop", "Eniru en la novan generacion de labortabloj.", "_eo"); ?>
+<?php item ("defragment", "Ĉu via cifereca vivo ŝajnas fragmentigita?", "_eo"); ?>
+<?php item ("window_managers", "Elektu la ŝajnon de via labortablo.", "_eo"); ?>
+<?php #item ("network_security", "Ni lasu ke la piratoj leku polvon.", "_eo"); ?>
+<?php item ("old_and_sluggish", "Kial via Windows iĝas pli malrapida ĉiutage?", "_eo"); ?>
+<?php item ("environment", "Medio.", "_eo"); ?>
+<?php item ("backdoors", "Sen post-pordoj en via programaro.", "_eo"); ?>
 <?php item ("help", "Plezuriĝu per senfina kaj senkosta helpo.", "_eo"); ?>
-<?php item (virtual_desktops, "Ĉu tro da fenestroj? Uzu laborspacojn.", "_eo"); ?>
-<?php item (categories, "Sen fuŝoj en via startmenuo.", "_eo"); ?>
-<?php #item (suspend_hibernate, "Ŝparu iom da energio: lasu ke via komputilo dormu aŭ travintru.", "_eo"); ?>
-<?php item (report_bugs, "Sciigu erarojn.", "_eo"); ?>
-<?php item (reboot_all_the_time, "Ĉu vi estas laca restartigi la komputilon daŭre?", "_eo"); ?>
+<?php item ("virtual_desktops", "Ĉu tro da fenestroj? Uzu laborspacojn.", "_eo"); ?>
+<?php item ("categories", "Sen fuŝoj en via startmenuo.", "_eo"); ?>
+<?php #item ("suspend_hibernate", "Ŝparu iom da energio: lasu ke via komputilo dormu aŭ travintru.", "_eo"); ?>
+<?php item ("report_bugs", "Sciigu erarojn.", "_eo"); ?>
+<?php item ("reboot_all_the_time", "Ĉu vi estas laca restartigi la komputilon daŭre?", "_eo"); ?>
 <?php item ("alive", "Lasu al via komputilo havi duan vivon.", "_eo"); ?>
 <?php item ("free_games", "Ludu centojn da ludoj senkoste.", "_eo"); ?>
 <?php item ("other_countries", "Helpu aliajn landojn, kaj vian propran.", "_eo"); ?>

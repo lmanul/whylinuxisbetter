@@ -33,29 +33,29 @@ January 2006, this website has seen 453&nbsp;409 visits
 <div id="items">
 <p>
 <?php item ("viruses", "Forget about viruses.", ""); ?>
-<?php item (stability, "Is your system unstable?", ""); ?>
-<?php item (security, "Linux protects your computer.", ""); ?>
-<?php item (dollars, "Don't pay $100 for your operating system.", ""); ?>
+<?php item ("stability", "Is your system unstable?", ""); ?>
+<?php item ("security", "Linux protects your computer.", ""); ?>
+<?php item ("dollars", "Don't pay $100 for your operating system.", ""); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "Freedom!", ""); ?>
-<?php item (all_in_one, "When the system has installed, why would you <i>still</i> need to install stuff?", ""); ?>
-<?php item (drivers, "Forget about drivers.", ""); ?>
-<?php item (global_update, "Update all your software with a single click.", ""); ?>
-<?php item (warez, "Why copy software illegally if you can get it for free?", ""); ?>
-<?php item (search_software, "Need new software? Don't bother searching the web, Linux gets it for you.", ""); ?>
-<?php item (spatial_desktop, "Jump into the next generation of desktops.", ""); ?>
-<?php item (defragment, "Does your digital life seem fragmented?", ""); ?>
-<?php item (window_managers, "Choose what your desktop looks like.", ""); ?>
-<?php #item (network_security, "Let pirates bite the dust.", ""); ?>
-<?php item (old_and_sluggish, "Why does your Windows get slower day after day?", ""); ?>
-<?php item (environment, "Do something for the environment.", ""); ?>
-<?php item (backdoors, "No back doors in your software.", ""); ?>
+<?php item ("freedom", "Freedom!", ""); ?>
+<?php item ("all_in_one", "When the system has installed, why would you <i>still</i> need to install stuff?", ""); ?>
+<?php item ("drivers", "Forget about drivers.", ""); ?>
+<?php item ("global_update", "Update all your software with a single click.", ""); ?>
+<?php item ("warez", "Why copy software illegally if you can get it for free?", ""); ?>
+<?php item ("search_software", "Need new software? Don't bother searching the web, Linux gets it for you.", ""); ?>
+<?php item ("spatial_desktop", "Jump into the next generation of desktops.", ""); ?>
+<?php item ("defragment", "Does your digital life seem fragmented?", ""); ?>
+<?php item ("window_managers", "Choose what your desktop looks like.", ""); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
+<?php item ("old_and_sluggish", "Why does your Windows get slower day after day?", ""); ?>
+<?php item ("environment", "Do something for the environment.", ""); ?>
+<?php item ("backdoors", "No back doors in your software.", ""); ?>
 <?php item ("help", "Enjoy free and unlimited support.", ""); ?>
-<?php item (virtual_desktops, "Too many windows? Use workspaces.", ""); ?>
-<?php item (categories, "No big mess in your start menu.", ""); ?>
-<?php #item (suspend_hibernate, "Save some energy: let your computer sleep or hibernate.", ""); ?>
-<?php item (report_bugs, "Don't wait years for bugs to be solved; report and track them down.", ""); ?>
-<?php item (reboot_all_the_time, "Are you tired of restarting your computer all the time?", ""); ?>
+<?php item ("virtual_desktops", "Too many windows? Use workspaces.", ""); ?>
+<?php item ("categories", "No big mess in your start menu.", ""); ?>
+<?php #item ("suspend_hibernate", "Save some energy: let your computer sleep or hibernate.", ""); ?>
+<?php item ("report_bugs", "Don't wait years for bugs to be solved; report and track them down.", ""); ?>
+<?php item ("reboot_all_the_time", "Are you tired of restarting your computer all the time?", ""); ?>
 <?php item ("alive", "Let your old computer have a second life.", ""); ?>
 <?php item ("free_games", "Play hundreds of games for free.", ""); ?>
 <?php item ("other_countries", "Help other countries, and your own.", ""); ?>

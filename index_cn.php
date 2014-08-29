@@ -7,29 +7,29 @@
 <div id="items">
 <p>
 <?php item ("viruses", "从此忘却病毒", "_cn"); ?>
-<?php item (stability, "您的系统很不稳定吗？", "_cn"); ?>
-<?php item (security, "Linux 保护着您的电脑", "_cn"); ?>
-<?php item (dollars, "不要为您的操作系统付2000多元", "_cn"); ?>
+<?php item ("stability", "您的系统很不稳定吗？", "_cn"); ?>
+<?php item ("security", "Linux 保护着您的电脑", "_cn"); ?>
+<?php item ("dollars", "不要为您的操作系统付2000多元", "_cn"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "自由！", "_cn"); ?>
-<?php item (all_in_one, "当我安装完系统后，为什么<i>还要</i>安装其他东西？", "_cn"); ?>
-<?php item (drivers, "忘掉驱动程序.", "_cn"); ?>
-<?php item (global_update, "只需要单击一下就可以升级所有软件。", "_cn"); ?>
-<?php item (warez, "为何免费获得的软件拷贝它们不合法？", "_cn"); ?>
-<?php item (search_software, "需要新的软件，不必麻烦到网上搜索，Linux帮你搞定。", "_cn"); ?>
-<?php item (spatial_desktop, "进入下一代桌面时代", "_cn"); ?>
-<?php item (defragment, "您的数字生活看上去是破碎的吗？", "_cn"); ?>
-<?php item (window_managers, "选择您的桌面主题", "_cn"); ?>
-<?php #item (network_security, "Let pirates bite the dust.", "_cn"); ?>
-<?php item (old_and_sluggish, "为什么Windows 会一天比一天慢", "_cn"); ?>
-<?php item (environment, "环境保护", "_cn"); ?>
-<?php item (backdoors, "你的软件中再也没有后门。", "_cn"); ?>
+<?php item ("freedom", "自由！", "_cn"); ?>
+<?php item ("all_in_one", "当我安装完系统后，为什么<i>还要</i>安装其他东西？", "_cn"); ?>
+<?php item ("drivers", "忘掉驱动程序.", "_cn"); ?>
+<?php item ("global_update", "只需要单击一下就可以升级所有软件。", "_cn"); ?>
+<?php item ("warez", "为何免费获得的软件拷贝它们不合法？", "_cn"); ?>
+<?php item ("search_software", "需要新的软件，不必麻烦到网上搜索，Linux帮你搞定。", "_cn"); ?>
+<?php item ("spatial_desktop", "进入下一代桌面时代", "_cn"); ?>
+<?php item ("defragment", "您的数字生活看上去是破碎的吗？", "_cn"); ?>
+<?php item ("window_managers", "选择您的桌面主题", "_cn"); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", "_cn"); ?>
+<?php item ("old_and_sluggish", "为什么Windows 会一天比一天慢", "_cn"); ?>
+<?php item ("environment", "环境保护", "_cn"); ?>
+<?php item ("backdoors", "你的软件中再也没有后门。", "_cn"); ?>
 <?php item ("help", "享受免费无限的帮助于支持", "_cn"); ?>
-<?php item (virtual_desktops, "太多窗口？请使用工作区", "_cn"); ?>
-<?php item (categories, "开始菜单不再混乱.", "_cn"); ?>
-<?php #item (suspend_hibernate, "Save some energy: let your computer sleep or hibernate.", "_cn"); ?>
-<?php item (report_bugs, "轻轻松松报告漏洞（Bugs）", "_cn"); ?>
-<?php item (reboot_all_the_time, "您为不停的重新启动计算机而烦恼吗？", "_cn"); ?>
+<?php item ("virtual_desktops", "太多窗口？请使用工作区", "_cn"); ?>
+<?php item ("categories", "开始菜单不再混乱.", "_cn"); ?>
+<?php #item ("suspend_hibernate", "Save some energy: let your computer sleep or hibernate.", "_cn"); ?>
+<?php item ("report_bugs", "轻轻松松报告漏洞（Bugs）", "_cn"); ?>
+<?php item ("reboot_all_the_time", "您为不停的重新启动计算机而烦恼吗？", "_cn"); ?>
 <?php item ("alive", "您为不停的重新启动计算机而烦恼吗？", "_cn"); ?>
 <?php item ("free_games", "免费享受上百个免费游戏", "_cn"); ?>
 <?php item ("other_countries", "帮助其他国家和您的祖国", "_cn"); ?>

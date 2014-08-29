@@ -18,6 +18,9 @@ function item ($nom, $texte, $suffix) {
 }
 
 function make_title($lang) {
+  if (strlen($lang) != 2) {
+    return "Why Linux is better";
+  }
 	$file = $GLOBALS['website_root_path'] . '/title_' . $lang . '.txt';
 	$content = file ($file);
 	$title = rtrim($content[0]);

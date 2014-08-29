@@ -7,29 +7,29 @@
 <div id="items">
 <p>
 <?php item ("viruses", "Oubliez les virus.", "_fr"); ?>
-<?php item (stability, "Votre système est-il instable ?", "_fr"); ?>
-<?php item (security, "Linux protège votre ordinateur.", "_fr"); ?>
-<?php item (dollars, "Ne payez pas 100 € pour votre système d'exploitation.", "_fr"); ?>
+<?php item ("stability", "Votre système est-il instable ?", "_fr"); ?>
+<?php item ("security", "Linux protège votre ordinateur.", "_fr"); ?>
+<?php item ("dollars", "Ne payez pas 100 € pour votre système d'exploitation.", "_fr"); ?>
 <?php item ("crapware", "Fini les pourriciels.", "_fr"); ?>
-<?php item (freedom, "Liberté !", "_fr"); ?>
-<?php item (all_in_one, "Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?", "_fr"); ?>
-<?php item (drivers, "Ne vous souciez plus des pilotes.", "_fr"); ?>
-<?php item (global_update, "Mettez à jour tous vos logiciels d'un seul clic.", "_fr"); ?>
-<?php item (warez, "Pourquoi pirater des logiciels quand vous pouvez en avoir gratuitement ?", "_fr"); ?>
-<?php item (search_software, "Besoin de nouveaux logiciels ? Ne cherchez pas, Linux les télécharge pour vous. ", "_fr"); ?>
-<?php item (spatial_desktop, "Découvrez la nouvelle génération de bureaux.", "_fr"); ?>
-<?php item (defragment, "Votre vie digitale est-elle fragmentée ?", "_fr"); ?>
-<?php item (window_managers, "Choisissez l'allure de votre bureau.", "_fr"); ?>
-<?php #item (network_security, "Faites mordre la poussière aux pirates.", ""); ?>
-<?php item (old_and_sluggish, "Pourquoi votre Windows est-il de plus en plus lent ?", "_fr"); ?>
-<?php item (environment, "Faites du bien à l'environnement.", "_fr"); ?>
-<?php item (backdoors, "Pas de portes dérobées", "_fr"); ?>
+<?php item ("freedom", "Liberté !", "_fr"); ?>
+<?php item ("all_in_one", "Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?", "_fr"); ?>
+<?php item ("drivers", "Ne vous souciez plus des pilotes.", "_fr"); ?>
+<?php item ("global_update", "Mettez à jour tous vos logiciels d'un seul clic.", "_fr"); ?>
+<?php item ("warez", "Pourquoi pirater des logiciels quand vous pouvez en avoir gratuitement ?", "_fr"); ?>
+<?php item ("search_software", "Besoin de nouveaux logiciels ? Ne cherchez pas, Linux les télécharge pour vous. ", "_fr"); ?>
+<?php item ("spatial_desktop", "Découvrez la nouvelle génération de bureaux.", "_fr"); ?>
+<?php item ("defragment", "Votre vie digitale est-elle fragmentée ?", "_fr"); ?>
+<?php item ("window_managers", "Choisissez l'allure de votre bureau.", "_fr"); ?>
+<?php #item ("network_security", "Faites mordre la poussière aux pirates.", ""); ?>
+<?php item ("old_and_sluggish", "Pourquoi votre Windows est-il de plus en plus lent ?", "_fr"); ?>
+<?php item ("environment", "Faites du bien à l'environnement.", "_fr"); ?>
+<?php item ("backdoors", "Pas de portes dérobées", "_fr"); ?>
 <?php item ("help", "Profitez de hotlines gratuites et illimitées.", "_fr"); ?>
-<?php item (virtual_desktops, "Trop de fenêtres ? Adoptez les espaces de travail.", "_fr"); ?>
-<?php #item (suspend_hibernate, "Économisez de l'énergie: faites dormir ou hiberner votre ordinateur.", "_fr"); ?>
-<?php item (report_bugs, "N'attendez pas des années que les bugs soient 
+<?php item ("virtual_desktops", "Trop de fenêtres ? Adoptez les espaces de travail.", "_fr"); ?>
+<?php #item ("suspend_hibernate", "Économisez de l'énergie: faites dormir ou hiberner votre ordinateur.", "_fr"); ?>
+<?php item ("report_bugs", "N'attendez pas des années que les bugs soient 
 résolus, signalez-les et traquez-les.", "_fr"); ?>
-<?php item (reboot_all_the_time, "Êtes-vous fatigué de redémarrer votre PC 
+<?php item ("reboot_all_the_time", "Êtes-vous fatigué de redémarrer votre PC 
 sans arrêt ?", "_fr"); ?>
 <?php item ("alive", "Donnez une seconde jeunesse à votre vieil ordinateur.", "_fr"); ?>
 <?php item ("free_games", "Jouez à des centaines de jeux gratuitement.", "_fr"); ?>

@@ -29,29 +29,29 @@ January 2006, this website has seen 453&nbsp;409 visits
 <div id="items">
 <p>
 <?php item ("viruses", "Felejtsd el a vírusokat!", "_hu"); ?>
-<?php item (stability, "Instabil a rendszered?", "_hu"); ?>
-<?php item (security, "A Linux védelmet nyújt számítógéped számára", "_hu"); ?>
-<?php item (dollars, "Ne fizess 50-100.000 Ft-ot egy operációs rendszerért!", "_hu"); ?>
+<?php item ("stability", "Instabil a rendszered?", "_hu"); ?>
+<?php item ("security", "A Linux védelmet nyújt számítógéped számára", "_hu"); ?>
+<?php item ("dollars", "Ne fizess 50-100.000 Ft-ot egy operációs rendszerért!", "_hu"); ?>
 <?php item ("crapware", "Nincs több sz*rware.", "_hu"); ?>
-<?php item (freedom, "Szabadság!", "_hu"); ?>
-<?php item (all_in_one, "Ha egyszer már telepítetted a rendszert, miért kellene <i>még mindig</i> telepítgetned?", "_hu"); ?>
-<?php item (drivers, "Felejtsd el az eszközillesztőket!", "_hu"); ?>
-<?php item (global_update, "Frissítsd minden programod egyetlen kattintással!", "_hu"); ?>
-<?php item (warez, "Miért másolnál egy szoftvert illegálisan, amikor ingyen is hozzájuthatsz?", "_hu"); ?>
-<?php item (search_software, "Egy új szoftverre lenne szükséged? Ne bajlódj a neten való keresgéléssel, a Linux megteszi helyetted!", "_hu"); ?>
-<?php item (spatial_desktop, "Ismerd meg az asztalok legújabb generációját!", "_hu"); ?>
-<?php item (defragment, "Csak töredékekként látod a világot?", "_hu"); ?>
-<?php item (window_managers, "Válaszd ki, milyen legyen az asztalod!", "_hu"); ?>
-<?php #item (network_security, "Hadd harapjanak csak a fűbe a crackerek!", "_hu"); ?>
-<?php item (old_and_sluggish, "Miért lesz a Windows napról napra lassabb?", "_hu"); ?>
-<?php item (environment, "Tegyél valamit a környezetért!", "_hu"); ?>
-<?php item (backdoors, "Nincsenek többé backdoorok", "_hu"); ?>
+<?php item ("freedom", "Szabadság!", "_hu"); ?>
+<?php item ("all_in_one", "Ha egyszer már telepítetted a rendszert, miért kellene <i>még mindig</i> telepítgetned?", "_hu"); ?>
+<?php item ("drivers", "Felejtsd el az eszközillesztőket!", "_hu"); ?>
+<?php item ("global_update", "Frissítsd minden programod egyetlen kattintással!", "_hu"); ?>
+<?php item ("warez", "Miért másolnál egy szoftvert illegálisan, amikor ingyen is hozzájuthatsz?", "_hu"); ?>
+<?php item ("search_software", "Egy új szoftverre lenne szükséged? Ne bajlódj a neten való keresgéléssel, a Linux megteszi helyetted!", "_hu"); ?>
+<?php item ("spatial_desktop", "Ismerd meg az asztalok legújabb generációját!", "_hu"); ?>
+<?php item ("defragment", "Csak töredékekként látod a világot?", "_hu"); ?>
+<?php item ("window_managers", "Válaszd ki, milyen legyen az asztalod!", "_hu"); ?>
+<?php #item ("network_security", "Hadd harapjanak csak a fűbe a crackerek!", "_hu"); ?>
+<?php item ("old_and_sluggish", "Miért lesz a Windows napról napra lassabb?", "_hu"); ?>
+<?php item ("environment", "Tegyél valamit a környezetért!", "_hu"); ?>
+<?php item ("backdoors", "Nincsenek többé backdoorok", "_hu"); ?>
 <?php item ("help", "Élvezd az ingyenes és korlátlan támogatást!", "_hu"); ?>
-<?php item (virtual_desktops, "Túl sok az ablak? Használj munkaterületeket!", "_hu"); ?>
-<?php item (categories, "Nincs többé nagy rendetlenség a Start menüdben", "_hu"); ?>
-<?php #item (suspend_hibernate, "Save some energy: let your computer sleep or hibernate.", "_hu"); ?>
-<?php item (report_bugs, "Ne várj éveket arra, hogy kijavítsák a hibákat; jelentsd őket és derítsétek ki, mi okozza!", "_hu"); ?>
-<?php item (reboot_all_the_time, "Belefáradtál már abba, hogy folyton újraindítsd a géped?", "_hu"); ?>
+<?php item ("virtual_desktops", "Túl sok az ablak? Használj munkaterületeket!", "_hu"); ?>
+<?php item ("categories", "Nincs többé nagy rendetlenség a Start menüdben", "_hu"); ?>
+<?php #item ("suspend_hibernate", "Save some energy: let your computer sleep or hibernate.", "_hu"); ?>
+<?php item ("report_bugs", "Ne várj éveket arra, hogy kijavítsák a hibákat; jelentsd őket és derítsétek ki, mi okozza!", "_hu"); ?>
+<?php item ("reboot_all_the_time", "Belefáradtál már abba, hogy folyton újraindítsd a géped?", "_hu"); ?>
 <?php item ("alive", "Adj még egy esélyt veterán számítógépednek!", "_hu"); ?>
 <?php item ("free_games", "Játssz játékok százaival ingyen!", "_hu"); ?>
 <?php item ("other_countries", "Segíts más országokon és a sajátodon!", "_hu"); ?>

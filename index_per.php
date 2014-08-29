@@ -23,28 +23,28 @@
 <div id="items">
 <p>
 <?php item ("viruses", "ويروسها رو فراموش كنيد", "_per"); ?>
-<?php item (stability, "سيستمتون ناپايداره؟", "_per"); ?>
-<?php item (security, "ينوكس از كامپيوتر شما محافظت مي&zwnj;كنه", "_per"); ?>
-<?php item (dollars, "راي سيستم عاملتون 100 دلار نپردازيد", "_per"); ?>
+<?php item ("stability", "سيستمتون ناپايداره؟", "_per"); ?>
+<?php item ("security", "ينوكس از كامپيوتر شما محافظت مي&zwnj;كنه", "_per"); ?>
+<?php item ("dollars", "راي سيستم عاملتون 100 دلار نپردازيد", "_per"); ?>
 <?php item ("crapware", "No more c**pware.", ""); ?>
-<?php item (freedom, "زادي!", "_per"); ?>
-<?php item (all_in_one, "وقتي سيستم نصب شد چرا شما بايد هنوز نصب كنيد؟", "_per"); ?>
-<?php item (drivers, "Forget about drivers.", ""); ?>
-<?php item (global_update, "همه نرم افزارهاتون رو با يك كليك به روز كنيد.", "_per"); ?>
-<?php item (warez, "چرا وقتي نرم&zwnj;افزار رو مجاني ميشه گرفت كپي غير قانوني كنيم؟", "_per"); ?>
-<?php item (search_software, "ه نرم&zwnj;افزار جديدي نياز داريد؟خودتون رو با جستجو توي اينترنت اذيت نكنيد!لينوكس براي شما مي&zwnj;گيرتش.", "_per"); ?>
-<?php item (spatial_desktop, "Jump into the next generation of desktops.", ""); ?>
-<?php item (defragment, "زندگي ديجيتالتون متفرق شده؟", "_per"); ?>
-<?php item (window_managers, "خودتون شكل ميزكارتون رو انتخاب كنيد.", "_per"); ?>
-<?php #item (network_security, "Let pirates bite the dust.", ""); ?>
-<?php item (old_and_sluggish, "چرا ويندوز روز به روز كندتر ميشه؟", "_per"); ?>
-<?php item (environment, "Do something for the environment.", ""); ?>
-<?php item (backdoors, "No back doors in your software.", ""); ?>
+<?php item ("freedom", "زادي!", "_per"); ?>
+<?php item ("all_in_one", "وقتي سيستم نصب شد چرا شما بايد هنوز نصب كنيد؟", "_per"); ?>
+<?php item ("drivers", "Forget about drivers.", ""); ?>
+<?php item ("global_update", "همه نرم افزارهاتون رو با يك كليك به روز كنيد.", "_per"); ?>
+<?php item ("warez", "چرا وقتي نرم&zwnj;افزار رو مجاني ميشه گرفت كپي غير قانوني كنيم؟", "_per"); ?>
+<?php item ("search_software", "ه نرم&zwnj;افزار جديدي نياز داريد؟خودتون رو با جستجو توي اينترنت اذيت نكنيد!لينوكس براي شما مي&zwnj;گيرتش.", "_per"); ?>
+<?php item ("spatial_desktop", "Jump into the next generation of desktops.", ""); ?>
+<?php item ("defragment", "زندگي ديجيتالتون متفرق شده؟", "_per"); ?>
+<?php item ("window_managers", "خودتون شكل ميزكارتون رو انتخاب كنيد.", "_per"); ?>
+<?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
+<?php item ("old_and_sluggish", "چرا ويندوز روز به روز كندتر ميشه؟", "_per"); ?>
+<?php item ("environment", "Do something for the environment.", ""); ?>
+<?php item ("backdoors", "No back doors in your software.", ""); ?>
 <?php item ("help", "ز پشتيباني رايگان و نامحدود لذت ببريد.", "_per"); ?>
-<?php item (virtual_desktops, "پنجره&zwnj;ها زيادند؟از فضاهاي كاري استفاده كنيد", "_per"); ?>
-<?php #item (suspend_hibernate, "در مصرف انرژي صرفه جويي كنيد:كامپيوترتون رو به خواب زمستاني ببريد.", "_per"); ?>
-<?php item (report_bugs, "گزارش كردن خطاها", "_per"); ?>
-<?php item (reboot_all_the_time, "آيا از راه&zwnj;اندازي مجدد كردن هميشگي كامپيوترتون خسته شديد؟", "_per"); ?>
+<?php item ("virtual_desktops", "پنجره&zwnj;ها زيادند؟از فضاهاي كاري استفاده كنيد", "_per"); ?>
+<?php #item ("suspend_hibernate", "در مصرف انرژي صرفه جويي كنيد:كامپيوترتون رو به خواب زمستاني ببريد.", "_per"); ?>
+<?php item ("report_bugs", "گزارش كردن خطاها", "_per"); ?>
+<?php item ("reboot_all_the_time", "آيا از راه&zwnj;اندازي مجدد كردن هميشگي كامپيوترتون خسته شديد؟", "_per"); ?>
 <?php item ("alive", "به كامپيوتر قديمي خود جان تازه&zwnj;اي ببخشيد.", "_per"); ?>
 <?php item ("free_games", "صدها بازي رو رايگان انجام بدين", "_per"); ?>
 <?php item ("other_countries", "به كشورهاي ديگه و كشور خودتون كمك كنيد", "_per"); ?>
