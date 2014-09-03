@@ -10,7 +10,7 @@
 
 <p>Ha Linuxot használsz és szabad szoftvereket telepítesz, többé nem kell ezek miatt aggódnod! A legtöbb szabad szoftver ingyenes és a legtöbb kereskedelmi szoftvernek megtalálható a szabad változata. Esetleg hiányzik belőlük egy-két haladó funkció, de ez így is több a kelleténél egy átlagos felhasználó számára. Itt egy lista a kereskedelmi szoftverekről és a nyílt forráskódú megfelelőjükről:</p>
 
-<?
+<?php
 
 table_parser ("Igen", "Nem", "Kereskedelmi", "Nyílt forráskódú", "Fut Windows-on?");
 

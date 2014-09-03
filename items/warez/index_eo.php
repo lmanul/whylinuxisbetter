@@ -10,7 +10,7 @@
 
 <p>Se vi uzas Linux kaj instalas liberan programaron, vi ne havos zorgojn pri tio iam! La plejmulta programaro estas senkosta. Vi povas trovi liberajn anstataŭojn por la plejmulta komerca programaro kiu estas tie. Ili povas malhavi kelkajn specialajn aĵojn, sed ili estos tre sufiĉaj por la plejmultaj homoj. Jen listo kun kelkaj komercaj programoj kaj siaj egalvaloraj liber-kodaj programoj:</p>
 
-<?
+<?php
 
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");

@@ -10,7 +10,7 @@
 
 <p>Hvis du kjører Linux og installerer fri programvare, trenger du ikke å bekymre deg for dette igjen! Det meste av fri (som i ytringsfrihet) programvare er også gratis (som i «gratis øl»). Det finnes en gratis erstatter for så å si all kommersiell programvare. Det kan hende at de mangler noe av de mest avanserte funksjonene, men for de aller fleste mennesker tilbyr de mer enn nok. Her er en liste over noe kommersiell programvare, og deres «Open source»-erstattere:</p>
 
-<?
+<?php
 
 table_parser ("Ja", "Nei", "Kommersiell", "Open source", "Tilgjengelig på Windows?");
 

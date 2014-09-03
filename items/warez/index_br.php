@@ -10,7 +10,7 @@
 
 <p>Se você usa Linux e instala programas livres, não precisa se preocupar com isso de novo ! A maioria dos programas livres são grátis. Você pode encontrar um substituto livre para a maioria dos programas comerciais por aí. Eles podem carecer de algumas funções avançadas, mas eles serão mais que o suficiente para a maioria das pessoas. Aqui está uma lista de alguns programas comerciais, e seus equivalentes open source.</p>
 
-<?
+<?php
 
 table_parser ("Sim", "Não", "Comercial", "Open source", "Existe no Windows?");
 

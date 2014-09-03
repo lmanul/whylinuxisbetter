@@ -27,7 +27,7 @@ jednak w większości sytuacji ich możliwości w zupełności wystarczą.
 Poniżej znajduje się lista komercyjnych programów, wraz z ich darmowymi
 i otwartymi odpowiednikami:</p>
 
-<?
+<?php
 
 table_parser ("Tak", "Nie", "Program", "Darmowy odpowiednik", "Czy istnieje dla systemu Windows?");
 

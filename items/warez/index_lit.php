@@ -10,7 +10,7 @@
 
 <p>Jeigu Jūs naudosite Linux'us ir naudosite nemokamą programinę įrangą, dėl to nebereikės pergyventi niekada!  Dauguma mokamų programų turi nemokamą alternatyvą. Kai kurios iš jų gali turėti nežymų trūkumą (neturėti tam tikrų galimybių), tačiau daugumai kompiuterio naudotojų jų pilnai užtenka. Štai kai kurių mokamų programų bei jų nemokamų alternatyvų sąrašas:</p>
 
-<?
+<?php
 
 table_parser ("Taip", "Ne", "Komercinės (mokamos)", "Nemokamos (atviro kodo)", "Ar egzistuoja Windows'uose?");
 

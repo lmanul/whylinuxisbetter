@@ -10,7 +10,7 @@
 
 <p>Se usas Linux e instalas software libre, non vas ter que preocuparte por isto nunca máis! A maioría do software libre é gratis. Podes atopar substitucións libres para a maioría do software comercial que hai por aí. Poderán carecer dalgunhas das funcionalidades avanzadas pero serán máis que suficientes para a maioría de persoas. Aquí hai unha lista dalgúns software comerciais e os seus equivalentes de software de código aberto:</p>
 
-<?
+<?php
 
 table_parser ("Sí", "Non", "Comercial", "Código Aberto", "Existe en Windows?");
 

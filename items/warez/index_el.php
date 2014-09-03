@@ -28,7 +28,7 @@
 μια λίστα από κάποια εμπορικά προγράμματα, και τα αντίστοιχα προγράμματα
 ανοιχτού κώδικα :</p>
 
-<?
+<?php
 
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");

@@ -24,7 +24,7 @@ funkcionalnosti, ali će biti više nego dovoljan za većinu ljudi.
 Evo liste nekih komercijalnih programa i njihovog open source ekvivalentas :</p>
 
 
-<?
+<?php
 
 table_parser ("Da", "Ne", "Komercijalni", "Open source", "Postoji za
 Windows?");

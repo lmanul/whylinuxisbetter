@@ -10,7 +10,7 @@
 
 <p>Eğer Linux kullanıyorsanız, büyük ihtimalle tüm yazılımlarınız ücretsizdir, ve bu tip konularda asla endişe etmezsiniz. Genelde tüm ücretsiz yazılımlar, ücretli olanların yerini başarıyla doldurabilirler. İşte, ücretli yazılımların ücretsiz ve açık kaynak alternatifleri: </p>
 
-<?
+<?php
 
 table_parser ("Evet", "Hayır", "Ücretli", "Açık kaynak", "Windows da Var mı?");
 

@@ -22,7 +22,7 @@ geavanceerde functies missen, maar voor de meeste mensen zal het gratis alternat
 meer dan genoeg mogelijkheden bevatten. Hier is een lijst van commerciële software
 en hun opensource-equivalenten:</p>
 
-<?
+<?php
 
 table_parser ("Ja", "Nee", "Commercieel", "Open source", "Bestaat op 
 Windows?");

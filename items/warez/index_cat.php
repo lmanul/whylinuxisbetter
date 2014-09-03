@@ -27,7 +27,7 @@ avançades funcionalitats, però serà més que suficient per a la majoria
 de la gent. Aquí tens una llista d'un poc de programari comercial i el 
 seu equivalent lliure:</p>
 
-<?
+<?php
 
 table_parser ("Sí", "No", "Comercial", "Programari lliure", "Existeix al 
 Windows ?");

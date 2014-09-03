@@ -10,7 +10,7 @@
 
 <p>Wenn du Linux laufen hast und freie Software installierst, wirst du dir darüber niemals wieder Sorgen machen müssen! Die meiste Freie (wie in RedeFREIheit) Software ist frei (wie in FREIbier). Du kannst freien Ersatz f&uuml;r den Gro&szlig;teil kommerzieller Software finden. Manchen von ihnen mag die eine oder andere fortgeschrittene Funktion fehlen, aber f&uuml;r die meisten Nutzer sind sie mehr als ausreichend. Hier ist eine Liste einiger kommerzieller Software nebst Open-Source-&Auml;quivalent:</p>
 
-<?
+<?php
 
 table_parser ("Ja", "Nein", "Kommerziell", "Open Source", "Existiert für Windows?");
 

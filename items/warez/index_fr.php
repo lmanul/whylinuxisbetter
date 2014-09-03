@@ -28,7 +28,7 @@ plus subtiles et avancées du logiciel commercial, mais il suffira très
 largement pour la plupart des utilisateurs. Voici une petite liste de 
 logiciels commerciaux et de leurs équivalents libres :</p>
 
-<?
+<?php
 
 table_parser ("Oui", "Non", "Commercial", "Libre", "Existe sous Windows 
 ?");

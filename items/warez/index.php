@@ -25,7 +25,7 @@ functionality, but they'll be more than enough for most people.
 Here's a list of some commercial software, and their open source 
 equivalents :</p>
 
-<?
+<?php
 
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");

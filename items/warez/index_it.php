@@ -23,7 +23,7 @@ commerciale esistente. Potrebbero mancare di funzionalità avanzate, ma
 saranno più che sufficienti per molti. Ecco una lista di qualche programma 
 commerciale e il/i rispettivo/i equivalenti:</p>
 
-<?
+<?php
 
 table_parser ("Sì", "No", "Commerciale", "Open source", "Esiste su 
 Windows?");

@@ -10,7 +10,7 @@
 
 <p>Jika kamu menjalankan Linux dan menggunakan perangkat lunak <i>free</i>, kamu tidak perlu khawatir tentang hal ini! Sebagian besar dari perangkat lunak <i>free</i> (seperti pada "free speech" / kebebasan berbicara) adalah gratis (seperti pada "gratis minuman"). Kamu bisa mencari pengganti untuk sebagian besar perangkat lunak komersial di dunia ini. Mungkin masih ada kekurangan dalam fungsionalitas mereka, tetapi ini sudah lebih dari cukup bagi kebanyakan orang. Berikut ini adalah daftar perangkat lunak komersial, dan padanannya dengan perangkat lunak open source:</p>
 
-<?
+<?php
 
 table_parser ("Ya", "Tidak", "Komersial", "Source Terbuka", "Ada di
 Windows?");

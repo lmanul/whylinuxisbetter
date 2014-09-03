@@ -11,7 +11,7 @@ og ingen kan pege fingre ad dig? Ok, hvis det er tilfældet, tillykke :)</p>
 
 <p>Hvis du kører Linux og installerer fri software skal du aldrig bekymre dig om dette igen! Det meste frie software (fri som i "ytringsfrihed") er også gratis. Man kan finde en erstatning til de fleste programmer der ude nutildags. De mangler måske nogle meget avancerede funktioner, men de er ofte rigeligt udstyrede til almindelige brug. Her er en liste af kommerciel software, samt dets Open Source erstatning :</p>
 
-<?
+<?php
 
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");

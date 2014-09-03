@@ -18,7 +18,7 @@ chương trình đều miễn phí. Bạn có thể tìm các chương trình t�
 thương mại. Vài chương trình có thể chưa hoàn thiện, nhưng quá đủ cho mọi người. 
 Dây là danh sách các phần mềm thương mại và phiên bản mã nguồn mở tương đương:</p>
 
-<?
+<?php
 
 table_parser ("Có", "Không", "Thương Mại", "Mã Nguồn Mở", "Chạy trên Windows ?");
 

@@ -10,7 +10,7 @@
 
 <p>No ak použijete Linux a nainštalujete si slobodný softvér, o toto sa už nikdy nebudete musieť starať! Väčšina slobodného softvéru je zadarmo (naozaj zadarmo). Dá sa nájsť bezplatná náhrada za veľkú väčšinu komerčného softvéru. Môže im chýbať niekoľko pokročilých funkcií, ale aj tak budú pre väčšinu ľudí viac ako dostatočné. Tu je tabuľka niekoľkých komerčných programov, a ich slobodných ekvivalentov:</p>
 
-<?
+<?php
 
 table_parser ("Áno", "Nie", "Komerčný", "Slobodný", "Existuje aj na Windows?");
 

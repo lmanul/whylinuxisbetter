@@ -10,7 +10,7 @@
 
 <p>Om du kör Linux och installerar fri mjukvara kommer du aldig någonsin att behöva oroa dig för detta! Den mesta programvaran är fri (fri som i fritt tal) mjukvara (som i gratis öl). Du kan hitta motsvarigheter mot den mesta av de kommersiella programmen. Du kanske saknar den komplexa funktionaliteten, men den du får är ofta tillräcklig för en vanlig dödlig. Här är en lista med kommersiell mjukvara och dess öppna motsvarigheter:</p>
 
-<?
+<?php
 
 table_parser ("Ja", "Nej", "Kommersiell", "Öppen mjukvara", "Finns på Windows?");
 

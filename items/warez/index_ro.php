@@ -21,7 +21,7 @@ Puteţi găsi un înlocuitor pentru aproape toate software-urile comerciale. Poa
 unele abilităţi aşa de avansate dar vor fi mai mult decât suficient pentru majoritatea
 oamenilor. Aici e o listă cu nişte software-uri comerciale şi alternativele lor open source:</p>
 
-<?
+<?php
 
 table_parser ("Da", "Nu", "Comercial", "Open source", "Există pe Windows?");
 
