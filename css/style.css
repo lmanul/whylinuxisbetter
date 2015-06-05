@@ -76,6 +76,7 @@ div.item {
   font-weight: 400;
   background-color: white;
   box-shadow: 5px 5px 9px #bbb;
+  border-radius:5px;
 }
 
 div.item p {
