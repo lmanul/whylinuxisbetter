@@ -8,7 +8,7 @@
 
 <p>Plaats de cd in de lezer, klik op de installatiewizard, wacht, werp de cd uit, herstart de computer.</p>
 
-<p>Als u hardware een tijd geleden gekocht hebt en opnieuw gebruikt op een andere coputer, zult u wellicht de cd overslaan en meteen naar de website van de fabrikant surfen waar u de laatste versie van de driver kan downloaden. Dit kan een tijd duren, gezien de soms vreemd georganiseerde structuur van websites van fabrikanten.</p>
+<p>Als u hardware een tijd geleden gekocht hebt en opnieuw gebruikt op een andere computer, zult u wellicht de cd overslaan en meteen naar de website van de fabrikant surfen waar u de laatste versie van de driver kan downloaden. Dit kan een tijd duren, gezien de soms vreemd georganiseerde structuur van websites van fabrikanten.</p>
 
 <p>Ok, dat was slechts één stuk hardware. Stel u voor dat u Windows wilt installeren op een nieuwe, ongerepte computer. Voor elk stuk hardware moet u de laatste driver vinden (of een cd gebruiken), deze installeren en herstarten. Videokaart, geluidskaart, toetsenbord, muis, moederbordchipset, enz. (best eerst de videokaartdriver installeren, of u heeft een high-end scherm met een lage resolutie-modus). En dit komt allemaal erbij na de eerder lange Windows-installatie.</p>
 
