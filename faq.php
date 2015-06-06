@@ -82,8 +82,8 @@ suggestions for other KDE (and GNOME!) apps.</p> </li>
 
 <li><p><b>Q: What the hell do you know about Linux anyway ?</b></p> 
 <p>A: Probably not as much as I should! I'm a member of Ubuntu, I have 
-been using Linux since ~1998, wrote a few pocket books (in French) about 
-some Open Source software (Firefox, Linux, etc.). But I'm trying to fix 
+been using Linux since ~1998, wrote a few paperback books (in French) about 
+Open Source software (Firefox, Linux, etc.). But I'm trying to fix 
 that, I just ordered the "Understand the Linux kernel" book (by the time 
 you read this, I may have finished reading it, understood all there is 
 to know about Linux and want to create my own version, which I'll 
