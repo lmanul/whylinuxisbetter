@@ -45,7 +45,7 @@ trying to make more people get to know about Linux.</p>
 <a name="gnu"><li><p><b>Q: It's GNU/Linux, not Linux,
 stupid!</b></a></p>
 
-<p>A: On a website for advanced Linux users, detail like this would matter,
+<p>A: On a website for advanced Linux users, details like this would matter,
 however I am wanting to keep things fairly simple. People heard of "Linux", not 
 "GNU/Linux", and this kind of geeky quarrel is probably one of the 
 things that prevent "normal" people from understanding what this is all 
