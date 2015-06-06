@@ -92,12 +92,13 @@ undoubtedly call "Manux" -- okay, maybe not).</p> </li>
 <a name="gaming"><li><p><b>Q: You said gamers shouldn't switch to Linux, 
 but don't you know about Wine, Cedega, Steam? These work fine for a growing 
 number of Windows games.</b></p>
-<p>A: I agree that various software
-solutions make running Windows games under Linux much easier than it
-used to be. This is a good solution for casual gamers. However, note
-that I used the expression "hardcore gamers", the ones who buy the most
-recent games and overclock their CPUs to get better performance; I doubt
-that these are willing to make that kind of compromise.</p>
+
+<p>A: I agree that various software solutions make running Windows games 
+under Linux much easier than it used to be, and more and more games are 
+available natively in Linux thanks to platforms like Steam. However, 
+note that I used the expression "hardcore gamers", the ones who buy the 
+most recent games and overclock their CPUs to get better performance; I 
+doubt that these are willing to make that kind of compromise.</p>
 
 <p>If you're still unconvinced, please try the following thought experiment.
 Imagine your best friend is a hardcore gamer. He or she plays games several
