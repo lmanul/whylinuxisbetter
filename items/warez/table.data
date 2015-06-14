@@ -12,7 +12,7 @@ Kazaa:0:aMule, eMule:1
 Microsoft Excel:200:LibreOffice Spreadsheet:1
 Microsoft Internet Explorer:0:Firefox, Chrome, Konqueror:1
 Microsoft Office:400:LibreOffice:1
-Microsoft Windows Mail:0:Thunderbird, Evolution, KMail:1
+Microsoft Windows Mail:0:Thunderbird, Evolution, KMail, Geary:1
 Microsoft Powerpoint:200:LibreOffice Presentation:1
 Microsoft Windows Media Player:0:Mplayer, VLC, Totem, Kaffeine, Xine:1
 Microsoft Word:200:LibreOffice Word Processor:1
