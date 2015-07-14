@@ -10,6 +10,6 @@
 
 <p>За допомогою Pidgin – програми передачі повідомлень для Linux (існує її Windows-версія) або за допомогою Kopete ти можеш використовувати всі служби одразу та бачити всіх своїх друзів в одному списку.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

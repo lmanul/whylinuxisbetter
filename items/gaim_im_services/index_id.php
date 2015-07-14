@@ -8,6 +8,6 @@
 
 <p>Dengan Pidgin, layanan pesan instan untuk Linux (tersedia pula untuk Windows, dan juga bagi Mac OS X dengan nama "Adium"), kamu bisa menyambungkan semua layanan sekaligus, dengan satu program ini, dan temui semua kawanmu dalam waktu yang bersamaan.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

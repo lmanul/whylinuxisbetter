@@ -14,6 +14,6 @@ równocześnie, ułatwia też wspólne nimi zarządzanie, pod ręką masz
 też informacje na temat dostępności wszystkich swoich znajomych
 ze wszystkich sieci / komunikatorów <i>równocześnie</i>.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

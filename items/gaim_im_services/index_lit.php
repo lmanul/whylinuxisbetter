@@ -10,6 +10,6 @@
 ir Windows'ams skirta versija), galite prisijungti prie &#353;i&#371; 
 tarnyb&#371; vienu metu ir matyti visus draugus i&#353; karto.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

@@ -8,6 +8,6 @@
 
 <p>Linux için (Windows ve Mac OS X' te de kullanılabilmektedir) anında mesaj programı Pidgin ile bütün bu servislere tek program ile bağlanabilir ve bütün dostlarınıza ulaşabilirsiniz.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

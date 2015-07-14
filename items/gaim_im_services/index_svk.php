@@ -10,6 +10,6 @@ Messenger pre MSN, ICQ pre ICQ, atď.</p>
 
 <p>S Pidgin-on, komunikátorom pre Linux (existuje aj verzia pre Windows, a tiež aj pre Mac OS X s názvom "Adium"), sa možete pripojiť ku všetkým týmto službám naraz, iba s týmto jediným programom, a vidieť všetkých svojich známych naraz.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

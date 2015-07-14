@@ -8,6 +8,6 @@
 
 <p>Mit Pidgin, dem Instant Messenger für Linux (den es auch für Windows und unter dem Namen „Adium“ für Mac OS X gibt) kannst du alle Dienste auf einmal, in diesem einen Programm, nutzen und alle deine Buddys zusammen in einer einzigen Liste sehen.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

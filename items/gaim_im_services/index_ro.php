@@ -14,6 +14,6 @@ Windows de asemenea, şi pentru Mac OS X cu numele "Adium"), puteţi să vă
 conectaţi la toate aceste servicii simultan, cu un singur program, şi să vă
 vizualizaţi prietenii în acelaşi timp.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

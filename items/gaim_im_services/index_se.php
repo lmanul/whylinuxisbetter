@@ -14,6 +14,6 @@ också, precis som till Mac OS X (under namnet "Adium")), kan du
 ansluta till alla dessa protokoll samtidigt och se alla dina vänner 
 simultant.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

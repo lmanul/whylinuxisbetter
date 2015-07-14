@@ -13,7 +13,7 @@ Messenger za MSN, ICQ za ICQ, itd.</p>
 Windows), možete se konektovati na sve ove servise odjednom, sa samo 
 jednim programom, i videti sve Vaše kontakte u isto vreme.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div>
 </body>

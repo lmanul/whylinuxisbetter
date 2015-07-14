@@ -14,6 +14,6 @@ Windows, ενώ στο Mac OS X ονομάζεται "Adium"), μπορείτε 
 σε όλες αυτές τις υπηρεσίες ταυτόχρονα, με αυτό το μοναδικό πρόγραμμα, 
 και να δείτε όλες τις επαφές σας με την μία.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

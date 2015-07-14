@@ -11,6 +11,6 @@ Messenger for MSN, ICQ for ICQ, etc.</p>
 
 <p>Med Pidgin, chat-programmet til Linux (det findes også til Windows og Mac OS X med navnet "Adium"), kan du forbinde dig til alle disse tjenester på én gang, og se alle dine venner samlet, i stedet for at sprede dem ud over flere programmer.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

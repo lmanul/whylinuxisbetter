@@ -12,6 +12,6 @@
 现在也有Windows下的版本，在Mac OS系统中更名为“Adium”），您可以只使用这
 一个程序同时连接不同种账号的服务，同时与您的所有朋友联系。</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

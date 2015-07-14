@@ -14,6 +14,6 @@ istantanea per Linux (Pidgin esiste anche per Windows), puoi connetterti
 a tutti questi servizi insieme, con un un unico programma, e vedere tutti 
 i tuoi contatti di diversi account insieme.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

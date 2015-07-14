@@ -8,6 +8,6 @@
 
 <p>Pidgin 是 Linux 上的即時通訊軟體（它也有 Windows 版本，在 Mac OS X 上則叫做「Adium」），透過它你可以一次連上所有服務，並且能夠同時看見你的所有朋友。</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

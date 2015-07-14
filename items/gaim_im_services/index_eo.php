@@ -8,6 +8,6 @@
 
 <p>Per Pidgin, la tujmesaĝilo de Linux (ĝi ekzistas por Windows ankaŭ, kaj por Mac OS sub la nomo "Adium"), vi povas ensaluti ĉiujn samtempe, per ĉi tiu sola programo, kaj vidi ĉiujn viajn geamikojn samtempe.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>

@@ -14,6 +14,6 @@ cadascun d'ells : MSN Messenger per al MSN, ICQ per al ICQ, etc.</p>
 a la vegada, amb el mateix programa, i veure als teus col·legues a la 
 mateixa vegada.</p>
 
-<img src="Images/gaim_im_services" />
+<img src="Images/gaim_im_services.png" />
 
 </div> </body> </html>
