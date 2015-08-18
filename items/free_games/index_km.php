@@ -9,7 +9,7 @@
 
 <div id="items">
 
-<? all_games_from_file ();?>
+<?php all_games_from_file ();?>
 
 <br class="clearboth" />
 </div>

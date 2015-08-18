@@ -9,7 +9,7 @@ game online... Đây là vài ví dụ:</p>
 
 <div id="items">
 
-<? all_games_from_file (); ?>
+<?php all_games_from_file (); ?>
 
 <br class="clearboth" />
 </div>

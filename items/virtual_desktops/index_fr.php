@@ -22,7 +22,7 @@ messagerie instantanée. Sur le troisième, votre navigateur internet.
 Lorsque vous écrivez quelque chose dans votre traitement de texte et 
 vous voulez vérifier une information sur le web, pas la peine de passer 
 en revue toutes vos fenêtes à la recherche du navigateur qui s'est 
-glissé tout au fond, derrière tout le monde. You passez simplement à 
+glissé tout au fond, derrière tout le monde. Vous passez simplement à 
 votre troisième écran, et le voilà.</p>
 
 <p>Jetez un coup d'oeil à la capture d'écran ci-dessous, et regardez 
