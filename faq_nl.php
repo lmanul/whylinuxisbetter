@@ -68,7 +68,7 @@ href="http://www.manucornet.net/Informatique/Gimp_Texturize.php">GIMP-Texturize?
 <p>A: Ja, je hebt me :) Maar <a 
 href="http://jb.rouquier.free.fr/">Jean-Baptiste Rouquier</a> maakte ook de helft. Ok, meer. Huh, volgende vraag graag.</p>
 
-<li><p><b>V: Hey, was jij niet een van de <a href=http://code.google.com/summerofcode.html">Google's Summer of Code</a>-mensen, een van de 400-uit-9000 gekozen hackers?</b></p>
+<li><p><b>V: Hey, was jij niet een van de <a href="http://code.google.com/summerofcode.html">Google's Summer of Code</a>-mensen, een van de 400-uit-9000 gekozen hackers?</b></p>
 
 <p>A: Ja. Maar ik had geluk: Ik verzond 8000 van de 9000 projectenvoorstellen, en één ervan werd goedgekeurd. Ok, ik had twee keer geluk (2005, 2006). Volgend jaar ben ik van plan mijn automatische project generator Open Source te maken.</p>
 
