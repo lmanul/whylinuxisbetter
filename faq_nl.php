@@ -29,10 +29,6 @@
 
 <p>A: Ja, ik weet het. En ik werk eraan. Volgende vraag graag.</p>
 
-<li><p><b>V: Ik wil graag meehelpen met het vertalen van de website in mijn taal, hoe doe ik dat?</b></p>
-
-<p>A: Graag! Voel je vrij om mij te e-mailen naar <a href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>. En als Engels uw moedertaal is, e-mail a.u.b. alle fouten die u gevonden hebt naar mij, zodat ik de fouten kan herstellen.</p>
-
 <li><p><b>V: U hebt het vooral over GNOME en Ubuntu, hebt u iets tegen KDE en andere distributies?</b></p>
 
 <p>A: Natuurlijk niet. Ik gebruik veel KDE-programma's (en als al die inspanningen waarmee wordt geruzied over of GNOME beter is of KDE in het verbeteren van compatibiliteit tussen KDE en GNOME zou worden gestopt, zou ik heel blij zijn). En op mijn screenshots is meestal Ubuntu te zien omdat ik die gebruik en er voor ontwikkel. Het is onnodig te zeggen, dat als u betere screenshots heeft deze naar mij mag mailen. U zou kunnen opmerken dat ik een stuk heb over AmaroK, aarzel niet om mij suggesties te sturen over andere KDE-programma's (en GNOME!).</p>

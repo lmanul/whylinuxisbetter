@@ -59,18 +59,6 @@ jest do bani.</b></p>
 <p>O: Tak, wiem o tym. Pracuję nad tym. Następny proszę!</p>
 </li>
 
-<li><p><b>P: Chciałbym wziąć udział w tworzeniu tej strony i przetłumaczyć
-ją na mój język, czy jesteś zainteresowany?</b></p>
-<p>O: Zdecydowanie tak! Skontaktuj się ze mną pod adresem <a 
-href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>.
-Jeśli natomiast Twoim językiem ojczystym jest angielski, proszę, przejrzyj
-angielską wersję tej strony i zgłoś poprawki pod w/w adresem. <i>[to samo
-tyczy się błędów dot. polskiego tłumaczenia tej strony - proszę wtedy
-o przesyłanie poprawek na adres michals&nbsp;(zawijas)&nbsp;math.uni.lodz.pl.
-- przyp. tłum. ]</i></p>
-
-</li>
-
 <li><p><b>P: Wydajesz się koncentrować na GNOME i Ubuntu. Czyżby jakiś uraz
 do KDE i innych dystrybucji?</b></p> <p>O: Oczywiście że nie. Bardzo sobie
 cenię KDE i często używam aplikacji z KDE (gdyby tak cały wysiłek trolli

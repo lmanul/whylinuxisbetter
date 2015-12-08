@@ -55,12 +55,6 @@ risposte... Oh, mamma! Sono veramente stupido.</p>
 <p>R: Sì, lo so. Ci sto lavorando. Passiamo appresso, per favore!</p>
 </li>
 
-<li><p><b>D: Vorrei contribuire traducendo il sito nella mia lingua, sei interessato?</b></p>
-<p>R: Assolutamente! Sentiti libero di inviarmi un'email a <a 
-href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>. 
-E se sei un inglese madrelingua, per favore riportami le prove del mio povero inglese allo stesso indirizzo, in modo che possa correggere i miei errori.</p>
-</li>
-
 <li><p><b>D: Sembri concentrarti su GNOME e Ubuntu. Hai avuto brutte 
 impressioni di KDE e delle altre distribuzioni?</b></p> 
 <p>R: Certo che no. Adoro KDE e uso molte sue applicazioni (se tutta la 

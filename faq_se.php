@@ -32,12 +32,6 @@ tokstålle!</b></a></p>
 <p>A: Ja, jag vet. Och jag jobbar på det. Gå vidare, tack.</p>
 </li>
 
-<li><p><b>Q: Jag vill hjälpa till genom att översätta hemsidan till mitt språk – är du intresserad?</b></p>
-<p>A: Absolut! Skicka ett mejl till <a 
-href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>. 
-Och om du är grym på engelska, var snäll att skicka bevis på min egen dåliga engelska genom att skicka ett mejl till samma adress som ovan, så att jag kan rätta mina misstag.</p>
-</li>
-
 <li><p><b>Q: Du verkar fokusera väldigt mycket på GNOME och Ubuntu. Varför inte KDE och andra distributioner?</b></p> <p>A: Jag älskar och använder massvis av KDE-applikationer. Mina skärmavbilder visar ofta Ubuntu eftersom att det är den distributionen jag använder och utvecklar till. Du kan alltid skicka andra skärmavbildningar till mig om du känner för det. Du kanske har sett att jag har ett speciellt avsnitt för AmaroK, tveka inte att skicka in mer information om andra KDE/GNOME-program.</p> </li>
 
 <li><p><b>Q: När allt kommer omkring, vad vet du om Linux?</b></p> 
