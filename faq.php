@@ -62,14 +62,6 @@ answers... Oh boy, I really am stupid.</p>
 <p>A: Yeah, I know. And I'm working on it. Pass the rod, please.</p>
 </li>
 
-<li><p><b>Q: I'd like to contribute by translating the website 
-to my language, are you interested?</b></p>
-<p>A: Definitely! Feel free to drop me an email at <a 
-href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>. 
-And if you're a native English speaker, please report proof of my bad 
-English to the same address, so that I can correct my mistakes.</p>
-</li>
-
 <li><p><b>Q: You seem to concentrate on GNOME and Ubuntu. Any hard 
 feelings about KDE and other distributions ?</b></p> <p>A: Of course 
 not. I love and use a lot of KDE apps (if all the efforts put about GNOME 

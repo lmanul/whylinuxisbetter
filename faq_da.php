@@ -31,11 +31,6 @@
 <p>A: Ja, jeg ved det godt. Jeg arbejder på det. Giv bolden videre, tak.</p>
 </li>
 
-<li><p><b>Q: Jeg vil gerne hjælpe ved at oversætte websiden til mit eget sprog, er du interesseret?</b></p>
-<p>A: Helt sikkert! Du er helt velkommen til at sende mig en mail på <a 
-href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>. Og hvis du har engelsk som modersprog, så send venligst beviserne for mit dårlige engelsk, til samme adresse, så jeg kan rette mine fejl.</p>
-</li>
-
 <li><p><b>Q: Du er rimelig fokuseret på GNOME og Ubuntu. Har du noget imod KDE og andre distributioner ?</b></p>
 <p>A: Selvfølgelig ikke. Jeg elsker og benytter en masse KDE programmer (hvis al den energi der bliver brugt på GNOME vs. KDE-diskussioner, kunne blive investeret i ordenligt at integrere KDE programmer i GNOME og den anden vej, så ville det gøre mig glad). Mine screenshots er mest fra Ubuntu fordi det er den distribution jeg bruger og udvikler for. Du er selvfølgelig velkommen til at sende mig andre screenshots. Som du nok har opdaget så har jeg en forkærlighed for AmaroK, men send mig endelig yderligere foreslag til andre KDE (og GNOME!) programmer.</p> </li>
 

@@ -39,11 +39,6 @@ thay vì "OpenOffice.org" ...</p>
 
 </li>
 
-<li><p><b>Hỏi: Tôi muốn dịch trang Web này sang ngôn ngữ khác có được không ?</b></p>
-<p>Đáp: Chắc chắn rồi! Làm ơn gửi đến địa chỉ <a href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>. 
-Nếu bạn là người nói tiếng Anh bản địa, xin gửi các bản sửa lỗi đến địa chỉ ở trên.</p>
-</li>
-
 <li><p><b>Hỏi: Hình như bạn chỉ tập trung vào GNOME và Ubuntu. Còn KDE và các phiên 
 bản Linux khác thì sao ?</b></p>
 <p>Đáp: Không phải vậy. Tôi sử dụng rất nhiều ứng dụng KDE (giá như công sức cho các 
