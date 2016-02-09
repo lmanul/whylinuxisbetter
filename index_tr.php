@@ -3,8 +3,10 @@
 <div id="corps">
 
 <h3>Translation: Taygun KEKEÇ, Uğur ÇETİN, Tolga Civelek, Ekrem Seren, 
-Can Akçura, Hüseyin Oğuz Albayrak, <a 
-href="http://www.aranelsurion.org/">Hakan Kılıç</a>, Sinan Aykut, Burak Kartaltepe, <a href="http://www.ertugrulharman.av.tr">Ertuğrul Harman</a>, Volkan Gezer.</h3>
+Can Akçura, Hüseyin Oğuz Albayrak,
+<a href="http://www.aranelsurion.org/">Hakan Kılıç</a>,
+Sinan Aykut, Burak Kartaltepe,
+<a href="http://www.ertugrulharman.com/">Ertuğrul Harman</a>, Volkan Gezer.</h3>
 
 <div id="intro"> <p>Bence, insanlar özgür ya da bedava olduğu için değil, <b>Windows'ta olmayan güzel özellikleri</b> sayesinde Linux'a geçecekler. İşte size <b>Linux'un neden daha iyi olduğunun birkaç kanıtı</b>! </p>
 </div>
