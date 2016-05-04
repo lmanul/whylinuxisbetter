@@ -59,15 +59,6 @@ Oh ya, bukankah saya menulis seputar tanya-jawab, alangkah bodohnya saya.</p>
 <p>J: Ya, saya menyadari hal itu dan terus memperbaikinya. Mohon bantuannya.</p>
 </li>
 
-<li><p><b>T: Saya ingin berkontribusi dengan menerjemahkan situs ini ke dalam 
-bahasa saya, apakah kamu setuju?</b></p>
-<p>J: Pasti! Jangan sungkan-sungkan untuk mengirimi saya email lewat <a 
-href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>. 
-Apabila kamu adalah orang asli yang berbicara dengan bahasa Inggris, 
-tolong beri tahu kesalahan bahasa Inggris saya melalui email tadi 
-supaya saya dapat mengoreksinya.</p>
-</li>
-
 <li><p><b>T: Sepertinya kamu berkonsentrasi pada GNOME dan Ubuntu, 
 apakah tidak suka dengan KDE dan distribusi lain?</b></p> <p>J: Tentu saja tidak. 
 Saya menggunakan banyak aplikasi KDE dan menyukainya (saya sangat senang 

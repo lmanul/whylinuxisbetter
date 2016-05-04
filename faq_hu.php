@@ -31,10 +31,6 @@
 <p>V: Igen, tudom. És dolgozom rajta. Ne emlegessétek állandóan, légyszi!</p>
 </li>
 
-<li><p><b>K: Szeretnék az oldal bővítéséhez hozzájárulni azzal, hogy lefordítom a saját nyelvemre, benne vagy?</b></p>
-<p>V: Abszolút! Nyugodtan írj nekem egy mailt: <a href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>. És ha esetleg az angol az anyanyelved, kérlek, a hibáim ugyanerre a címre írd meg, így javíthatom őket.</p>
-</li>
-
 <li><p><b>K: Úgy tűnik a GNOME-ra és az Ubuntura koncentráltál. Netalán negatív érzelmeket táplálsz a KDE és a többi disztribúció iránt?</b></p> 
 <p>V: Természetesen nem. Szeretem a KDE-t és sok KDE-s alkalmazást használok (ha minden erőt, amit a GNOME vs KDE vitákba fektetnek a trollok, inkább arra használnák, hogy a KDE-s alkalmazásokat szépen integrálják GNOME-ba és viszont, igazán boldog lennék). A képernyőképeim főleg az Ubuntut mutatják, hisz ezt a disztribúciót használom és fejlesztem. Mondanom is felesleges, hogy küldjetek bátran más képernyőképeket nekem. Biztos észrevettétek, hogy van egy rész az AmaroKról: ne tétovázzatok, küldjetek nekem további javaslatokat más KDE-s (és GNOME-os!) alkalmazásokra.</p> </li>
 

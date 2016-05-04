@@ -74,13 +74,6 @@
 
   </li>
   <li>
-    <p><b>Q:من دوست دارم وبسايت تو رو به زبون خودم ترجمه كنم نظرت چيه؟</b></p>
-
-    <p>A: توپه!يه ايميل برام بفرست <a href="mailto:ideas@whylinuxisbetter.net">ideas@whylinuxisbetter.net</a>. 
-و اگر شما زبان مادريتون انگليسيه لطف كنيد و اشتباهات من ر بهم بگيد تا تصحيح كنم.</p>
-
-  </li>
-  <li>
     <p><span style="font-weight: bold;">Q:چرا حالا گیر دادی به Ubuntu و GNOME؟از KDE و توزییعهای دیگه بدت میاد؟</span></p>
  
     <p>A: البته كه نه! من KDE وبرنامه هاش رو دوست دارم&nbsp;&nbsp; (اگر
