@@ -9,7 +9,7 @@ computer pretty easily. The average period of time before a Windows PC (connecte
 to the Internet and with a default "Service Pack 2" installation) gets 
 infected is <b>40 minutes</b> (and it sometimes takes as little time as 30 seconds).</p>
 
-<p>So you can either 1) install a firewall, 2) install an antivrus program, 3) 
+<p>So you can either 1) install a firewall, 2) install an antivirus program, 3) 
 install an anti-adware program, 4) get rid of Internet Explorer and Outlook 
 (replacing them with Firefox and Thunderbird), and 5) pray that people trying to
 get into your computer 
