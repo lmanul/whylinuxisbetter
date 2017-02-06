@@ -21,10 +21,10 @@ mutta koska he n&auml;kev&auml;t uudet, <b>mahtavat ominaisuudet joita ei Window
 <?php item ("stability", "Onko j&auml;rjestelm&auml;si ep&auml;vakaa?", ""); ?>
 <?php item ("security", "Linux suojelee&nbsp; Tietokonettasi.", ""); ?>
 <?php item ("dollars", "&Auml;l&auml; maksa&nbsp;100e K&auml;ytt&ouml;j&auml;rjestelm&auml;st&auml;si.", ""); ?>
-<?php item ("crapware", "No more c**pware.", ""); ?>
+<?php item ("crapware", "Ei lisää roskaohjelmia.", ""); ?>
 <?php item ("freedom", "Vapaus!", ""); ?>
 <?php item ("all_in_one", "Kun k&auml;ytt&ouml;j&auml;rjestelm&auml; on asentunut, miksi pit&auml;isi viel&auml; asentaa ohjelmia?", ""); ?>
-<?php item ("drivers", "Forget about drivers.", ""); ?>
+<?php item ("drivers", "Unohda ajurit.", ""); ?>
 <?php item ("global_update", "P&auml;ivit&auml; kaikki parilla napsautuksella.", ""); ?>
 <?php item ("warez", "Miksi kopioida ohjelmia laittomasti kun voit saada ne ilmaiseksi?", ""); ?>
 <?php item ("search_software", "Tarvitsetko uusia ohjelmia? &Auml;l&auml; turhaan hae netist&auml;, Linuxilla saat ne hetkess&auml;.", ""); ?>
@@ -32,8 +32,8 @@ mutta koska he n&auml;kev&auml;t uudet, <b>mahtavat ominaisuudet joita ei Window
 <?php item ("defragment", "Vaikuttaako digitaalinen el&auml;m&auml;si ehyelt&auml;?", ""); ?>
 <?php item ("window_managers", "Valitse itse milt&auml; ty&ouml;p&ouml;yt&auml;si n&auml;ytt&auml;&auml;.", ""); ?>
 <?php #item ("network_security", "Let pirates bite the dust.", ""); ?>
-<?php item ("environment", "Do something for the environment.", ""); ?>
-<?php item ("backdoors", "No back doors in your software.", ""); ?>
+<?php item ("environment", "Tee jotakin ympäristölle.", ""); ?>
+<?php item ("backdoors", "Ei takaportteja sinun ohjelmistossa.", ""); ?>
 <?php item ("old_and_sluggish", "Miksi Windowsisi on hitaampi p&auml;iv&auml; p&auml;iv&auml;lt&auml;?", ""); ?>
 <?php item ("help", "Nauti ilmaisesta ja ikuisesta tuesta.", ""); ?>
 <?php item ("virtual_desktops", "Liikaa ikkunoita? K&auml;yt&auml; montaa ty&ouml;p&ouml;yt&auml;&auml; samaa aikaa.", ""); ?>
@@ -108,7 +108,7 @@ mutta koska he n&auml;kev&auml;t uudet, <b>mahtavat ominaisuudet joita ei Window
 <br class="clearboth" />
 
 <center><img src="Images/business_news.png" /><br />
-<p><small>(Cover of <a href="http://www.businessweek.com/">Business Week</a>, March 2003)</small></p></center>
+<p><small>(<a href="http://www.businessweek.com/">Business Week</a>in kansi, March 2003)</small></p></center>
 
 <p>This website was created by <a href="http://www.manucornet.net">Manu 
 Cornet</a>. If you have ideas of great features to put on this page, or 
