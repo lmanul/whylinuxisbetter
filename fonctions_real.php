@@ -79,7 +79,7 @@ function parse_distros_data_from_file () {
       continue;  # Skip comments
     }
     $line = rtrim ($line);
-    $fields = split(",", $line);
+    $fields = explode(",", $line);
     $distro['name'] = $fields[0];
     $distro['url'] = $fields[1];
     $distro['image'] = $fields[2];
@@ -128,7 +128,7 @@ function table_parser ($yes, $no, $comm_head, $oss_head, $exists_head) {
 
 	foreach ($lines as $line) {
 		$line = rtrim ($line);
-		list ($commercial, $dollars, $oss, $bool) = split (":", $line, 4);
+		list ($commercial, $dollars, $oss, $bool) = explode (":", $line, 4);
 
 		# Set up the price
 		if ($dollars == 0)
