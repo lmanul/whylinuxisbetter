@@ -30,7 +30,7 @@
 از نياز خيلي افراد زيادتر هم هستند.اين هم ليستي از نرم افزارهاي پولي و
 معادل رايگان اونها:
 
-<p>&nbsp;</p>
+&nbsp;
 
 
 
@@ -41,7 +41,7 @@
 
 <img src="Images/warez.png">
 
-<p>Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a></p>
+Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
 
 </div>

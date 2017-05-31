@@ -4,12 +4,12 @@
 
 <h2>Environment</h2>
 
-<p align="center">Thanks to Franz Bourlet for the idea</p>
+<p align="center">Thanks to Franz Bourlet for the idea
 
-<p>How can Linux be different from Windows when it comes to environment,
+How can Linux be different from Windows when it comes to environment,
 you might ask? After all, they're both just pieces of software with
 little impact on pollution or climate change. Well, choosing Linux can
-actually have an influence on the environment:</p>
+actually have an influence on the environment:
 
 <ul>
 

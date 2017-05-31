@@ -4,21 +4,21 @@
 
 <h2>Da li Vaš digitalni život izgleda fragmentiran?</h2>
 
-<p>Ako već znate šta je fragmentacija, i već ste navikli da defragmentirate
+Ako već znate šta je fragmentacija, i već ste navikli da defragmentirate
 svoj disk svaki mesec ili više, evo kratke verzije: 
-Linux ne mora da se defragmentuje</p>
+Linux ne mora da se defragmentuje
 
-<p>Zamislite sada hard disk kao veliku komodu, da milionima  
+Zamislite sada hard disk kao veliku komodu, da milionima  
 polica (hvala <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto 
 Di Cosmo-u</a> za ovo poređenje). Svaka polica može da sadrži tačno određenu
 količinu podataka. Stoga, kad su podaci veći nego što polica može da primi  
 sadržaj mora da se razdvoji. Neki fajlovi su toliko veliki da zauzimaju 
 stotine polica. I naravno, pristup tim fajlovima je mnogo lakši 
-kada su police koje okupiraju bliže jedan drugoj u zamišljenoj komodi.</p>
+kada su police koje okupiraju bliže jedan drugoj u zamišljenoj komodi.
 
-<p>Sada zamislite da ste vlasnik jedne od komoda, ali nemate vremena 
+Sada zamislite da ste vlasnik jedne od komoda, ali nemate vremena 
 da se brinete za nju, i hoćete da unajmite nekoga da to radi za Vas.
-Dvije ljudi se prijavilo, žena i muškarac.</p>
+Dvije ljudi se prijavilo, žena i muškarac.
 
 <ul>
 
@@ -37,11 +37,11 @@ naša komoda je uvek sređena.</li>
 
 </ul>
 
-<p>Bez sumnje, treba da angažujete ženu (trebalo je odmah da znate 
+Bez sumnje, treba da angažujete ženu (trebalo je odmah da znate 
 da su žene mnogo bolje organizovane :) ). Pa, Windows koristi prvi metod;
 Linux koristi drugi. Što više koristite Windows imaćete sporiji pristup
 podacima; što više koristite Linux, on je sve brži. 
-Izbor je na Vama!</p>
+Izbor je na Vama!
 
 <img src="Images/defragment.png" />
 

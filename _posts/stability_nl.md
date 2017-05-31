@@ -4,16 +4,16 @@
 
 <h2>Is uw systeem onstabiel?</h2>
 
-<p>Heeft u ooit uw kostbare werk verloren omdat Windows crashte? Sluit u altijd
+Heeft u ooit uw kostbare werk verloren omdat Windows crashte? Sluit u altijd
 uw computer af op de juiste manier, of zet u deze soms gewoon af omdat Windows
 gek geworden is en u niets meer laat doen? Heeft u ooit het "blue screen of death"
 (blauwe scherm des doods) of foutmeldingen gezien die zeiden dat uw computer
-moest afgesloten worden om onduidelijke redenen? </p>
+moest afgesloten worden om onduidelijke redenen? 
 
-<p>De laatste versies van Windows, vooral de "Professional"-edities, zijn stabieler
-dan voorheen. Desondanks duikt dit probleem nog vaak op.</p>
+De laatste versies van Windows, vooral de "Professional"-edities, zijn stabieler
+dan voorheen. Desondanks duikt dit probleem nog vaak op.
 
-<p>Natuurlijk is geen enkel besturingssysteem perfect. Mensen die vertellen
+Natuurlijk is geen enkel besturingssysteem perfect. Mensen die vertellen
 dat hun besturingssysteem nooit kan crashen, liegen. Sommige besturingssystemen
 zijn echter zo stabiel dat de meeste gebruikers hun systemen nooit zien crashen,
 zelfs na jaren van gebruik. Dit is het geval bij Linux. Er is een goede manier
@@ -24,10 +24,10 @@ blijven aanstaan zonder dat het moet herstart worden (de meeste webservers
 draaien op Linux en herstarten vrijwel nooit). Er is enkel bij grote updates
 een systeemherstart vereist. Maar als u Linux installeert en u gebruikt het
 systeem zoveel u maar wilt, kunt u probleemloos jarenlang uw computer laten
-opstaan.</p>
+opstaan.
 
-<p>Meestal zult u uw computer niet zolang laten opstaan, maar het toont hoe
-stabiel Linux is.</p>
+Meestal zult u uw computer niet zolang laten opstaan, maar het toont hoe
+stabiel Linux is.
 
 </div>
 

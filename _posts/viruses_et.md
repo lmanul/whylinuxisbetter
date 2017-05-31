@@ -4,14 +4,14 @@
 
 <h2>J&auml;ta viirustega h&uuml;vasti.</h2>
 
-<p>Windowsil on suur pahe endale arvutiviiruseid ligi meelitada. See v&otilde;ib v&auml;ljenduda mitmel erineval moel:
+Windowsil on suur pahe endale arvutiviiruseid ligi meelitada. See v&otilde;ib v&auml;ljenduda mitmel erineval moel:
 <ul>
 <li>Sa oled &ouml;&ouml; l&auml;bi t&auml;htsa dokumendi kallal t&ouml;&ouml;tanud. Sa hakkad kursorit salvestamise ikooni poole suunama, kuid see liigub hoopis vastupidises suunas. Viimases h&auml;das tuleb sulle salvestamise otsetee meelde: Ctrl+S. Sa vajutad seda, kui arvutil l&auml;heb pilt mustaks ja see l&uuml;litub iseenesest v&auml;lja.</li>
 <li>Suur &auml;rikohtumine. Sa oled parasjagu viimast tegevusplaani esitlemas, kui ekraan t&auml;itub pornograafilise sisuga akendega ja Viagra reklaamidega.</li>
 <li>Sinu naine otsustab su maha j&auml;tta, sest ta solvus sinu aadressilt saadetud e-kirja peale. L&auml;hemal uurimisel pole sina &uuml;ldsegi selle kirja autor.</li>
 </ul>
 
-<p>Linuxi viirused on sama h&auml;sti kui olematud. Mitte stiilis &#8222;Neid pole eriti,&#8221; vaid &#8222;Kui sa tead m&otilde;nda Linuxi viirust, siis &uuml;tle mulle ka&#8221;. Linuxi viiruseid pole v&otilde;imatu leida, kuid see on &auml;&auml;rmiselt keeruliseks muudetud:</p>
+Linuxi viirused on sama h&auml;sti kui olematud. Mitte stiilis &#8222;Neid pole eriti,&#8221; vaid &#8222;Kui sa tead m&otilde;nda Linuxi viirust, siis &uuml;tle mulle ka&#8221;. Linuxi viiruseid pole v&otilde;imatu leida, kuid see on &auml;&auml;rmiselt keeruliseks muudetud:
 
 <ul>
 

@@ -4,9 +4,9 @@
 
 <h2>Saugok aplinką</h2>
 
-<p align="center">Šią idėją sugalvojo Franz Bourlet. Dėkui jam už tai.</p>
+<p align="center">Šią idėją sugalvojo Franz Bourlet. Dėkui jam už tai.
 
-<p>Kuo čia dėta aplinka, kai kalbame apie Linux'us ir Windows'us? Juk jos abi tėra operacinės sistemos ir su mūsų aplinka, gamta bei klimato pokyčiais neturi nieko bendra. Tačiau, pasirinkus Linux'us, galime šiek tiek daugiau tausoti gamtą:</p>
+Kuo čia dėta aplinka, kai kalbame apie Linux'us ir Windows'us? Juk jos abi tėra operacinės sistemos ir su mūsų aplinka, gamta bei klimato pokyčiais neturi nieko bendra. Tačiau, pasirinkus Linux'us, galime šiek tiek daugiau tausoti gamtą:
 
 <ul>
 

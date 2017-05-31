@@ -4,17 +4,17 @@
 
 <h2>Forget about viruses.</h2>
 
-<p>If your computer shuts itself down without asking you, if strange 
+If your computer shuts itself down without asking you, if strange 
 windows with text you don't understand and all kinds of advertisements 
 appear when you don't ask for them, if emails get sent to all your 
 contacts without your knowing it, then your computer probably has a 
-virus. The main reason for this is because it runs Windows.</p>
+virus. The main reason for this is because it runs Windows.
 
-<p>Linux hardly has any viruses. And that's not like "Oh well, not very 
+Linux hardly has any viruses. And that's not like "Oh well, not very 
 often, you know". That's like "If you've ever heard of a real Linux 
 virus, please tell me". Of course, a Linux virus is not impossible to get.
 However, Linux makes it very hard for this to happen, for several 
-reasons:</p>
+reasons:
 
 <ul>
 

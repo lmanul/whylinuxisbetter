@@ -5,7 +5,7 @@
 <h2>N'attendez pas des années que les bugs soient résolus, 
 signalez-les et traquez-les.</h2>
 
-<p>Si vous trouvez un bug dans Windows, attendre et prier pour que 
+Si vous trouvez un bug dans Windows, attendre et prier pour que 
 Microsoft corrige le problème rapidement est à peu près la seule chose 
 que vous pouvez faire (et si cette erreur compromet la sécurité de votre 
 système, vous n'avez plus qu'à prier deux fois plus fort). Vous pensez 
@@ -17,7 +17,7 @@ remarque même pas le problème ? Il n'y a plus qu'à espérer que la
 prochaine version de Windows résoudra le bug (mais vous devrez payer 
 quelques centaines d'euros supplémentaires).
 
-<p>Presque tous les logiciels libres (y compris les distributions Linux) 
+Presque tous les logiciels libres (y compris les distributions Linux) 
 ont un <i>système de suivi des bugs</i>. Non seulement vous pouvez y 
 proposer de signaler des bugs (et vous y êtes encouragé !) en expliquant 
 le problème, mais vous pouvez aussi observer ce qui se passe ensuite : 
@@ -30,7 +30,7 @@ s'occupent de vos problèmes, vous tiennent au courant, et tout cela
 gratuitement ! Si le problème ne se produit plus chez vous, il ne se 
 produira plus chez les autres utilisateurs non plus : c'est dans 
 l'intérêt de tous de travailler ensemble pour améliorer les logiciels. 
-Tel est le principe des logiciels libres.</p>
+Tel est le principe des logiciels libres.
 
 <img src="Images/report_bugs_thumb.png" />
 

@@ -4,9 +4,9 @@
 
 <h2>Spravte niečo pre životné prostredie</h2>
 
-<p align="center">Vďaka Franzovi Bourletovi za nápad</p>
+<p align="center">Vďaka Franzovi Bourletovi za nápad
 
-<p>Môžete sa opýtať, ako sa môže Linux odlišovať od Windows-u, keď hovoríme o životnom prostredí? Veď v podstate sú to len programy s malým vplyvom na znečistenie alebo zmenu klímy. No, výber Linuxu môže mať dopad na životné prostredie:</p>
+Môžete sa opýtať, ako sa môže Linux odlišovať od Windows-u, keď hovoríme o životnom prostredí? Veď v podstate sú to len programy s malým vplyvom na znečistenie alebo zmenu klímy. No, výber Linuxu môže mať dopad na životné prostredie:
 
 <ul>
 

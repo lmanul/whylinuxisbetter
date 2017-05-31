@@ -4,17 +4,17 @@
 
 ﻿<h2>Esqueça os vírus.</h2>
 
-<p>Se seu computador desliga sozinho, se janelas estranhas, com textos 
+Se seu computador desliga sozinho, se janelas estranhas, com textos 
 que você não entende e todo tipo de propaganda, aparecem sem você pedir, 
 se emails são enviados para todos os seus contatos sem você saber, 
 provavelmente seu computador está com vírus. A razão principal para isso 
-é que ele está rodando o Windows.</p>
+é que ele está rodando o Windows.
  
-<p>O Linux dificilmente tem um vírus. E não é como "Ah, bem, não 
+O Linux dificilmente tem um vírus. E não é como "Ah, bem, não 
 frequentemente, você sabe". É como "Se você ouviu falar alguma vez de um 
 vírus real para Linux, por favor me conte". Claro, um vírus para linux 
 não é impossível de se conseguir. Entretanto, o Linux torna isso muito 
-difícil de acontecer, por algumas razões:</p>
+difícil de acontecer, por algumas razões:
 
 <ul>
 

@@ -4,7 +4,7 @@
 
 <h2>Kai sistema jau įdiegta, kodėl jums vis dar reikia įdiegti visa kita?</h2>
 
-<p>Windows'&#371; &#303;diegimas yra tik pati prad&#382;ia. Tarkime, &#303;dieg&#279;te naujut&#279;lius Windows 7 ir 
+Windows'&#371; &#303;diegimas yra tik pati prad&#382;ia. Tarkime, &#303;dieg&#279;te naujut&#279;lius Windows 7 ir 
 pasireng&#279;te atskleisti savo kompiuterinius &#303;g&#363;d&#382;ius. Draugas atsiun&#269;ia jums e. 
 lai&#353;k&#261; su prisegta PDF byla: po galais, j&#363;s neturite programos jai perskaityti. Tur&#279;site eiti 
 &#303; internet&#261;, susirasti tinklalap&#303;, leisiant&#303; parsisi&#371;sti Adobe Reader'&#303; (ar kit&#261; 
@@ -17,10 +17,10 @@ kompiuter&#303;. J&#363;s&#371; draugas atsiunt&#279; jums ir paveiksl&#279;l&#3
 &#353;imt&#371; doleri&#371; jis kainuoja?), arba parsisi&#371;sti GIMP program&#261; (tai nemokama programa, galinti 
 atlikti beveik tiek pat, kiek ir Photoshop'as): surasti, parsisi&#371;sti, &#303;diegti etc... Tikriausiai pakaks: 
 mint&#303; supratote, Windows'ams toli iki pilno programinio apr&#363;pinimo ir j&#371; &#303;diegimas yra tik 
-r&#363;pes&#269;i&#371; prad&#382;ia.</p>
+r&#363;pes&#269;i&#371; prad&#382;ia.
 
-<p>Kai gaunate Linux'us (tokius, kaip Ubuntu, Mandriva, Fedora, etc.,- tai skirting&#371; „skoni&#371;“ Linux'ai), j&#363;s 
-gaunate, <i>be jokio papildomo diegimo</i> :</p>
+Kai gaunate Linux'us (tokius, kaip Ubuntu, Mandriva, Fedora, etc.,- tai skirting&#371; „skoni&#371;“ Linux'ai), j&#363;s 
+gaunate, <i>be jokio papildomo diegimo</i> :
 
 <ul>
 <li>Visk&#261;, ko reikia tekst&#371; ra&#353;ymui, lenteli&#371; k&#363;rimui ir taisymui, pristatym&#371; 
@@ -36,7 +36,7 @@ kopete etc.).</li>
 <li>etc.</li>
 </ul>
 
-<p>Galite i&#353;kart prad&#279;ti darb&#261;.</p>
+Galite i&#353;kart prad&#279;ti darb&#261;.
 
 <img src="Images/app_menu.png" />
 

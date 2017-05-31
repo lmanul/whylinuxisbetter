@@ -4,9 +4,9 @@
 
 <h2>Geen virussen meer.</h2>
 
-<p>Als uw computer zichzelf afsluit zonder u iets te vragen, als vreemde vensters tevoorschijn komen met tekst die u niet verstaat en alle soorten advertenties verschijnen wanneer u er niet om gevraagd had en er e-mails worden verzonden naar uw contacten zonder dat u daar weet van heeft, dan heeft uw computer waarschijnlijk een virus. De hoofdreden hiervoor is dat het Windows draait.</p>
+Als uw computer zichzelf afsluit zonder u iets te vragen, als vreemde vensters tevoorschijn komen met tekst die u niet verstaat en alle soorten advertenties verschijnen wanneer u er niet om gevraagd had en er e-mails worden verzonden naar uw contacten zonder dat u daar weet van heeft, dan heeft uw computer waarschijnlijk een virus. De hoofdreden hiervoor is dat het Windows draait.
 
-<p>Linux heeft nauwelijks virussen. En dat is niet zoals "niet zo vaak hoor". Dat is eerder: "als u ooit een echt Linux-virus hebt gehad, zeg het me dan". Natuurlijk is een Linux-virus niet onmogelijk om te krijgen. Linux maakt het echter heel moeilijk om dit te laten gebeuren, voor verschillende redenen:</p>
+Linux heeft nauwelijks virussen. En dat is niet zoals "niet zo vaak hoor". Dat is eerder: "als u ooit een echt Linux-virus hebt gehad, zeg het me dan". Natuurlijk is een Linux-virus niet onmogelijk om te krijgen. Linux maakt het echter heel moeilijk om dit te laten gebeuren, voor verschillende redenen:
 
 <ul>
 

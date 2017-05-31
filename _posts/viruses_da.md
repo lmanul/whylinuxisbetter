@@ -4,9 +4,9 @@
 
 <h2>Glem alt om virusser.</h2>
 
-<p>Hvis din computer pludselig lukker ned uden at have advaret dig om det, hvis mærkelige vinduer med tekst du ikke forstår og alle mulige reklamer dukker op uden du har bedt om det, eller hvis emails bliver sendt til alledine kontakter uden at du ved det, så har din computer sandsynligvis fået en virus. Hovedårsagen til dette er som regel at du kører Windows.</p>
+Hvis din computer pludselig lukker ned uden at have advaret dig om det, hvis mærkelige vinduer med tekst du ikke forstår og alle mulige reklamer dukker op uden du har bedt om det, eller hvis emails bliver sendt til alledine kontakter uden at du ved det, så har din computer sandsynligvis fået en virus. Hovedårsagen til dette er som regel at du kører Windows.
 
-<p>Linux har næsten ingen virusser (eller vira hvis man skal tale korrekt). Og det er ikke "Tjah, det sker ikke ret ofte, du ved". Det er mere "Hvis du nogensinde har hørt om en Linux-virus, så fortæl mig om det". Selvfølgelig, det er ikke umuligt at få virus under Linux. Linux gør det derimod meget svært at få virus, af adskillige grunde:</p>
+Linux har næsten ingen virusser (eller vira hvis man skal tale korrekt). Og det er ikke "Tjah, det sker ikke ret ofte, du ved". Det er mere "Hvis du nogensinde har hørt om en Linux-virus, så fortæl mig om det". Selvfølgelig, det er ikke umuligt at få virus under Linux. Linux gør det derimod meget svært at få virus, af adskillige grunde:
 
 <ul>
 

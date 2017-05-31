@@ -4,17 +4,17 @@
 
 <h2>Dimenticati dei virus</h2>
 
-<p>Se il computer si spegne senza chiederlo, se strane finestre con 
+Se il computer si spegne senza chiederlo, se strane finestre con 
 testo incomprensibile e tutti i tipi di avvertenze appaiono senza che tu 
 lo chieda, se delle email vengono inviate a tutti i tuoi contatti a tua 
 insaputa, allora il tuo computer ha probabilmente contratto un virus. 
-La causa principale è perché usi Windows.</p>
+La causa principale è perché usi Windows.
 
-<p>Linux difficilmente contrae dei virus. E non è del tipo "Oh, beh, non 
+Linux difficilmente contrae dei virus. E non è del tipo "Oh, beh, non 
 molto spesso, sai". È come "Se hai mai sentito parlare di un vero virus 
 per Linux, batti un colpo". Certamente non è proprio impossibile prenderne uno. 
 Ad ogni modo, Linux fa in modo che questo accada molto difficilmente per molte 
-ragioni:</p>
+ragioni:
 
 <ul>
 

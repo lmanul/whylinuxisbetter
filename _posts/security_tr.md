@@ -4,14 +4,14 @@
 
 <h2>Linux bilgisayarınızı korur.</h2>
 
-<p>Virüsler, trojanlar, reklam yazılımları, casuslar... Windows bunların 
+Virüsler, trojanlar, reklam yazılımları, casuslar... Windows bunların 
 hepsinin sisteminize kolayca sızmasına izin verir. Bir Windows sistemi 
 (İnternete bağlı ve varsayılan "Service Pack 2" kurulu), ortalama 40 
 dakika içinde enfeksiyon kapar (aslında, zaman zaman bu sadece 30 
-saniye alır.).</p>
+saniye alır.).
 
 
-<p>Tabii ki bir dizi güvenlik önlemi alırsınız. 1) Güvenlik Duvarı 
+Tabii ki bir dizi güvenlik önlemi alırsınız. 1) Güvenlik Duvarı 
 kurabilirsiniz, 2) Antivirüs yazılımı kurarsınız, 3) Anti-Adware 
 yazılımı kurarsınız, 4) Internet Explorer ve Outlook dan kurtulursunuz 
 (onları Firefox ve Thunderbird ile değiştirebilirsiniz). Son olarak; 
@@ -22,7 +22,7 @@ beklemezsiniz). Veya, kısa yoldan Linux kurup, kafanızı
 dinleyebilirsiniz. Virüsleri ve diğer zararlıları dert edinmeniz 
 gerekmez.
 
-<p>"Virüsleri Unutun" bölümünde söylediğimiz gibi, Açık Kaynaklı yazılım 
+"Virüsleri Unutun" bölümünde söylediğimiz gibi, Açık Kaynaklı yazılım 
 (örn. Linux) demek, birden fazla gözün tüm kodları incelemesi demektir. 
 Dünya gezegenindeki her programcı, kodu indirebilir, inceleyebilir, ve 
 güvenlik açığı olabilecek unsurları kolayca görebilir. Diğer yandan, 
@@ -31,7 +31,7 @@ Windows kaynak kodunu (o bir tür "tarif"tir) ancak Microsoft firmasında
 bulmuştur) insana karşı, sadece bir kaç bin insan. Bu büyük fark 
 demektir.
 
-<p>Fakat aslında, diğerlerine oranla asıl konu sistemin ne kadar açığı 
+Fakat aslında, diğerlerine oranla asıl konu sistemin ne kadar açığı 
 olduğundan çok, açıkların türüdür. Eğer ortada çok açık var, ama 
 henüz kimse farketmediyse (korsanlar dahil) veya önemsiz açıklarsa, 
 korsanlar ciddi hasar veremezler. Burada devreye giren, açığın 

@@ -4,7 +4,7 @@
 
 <h2>Gràcies a Franz Bourlet per la idea</h2>
 
-<p>Com pot ser Linux diferent de Windows quan es tracta del medi ambient, et pots preguntar?. Després de tot, ambdós són solament peces de programari amb un petit impacte en la pol·lució o el canvi climàtic:</p>
+Com pot ser Linux diferent de Windows quan es tracta del medi ambient, et pots preguntar?. Després de tot, ambdós són solament peces de programari amb un petit impacte en la pol·lució o el canvi climàtic:
 
 <ul>
 

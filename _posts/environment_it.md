@@ -4,10 +4,10 @@
 
 <h2>Ambiente</h2>
 
-<p align="center">Grazie a Franz Bourlet per l'idea</p>
+<p align="center">Grazie a Franz Bourlet per l'idea
 
-<p>Come può Linux essere diverso da Windows quando si parla di ambiente,
-potresti chiedere? Dopotutto, entrambi sono solo pezzi di software con un leggero impatto sull'inquinamento e il cambiamento climatico. Bene, scegliere Linux in realtà può avere un'influenza sull'ambiente:</p>
+Come può Linux essere diverso da Windows quando si parla di ambiente,
+potresti chiedere? Dopotutto, entrambi sono solo pezzi di software con un leggero impatto sull'inquinamento e il cambiamento climatico. Bene, scegliere Linux in realtà può avere un'influenza sull'ambiente:
 
 <ul>
 

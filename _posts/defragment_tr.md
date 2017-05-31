@@ -4,23 +4,23 @@
 
 <h2>Dijital hayatınızda parçalanmalar mı var ?</h2>
 
-<p>Eğer halihazırda parçalanmanın ne olduğunu biliyorsanız ve her ay ya da
+Eğer halihazırda parçalanmanın ne olduğunu biliyorsanız ve her ay ya da
 daha sık disk birleştirme işlemine aşikarsanız, işte size kısa sürümü: 
-Linux disk birleştirmeye gerek duymaz.</p>
+Linux disk birleştirmeye gerek duymaz.
 
-<p>Şimdi sabit diskinizin içinde milyonlarca çekmeceyle bir dosya dolabı
+Şimdi sabit diskinizin içinde milyonlarca çekmeceyle bir dosya dolabı
 olduğunu hayal edin (<a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto 
 Di Cosmo</a> ya bu benzetmesi için teşekkürler). Her çekmece sadece belli
 bir miktar veri içerebilir. O yüzden dosyalar bir çekmecenin
 kapsayabileceğinden daha büyükse içerik parçalanmak durumunda kalır. Bazı 
 dosyalar o derece büyüktür ki binlerce çekmeceye ihtiyaç duyarlar. Ve tabiki,
 bu dosyalar dolap içinde ne kadar yakın çekmecelerde bulunurlarsa onlara 
-erişmek bir o kadar hızlı ve kolay olur.</p>
+erişmek bir o kadar hızlı ve kolay olur.
 
-<p>Şimdi bu dolabın sahibi olduğunuzu fakat onunla ilgilenecek zamanınız
+Şimdi bu dolabın sahibi olduğunuzu fakat onunla ilgilenecek zamanınız
 olmadığını ve bu yüzden onunla sizin için ilgilenebicek birilerini 
 görevlendirmeniz gerektiğini düşünün. İş arayan iki kişi gelir: 
-Bir erkek ve bir kadın.</p>
+Bir erkek ve bir kadın.
 
 <ul>
 
@@ -37,11 +37,11 @@ harcanacak yeterli aktiviteyle dosya dolabı hep düzenli kalacaktır.</li>
 
 </ul>
 
-<p>Doğal olarak siz kadını işe almalısınız 
+Doğal olarak siz kadını işe almalısınız 
 (biliyor olmalısınız, kadınlar daha düzenlidir :) ). 
 Evet, Windows ilk yöntemi kullanır, Linux ise ikincisini. Windows'u kullandıkça 
 dosyalara erişim hızınız yavaşlayacak, Linux'u kullandıkça ise bu hız artacaktır.
-Seçim size kalmış! </p>
+Seçim size kalmış! 
 
 <img src="Images/defragment.png" />
 

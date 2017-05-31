@@ -4,11 +4,11 @@
 
 <h2>环境保护</h2>
 
-<p align="center">感谢 Franz Bourlet 提供这个观点</p>
+<p align="center">感谢 Franz Bourlet 提供这个观点
 
-<p>面对环境问题，Linux和Windows有什么不同呢？也许你会这样问。毕竟，
+面对环境问题，Linux和Windows有什么不同呢？也许你会这样问。毕竟，
 他们都是同一类软件，对环境的污染和气温的变化影响微乎其微。然而，选择
-Linux 的确能够对环境保护起到积极作用：</p>
+Linux 的确能够对环境保护起到积极作用：
 
 <ul>
 

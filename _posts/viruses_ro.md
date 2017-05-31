@@ -4,14 +4,14 @@
 
 <h2>Uitaţi de viruşi.</h2>
 
-<p>Dacă PC-ul dumneavoastră se închide singur fără să vă întrebe,
+Dacă PC-ul dumneavoastră se închide singur fără să vă întrebe,
 dacă apar ferestre ciudate cu text pe care nu-l înţelegeţi sau toate
 felurile de reclamă apar când nu vreţi, dacă e-mailurile se trimit automat,
-probabil că acel PC are un virus. Motivul principal e că rulează Windows.</p>
-<p>Linux are foarte puţini viruşi. Şi asta nu e "Ei bine, nu prea are, ştii...".
+probabil că acel PC are un virus. Motivul principal e că rulează Windows.
+Linux are foarte puţini viruşi. Şi asta nu e "Ei bine, nu prea are, ştii...".
 Asta e "Dacă ai auzit vreodată de vreun virus pentru Linux, spune-mi". Desigur, un
 virus Linux nu e imposibil de luat. Oricum, Linux face asta foarte greu de întâmplat
-deoarece:</p>
+deoarece:
 
 
 <ul>

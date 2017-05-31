@@ -4,46 +4,46 @@
 
 <h2>Masaüstünüzün nasıl olması gerektiğini siz seçin.</h2>
 
-<p>Eğer bir windows kullanıcısıysanız Masaüsütünüz herhalde bundan 
-pek te farklı değildir:</p>
+Eğer bir windows kullanıcısıysanız Masaüsütünüz herhalde bundan 
+pek te farklı değildir:
 
 <img src="Images/windows_vista.jpg" />
 
-<p>Çoğunlukla bütün Windows kullanıcıları aynı masaüstüne sahiptir.
+Çoğunlukla bütün Windows kullanıcıları aynı masaüstüne sahiptir.
 Tabi ki duvar kağıdınızı değiştirebilir veya pencere dekorasyonunuzun 
 rengini seçebilirsiniz (öntanımlısı: mavi), fakat temelde hala her 
-zamanki Windows arayüzündesinizdir.</p>
+zamanki Windows arayüzündesinizdir.
 
-<p>Linux ile beraber, seçim yine size kalır. Çoklu pencereleri yönetmek için 
+Linux ile beraber, seçim yine size kalır. Çoklu pencereleri yönetmek için 
 bir tek yolu kabul etmeye zorlanmazsınız, "Pencere Yöneticileri" adı verilen
 bir çok programdan istediğinizi seçebilirsiniz. Fakat korkmayın, 
 bu konuda endişelenmenize gerek yok, çok kullanışlı bir pencere yöneticiniz 
 olacaktır. Esas nokta ise istediğiniz zaman bunu değiştirebileceğinizdir.
-</p>
 
-<p>Eğer basit, verimli, kolay kullanımlı bir masaüstü ortamı arıyorsanız, 
-muhtemelen bunu beğeneceksiniz:</p>
+
+Eğer basit, verimli, kolay kullanımlı bir masaüstü ortamı arıyorsanız, 
+muhtemelen bunu beğeneceksiniz:
 
 <img src="Images/ubuntu.jpg"/>
 
-<p>Daha çağdaş ve gösterişli bir görünüm istiyorsanız, buna geçmek 
-isteyebilirsiniz:</p>
+Daha çağdaş ve gösterişli bir görünüm istiyorsanız, buna geçmek 
+isteyebilirsiniz:
 
 <img src="Images/kde.png" />
 
-<p>Ya da bunu deneyebilirsiniz, basit ve hızlı:</p>
+Ya da bunu deneyebilirsiniz, basit ve hızlı:
 
 <img src="Images/xfce.jpg" />
 
-<p>Ve hatta masaüstü ortamınızı tamamen özelleştirmek istiyorsanız:</p>
+Ve hatta masaüstü ortamınızı tamamen özelleştirmek istiyorsanız:
 
 <img src="Images/wm.jpg" />
 
-<p>Gördüğünüz gibi Linux'la beraber 
+Gördüğünüz gibi Linux'la beraber 
 <b>masaüatünüzün nasıl görüneceğine siz karar verirsiniz</b>
 Ve bir kerede hepsi için karar vermek zorunda değilsiniz. 
 Bu masaüstü stillerinden hangisine geçeceğinize her yani oturum açışınızda 
-karar verebilirsiniz.</p>
+karar verebilirsiniz.
 
 </div>
 

@@ -6,7 +6,7 @@
 <i>fortfarande</i> 
 behöva installera saker?</h2>
 
-<p>Att installera Windows är bara början. Tänkt dig att du precis har 
+Att installera Windows är bara början. Tänkt dig att du precis har 
 installerat en sprillans ny version av Windows 7 och du förbereder dig 
 för att släppa lös ditt datorkunnande. En vän till dig skickar ett 
 email med en bifogad PDF-fil: Attans, du har inte något program för att 
@@ -27,11 +27,11 @@ programmet som har funktioner motsvarande Photoshop): leta,
 ladda ner, 
 installera, etc. Det är tillräckligt: Du förstår poängen, Windows är än 
 så länge långt ifrån komplett, och att installera är bara början av 
-problemet.</p>
+problemet.
 
-<p>När du skaffar Linux (Olika "smaker" av Linux är till exempel Ubuntu, 
+När du skaffar Linux (Olika "smaker" av Linux är till exempel Ubuntu, 
 Mandriva, Fedora, etc.), får du också, <i>utan att installera något 
-extra</i> :</p>
+extra</i> :
 
 <ul>
 
@@ -49,7 +49,7 @@ ekvationer, etc.</li>
 <li>etc.</li>
 </ul>
 
-<p>Du kan börja arbeta direkt.</p>
+Du kan börja arbeta direkt.
 
 <img src="Images/app_menu.png" />
 

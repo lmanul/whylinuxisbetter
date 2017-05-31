@@ -4,11 +4,11 @@
 
 <h2>Ĉu via cifereca vivo ŝajnas fragmentigita?</h2>
 
-<p>Se vi jam scias kio estas fragmentigo, kaj vi kutimas malfragmentigi la diskon ĉiumonate, pli-malpli, jen la mallonga versio: Linux ne bezonas malfragmentigon.</p>
+Se vi jam scias kio estas fragmentigo, kaj vi kutimas malfragmentigi la diskon ĉiumonate, pli-malpli, jen la mallonga versio: Linux ne bezonas malfragmentigon.
 
-<p>Nun imagu ke via durdisko estas ega ŝranko, kun milionoj da kestoj (dankon al <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto di Cosmo</a> pro ĉi tiu komparo). Ĉiu kesto povas enhavi nur fiksan kvanton da datumoj. Tial, la arkivoj kiuj estas pli grandaj ol kion la kestoj povas enhavi, bezonas dividon. Kelkaj arkivoj estas tiel grandaj ke ili bezonas milojn da kestoj. Kaj kompreneble, aliri al ĉi tiuj arkivoj estas pli facile kiam la kestoj kiujn ili okupas estas kunaj en la ŝranko.</p>
+Nun imagu ke via durdisko estas ega ŝranko, kun milionoj da kestoj (dankon al <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto di Cosmo</a> pro ĉi tiu komparo). Ĉiu kesto povas enhavi nur fiksan kvanton da datumoj. Tial, la arkivoj kiuj estas pli grandaj ol kion la kestoj povas enhavi, bezonas dividon. Kelkaj arkivoj estas tiel grandaj ke ili bezonas milojn da kestoj. Kaj kompreneble, aliri al ĉi tiuj arkivoj estas pli facile kiam la kestoj kiujn ili okupas estas kunaj en la ŝranko.
 
-<p>Nun imagu ke vi estas la posedanto de ĉi tiu ŝranko, sed vi ne havas la tempon por atenti al ĝi ĝi, kaj vi volas dungi iun por atenti al ĝi. Du uloj venas por la laboro, virino kaj viro.</p>
+Nun imagu ke vi estas la posedanto de ĉi tiu ŝranko, sed vi ne havas la tempon por atenti al ĝi ĝi, kaj vi volas dungi iun por atenti al ĝi. Du uloj venas por la laboro, virino kaj viro.
 
 <ul>
 
@@ -18,7 +18,7 @@
 
 </ul>
 
-<p>Sendube, vi dungus la virinon (vi devus scii tion, la virinoj estas pli organizitaj :) ). Nu, Windows uzas la unuan manieron; Linux uzas la duan. Ju pli vi uzas Windows, des pli malrapida estas la aliro al la arkivoj; ju pli vi uzas Linux, des pli rapida ĝi estas. La elekto estas via!</p>
+Sendube, vi dungus la virinon (vi devus scii tion, la virinoj estas pli organizitaj :) ). Nu, Windows uzas la unuan manieron; Linux uzas la duan. Ju pli vi uzas Windows, des pli malrapida estas la aliro al la arkivoj; ju pli vi uzas Linux, des pli rapida ĝi estas. La elekto estas via!
 
 <img src="Images/defragment.png" />
 

@@ -4,19 +4,19 @@
 
 <h2>Oubliez les virus.</h2>
 
-<p>Si votre ordinateur s'éteint sans vous prévenir, si des fenêtres 
+Si votre ordinateur s'éteint sans vous prévenir, si des fenêtres 
 étranges avec du texte que vous ne comprenez pas et toutes sortes de 
 publicités apparaissent alors que vous n'avez rien demandé, si des 
 courriels sont envoyés à tous vos contacts sans que vous n'y soyez pour 
 rien, alors votre ordinateur est probablement infecté par un virus. 
-Principal suspect : Windows.</p>
+Principal suspect : Windows.
 
-<p>Linux n'a pratiquement pas de virus. Et je ne veux pas dire "Euhh, 
+Linux n'a pratiquement pas de virus. Et je ne veux pas dire "Euhh, 
 enfin bon, pas très souvent quoi". Je veux plutôt dire : "Si vous 
 entendez parler d'un virus sous Linux, prévenez-moi". Bien sûr, un virus 
 sous Linux n'est pas chose impossible. Mais Linux est construit de telle 
 sorte que cela ne peut arriver que très difficilement, pour plusieurs 
-raisons :</p>
+raisons :
 
 <ul>
 

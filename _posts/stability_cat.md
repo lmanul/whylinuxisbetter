@@ -4,18 +4,18 @@
 
 <h2>És el teu sistema inestable?</h2>
 
-<p>Alguna vegada has perdut el teu preciós treball perquè Windows s'ha 
+Alguna vegada has perdut el teu preciós treball perquè Windows s'ha 
 penjat? Sempre has apagat l'ordinador de manera adequada, o a vegades ho 
 has fet simplement perquè el Windows s'ha tornat boig i no et deixa fer 
 res més? N'has obtingut alguna vegada la “pantalla blava de la mort”, o 
 missatges d'error dient-te que l'ordinador necessita ser reiniciat per 
-obscures raons.</p>
+obscures raons.
 
-<p>Les darreres versions del Windows, especialment les “Professionals” 
+Les darreres versions del Windows, especialment les “Professionals” 
 s'estan convertint en més estables que les anteriors. Però aquest tipus 
-de problemes encara passen bastant sovint.</p>
+de problemes encara passen bastant sovint.
 
-<p>Per suposat, cap sistema operatiu és perfecte, i la gent que et digui 
+Per suposat, cap sistema operatiu és perfecte, i la gent que et digui 
 que el seu no es penja mai, estan mentint. Tanmateix, alguns sistemes 
 operatius poden ser tan estables que la majoria dels seus usuaris mai no 
 han vist penjar-se el seu sistema. Això és veritat en Linux. Aquesta és 
@@ -28,7 +28,7 @@ Linux, i normalment mai no es reinicien). Per suposat, en fortes
 actualitzacions, encara necessita ser reiniciat (la manera correcta). 
 Però si instal·les Linux, llavors usaràs el sistema tant com vulguis, 
 deixaràs el teu ordinador engegat tot el temps, i podràs continuar 
-d'aquesta manera durant anys sense tenir cap problema.</p>
+d'aquesta manera durant anys sense tenir cap problema.
 
 
 </div>

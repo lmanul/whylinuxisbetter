@@ -4,7 +4,7 @@
 
 <h2>Egy új szoftverre lenne szükséged? Ne bajlódj a neten való keresgéléssel, a Linux megteszi helyetted!</h2>
 
-<p>Ha egy új programot szeretnél kipróbálni Windows-on:</p>
+Ha egy új programot szeretnél kipróbálni Windows-on:
 
 <ol>
 <li>Keresned kell a neten egy olyan programot, ami megfelel számodra.</li>
@@ -15,13 +15,13 @@
 <li>Olykor újra kell indítanod a géped.</li>
 </ol>
 
-<p>Hű, elég sok munkával jár, csak hogy kipróbálj valami újat!</p>
+Hű, elég sok munkával jár, csak hogy kipróbálj valami újat!
 
-<p>Linuxszal minden <b>sokkal egyszerűbb</b>. Linuxon van egy csomagkezelő: minden egyes szoftvert tartalmaz annak saját kis csomagjában. Ha néhány új programra van szükséged, csak megnyitod a szoftverközpontot, esetleg beírsz pár kulcsszót, kiválasztod, melyik szoftvert szeretnéd telepíteni, majd rákattintasz az „Alkalmaz” vagy „OK” gombra. Akár csak nézelődhetsz is, milyen programok vannak (igen széles a választék!) a különféle kategóriákban.</p>
+Linuxszal minden <b>sokkal egyszerűbb</b>. Linuxon van egy csomagkezelő: minden egyes szoftvert tartalmaz annak saját kis csomagjában. Ha néhány új programra van szükséged, csak megnyitod a szoftverközpontot, esetleg beírsz pár kulcsszót, kiválasztod, melyik szoftvert szeretnéd telepíteni, majd rákattintasz az „Alkalmaz” vagy „OK” gombra. Akár csak nézelődhetsz is, milyen programok vannak (igen széles a választék!) a különféle kategóriákban.
 
 <img src="Images/synaptic.png" />
 
-<p>Tehát egy: nem kell többé keresgélned a neten. Kettő: nem kell többé neked magadnak letölteni és telepíteni a programokat. Három: így végül is több időd jut arra, hogy kipróbáld a szoftvereket.</p>
+Tehát egy: nem kell többé keresgélned a neten. Kettő: nem kell többé neked magadnak letölteni és telepíteni a programokat. Három: így végül is több időd jut arra, hogy kipróbáld a szoftvereket.
 
 </div>
 

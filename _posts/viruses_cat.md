@@ -4,18 +4,18 @@
 
 <h2>Oblida't dels virus</h2>
 
-<p>Si el teu ordinador s'apaga sense demanar-te permís, si unes 
+Si el teu ordinador s'apaga sense demanar-te permís, si unes 
 estranyes finestres amb text que no entens i tot tipus de propaganda 
 apareixen sense que les hagis demanades, si un munt d'emails són enviats 
 a tots els teus contactes sense que ho sàpigues, aleshores el teu 
 ordinador probablement té un virus. I la principal raó d'això és perquè 
-està executant Windows.</p>
+està executant Windows.
 
-<p>Linux difícilment té cap virus. I això no és com quan es diu “Oh bé, 
+Linux difícilment té cap virus. I això no és com quan es diu “Oh bé, 
 no molt a sovint, ja saps”. Això és com “Si alguna vegada has sentit 
 parlar d'un virus real en Linux, per favor, m'ho dius”. Per suposat que 
 un virus en Linux no és impossible. Però Linux ho fa molt difícil perquè 
-això passi, per diverses raons:</p>
+això passi, per diverses raons:
 
 <ul>
 

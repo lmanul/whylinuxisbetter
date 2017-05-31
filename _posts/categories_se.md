@@ -4,19 +4,19 @@
 
 <h2>Inget kaos i startmenyn</h2>
 
-<p>Om du använder Windows och har installerat flertalet program är 
-chansen stor att startmenyn börjar se ut ungefär såhär:</p>
+Om du använder Windows och har installerat flertalet program är 
+chansen stor att startmenyn börjar se ut ungefär såhär:
 
 <img src="Images/windows_7_start_menu.png">
 
-<p>Tycker du att det ser bra ut? Du är antgagligen van vid det här 
+Tycker du att det ser bra ut? Du är antgagligen van vid det här 
 laget, men är det inte kaosartat? Och det blir bara värre när du 
-installerar fler program.</p>
+installerar fler program.
 
-<p>All installerbar mjukvara på Linux kommer med information om 
+All installerbar mjukvara på Linux kommer med information om 
 vilken slags mjukvara den innehåller, så att användaren (alltså, 
 du!) inte behöver göra något för att hålla programmen snyggt sorterade 
-i kategorier:</p>
+i kategorier:
 
 <img src="Images/categories_menu.png">
 

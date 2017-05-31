@@ -4,16 +4,16 @@
 
 <h2>Forget about viruses.</h2>
 
-<p>Ako se vaš kompjuter gasi. a da Vas ne pita, ako se čudni prozori
+Ako se vaš kompjuter gasi. a da Vas ne pita, ako se čudni prozori
 sa tekstom koji ne razumete i svakakve reklame pojavljuju
 kad ih ne tražite, ako se Vaši e-mail-ovi šalju svim Vašim kontaktima
 bez Vašeg znanja, onda verovatno Vaš kompjuter ima virus. Glavni razlog za to je 
-što verovatno koristitte Windows.</p>
+što verovatno koristitte Windows.
 
-<p>Linux jedva da poznaje viruse. I to ne u smislu "ne naročito često",
+Linux jedva da poznaje viruse. I to ne u smislu "ne naročito često",
 već "Ako ste ikada čuli za pravi linux virus, molim Vas recite mi".
 Naravno, Linux virus nije nemoguće napraviti i dobiti. Međutim, na Linux-u
-je ovo mnogo teže iz nekoliko razloga:</p>
+je ovo mnogo teže iz nekoliko razloga:
 
 <ul>
 

@@ -4,12 +4,12 @@
 
 <h2>Scheint dein digitales Leben fragmentiert zu sein?</h2>
 
-<p>Wenn dir bereits bekannt ist, was Fragmentierung ist und es bereits gew&ouml;hnt bist, deine Platte einmal im Monat 
-oder so zu defragmentieren, ist hier die Kurzversion: Linux benötigt keine Defragmentierung.</p>
+Wenn dir bereits bekannt ist, was Fragmentierung ist und es bereits gew&ouml;hnt bist, deine Platte einmal im Monat 
+oder so zu defragmentieren, ist hier die Kurzversion: Linux benötigt keine Defragmentierung.
 
-<p>Nun stelle dir vor, deine Festplatte ist ein riesiger Aktenschrank mit Millionen von Schubf&auml;chern (danke an <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto Di Cosmo</a> f&uuml;r diesen Vergleich). Jedes Fach kann nur eine festgeschriebene Menge an Unterlagen aufnehmen. Unterlagen, die gr&ouml;&szlig;er als das Fassungsverm&ouml;gen eines Schubfachs sind, m&uuml;ssen deshalb aufgeteilt werden. Manche Akten sind so gro&szlig;, dass sie tausende von F&auml;chern ben&ouml;tigen. Und nat&uuml;rlich ist es wesentlich leichter, auf diese Akten zuzugreifen, wenn die F&auml;cher, die sie im Aktenschrank belegen, nahe beieinander liegen.</p>
+Nun stelle dir vor, deine Festplatte ist ein riesiger Aktenschrank mit Millionen von Schubf&auml;chern (danke an <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto Di Cosmo</a> f&uuml;r diesen Vergleich). Jedes Fach kann nur eine festgeschriebene Menge an Unterlagen aufnehmen. Unterlagen, die gr&ouml;&szlig;er als das Fassungsverm&ouml;gen eines Schubfachs sind, m&uuml;ssen deshalb aufgeteilt werden. Manche Akten sind so gro&szlig;, dass sie tausende von F&auml;chern ben&ouml;tigen. Und nat&uuml;rlich ist es wesentlich leichter, auf diese Akten zuzugreifen, wenn die F&auml;cher, die sie im Aktenschrank belegen, nahe beieinander liegen.
 
-<p>Jetzt stell dir vor, du bist der Besitzer dieses Aktenschranks, aber du hast keine Zeit, dich um ihn zu k&uuml;mmern, so dass du jemanden anstellen willst, der dies f&uuml;r dich &uuml;bernimmt. Es kommen zwei Personen f&uuml;r den Job, ein Mann und eine Frau.</p>
+Jetzt stell dir vor, du bist der Besitzer dieses Aktenschranks, aber du hast keine Zeit, dich um ihn zu k&uuml;mmern, so dass du jemanden anstellen willst, der dies f&uuml;r dich &uuml;bernimmt. Es kommen zwei Personen f&uuml;r den Job, ein Mann und eine Frau.
 
 <ul>
 
@@ -19,7 +19,7 @@ oder so zu defragmentieren, ist hier die Kurzversion: Linux benötigt keine Defr
 
 </ul>
 
-<p>Zweifellos solltest du die Frau anstellen (du h&auml;ttest es wissen m&uuml;ssen, Frauen sind viel besser organisiert :) ). Nun, Windows benutzt die erste Methode; Linux die zweite. Je l&auml;nger du Windows benutzt, desto langsamer erfolgt der Zugriff auf Dateien; je l&auml;nger du Linux benutzt, desto schneller ist es. Triff deine Wahl!</p>
+Zweifellos solltest du die Frau anstellen (du h&auml;ttest es wissen m&uuml;ssen, Frauen sind viel besser organisiert :) ). Nun, Windows benutzt die erste Methode; Linux die zweite. Je l&auml;nger du Windows benutzt, desto langsamer erfolgt der Zugriff auf Dateien; je l&auml;nger du Linux benutzt, desto schneller ist es. Triff deine Wahl!
 
 <img src="Images/defragment.png" />
 

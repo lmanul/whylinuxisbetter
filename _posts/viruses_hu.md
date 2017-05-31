@@ -4,9 +4,9 @@
 
 <h2>Felejtsd el a vírusokat!</h2>
 
-<p>Ha a számítógéped kérdés nélkül kikapcsol, ha furcsa ablakok jelennek meg olyan szöveggel, amit nem értesz és mindenféle reklám bukkan fel, melyeket egyáltalán nem kértél, valamint ha ismerőseid e-maileket kapnak tőled a tudtod nélkül, valószínűleg vírusos a géped. Ennek legfőbb oka az, hogy Windows-t használsz.</p>
+Ha a számítógéped kérdés nélkül kikapcsol, ha furcsa ablakok jelennek meg olyan szöveggel, amit nem értesz és mindenféle reklám bukkan fel, melyeket egyáltalán nem kértél, valamint ha ismerőseid e-maileket kapnak tőled a tudtod nélkül, valószínűleg vírusos a géped. Ennek legfőbb oka az, hogy Windows-t használsz.
 
-<p>Linuxon szinte alig vannak vírusok. És ez nem azt jelenti, hogy „Hát, tudod, nem túl gyakran...”, hanem hogy „Ha valaha is hallottál már igazi linuxos vírusról, kérlek, áruld el!”. Természetesen nem lehetetlen linuxos vírust kapni, azonban a Linux számos okból kifolyólag megnehezíti ezt:</p>
+Linuxon szinte alig vannak vírusok. És ez nem azt jelenti, hogy „Hát, tudod, nem túl gyakran...”, hanem hogy „Ha valaha is hallottál már igazi linuxos vírusról, kérlek, áruld el!”. Természetesen nem lehetetlen linuxos vírust kapni, azonban a Linux számos okból kifolyólag megnehezíti ezt:
 
 <ul>
 

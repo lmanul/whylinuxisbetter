@@ -4,12 +4,12 @@
 
 <h2>Mediu</h2>
 
-<p align="center">Mulţumiri lui Franz Bourlet pentru idee</p>
+<p align="center">Mulţumiri lui Franz Bourlet pentru idee
 
-<p>Cum poate fi Linux diferit de Windows când vine vorba de mediu, poate
+Cum poate fi Linux diferit de Windows când vine vorba de mediu, poate
 vă întrebaţi? Până la urmă, sunt doar nişte software-uri cu un impact foarte
 mic asupra poluării sau a schimbărilor de climă. Ei bine, alegerea Linux-ului
-chiar are influenţe asupra mediului:</p>
+chiar are influenţe asupra mediului:
 
 <ul>
 

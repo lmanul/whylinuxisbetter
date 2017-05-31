@@ -4,7 +4,7 @@
 
 <h2>System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?</h2>
 
-<p>Instalacja systemu Windows to dopiero początek. Wyobraź sobie, że
+Instalacja systemu Windows to dopiero początek. Wyobraź sobie, że
 instalacja właśnie się skończyła i nie możesz się już doczekać rozpoczęcia
 jego używania. Kumpel właśnie przesłał mail, razem z załączonym plikiem
 PDF... a niech to! Musisz poszperać po sieci, znaleźć program Acrobat Reader
@@ -19,15 +19,15 @@ złym kontrastem i oświetleniem, do tego trzeba je solidnie przyciąć. Czyli
 znów, do wyboru: możesz kupić Photoshopa (a tani to on nie jest), albo
 ściągnąć program GIMP (to darmowy odpowiednik Photoshopa, który potrafi
 niemalże tyle samo), co oznacza jego odnalezienie, ściągnięcie,
-zainstalowanie...</p>
+zainstalowanie...
 
-<p>Chyba wiadomo już o co chodzi - systemowi Windows
+Chyba wiadomo już o co chodzi - systemowi Windows
 jeszcze sporo brakuje do normalnej pracy, a jego zainstalowanie to dopiero
-początek kłopotów.</p>
+początek kłopotów.
 
-<p>Instalując Linuksa (takiego jak Ubuntu, Mandriva, Fedora, itd.; są to
+Instalując Linuksa (takiego jak Ubuntu, Mandriva, Fedora, itd.; są to
 różne jego warianty), razem z nim dostajesz też <i>bez instalowania
-czegokolwiek</i> dostęp do:</p>
+czegokolwiek</i> dostęp do:
 
 <ul>
 
@@ -45,7 +45,7 @@ tworzenia prezentacji, rysowania, malowania i edycji równań matematycznych</li
 
 </ul>
 
-<p>Możesz prosto z marszu rozpocząć pracę.</p>
+Możesz prosto z marszu rozpocząć pracę.
 
 <img src="Images/app_menu.png" />
 

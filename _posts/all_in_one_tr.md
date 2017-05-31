@@ -5,7 +5,7 @@
 
 <h2>Sistemi kurduktan sonra neden <i>hala</i> daha fazla araç kurasınız ki?</h2>
 
-<p>Windows kurmak sadece bir başlangıçtır. Hayal edin, yeni Windows 7 
+Windows kurmak sadece bir başlangıçtır. Hayal edin, yeni Windows 7 
 kopyanızı kurdunuz, ve bilgisayar becerilerinizi kullanmaya hazırsınız. 
 Bir arkadaşınız size PDF eklentili bir e-posta gönderdi : lanet olsun, 
 sizin bu veriyi okuyacak bir yazılımınız yok. Hemen çevrimiçi olmalı, 
@@ -22,9 +22,9 @@ gerekiyor. Şimdi gidip Photoshop satın alabilirsiniz (satın almak? yine
 para vereceksiniz) veya GIMP (Photoshop yazılımının tüm yeteneklerine 
 sahip ücretsiz bir uygulama) kurabilirsiniz. Ama önce, aramalı, 
 indirmeli, kurmalı... Evet, gerçekten işiniz zor olacak. Windows'u 
-kurdunuz, ama o problemin sadece başlangıcıydı.</p>
+kurdunuz, ama o problemin sadece başlangıcıydı.
 
-<p>Linux kurduğunuzda (Ubuntu,  Mandriba, Fedora vs. bir çok "dağıtım" size farklı tatlar sunacaktır), aynı zamanda, kurmak zorunda kalmadan bir çok şeye sahip olursunuz:</p>
+Linux kurduğunuzda (Ubuntu,  Mandriba, Fedora vs. bir çok "dağıtım" size farklı tatlar sunacaktır), aynı zamanda, kurmak zorunda kalmadan bir çok şeye sahip olursunuz:
 
 <ul>
 <li>Yazı yazabilmek, tablolar oluşturabilmek, Slaytlar hazırlamak için gerekli olacak her türlü yazılım.</li>
@@ -38,7 +38,7 @@ kurdunuz, ama o problemin sadece başlangıcıydı.</p>
 <li>vs.</li>
 </ul>
 
-<p>Linux ile, kolayca çalışmaya başlayabilirsiniz. </p>
+Linux ile, kolayca çalışmaya başlayabilirsiniz. 
 
 <img src="Images/app_menu.png" />
 

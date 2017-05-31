@@ -4,15 +4,15 @@
 
 <h2>Vrijheid!</h2>
 
-<p>Linux en opensourcesoftware zijn "vrij" (Engels free). Dit betekent
+Linux en opensourcesoftware zijn "vrij" (Engels free). Dit betekent
 dat hun licentie een "vrije licentie" is, en de meest gebruikelijke
 licentie is de GPL (General Public License). Deze licentie geeft
 iedereen het recht om de software te kopiëren, de broncode te bekijken
 (het "recept"), de software aan te passen en opnieuw te verspreiden zolang
 de licentie van de aangepaste software ook onder de GPL verspreid wordt.
-</p>
 
-<p>Wat kan vrijheid u schelen? Stel u voor dat Microsoft morgen verdwijnt
+
+Wat kan vrijheid u schelen? Stel u voor dat Microsoft morgen verdwijnt
 (niet erg waarschijnlijk, maar misschien wel binnen 5 of 10 
 jaar?). Of stel u voor dat Microsoft plotseling besluit de prijs voor
 Windows of Office te verdrievoudigen. Als u vastzit aan Windows, kan u
@@ -24,16 +24,16 @@ van uw computers toe. Als Microsoft beslist €1000 te vragen voor de
 volgende versie van Windows, is er niets dat u daaraan kan doen (buiten
 overschakelen naar Linux, natuurlijk). Als Windows een fout bevat
 dat u erg stoort en Microsoft het niet oplost, is er niets dat u kan doen
-(en fouten aan Microsoft melden is niet eenvoudig, zie "Wacht geen jaren"). </p>
+(en fouten aan Microsoft melden is niet eenvoudig, zie "Wacht geen jaren"). 
 
-<p>Met opensourcesoftware, als een bepaald project of bedrijf stopt, 
+Met opensourcesoftware, als een bepaald project of bedrijf stopt, 
 is nog steeds alle code beschikbaar voor de gemeenschap, die de code
 kan blijven verbeteren. Als het project uitermate nuttig is voor u, kan
 u dit zelfs zelf doen. Als een bepaalde fout (bug) u ergert, kan u deze
 melden aan de ontwikkelaars, en, nog beter, deze zelf oplossen (of iemand
 inhuren om dit te doen) en de wijzigingen doorgeven aan het project
 zodat anderen hiervan ook kunnen genieten. U bent (bijna) vrij te doen
-wat u maar wilt met de software.</p>
+wat u maar wilt met de software.
 
 </div>
 

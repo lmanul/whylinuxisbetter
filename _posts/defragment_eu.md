@@ -4,11 +4,11 @@
 
 <h2>Zure bizitza digitala zatituta dirudi?</h2>
 
-<p>Fragmentazioa zer den baldin badakizu, eta zure diskoa deboraldi baten ostean desfragmentatzera ohituta bazaude, hona hemen berstio laburtua: Linuxen ez duzu desfragmentatu behar izango.</p>
+Fragmentazioa zer den baldin badakizu, eta zure diskoa deboraldi baten ostean desfragmentatzera ohituta bazaude, hona hemen berstio laburtua: Linuxen ez duzu desfragmentatu behar izango.
 
-<p>Zer den ez badakizu,hemen duzu azalpen on bat: Imagina ezazu zure disko gogorra milioika kaxoiz osaturiko armairu erraldoi bat dela (mila esker <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto Di Cosmo</a>ri parekatze honengatik). Kaxoi bakoitzak gehienez informazio kopuru zehatz bat gorde dezake. Beraz, fitxategi handi bat gordetzeko lehenbizi hau zatitu behar izango dugu, kaxoi ezberdinetan zehar banatzeko. Batzutan, fitxategi hauek miliaka kaxoi beharko dituzte, eta noski, askoz errezagoa izango da bere irakurpena kaxoiak bata bestearen ondoan topatzen badira.</p>
+Zer den ez badakizu,hemen duzu azalpen on bat: Imagina ezazu zure disko gogorra milioika kaxoiz osaturiko armairu erraldoi bat dela (mila esker <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto Di Cosmo</a>ri parekatze honengatik). Kaxoi bakoitzak gehienez informazio kopuru zehatz bat gorde dezake. Beraz, fitxategi handi bat gordetzeko lehenbizi hau zatitu behar izango dugu, kaxoi ezberdinetan zehar banatzeko. Batzutan, fitxategi hauek miliaka kaxoi beharko dituzte, eta noski, askoz errezagoa izango da bere irakurpena kaxoiak bata bestearen ondoan topatzen badira.
  
-<p>Orain imagina ezazu armairu horren jabea zarela, baina zoritxarrez ez daukazu honengan arreta izateko denborarik. Orduan, pestsona bat kontratatu nahi duzu lan hau zugatik egin dezan. Guztira bi hautagai dituzu, gizon bat eta emakume bat.</p>
+Orain imagina ezazu armairu horren jabea zarela, baina zoritxarrez ez daukazu honengan arreta izateko denborarik. Orduan, pestsona bat kontratatu nahi duzu lan hau zugatik egin dezan. Guztira bi hautagai dituzu, gizon bat eta emakume bat.
 
 <ul>
 
@@ -18,7 +18,7 @@
 
 </ul>
 
-<p>Pentsatu barik, seguru emakumea kontratatuko zenukeela (jakin beharko zenuke, emakumeak normalean hobeto antolatzen direla :) ). Beno ba, Windowsek lehenengo metodoa erabiltzen du, eta Linuxek bigarrena. Hortaz, Windows gero eta gehiago erabiltzerakoan, gero eta motelagoa izango da fitxategien irakurketa: Linux erabiltzerakoan, azkarrago izango da. Aukera ezazu!</p>
+Pentsatu barik, seguru emakumea kontratatuko zenukeela (jakin beharko zenuke, emakumeak normalean hobeto antolatzen direla :) ). Beno ba, Windowsek lehenengo metodoa erabiltzen du, eta Linuxek bigarrena. Hortaz, Windows gero eta gehiago erabiltzerakoan, gero eta motelagoa izango da fitxategien irakurketa: Linux erabiltzerakoan, azkarrago izango da. Aukera ezazu!
 
 <img src="Images/defragment.png" />
 

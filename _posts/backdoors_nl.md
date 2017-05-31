@@ -4,7 +4,7 @@
 
 <h2>Geen achterpoortjes in uw software.</h2>
 
-<p>Het verschil tussen "closed source" (propriëtaire software) en
+Het verschil tussen "closed source" (propriëtaire software) en
 opensourcesoftware (hoe kon u dit raden) dat de broncode (source)
 open is en dus vrij beschikbaar. 
 Hmm, oke, wat geef ik erom? Wel, de "bron" of "broncode" is zoals het
@@ -16,17 +16,17 @@ supersuccesvolle taart, zou de bakkerij snel failliet gaan omdat mensen
 de taart zelf zouden maken, thuis, en dus bijgevolg niet meer kopen.
 Op dezelfde manier houdt Microsoft het recept van hun software, de
 broncode dus, van onder meer Windows niet vrij, net omdat het datgene
-is waaraan ze verdienen.</p>
+is waaraan ze verdienen.
 
-<p>Het probleem is dat ze <i>wat ze maar willen</i> in hun recept
+Het probleem is dat ze <i>wat ze maar willen</i> in hun recept
 kunnen schrijven, zonder dat wij daarvan weten. Ze zouden een stuk
 code kunnen toevoegen dat elke 12e dag van de maand een lijst van
 alle downloads deze maand naar Microsoft opstuurt via internet als
 de computer online is. Microsoft doet dat waarschijnlijk niet,
 maar <i>hoe weten we dat zeker?</i> Alles is immers gesloten,
-onzichtbaar en geheim.</p>
+onzichtbaar en geheim.
 
-<p>In oktober 2008 zagen een heleboel Chinese Windows-gebruikers
+In oktober 2008 zagen een heleboel Chinese Windows-gebruikers
 (de meeste gebruiken een illegaal verkregen kopie van Windows)
 iets vreemd gebeuren met hun computer: elk uur ging het scherm
 enkele seconden op zwart. Niets om echt je te weerhouden van te
@@ -37,9 +37,9 @@ dan enkele seconden zwart, elk uur. Het punt is niet dat het illegale
 kopieën waren: illegale kopieën zijn slecht, punt. Het punt is dat
 deze gebruikers een automatische update voor Windows kregen (updates
 zorgen meestal voor foutoplossingen en nieuwe functies), zonder dat
-ze wisten hoe dit hun systeem beïnvloedde. Niemand wist het.</p>
+ze wisten hoe dit hun systeem beïnvloedde. Niemand wist het.
 
-<p>Het aanpassen van broncode van opensourcesoftware is een meer open
+Het aanpassen van broncode van opensourcesoftware is een meer open
 proces. Bij definitie zijn alle recepten publiek. Het maakt niet uit
 of je de code daadwerkelijk kan verstaan, maar mensen die het kunnen
 verstaan kunnen het lezen en kunnen zich hierover uitspreken. En
@@ -50,11 +50,11 @@ aftapt, bent u gek?"). En zelfs als het hele team van een stuk software
 gek wordt en slechte code begint toe te voegen, iemand van buiten het
 team kan de code nemen, de slechte stukken verwijderen en een hele
 nieuwe versie maken, waarbij de verschillen worden bekend gemaakt.
-Het is <i>open</i>.</p>
+Het is <i>open</i>.
 
-<p>Dat is de reden waarom u zeker kan zijn dat opensourcesoftware
+Dat is de reden waarom u zeker kan zijn dat opensourcesoftware
 geen slechte dingen doet achter uw rug: de gemeenschap houdt alle
-recepten in de gaten.</p>
+recepten in de gaten.
 
 </div>
 

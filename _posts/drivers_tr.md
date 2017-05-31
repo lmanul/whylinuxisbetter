@@ -4,15 +4,15 @@
 
 <h2>Sürücüleri unutun</h2>
 
-<p>Yeni donanım parçaları, en basiti bile, genelde CD ile birlikte gelir. Bu CD'de, "sürücü" adı verilen çok ufak bir parça yazılım bulunur. Eğer yönergeleri okuduysanız, donanımınızın sürücüleri yüklenmedikçe Windows bilgisayarınızda çalışmayacağını biliyorsunuzdur. Eğer siz de bir çok insan gibi el kitaplarını okumadıysanız, yeni yüksek teknolojili oyuncağınızın çalışmadığını gördüğünüzde kendiniz öğrenirsiniz.</p>
+Yeni donanım parçaları, en basiti bile, genelde CD ile birlikte gelir. Bu CD'de, "sürücü" adı verilen çok ufak bir parça yazılım bulunur. Eğer yönergeleri okuduysanız, donanımınızın sürücüleri yüklenmedikçe Windows bilgisayarınızda çalışmayacağını biliyorsunuzdur. Eğer siz de bir çok insan gibi el kitaplarını okumadıysanız, yeni yüksek teknolojili oyuncağınızın çalışmadığını gördüğünüzde kendiniz öğrenirsiniz.
 
-<p>CD'yi tak, kurulum sihirbazına tıkla, bekle, CD'yi çıkart, bilgisayarı yeniden başlat.</p>
+CD'yi tak, kurulum sihirbazına tıkla, bekle, CD'yi çıkart, bilgisayarı yeniden başlat.
 
-<p>Eğer donanımı aldıktan sonra bir süre geçmişse ve başka bir bilgisayarda halen kullanıyorsanız, büyük ihtimalle CD'yi unutmak ve sürücünün son sürümünü üreticinin sitesinden indirmek isteyeceksinizdir, ki bu biraz zaman alacaktır, çünkü üreticilerin siteleri gerçekten garip bir dizayna sahip olabiliyor.</p>
+Eğer donanımı aldıktan sonra bir süre geçmişse ve başka bir bilgisayarda halen kullanıyorsanız, büyük ihtimalle CD'yi unutmak ve sürücünün son sürümünü üreticinin sitesinden indirmek isteyeceksinizdir, ki bu biraz zaman alacaktır, çünkü üreticilerin siteleri gerçekten garip bir dizayna sahip olabiliyor.
 
-<p>Tamam, bu sadece bir donanım parçasıydı. Şimdi Windows'u tamamen yeni, dokunulmamış bir bilgisayara yüklemek istediğinizi hayal edin. Her küçük donanım parçası için son sürücüyü bulmak (veya CD'sini kullanmak) zorunda kalacaksınız, ve her kurulumdan sonra da defalarca yeniden başlatmanız gerekecek. Ekran kartı, ses kartı, klavye, fare, anakart yonga seti, vs. (En iyisi ilk olarak ekran kartı sürücüsünü yapmak, yoksa yüksek çözünürlükle ekranınızda oldukça düşük çözünürlükler görebilirsiniz). Elbette bunları yapmadan önce bir de zaten yeteri kadar uzun bir Windows kurulumu yaşayacaksınız.</p>
+Tamam, bu sadece bir donanım parçasıydı. Şimdi Windows'u tamamen yeni, dokunulmamış bir bilgisayara yüklemek istediğinizi hayal edin. Her küçük donanım parçası için son sürücüyü bulmak (veya CD'sini kullanmak) zorunda kalacaksınız, ve her kurulumdan sonra da defalarca yeniden başlatmanız gerekecek. Ekran kartı, ses kartı, klavye, fare, anakart yonga seti, vs. (En iyisi ilk olarak ekran kartı sürücüsünü yapmak, yoksa yüksek çözünürlükle ekranınızda oldukça düşük çözünürlükler görebilirsiniz). Elbette bunları yapmadan önce bir de zaten yeteri kadar uzun bir Windows kurulumu yaşayacaksınız.
 
-<p><b>Linux ayrı sürücülere ihtiyaç duymaz</b>. Tüm sürücüler Linux çekirdeğiyle birlikte, sistemin temeliyle beraber gelir. Bu her dağıtımda böyledir. Bu, şu anlama gelir:</p>
+<b>Linux ayrı sürücülere ihtiyaç duymaz</b>. Tüm sürücüler Linux çekirdeğiyle birlikte, sistemin temeliyle beraber gelir. Bu her dağıtımda böyledir. Bu, şu anlama gelir:
 
 <ul>
 

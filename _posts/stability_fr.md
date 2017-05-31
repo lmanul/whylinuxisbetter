@@ -4,19 +4,19 @@
 
 <h2>Votre système est-il instable ?</h2>
 
-<p>N'avez-vous jamais perdu votre précieux travail à cause d'un 
+N'avez-vous jamais perdu votre précieux travail à cause d'un 
 plantage de Windows ? Éteignez-vous toujours votre ordinateur 
 correctement, ou est-ce que parfois vous appuyez juste sur le bouton 
 "Off" parce que Windows est devenu fou et ne vous laisse plus rien 
 contrôler ? Avez-vous déjà vu l'« écran bleu de la mort », ou des 
 messages d'erreur disant que l'ordinateur doit s'éteindre pour des 
-raisons incompréhensibles ?</p>
+raisons incompréhensibles ?
 
-<p>Les toutes dernières versions de Windows, en particulier la série des 
+Les toutes dernières versions de Windows, en particulier la série des 
 « Professional », sont plus stables que les précédentes. Mais ce 
-genre de problème arrive toujours assez fréquemment.</p>
+genre de problème arrive toujours assez fréquemment.
 
-<p>Bien sûr, aucun système d'exploitation n'est parfait, et ceux qui 
+Bien sûr, aucun système d'exploitation n'est parfait, et ceux qui 
 vous disent que le leur ne plante jamais, absolument jamais, sont des 
 menteurs. Cependant, certains systèmes sont si stables que la plupart 
 des utilisateurs ne les voient jamais planter, même en plusieurs années 
@@ -31,10 +31,10 @@ jamais). Bien sûr, lors d'une mise à jour majeure, Linux a tout de
 même besoin d'être redémarré (proprement). Mais si vous installez 
 Linux, et utilisez votre ordinateur autant que vous le voulez, même en 
 le laissant allumé tout le temps, vous pourrez continuer comme cela 
-pendant des années sans rencontrer de problème.</p>
+pendant des années sans rencontrer de problème.
 
-<p>La plupart du temps, vous ne laisserez pas votre ordinateur 
-allumé si longtemps. Mais cela montre à quel point Linux est stable.</p>
+La plupart du temps, vous ne laisserez pas votre ordinateur 
+allumé si longtemps. Mais cela montre à quel point Linux est stable.
 
 </div>
 

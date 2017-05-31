@@ -4,9 +4,9 @@
 
 <h2>Glem alt om virus.</h2>
 
-<p>Hvis datamaskinen din slår seg av uten at den spør deg først, eller hvis rare vinduer med tekst du ikke forstår og alle mulige former for reklame popper opp når du ikke spør etter det, da har datamaskinen din høyst sannsylig virus. Hovedgrunnen for dette er at den kjører Windows.</p>
+Hvis datamaskinen din slår seg av uten at den spør deg først, eller hvis rare vinduer med tekst du ikke forstår og alle mulige former for reklame popper opp når du ikke spør etter det, da har datamaskinen din høyst sannsylig virus. Hovedgrunnen for dette er at den kjører Windows.
 
-<p>Linux har så å si ingen virus. Og det er ikke «tja, ikke så veldig ofte, vet du». Nei, det er mer som «hvis du noen gang har hørt om et virus for Linux, fortell meg!». Det er selvfølgelig <i>mulig</i> å få virus på Linux, men Linux gjør det ekstremt vanskelig. Her er grunnene:</p>
+Linux har så å si ingen virus. Og det er ikke «tja, ikke så veldig ofte, vet du». Nei, det er mer som «hvis du noen gang har hørt om et virus for Linux, fortell meg!». Det er selvfølgelig <i>mulig</i> å få virus på Linux, men Linux gjør det ekstremt vanskelig. Her er grunnene:
 
 <ul>
 

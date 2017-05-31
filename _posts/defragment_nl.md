@@ -4,23 +4,23 @@
 
 <h2>Is uw digitale leven een beetje gefragmenteerd?</h2>
 
-<p>Als u reeds weet wat fragmentatie is, en u reeds gewoon bent aan het
+Als u reeds weet wat fragmentatie is, en u reeds gewoon bent aan het
 elke maand defragmenteren van uw schijf, hier is de korte versie:
-Linux heeft geen defragmentatie nodig.</p>
+Linux heeft geen defragmentatie nodig.
 
-<p>Stel u voor dat uw harde schijf een archiefkast is, met miljoenen lades 
+Stel u voor dat uw harde schijf een archiefkast is, met miljoenen lades 
 (dank aan <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto 
 Di Cosmo</a> voor deze vergelijking). Elke lade kan een vast aantal
 gegevens bevatten. Dossiers (bestanden) die groter zijn dan zo'n lade kan
 bevatten, moeten opgesplitst worden. Sommige dossiers zijn zo groot dat ze
 duizenden lades nodig hebben. Natuurlijk is het gemakkelijker om deze
 dossiers te raadplegen als de delen dichtbij elkaar zitten in naburige lades. 
-</p>
 
-<p>Stel u voor dat u de eigenaar bent van deze archiefkast, maar geen tijd
+
+Stel u voor dat u de eigenaar bent van deze archiefkast, maar geen tijd
 heeft om er u mee bezig te houden. U besluit iemand aan te werven die zich
 ermee mag bezighouden. Twee mensen solliciteren voor de jobaanbieding: een
-vrouw en een man.</p>
+vrouw en een man.
 
 <ul>
 
@@ -39,11 +39,11 @@ ordelijk, zolang er genoeg activiteit is.</li>
 
 </ul>
 
-<p>Zonder twijfel moet u de vrouw aanwerven (u had het moeten weten, 
+Zonder twijfel moet u de vrouw aanwerven (u had het moeten weten, 
 vrouwen zijn beter georganiseerd :) ). Windows maakt gebruik van de eerste
 methode om bestanden op te slaan, Linux gebruikt de tweede. Hoe meer u Windows
 gebruikt, hoe trager bestanden te raadplegen zijn; hoe meer u Linux gebruikt,
-hoe sneller het gaat. De keuze is aan u!</p>
+hoe sneller het gaat. De keuze is aan u!
 
 <img src="Images/defragment.png" />
 

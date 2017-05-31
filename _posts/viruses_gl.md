@@ -4,9 +4,9 @@
 
 <h2>Esquéceche dos virus.</h2>
 
-<p>Se a túa computadora apágase soa sen preguntarche, se aparecen estrañas ventás con texto que non entendes e toda clase de anuncios  cando ti non os pediches, se  son mandados correos a todos os teus contactos sen que o saibas, entón a túa computadora probablemente ten un virus e a principal razón para isto é que usas Windows.</p>
+Se a túa computadora apágase soa sen preguntarche, se aparecen estrañas ventás con texto que non entendes e toda clase de anuncios  cando ti non os pediches, se  son mandados correos a todos os teus contactos sen que o saibas, entón a túa computadora probablemente ten un virus e a principal razón para isto é que usas Windows.
 
-<p>É moi difícil que Linux teña algún virus. Dicir isto non quere dicir: "Non é moi común, xa sabes" senón que quere dicir: "Se ti algunha vez escoitas dun virus real en Linux, por favor avísame". De feito, un virus en Linux non é imposible pero Linux fai que isto sexa ben difícil que pase, por varias razóns :</p>
+É moi difícil que Linux teña algún virus. Dicir isto non quere dicir: "Non é moi común, xa sabes" senón que quere dicir: "Se ti algunha vez escoitas dun virus real en Linux, por favor avísame". De feito, un virus en Linux non é imposible pero Linux fai que isto sexa ben difícil que pase, por varias razóns :
 
 <ul>
 

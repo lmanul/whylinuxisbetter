@@ -4,7 +4,7 @@
 
 <h2>Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?</h2>
 
-<p>L'installation de Windows, ce n'est que le début de l'aventure. 
+L'installation de Windows, ce n'est que le début de l'aventure. 
 Imaginez vous venez d'installer votre Windows 7 flambant neuf et 
 que vous vous préparez à donner libre cours à vos talents 
 informatiques. Un ami vous envoie un courriel avec, en pièce 
@@ -24,11 +24,11 @@ Photoshop (combien de centaines d'euros, déjà ?), ou bien télécharger
 The GIMP (c'est le nom d'un programme libre qui sait en faire presque 
 autant que Photoshop) : cherchez-le, téléchargez-le, installez-le, etc. 
 Ça suffit comme ça : vous avez compris l'idée, Windows est loin d'être 
-complet, et l'installer n'est que le début des ennuis.</p>
+complet, et l'installer n'est que le début des ennuis.
 
-<p>Lorsque vous obtenez Linux (par exemple Ubuntu, Mandriva, Fedora, 
+Lorsque vous obtenez Linux (par exemple Ubuntu, Mandriva, Fedora, 
 etc., ce sont différents "parfums" de Linux), vous obtenez en même 
-temps, <i>sans rien installer d'autre</i>:</p>
+temps, <i>sans rien installer d'autre</i>:
 
 <ul>
 
@@ -56,7 +56,7 @@ etc.).</li>
 <li>etc.</li>
 </ul>
 
-<p>Vous pouvez commencer à travailler dès maintenant.</p>
+Vous pouvez commencer à travailler dès maintenant.
 
 <img src="Images/app_menu.png" />
 

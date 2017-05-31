@@ -4,11 +4,11 @@
 
 <h2>Miljö</h2>
 
-<p align="center">Tack till Franz Bourlet för idén</p>
+<p align="center">Tack till Franz Bourlet för idén
 
-<p>Du kanske undrar hur Linux kan vara annorlunda gentemot Windows när det gäller 
+Du kanske undrar hur Linux kan vara annorlunda gentemot Windows när det gäller 
 miljön? Båda är trots allt bara mjukvara som har liten effekt på klimatet och 
-miljöförstörelse. Om du väljer Linux kan du faktiskt påverka miljön:</p>
+miljöförstörelse. Om du väljer Linux kan du faktiskt påverka miljön:
 
 <ul>
 

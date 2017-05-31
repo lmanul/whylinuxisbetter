@@ -10,20 +10,20 @@ pannello di spegnimento).</li>
 <li>Mac OS X permette solo lo "sleep".</li>
 </ul>
 
-<p>Mentre il tuo computer è in sleep non puoi usarlo, ma consuma pochissima energia, 
-e puoi svegliarlo premendo un pulsante o cliccando con il mouse.</p>
+Mentre il tuo computer è in sleep non puoi usarlo, ma consuma pochissima energia, 
+e puoi svegliarlo premendo un pulsante o cliccando con il mouse.
 
-<p>Sicuramente anche Linux ammette queste modalità, ma ti fa anche "ibernare" 
+Sicuramente anche Linux ammette queste modalità, ma ti fa anche "ibernare" 
 il computer. L'ibernazione è molto simile allo sleep, ma il computer non 
 consuma affatto energia: puoi anche scollegarlo, non succederà nulla. 
 E' molto utile per i laptop: quando devi spostarti da un posto a un altro manda 
 in ibernazione il sistema, scollegalo e, quando gli darai di nuovo energia, 
-lo troverai identico a come l'hai lasciato.</p>
+lo troverai identico a come l'hai lasciato.
 
-<p>Praticamente, non hai bisogno di avviare da capo il computer! 
+Praticamente, non hai bisogno di avviare da capo il computer! 
 Dato che Linux è molto stabile e raramente necessita di essere riavviato, 
 puoi avviarlo una volta e per tutte, poi ibernarlo, svegliarlo, ibernarlo, 
-svegliarlo, ecc.</p>
+svegliarlo, ecc.
 
 <img src="Images/suspend_hibernate_thumb.png" />
 

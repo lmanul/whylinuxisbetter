@@ -4,9 +4,9 @@
 
 <h2>Olvida los virus.</h2>
 
-<p>Si tu ordenador se apaga solo y sin preguntarte, si aparecen ventanas extrañas con texto que no entiendes así como toda clase de anuncios cuando tú no los pediste, si se envían emails a todos tus contactos sin que lo sepas, probablemente tu ordenador tiene un virus y la principal razón para esto es porque usas Windows.</p>
+Si tu ordenador se apaga solo y sin preguntarte, si aparecen ventanas extrañas con texto que no entiendes así como toda clase de anuncios cuando tú no los pediste, si se envían emails a todos tus contactos sin que lo sepas, probablemente tu ordenador tiene un virus y la principal razón para esto es porque usas Windows.
 
-<p>Linux difícilmente tendrá algún virus y no es como: "Bueno, no muy común, tu sabes", es más bien como: "Si tú alguna vez has escuchado de un virus real en Linux, por favor avísame". De hecho, un virus en Linux no es imposible pero Linux hace que esto sea muy difícil que ocurra, por varias razones:</p>
+Linux difícilmente tendrá algún virus y no es como: "Bueno, no muy común, tu sabes", es más bien como: "Si tú alguna vez has escuchado de un virus real en Linux, por favor avísame". De hecho, un virus en Linux no es imposible pero Linux hace que esto sea muy difícil que ocurra, por varias razones:
 
 <ul>
 

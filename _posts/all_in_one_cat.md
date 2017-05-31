@@ -5,7 +5,7 @@
 <h2>Quan el teu sistema està instal·lat, per què necessites instal·lar 
 <i>encara</i> més coses?</h2>
 
-<p>La instal·lació de Windows és tan sols el principi. Imagina't que 
+La instal·lació de Windows és tan sols el principi. Imagina't que 
 acabes d'instal·lar la teva nova còpia de Windows 7 i estàs preparat 
 per a deixar anar les teves habilitats davant de l'ordinador. Un amic 
 t'envia un email amb un fitxer PDF adjunt: merda!, no tens cap programa 
@@ -24,11 +24,11 @@ centenars d'euros suposa això altra vegada?), o baixar-te el GIMP
 (aquest és el nom del programa lliure que fa quasi el mateix que el 
 Photoshop): cercar d'on baixar-te'l, instal·lar-te'l, etc. Ja hi ha 
 prou: ja has agafat la idea, Windows està lluny d'estar complet, i la 
-seva instal·lació és sols el principi dels problemes.</p>
+seva instal·lació és sols el principi dels problemes.
 
-<p>Quan aconsegueixes un Linux (com ara Ubuntu, Mandriva, Fedora, etc., 
+Quan aconsegueixes un Linux (com ara Ubuntu, Mandriva, Fedora, etc., 
 aquestos són diferents “sabors” de Linux), també aconsegueixes, <i>sense 
-instal·lar res més</i>:</p>
+instal·lar res més</i>:
 
 <ul>
 
@@ -42,7 +42,7 @@ instal·lar res més</i>:</p>
 <li>Tot el que necessites per comprimir i extreure fitxers (ZIP, etc.)</li>
 <li>etc.</li>
 
-<p>Ja pots començar a treballar.</p>
+Ja pots començar a treballar.
 
 <img src="Images/app_menu.png" />
 

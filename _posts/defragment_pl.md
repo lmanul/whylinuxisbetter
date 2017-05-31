@@ -4,21 +4,21 @@
 
 <h2>Czy Twoje życie wydaje się pofragmentowane?</h2>
 
-<p>Jeśli wiesz już, co to takiego fragmentacja dysku, to w skrócie
-sprawa wygląda tak: Linuks jej nie potrzebuje.</p>
+Jeśli wiesz już, co to takiego fragmentacja dysku, to w skrócie
+sprawa wygląda tak: Linuks jej nie potrzebuje.
 
-<p>Wyobraź sobie, że Twój twardy dysk to pomieszczenie z milionami szuflad
+Wyobraź sobie, że Twój twardy dysk to pomieszczenie z milionami szuflad
 z zawartością (dzięki dla <a href="http://www.pps.jussieu.fr/~dicosmo/">
 Roberto Di Cosmo</a> za tą analogię). Każda szuflada może zawierać jedynie pewną
 ograniczoną ilość danych. Wynika stąd, że jeśli jakiś plik ma rozmiar większy niż
 pojemność takiej szuflady, musi zostać rozparcelowany i umieszczony w kilku
 szufladach. Niektóre pliki potrzebują nawet tysięcy takich szuflad. Oczywiście
 dostęp do takiego pliku jest znacznie szybszy, jeśli szuflady te umieszczone są
-blisko siebie.</p>
+blisko siebie.
 
-<p>Jesteś właścicielem takiego właśnie pomieszczenia z szufladami, nie masz
+Jesteś właścicielem takiego właśnie pomieszczenia z szufladami, nie masz
 jednak czasu na zajmowanie się szczegółami, problem ten możesz jednak rozwiązać
-na jeden z dwóch sposobów: zatrudniasz mężczyznę lub kobietę.</p>
+na jeden z dwóch sposobów: zatrudniasz mężczyznę lub kobietę.
 
 <ul>
 
@@ -38,10 +38,10 @@ mamy jako taki porządek.</li>
 
 </ul>
 
-<p>Nie ma wątpliwości: powinieneś zatrudnić kobietę (powinieneś o tym wiedzieć:
+Nie ma wątpliwości: powinieneś zatrudnić kobietę (powinieneś o tym wiedzieć:
 kobiety są lepiej zorganizowane :) ). Tyle, że system Windows używa tej pierwszej metody,
 Linuks zaś tej drugiej. Im dłużej używasz systemu Windows, tym wolniejszy jest dostęp
-do plików - im więcej Linuksa, tym szybszy. Wybór należy do Ciebie!</p>
+do plików - im więcej Linuksa, tym szybszy. Wybór należy do Ciebie!
 
 <img src="Images/defragment.png" />
 

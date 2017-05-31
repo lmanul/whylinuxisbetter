@@ -4,23 +4,23 @@
 
 <h2>La teva vida digital sembla fragmentada?</h2>
 
-<p>Si ja saps el que és la fragmentació, i ja sols desfragmentar el teu 
+Si ja saps el que és la fragmentació, i ja sols desfragmentar el teu 
 disc cada mes o així, aquí tens la versió curta: oblida això de 
-desfragmentar, Linux no ho necessita.</p>
+desfragmentar, Linux no ho necessita.
 
-<p>Ara imagina't que el teu disc és un armari enorme d'arxius, amb 
+Ara imagina't que el teu disc és un armari enorme d'arxius, amb 
 milions de calaixos (gràcies a Roberto di Cosmo per aquesta comparació). 
 Cada calaix sols pot contenir un quantitat fixa d'informació. Per tant, 
 les dades que són més grans que el que un calaix pot contenir cal que es 
 parteixin. Alguns arxius són tan grans que necessiten milers de 
 calaixos. I per suposat, accedir a aquests arxius és molt més fàcil quan 
 els calaixos que ocupen estan aprop un de l'altre en l'armari 
-d'arxius.</p>
+d'arxius.
 
-<p>Ara imagina que tu ets el propietari d'aquest armari d'arxius, però 
+Ara imagina que tu ets el propietari d'aquest armari d'arxius, però 
 no tens temps de preocupar-te d'ell, i vols contractar algú que 
 s'encarregui de tenir cura d'ell en lloc teu. Dues persones es presenten 
-per al treball, un home i una dona.</p>
+per al treball, un home i una dona.
 
 <ul>
 
@@ -41,11 +41,11 @@ ordenat.</li>
 
 </ul>
 
-<p>Sense cap dubte, tu hauries de contractar la dona (hauries d'haver-ho 
+Sense cap dubte, tu hauries de contractar la dona (hauries d'haver-ho 
 sabut, les dones són molt més organitzades :) ). Bé, Windows utilitza el 
 primer mètode ; Linux utilitza el segon. Com més fas servir Windows, més 
 lent és l'accés als fitxers ; com més fas servir Linux, més ràpid és. 
-Tria !</p>
+Tria !
 
 <img src="Images/defragment.png" />
 

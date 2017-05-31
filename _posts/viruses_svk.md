@@ -4,9 +4,9 @@
 
 <h2>Zabudnite na vírusy</h2>
 
-<p>Ak sa váš počítač vypne bez toho, aby sa vás opýtal, ak sa objavia divné okná s textom, ktorému nerozumiete a rôzne druhy reklám, o ktoré ste nežiadali, ak sa posielajú emaily všetkým vašim kontaktom bez toho, aby ste o tom vedeli, tak váš počítač je pravdepodobne infikovaný vírusom. Hlavným dôvodom je to, že váš počítač používa Windows.</p>
+Ak sa váš počítač vypne bez toho, aby sa vás opýtal, ak sa objavia divné okná s textom, ktorému nerozumiete a rôzne druhy reklám, o ktoré ste nežiadali, ak sa posielajú emaily všetkým vašim kontaktom bez toho, aby ste o tom vedeli, tak váš počítač je pravdepodobne infikovaný vírusom. Hlavným dôvodom je to, že váš počítač používa Windows.
 
-<p>Linux takmer nemá vírusy. A nie je to tak, že "No viete, aspoň nie veľmi často". Skôr je to "Ak ste niekedy počuli o skutočnom Linux-ovskom víruse, prosím, povedzte mi o tom". Nie je nemožné vytvoriť vírus pre Linux. Ale Linux to robí veľmi náročným, z niekoľkých dôvodov:</p>
+Linux takmer nemá vírusy. A nie je to tak, že "No viete, aspoň nie veľmi často". Skôr je to "Ak ste niekedy počuli o skutočnom Linux-ovskom víruse, prosím, povedzte mi o tom". Nie je nemožné vytvoriť vírus pre Linux. Ale Linux to robí veľmi náročným, z niekoľkých dôvodov:
 
 <ul>
 

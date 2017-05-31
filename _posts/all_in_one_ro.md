@@ -3,7 +3,7 @@
 <div id="corps">
 
 <h2>Când sistemul a fost instalat, de ce <i>ar mai trebui</i> să instalaţi alte lucruri?</h2>
-<p>Instalarea Windows-ului e doar începutul. Imaginaţi-vă că doar aţi instalat
+Instalarea Windows-ului e doar începutul. Imaginaţi-vă că doar aţi instalat
 noua dumneavoastră copie de Windows 7 şi vă pregătiţi să vă dezlănţuiţi 
 abilităţile informatice. Un prieten vă trimite un e-mail ce are un PDF ataşat:
 nu aveţi un program cu care să-l citiţi. Trebuie să vă duceţi pe Internet,
@@ -19,10 +19,10 @@ de asemenea v-a trimis o imagine, dar are contrastul şi luminozitatea nepotrivi
 (câte sute de dolari e acel program?), sau descărcaţi GIMP (acesta e numele programului
 gratuit ce poate face aproape tot ce e în stare Photoshop): căutare, descărcare, instalare,
 etc. Atât: aţi înţeles ideea, Windows e departe de a fi complet, şi instalarea sa
-e doar începutul problemelor.</p>
+e doar începutul problemelor.
 
-<p>Când obţineţi Linux (Ubuntu, Mandriva, Fedora, etc., acestea sunt "arome" diferite de Linux),
-obţineţi de asemenea, <i>fără a instala nimic în plus</i>:</p>
+Când obţineţi Linux (Ubuntu, Mandriva, Fedora, etc., acestea sunt "arome" diferite de Linux),
+obţineţi de asemenea, <i>fără a instala nimic în plus</i>:
 
 <ul>
 
@@ -37,7 +37,7 @@ obţineţi de asemenea, <i>fără a instala nimic în plus</i>:</p>
 <li>etc.</li>
 </ul>
 
-<p>Puteţi să începeţi lucrul imediat.</p>
+Puteţi să începeţi lucrul imediat.
 
 <img src="Images/app_menu.png" />
 

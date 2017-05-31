@@ -10,11 +10,11 @@
 <li>Mac OS X permite apenas pô-lo para "dormir".</li>
 </ul>
 
-<p>Enquanto seu computador está dormindo, você não pode usá-lo, mas ele está consumindo pouquíssima energia, e você pode acordá-lo pressionando uma tecla ou dando um clique com o mouse.</p>
+Enquanto seu computador está dormindo, você não pode usá-lo, mas ele está consumindo pouquíssima energia, e você pode acordá-lo pressionando uma tecla ou dando um clique com o mouse.
 
-<p>Claro, o Linux lhe permite fazer isso também, mas também lhe permite "hibernar" seu computador. Hibernar é bem parecido com dormir, mas seu computador não vai estar gastando energia: você pode inclusive desplugá-lo, não existirá dano algum. Isso é útil especialmente para notebooks: quando precisar mover-se à algum lugar, simplesmente ponha seu computador para hibernar, desplugue-o, e quando fornecê-lo energia novamente, encontrará as coisas do jeitinho que deixou.</p>
+Claro, o Linux lhe permite fazer isso também, mas também lhe permite "hibernar" seu computador. Hibernar é bem parecido com dormir, mas seu computador não vai estar gastando energia: você pode inclusive desplugá-lo, não existirá dano algum. Isso é útil especialmente para notebooks: quando precisar mover-se à algum lugar, simplesmente ponha seu computador para hibernar, desplugue-o, e quando fornecê-lo energia novamente, encontrará as coisas do jeitinho que deixou.
 
-<p>Então, basicamente, você não precisa "reiniciar" seu computador novamente! Sabendo que o Linux é muito estável e raramente precisa ser reiniciado, você pode iniciá-lo uma vez, e depois só colocá-lo para hibernar, acordar, hibernar, acordar, etc.</p>
+Então, basicamente, você não precisa "reiniciar" seu computador novamente! Sabendo que o Linux é muito estável e raramente precisa ser reiniciado, você pode iniciá-lo uma vez, e depois só colocá-lo para hibernar, acordar, hibernar, acordar, etc.
 
 <img src="Images/suspend_hibernate_thumb.png" />
 

@@ -4,7 +4,7 @@
 
 <h2>Waarom zou u na de installatie <i>nog</i> software moeten installeren?</h2>
 
-<p>Windows installeren is slechts het begin. Stel u voor dat u juist
+Windows installeren is slechts het begin. Stel u voor dat u juist
 nieuwe Windows 7-installatie op uw harde schijf heet geplaatst en u
 zich voorbereid om uw kunsten ten toon te spreiden. Een vriend zendt
 u een e-mail met een bijgevoegd PDF-bestand: shit, u heeft geen
@@ -23,9 +23,9 @@ en moet bijgesneden worden. Nu kan u een licentie voor Photoshop kopen
 van een gratis en vrij programa dat ongeveer hetzelfde kan als Photoshop):
 zoeken, downloaden, installeren.. Dat is genoeg, u snapt het idee:
 Windows is ver van compleet, en het installeren ervan is enkel het begin
-van de problemen.</p>
+van de problemen.
 
-<p>Wanneer u Linux verkrijgt (zoals Ubuntu, Mandriva, Fedora, enz., dit zijn verschillende "smaken" van Linux, verkrijgt u meteen (<i>zonder iets extra te installeren</i>):</p>
+Wanneer u Linux verkrijgt (zoals Ubuntu, Mandriva, Fedora, enz., dit zijn verschillende "smaken" van Linux, verkrijgt u meteen (<i>zonder iets extra te installeren</i>):
 
 <ul>
 
@@ -41,7 +41,7 @@ van de problemen.</p>
 <li>enz.</li>
 </ul>
 
-<p>U kan direct beginnen met werken.</p>
+U kan direct beginnen met werken.
 
 <img src="Images/app_menu.png" />
 

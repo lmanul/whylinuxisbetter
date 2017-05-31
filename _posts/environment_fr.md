@@ -6,11 +6,11 @@
 
 <h3>Traduction de Severn</h3>
 
-<p align="center">Remerciements à Franz Bourlet pour l'idée.</p>
+<p align="center">Remerciements à Franz Bourlet pour l'idée.
 
-<p>Vous devez vous demander, comment Linux peut être différent sur la questions de l'environnement ? Après tout, ce ne sont que des
+Vous devez vous demander, comment Linux peut être différent sur la questions de l'environnement ? Après tout, ce ne sont que des
 "logiciels" (systèmes d'exploitation) avec un très léger impact sur la pollution et le réchauffement de la planète. Et bien, actuellement choisir 
-Linux peut avoir une influence sur notre environnement:</p>
+Linux peut avoir une influence sur notre environnement:
 
 <ul>
 

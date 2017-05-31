@@ -5,7 +5,7 @@
 <h2>Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci!<br />
 <small>Linuks zrobi to za Ciebie</small></h2>
 
-<p>Jeśli potrzebujesz nowej aplikacji pod system Windows, będzie to wymagało:</p>
+Jeśli potrzebujesz nowej aplikacji pod system Windows, będzie to wymagało:
 
 <ol>
 <li>znalezienia w sieci programu, który będzie odpowiadał Twoim wymaganiom</li>
@@ -15,20 +15,20 @@
 <li>czasem restartu komputera</li>
 </ol>
 
-<p>Cóż, to całkiem sporo pracy - a chcemy przeciez tylko wypróbować coś nowego!</p>
+Cóż, to całkiem sporo pracy - a chcemy przeciez tylko wypróbować coś nowego!
 
-<p>Z Linuksem, wszystko jest <b>znacznie prostsze</b>. Linuks posiada
+Z Linuksem, wszystko jest <b>znacznie prostsze</b>. Linuks posiada
 tak zwany "Menedżer pakietów" - każdy program ma formę "pakietu". Jeśli
 potrzebujesz nowego programu, po prostu otwierasz menedżer pakietów,
 wpisujesz kilka słów kluczowych, wybierasz z gotowej listy programy, które
 chcesz zainstalować i klikasz "OK". Możesz też przeglądać wszystkie dostępne
-programy (a jest ich naprawdę dużo!) według kategorii.</p>
+programy (a jest ich naprawdę dużo!) według kategorii.
 
 <img src="Images/synaptic.png" />
 
-<p>Czyli po pierwsze: nigdy więcej szukania nowych programów przeglądarką. Po drugie:
+Czyli po pierwsze: nigdy więcej szukania nowych programów przeglądarką. Po drugie:
 dość ręcznego ściągania plików... i wreszcie po trzecie: więcej czasu na eksperymenty
-z nowymi programami.</p>
+z nowymi programami.
 
 </div>
 

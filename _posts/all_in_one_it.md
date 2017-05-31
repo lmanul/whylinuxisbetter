@@ -4,7 +4,7 @@
 
 <h2>Quando il sistema è installato, perché hai <i>ancora</i> bisogno di installare roba?</h2>
 
-<p>Installare Windows è solo l'inizio. Immagina di aver appena installato 
+Installare Windows è solo l'inizio. Immagina di aver appena installato 
 la tua nuovissima copia di Windows 7 e di essere pronto a sfoderare le 
 possibilità del tuo computer. Un amico ti invia una email con un file PDF 
 come allegato: maledizione, non hai un programma per leggerlo. Hai bisogno 
@@ -20,10 +20,10 @@ bei ritagli. Quindi adesso puoi andare a comprare Photoshop (quanti bigliettoni
 costa pure quello?), o scaricare il GIMP (questo è il nome del programma che ti 
 permette di fare quanto e più di Photoshop) : cercarlo, scaricarlo, installarlo, 
 ecc. Vabbè, ho reso l'idea, Windows è lontano dall'essere completo, e installarlo 
-è solo l'inizio delle tue preoccupazioni.</p>
+è solo l'inizio delle tue preoccupazioni.
 
-<p>Quando hai Linux (come Ubuntu, Mandriva, Fedora, ecc., differenti 
-"sapori" di Linux), hai anche, <i>senza bisogno di installare ancora</i> :</p>
+Quando hai Linux (come Ubuntu, Mandriva, Fedora, ecc., differenti 
+"sapori" di Linux), hai anche, <i>senza bisogno di installare ancora</i> :
 
 <ul>
 
@@ -40,7 +40,7 @@ presentazioni, disegnare, risolvere equazioni.</li>
 <li>ecc.</li>
 </ul>
 
-<p>Puoi cominciare a lavorare da subito.</p>
+Puoi cominciare a lavorare da subito.
 
 <img src="Images/app_menu.png" />
 

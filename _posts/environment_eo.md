@@ -4,9 +4,9 @@
 
 <h2>Medio</h2>
 
-<p align="center">Dankon al Franz Bourlet pro la ideo</p>
+<p align="center">Dankon al Franz Bourlet pro la ideo
 
-<p>Kiel povas Linux esti malsama de Windows se paroli pri la medio, vi povas demandi? Se konsideri ĉion, ambaŭ estas nur pecoj de programaro kun malgranda sekvo en la poluado aŭ klimata ŝanĝo. Nu, elekti Linux ja povas havi influon en la medio:</p>
+Kiel povas Linux esti malsama de Windows se paroli pri la medio, vi povas demandi? Se konsideri ĉion, ambaŭ estas nur pecoj de programaro kun malgranda sekvo en la poluado aŭ klimata ŝanĝo. Nu, elekti Linux ja povas havi influon en la medio:
 
 <ul>
 

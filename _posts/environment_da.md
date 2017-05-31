@@ -4,9 +4,9 @@
 
 <h2>Hjælp miljøet.</h2>
 
-<p align="center">Tak til Franz Bourlet for idéen</p>
+<p align="center">Tak til Franz Bourlet for idéen
 
-<p>Hvordan kan Linux være anderledes end Windows når det kommer til miljøet, tænker du sikkert? De er, trods alt, kun nogle stykker software der har lille indflydelse på forurening og klima-ændringer. Tjah, men at vælge Linux kan stadig have indflydelse på miljøet:</p>
+Hvordan kan Linux være anderledes end Windows når det kommer til miljøet, tænker du sikkert? De er, trods alt, kun nogle stykker software der har lille indflydelse på forurening og klima-ændringer. Tjah, men at vælge Linux kan stadig have indflydelse på miljøet:
 
 <ul>
 

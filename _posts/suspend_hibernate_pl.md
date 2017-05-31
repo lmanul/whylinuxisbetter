@@ -11,21 +11,21 @@ wylogowania).</li>
 <li>Mac OS X umożliwia jedynie "uśpienie".</li>
 </ul>
 
-<p>Gdy Twój komputer jest uśpiony nie możesz go używać, ale wówczas traci
+Gdy Twój komputer jest uśpiony nie możesz go używać, ale wówczas traci
 o wiele mniej energii, poza tym w dowolnej chwili możesz go obudzić
-dowolnym klawiszem.</p>
+dowolnym klawiszem.
 
-<p>Oczywiście, Linuks również pozwala na to wszystko, pozwala też na
+Oczywiście, Linuks również pozwala na to wszystko, pozwala też na
 "hibernację". Hibernacja jest podobna do uśpienia, jednak wówczas Twój
 komputer w ogóle nie zużywa prądu: możesz nawet wyjąć wtyczkę z gniazdka.
 To bardzo użyteczna funkcja zwłaszcza dla laptopów: kiedykolwiek przenosisz
 go z miejsca na miejsce, po prostu hibernujesz go, odłączasz od zasilania,
 i na miejscu podłączasz z powrotem - wszystko wraca wtedy do stanu dokładnie
-takiego, jak tuż przed hibernacją.</p>
+takiego, jak tuż przed hibernacją.
 
-<p>Po prostu nie musisz wciąż restartować komputera! Ponieważ Linuks jest
+Po prostu nie musisz wciąż restartować komputera! Ponieważ Linuks jest
 bardzo stabilny, więc po jednokrotnym uruchomieniu można go na przemian
-hibernować i budzić, z pominięciem czasochłonnego procesu restartu.</p>
+hibernować i budzić, z pominięciem czasochłonnego procesu restartu.
 
 <img src="Images/suspend_hibernate_thumb.png" />
 

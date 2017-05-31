@@ -4,9 +4,9 @@
 
 <h2>Glöm virus.</h2>
 
-<p>Om din dator stängs av utan att du vet om det; om konstiga fönster dyker upp med all möjlig reklam utan att du efterfrågar det, om email skickas till dina kontakter utan att du vet om det, då är din dator antagligen infekterad av virus. Huvudorsaken heter Windows.</p>
+Om din dator stängs av utan att du vet om det; om konstiga fönster dyker upp med all möjlig reklam utan att du efterfrågar det, om email skickas till dina kontakter utan att du vet om det, då är din dator antagligen infekterad av virus. Huvudorsaken heter Windows.
 
-<p>Linux har knappt några virus. Och det betyder inte “I alla fall inte så ofta”. Det är mer som “Om du någonsin har hört talas om ett riktigt virus riktat mot Linux, var snäll och upplys mig”. Självklart är det inte omöjligt att få virus på Linux. Linux gör det dock väldigt svårt att få, av flera anledningar:</p>
+Linux har knappt några virus. Och det betyder inte “I alla fall inte så ofta”. Det är mer som “Om du någonsin har hört talas om ett riktigt virus riktat mot Linux, var snäll och upplys mig”. Självklart är det inte omöjligt att få virus på Linux. Linux gör det dock väldigt svårt att få, av flera anledningar:
 
 <ul>
 

@@ -10,22 +10,22 @@ dialog).</li>
 <li>Mac OS X only allows "sleep".</li>
 </ul>
 
-<p>While your computer is sleeping, you can't use it, but it's consuming 
+While your computer is sleeping, you can't use it, but it's consuming 
 very little power, and you can wake it up by pressing a key or clicking 
-the mouse.</p>
+the mouse.
 
-<p>Of course, Linux lets you do this as well, but it also lets you 
+Of course, Linux lets you do this as well, but it also lets you 
 "hibernate" your computer. Hibernation is pretty much like sleeping, but 
 your computer won't be using any power at all: you can even unplug it, 
 it won't do any harm. This is especially useful for laptops : whenever 
 you need to move some place else, just hibernate your computer, unplug 
 it, and when you give it power again, you'll find things just as you had 
-left them.</p>
+left them.
 
-<p>So basically, you just don't need to "boot" your computer again! 
+So basically, you just don't need to "boot" your computer again! 
 Since Linux is very stable and seldom needs to reboot, you can just boot 
 it once and for all, then just hibernate, wake up, hibernate, wake up, 
-etc.</p>
+etc.
 
 <img src="Images/suspend_hibernate_thumb.png" />
 

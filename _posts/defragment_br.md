@@ -4,21 +4,21 @@
                                              
 <h2>Sua vida digital parece fragmentada ?</h2>
 
-<p>Se você já sabe o que é fragmentação, e tem o costume de 
+Se você já sabe o que é fragmentação, e tem o costume de 
 desfragmentar o seu disco regularmente, aqui está a versão curta: o 
-Linux não precisa de desfragmentação.</p>
+Linux não precisa de desfragmentação.
 
-<p>Agora imagine que o seu disco rígido é um armário enorme, com milhões 
+Agora imagine que o seu disco rígido é um armário enorme, com milhões 
 de gavetas (obrigado a Roberto Di Cosmo por essa comparação). Cada 
 gaveta pode guardar uma quantidade fixa de dados. Assim, os arquivos que 
 são maiores do que essas gavetas podem suportar, precisam ser divididos. 
 Alguns arquivos são tão grandes que eles precisam de milhares de 
 gavetas. E claro, acessar esses arquivos é muito mais fácil quando as 
-gavetas que ocupam estão próximas uma das outras no armário.</p>
+gavetas que ocupam estão próximas uma das outras no armário.
 
-<p>Agora imagine que você seja o dono desse armário, mas você não tem 
+Agora imagine que você seja o dono desse armário, mas você não tem 
 tempo de cuidar dele, e você quer contratar alguém para tomar conta dele 
-para você. Duas pessoas vêm para o emprego, uma mulher e um homem.</p>
+para você. Duas pessoas vêm para o emprego, uma mulher e um homem.
 
 <ul>
 
@@ -38,11 +38,11 @@ atividade suficiente, o armário estará sempre arrumado.</li>
 
 </ul>
 
-<p>Sem dúvida nenhuma, você deve contratar a mulher (vocês sabem disso, 
+Sem dúvida nenhuma, você deve contratar a mulher (vocês sabem disso, 
 as mulheres são muito mais organizadas :)). Bem, o Windows usa o 
 primeiro método; o Linux usa o segundo. Quanto mais você usa o Windows, 
 mais lento fica o acesso a arquivos; quanto mais você usa o Linux, mais 
-rápido ele fica. A escolha é toda sua!</p>
+rápido ele fica. A escolha é toda sua!
 
 <img src="Images/defragment.png" />
 

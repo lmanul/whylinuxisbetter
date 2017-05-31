@@ -4,13 +4,13 @@
 
 <h2>Không còn lo lắng về virus nữa</h2>
 
-<p>Nếu máy tính tự động tắt mà không hỏi ý kiến bạn, nếu nhiều cửa sổ quảng cáo đột 
+Nếu máy tính tự động tắt mà không hỏi ý kiến bạn, nếu nhiều cửa sổ quảng cáo đột 
 nhiên xuất hiện, nếu thư tự dưng được gửi đến mọi người trong danh sách của bạn 
-mà bạn không biết, máy của bạn có thể đã bị nhiễm virus. Lý do chính vì bạn dùng Windows.</p>
+mà bạn không biết, máy của bạn có thể đã bị nhiễm virus. Lý do chính vì bạn dùng Windows.
 
-<p>Linux hầu như không có virus. Không phải "ít bị nhiễm virus" mà là "nếu bạn biết 
+Linux hầu như không có virus. Không phải "ít bị nhiễm virus" mà là "nếu bạn biết 
 virus nào chạy được trên Linux, hãy nói cho tôi biết". Dĩ nhiên bạn có thể tìm được một virus 
-dành cho Linux nếu muốn. Nhưng điều này rất khó xảy ra vì:</p>
+dành cho Linux nếu muốn. Nhưng điều này rất khó xảy ra vì:
 
 <ul>
 

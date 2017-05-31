@@ -4,7 +4,7 @@
 
 <h2>Sau khi cài xong hệ điều hành, vì sao bạn <i>vẫn phải cài thêm</i> các chương trình khác ?</h2>
 
-<p>Cài đặt Windows chỉ là điểm khởi đầu. Hãy tưởng tượng bạn vừa cài xong bản Windows 7 
+Cài đặt Windows chỉ là điểm khởi đầu. Hãy tưởng tượng bạn vừa cài xong bản Windows 7 
 mới toanh và muốn làm việc với nó càng nhanh càng tốt. Một người khác gửi cho bạn một tập tin 
 PDF: không được, bạn chưa có chương trình để đọc. Bạn cần tìm trên mạng, tải về, cài đặt, 
 có thể phải khởi động lại nữa. Vậy là xong. Nhưng còn nữa: người đó còn gửi cho bạn một 
@@ -12,10 +12,10 @@ tập tin DOC của Word. Windows cũng không đọc được, tuyệt!: bạn 
 hoặc tải OpenOffice về (hi vọng bạn có kết nối Internet tốc độ cao), cài đặt, vân vân và vân vân... 
 Người khác gửi bạn một tám ảnh, nhưng màu sắc của nó không được tươi tắn lắm. Bạn cần mua 
 Photoshop (cái đó tới vài trăm $$$) hoặc tải The GIMP: tìm, tải về, càt đặt... Thế là đủ rồi: 
-bạn thấy đấy, hệ thống Windows không hoàn thiện, càt đặt Windows xong còn rất nhiều vấn đề nữa.</p>
+bạn thấy đấy, hệ thống Windows không hoàn thiện, càt đặt Windows xong còn rất nhiều vấn đề nữa.
 
-<p>Khi bạn cài Linux (như Ubuntu, Mandriva, Fedora...), bạn đã có sẵn những chương trình sau, 
-<i>mà khồn phải cài thêm gì cả</i> :</p>
+Khi bạn cài Linux (như Ubuntu, Mandriva, Fedora...), bạn đã có sẵn những chương trình sau, 
+<i>mà khồn phải cài thêm gì cả</i> :
 
 <ul>
 
@@ -31,7 +31,7 @@ bạn thấy đấy, hệ thống Windows không hoàn thiện, càt đặt Wind
 <li>Còn nhiều chương trình khác nữa...</li>
 </ul>
 
-<p>Bạn có thể làm việc ngay lập tức.</p>
+Bạn có thể làm việc ngay lập tức.
 
 <img src="Images/app_menu.png" />
 

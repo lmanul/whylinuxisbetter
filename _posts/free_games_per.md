@@ -21,7 +21,7 @@
 بعدي و 3 بعدي،پازلها بازيهاي جنگي،بازيهاي آنلاين چند نفره.اينجا چندتاشون
 رو ميبينيد.بك ليست كامل ته نداره!
 
-<p>(&nbsp;:</p>
+(&nbsp;:
 
 <div id="items">
 
@@ -31,11 +31,11 @@
 </div>
 
 
-<p>تاحالا بازي Quake3رو روي 24 تا مانيتور بازي كردين؟ :</p>
+تاحالا بازي Quake3رو روي 24 تا مانيتور بازي كردين؟ :
 
 
 
-<p><a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg"></a></p>
+<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg"></a>
 
 
 

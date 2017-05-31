@@ -4,7 +4,7 @@
 
 <h2>Potrebujete nové programy? Neobťažujte sa hľadaním na internete, Linux ich nájde pre vás</h2>
 
-<p>Ak chcete vyskúšať nový program vo Windows-e, budete potrebovať:</p>
+Ak chcete vyskúšať nový program vo Windows-e, budete potrebovať:
 
 <ol>
 <li>Nájsť na internete program, ktorý vyhovuje vašim požiadavkám.</li>
@@ -15,13 +15,13 @@
 <li>Niekedy reštartovať váš počítač.</li>
 </ol>
 
-<p>No to je veľa práce len kvôli vyskúšaniu niečoho nového!</p>
+No to je veľa práce len kvôli vyskúšaniu niečoho nového!
 
-<p>S Linux-om je všetko <b>omnoho ľahšie</b>. Linux má nástroj, ktorý sa volá "správca balíkov": každý program je obsiahnutý vo svojom vlastnom "balíku". Ak potrebujete nejaký nový program, iba otvoríte správcu balíkov, napíšete niekoľko kľúčových slov, vyberiete si, aký program chcete nainštalovať a stlačíte tlačidlo "Použiť" alebo "OK". Alebo si môžete prezrieť existujúce programy podľa kategórií (a je tam toho veľa na výber).</p>
+S Linux-om je všetko <b>omnoho ľahšie</b>. Linux má nástroj, ktorý sa volá "správca balíkov": každý program je obsiahnutý vo svojom vlastnom "balíku". Ak potrebujete nejaký nový program, iba otvoríte správcu balíkov, napíšete niekoľko kľúčových slov, vyberiete si, aký program chcete nainštalovať a stlačíte tlačidlo "Použiť" alebo "OK". Alebo si môžete prezrieť existujúce programy podľa kategórií (a je tam toho veľa na výber).
 
 <img src="Images/synaptic.png" />
 
-<p>Takže po prvé: už žiadne hľadanie na internete. Po druhé: už žiadne manuálne sťahovanie a inštalovanie. Po tretie: viac času na vyskúšanie nových programov.</p>
+Takže po prvé: už žiadne hľadanie na internete. Po druhé: už žiadne manuálne sťahovanie a inštalovanie. Po tretie: viac času na vyskúšanie nových programov.
 
 </div>
 

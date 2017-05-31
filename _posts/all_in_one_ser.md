@@ -4,7 +4,7 @@
 
 <h2>Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?</h2>
 
-<p>Instalacija Windows-a je samo početak. Zamislite da ste upravo instalirali
+Instalacija Windows-a je samo početak. Zamislite da ste upravo instalirali
 Vašu novu kopiju Windows-a XP i spremate se da oslobodite Vaše kompjutersko 
 umeće. Prijatelj Vam pošalje email sa prikačenim PDF dokumentom: dovraga,
 niste instalirali program da ga pročitate. Morate otići na mrežu, pronaći sajt koji 
@@ -20,10 +20,10 @@ Dakle sad možete otići i kupiti Photoshop (koliko stotina novčanica
 je to ?), ili skinuti GIMP (ovo je ime besplatnog programa 
 koji može skoro isto što i Photoshop) : pretraga, download, 
 instalacija, itd. E sad je dosta: shvatili ste poentu, Windows je daleko od kompletnog
-i njegova instalacija je samo početak nevolja.</p>
+i njegova instalacija je samo početak nevolja.
 
-<p>Kada nabavite Linux (kao što je Ubuntu, Mandriva, Fedora, itd., ovo su različiti
-"ukusi" Linux-a), takođe dobijate, <i>bez dodatne instalacije</i> :</p>
+Kada nabavite Linux (kao što je Ubuntu, Mandriva, Fedora, itd., ovo su različiti
+"ukusi" Linux-a), takođe dobijate, <i>bez dodatne instalacije</i> :
 
 <ul>
 
@@ -40,7 +40,7 @@ i njegova instalacija je samo početak nevolja.</p>
 <li>itd.</li>
 </ul>
 
-<p>Možete jednostavno odmah da počnete sa radom.</p>
+Možete jednostavno odmah da počnete sa radom.
 
 <img src="Images/app_menu.png" />
 

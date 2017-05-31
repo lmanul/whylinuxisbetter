@@ -4,7 +4,7 @@
 
 <h2>When the system has installed, why would you <i>still</i> need to install stuff?</h2>
 
-<p>Installing Windows is just the beginning. Imagine you just installed 
+Installing Windows is just the beginning. Imagine you just installed 
 your brand new copy of Windows 7 and prepare to unleash your computer 
 skills. A friend sends you an email with an attached PDF file : damn, 
 you don't have a program to read it. You need to go online, search for a 
@@ -20,11 +20,11 @@ crop. So you can now go and buy Photoshop (how many hundred bucks is
 that again?), or download the GIMP (this is the name of the free 
 program that can do nearly as much as Photoshop) : search, download, 
 install, etc. That's enough : you get the idea, Windows is far from 
-complete, and installing it is just the beginning of trouble.</p>
+complete, and installing it is just the beginning of trouble.
 
-<p>When you get Linux (such as Ubuntu, Mandriva, Fedora, etc., these are 
+When you get Linux (such as Ubuntu, Mandriva, Fedora, etc., these are 
 different "flavors" of Linux), you also get, <i>without installing 
-anything more</i> :</p>
+anything more</i> :
 
 <ul>
 
@@ -40,7 +40,7 @@ anything more</i> :</p>
 <li>etc.</li>
 </ul>
 
-<p>You can just start working right away.</p>
+You can just start working right away.
 
 <img src="Images/app_menu.png" />
 

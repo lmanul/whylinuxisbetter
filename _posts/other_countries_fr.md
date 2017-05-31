@@ -7,10 +7,10 @@
 <center>(Merci à Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 pour l'idée et la première version de ce texte) </center>
 
-<p>Microsoft est une entreprise américaine, et son succès est
-excellent pour l'économie américaine.</p>
+Microsoft est une entreprise américaine, et son succès est
+excellent pour l'économie américaine.
 
-<p>Mais si vous n'habitez pas aux États-Unis, lorsque vous achetez un
+Mais si vous n'habitez pas aux États-Unis, lorsque vous achetez un
 logiciel propriétaire (par exemple Windows), environ la moitié du prix
 revient à l'éditeur (par exemple Microsoft) : cet argent quitte votre
 pays, et l'autre moitié y reste (commissions sur la vente, etc., aucun
@@ -19,19 +19,19 @@ n'y a même pas besoin de gens qualifiés pour vendre ces boîtes. Ceci
 conduit à des professionnels des technologies de l'information qui ne
 possèdent pas de compétences de haut niveau mais qui se contentent 
 d'installer et de configurer ces logiciels propriétaires sans possibilité
-de les modifier/apprendre/personnaliser.</p>
+de les modifier/apprendre/personnaliser.
 
-<p>Avec des logiciels libres (par exemple Linux), l'économie (et les
+Avec des logiciels libres (par exemple Linux), l'économie (et les
 compétences des professionnels de technologies de l'information) de
 votre pays peut en bénéficier, puisque beaucoup de petites et moyennes
 entreprises peuvent être créées et vendre de l'assistance, du conseil,
-etc.</p>
+etc.
 
-<p>Les gens qui ont le savoir-faire et retiennent l'argent dans votre pays
+Les gens qui ont le savoir-faire et retiennent l'argent dans votre pays
 en bénéficient, plutôt que des gens qui se contentent de vendre des boîtes
 avec un discours de vente prédéfini, envoient votre argent à l'étranger, et
 ne permettent pas aux spécialistes des technologies de l'information
-d'acquérir des réelles compétences sur le fonctionnement des logiciels.</p>
+d'acquérir des réelles compétences sur le fonctionnement des logiciels.
 
 <img src="Images/earth.png" />
 

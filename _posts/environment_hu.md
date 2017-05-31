@@ -4,9 +4,9 @@
 
 <h2>Környezetvédelem</h2>
 
-<p align="center">Köszönet Franz Bourlet-nek az ötletért!</p>
+<p align="center">Köszönet Franz Bourlet-nek az ötletért!
 
-<p>Biztos azt kérded, miért lenne környezetbarátabb a Linux a Windows-nál? Végül is mindkettő csak szoftver, hatásuk elhanyagolható a környezetszennyezésre és az éghajlatváltozásra. Nos, ha a Linuxot választod, hatással lehetsz a környezetre:</p>
+Biztos azt kérded, miért lenne környezetbarátabb a Linux a Windows-nál? Végül is mindkettő csak szoftver, hatásuk elhanyagolható a környezetszennyezésre és az éghajlatváltozásra. Nos, ha a Linuxot választod, hatással lehetsz a környezetre:
 
 <ul>
 

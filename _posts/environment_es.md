@@ -4,9 +4,9 @@
 
 <h2>Medio Ambiente</h2>
 
-<p align="center">Gracias a Franz Bourlet por la idea</p>
+<p align="center">Gracias a Franz Bourlet por la idea
 
-<p>¿Cómo puede ser Linux diferente de Windows en lo que se refiere al entorno?, puedes preguntarte. Después de todo, ambos son solo trozos de software con un muy pequeño impacto en la contaminación y el cambio climático. Bueno, usar Linux puede tener una influencia en el entorno:</p>
+¿Cómo puede ser Linux diferente de Windows en lo que se refiere al entorno?, puedes preguntarte. Después de todo, ambos son solo trozos de software con un muy pequeño impacto en la contaminación y el cambio climático. Bueno, usar Linux puede tener una influencia en el entorno:
 
 <ul>
 

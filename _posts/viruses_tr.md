@@ -4,13 +4,13 @@
 
 <h2>Virüsleri unutun.</h2>
 
-<p>Eğer bilgisayarınız size sormadan kendini kapatıyorsa, eğer isteğiniz dışında size ilginç ve anlamsız gelen türlü reklam pencereleriyle karşılaşıyorsanız, e-postalarınız sizin haberiniz olmadan tüm listenize yollanıyorsa, o zaman bilgisayarınızda bir virüs olduğundan şüphelenmelisiniz. Bunun ana sebebi de bilgisayarınızda Windows'un kurulu olmasıdır.</p>
+Eğer bilgisayarınız size sormadan kendini kapatıyorsa, eğer isteğiniz dışında size ilginç ve anlamsız gelen türlü reklam pencereleriyle karşılaşıyorsanız, e-postalarınız sizin haberiniz olmadan tüm listenize yollanıyorsa, o zaman bilgisayarınızda bir virüs olduğundan şüphelenmelisiniz. Bunun ana sebebi de bilgisayarınızda Windows'un kurulu olmasıdır.
 
-<p>Linux'da virüs bulunması çok zordur. "Varlar ama sık rastlamıyoruz" 
+Linux'da virüs bulunması çok zordur. "Varlar ama sık rastlamıyoruz" 
 yanlış bir tabir olur. Durum şu sözle daha iyi ifade edilebilir 
 "Linux'da gerçekten bir virüs görürsen gel de bana söyle". Tabi ki, 
 Linux'ta virüs yemek imkansız değildir. Ama, Linux bunun olmasını 
-gerçekten çok zorlaştırır. Sebeplerine gelecek olursak:</p>
+gerçekten çok zorlaştırır. Sebeplerine gelecek olursak:
 
 <ul>
 

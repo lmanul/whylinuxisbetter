@@ -4,7 +4,7 @@
 
 <h2>Yeni yazılıma mı ihtiyacınız var? İnternet'te aramaya çalışmayın, Linux ayağınıza getirsin.</h2>
 
-<p>Eğer bir Windows yazılımı kuracaksanız, büyük ihtimalle şu yolu izlersiniz:</p>
+Eğer bir Windows yazılımı kuracaksanız, büyük ihtimalle şu yolu izlersiniz:
 
 <ol>
 <li>İnterneti araştırarak sizin için uygun yazılımı bulmak.</li>
@@ -15,13 +15,13 @@
 <li>Bazen sistemi yeniden başlatmak.</li>
 </ol>
 
-<p>Püff, gerçekten çok iş.</p>
+Püff, gerçekten çok iş.
 
-<p>.Linux ile, her şey <b>çok daha basittir</b>. Linux, "paket yöneticisi" adı verilen, her yazılımı "paket" adı altında gören bir uygulamaya sahiptir. Eğer yeni bir yazılıma ihtiyacınız varsa, basitçe paket yöneticisini açar, bir anahtar kelimeyle uygulamayı bulur ve kurmasını söylersiniz. Depolardan sizin için gerekli yazılım (hepsinin bir çok alternatifi olur) indirilir.</p>
+.Linux ile, her şey <b>çok daha basittir</b>. Linux, "paket yöneticisi" adı verilen, her yazılımı "paket" adı altında gören bir uygulamaya sahiptir. Eğer yeni bir yazılıma ihtiyacınız varsa, basitçe paket yöneticisini açar, bir anahtar kelimeyle uygulamayı bulur ve kurmasını söylersiniz. Depolardan sizin için gerekli yazılım (hepsinin bir çok alternatifi olur) indirilir.
 
 <img src="Images/synaptic.png" />
 
-<p>Daha fazla sörf yapmama, veya verileri indirip kurmakla uğraşmama gerek yok, istediğim kadar yazılımı kolayca deneyebilirim.</p>
+Daha fazla sörf yapmama, veya verileri indirip kurmakla uğraşmama gerek yok, istediğim kadar yazılımı kolayca deneyebilirim.
 
 </div>
 

@@ -4,9 +4,9 @@
 
 <h2>Lupakan tentang virus.</h2>
 
-<p>Bila komputermu mati dengan sendirinya tanpa bertanya padamu, jika sebuah jendela dengan teks yang tidak jelas dan segala jenis iklan muncul tanpa kehendakmu, jika email terkirim ke seluruh kontak yang kamu punyai tanpa sepengetahuanmu, maka kemungkinan besar komputermu sedang terinfeksi virus. Alasan utamanya adalah karena sistem Windows berjalan di komputermu.</p>
+Bila komputermu mati dengan sendirinya tanpa bertanya padamu, jika sebuah jendela dengan teks yang tidak jelas dan segala jenis iklan muncul tanpa kehendakmu, jika email terkirim ke seluruh kontak yang kamu punyai tanpa sepengetahuanmu, maka kemungkinan besar komputermu sedang terinfeksi virus. Alasan utamanya adalah karena sistem Windows berjalan di komputermu.
 
-<p>Linux hampir tidak memiliki virus. Dan itu bukan berarti "Yah, sebenarnya sih tidak terlalu sering", tetapi berarti "Jika kamu pernah mendengar tentang virus Linux <i>betulan</i>, beritahu saya". Tentu saja, bukan tidak mungkin Linux terserang virus. Hanya saja, Linux membuatnya sangat sulit terjadi, karena beberapa alasan berikut:</p>
+Linux hampir tidak memiliki virus. Dan itu bukan berarti "Yah, sebenarnya sih tidak terlalu sering", tetapi berarti "Jika kamu pernah mendengar tentang virus Linux <i>betulan</i>, beritahu saya". Tentu saja, bukan tidak mungkin Linux terserang virus. Hanya saja, Linux membuatnya sangat sulit terjadi, karena beberapa alasan berikut:
 
 <ul>
 

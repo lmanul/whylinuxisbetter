@@ -4,9 +4,9 @@
 
 <h2>Umweltschutz</h2>
 
-<p align="center">Danke an Franz Bourlet für die Idee</p>
+<p align="center">Danke an Franz Bourlet für die Idee
 
-<p>Du fragst dich sicher: Wie kann Linux besser für die Umwelt sein als Windows? Beide sind doch schließlich nur Software mit wenig Einfluss auf die Umweltverschmutzung und den Klimawandel. Tja, sich für Linux zu entscheiden kann durchaus einen Einfluss auf unsere Umwelt haben:</p>
+Du fragst dich sicher: Wie kann Linux besser für die Umwelt sein als Windows? Beide sind doch schließlich nur Software mit wenig Einfluss auf die Umweltverschmutzung und den Klimawandel. Tja, sich für Linux zu entscheiden kann durchaus einen Einfluss auf unsere Umwelt haben:
 
 <ul>
 

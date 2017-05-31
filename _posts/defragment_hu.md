@@ -4,11 +4,11 @@
 
 <h2>Töredékekként látod a világot?</h2>
 
-<p>Ha már tudod, mi az a töredezettség, és kb. minden hónapban töredezettségmentesíted a géped, itt egy rövidebb verzió: a Linuxot nem kell töredezettségmentesíteni.</p>
+Ha már tudod, mi az a töredezettség, és kb. minden hónapban töredezettségmentesíted a géped, itt egy rövidebb verzió: a Linuxot nem kell töredezettségmentesíteni.
 
-<p>Képzeld el, hogy a merevlemezed egy hatalmas iratszekrény, milliónyi fiókkal (köszönet <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto Di Cosmo</a>nak a hasonlatért). Minden fiók csak egy adott mennyiségű adatot tud tárolni. Tehát azokat a fájlokat, melyek nagyobbak, mint amekkorát egy fiók el tudna tárolni, fel kell darabolni kisebb részekre. Néhány fájl olyan hatalmas, hogy több ezer fiókra van szükségük. És természetesen ezekhez a fájlokhoz sokkal könnyebb hozzáférni, ha az őket tartalmazó fiókok közel vannak egymáshoz.</p>
+Képzeld el, hogy a merevlemezed egy hatalmas iratszekrény, milliónyi fiókkal (köszönet <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto Di Cosmo</a>nak a hasonlatért). Minden fiók csak egy adott mennyiségű adatot tud tárolni. Tehát azokat a fájlokat, melyek nagyobbak, mint amekkorát egy fiók el tudna tárolni, fel kell darabolni kisebb részekre. Néhány fájl olyan hatalmas, hogy több ezer fiókra van szükségük. És természetesen ezekhez a fájlokhoz sokkal könnyebb hozzáférni, ha az őket tartalmazó fiókok közel vannak egymáshoz.
 
-<p>Most képzeld el, hogy te vagy ennek az iratszekrénynek a tulajdonosa, de nincs időd foglalkozni vele, és fel akarsz bérelni valakit, hogy tartsa rendben helyetted. Két ember jelentkezik az állásra, egy férfi és egy nő.</p>
+Most képzeld el, hogy te vagy ennek az iratszekrénynek a tulajdonosa, de nincs időd foglalkozni vele, és fel akarsz bérelni valakit, hogy tartsa rendben helyetted. Két ember jelentkezik az állásra, egy férfi és egy nő.
 
 <ul>
 
@@ -18,7 +18,7 @@
 
 </ul>
 
-<p>Kétségtelen, hogy a nőt kellene felvenned (egyébként is tudnod kellett volna, hogy a nők sokkal szervezettebbek :) ). Nos, a Windows az első módszert használja, a Linux pedig a másodikat. Minél többet használsz Windows-t, annál lassabban férsz csak hozzá a fájlokhoz; minél többet használsz Linuxot, az annál gyorsabbá válik. A kezedben a döntés!</p>
+Kétségtelen, hogy a nőt kellene felvenned (egyébként is tudnod kellett volna, hogy a nők sokkal szervezettebbek :) ). Nos, a Windows az első módszert használja, a Linux pedig a másodikat. Minél többet használsz Windows-t, annál lassabban férsz csak hozzá a fájlokhoz; minél többet használsz Linuxot, az annál gyorsabbá válik. A kezedben a döntés!
 
 <img src="Images/defragment.png" />
 

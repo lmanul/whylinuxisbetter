@@ -4,12 +4,12 @@
 
 <h2>A túa vida dixital parece fragmentada?</h2>
 
-<p>Se xa sabes o que é fragmentación e estás afeito a desfragmentar o teu disco cada certo tempo, aquí está a versión curta: Linux non necesita desfragmentación.</p>
+Se xa sabes o que é fragmentación e estás afeito a desfragmentar o teu disco cada certo tempo, aquí está a versión curta: Linux non necesita desfragmentación.
 
-<p>Se non sabes o que é, aquí tes unha boa explicación: imaxina que o teu disco duro é un armario xigantesco con millóns de caixóns (grazas a <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto 
-Di Cosmo</a> por esta comparación). Cada caixón pode conter só unha cantidade predeterminada de información. Así, os arquivos que son máis grandes que o que os tales caixóns poden conter, necesitan ser divididos para que encaixen nestes. Algúns arquivos son tan longos que necesitan miles de caixóns e por suposto, acceder a estes caixóns é moito máis fácil cando os caixóns que ocupan están cerca uns doutros no armario.</p>
+Se non sabes o que é, aquí tes unha boa explicación: imaxina que o teu disco duro é un armario xigantesco con millóns de caixóns (grazas a <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto 
+Di Cosmo</a> por esta comparación). Cada caixón pode conter só unha cantidade predeterminada de información. Así, os arquivos que son máis grandes que o que os tales caixóns poden conter, necesitan ser divididos para que encaixen nestes. Algúns arquivos son tan longos que necesitan miles de caixóns e por suposto, acceder a estes caixóns é moito máis fácil cando os caixóns que ocupan están cerca uns doutros no armario.
 
-<p>Agora imaxina que es o dono deste armario pero non tes o tempo para estar ao tanto del, así que queres contratar a alguén para que o faga por ti. Dúas persoas solicitan o traballo, un home e unha muller.</p>
+Agora imaxina que es o dono deste armario pero non tes o tempo para estar ao tanto del, así que queres contratar a alguén para que o faga por ti. Dúas persoas solicitan o traballo, un home e unha muller.
 
 <ul>
 
@@ -19,8 +19,8 @@ Di Cosmo</a> por esta comparación). Cada caixón pode conter só unha cantidade
 
 </ul>
 
-<p>Sen ningunha dúbida contratarías á muller (deberías sabelo, as mulleres son máis organizadas :) ). Ben, Windows usa o primeiro método e Linux usa o segundo. Mentres máis uses Windows, máis lento será acceder aos arquivos; mentres máis uses Linux, máis rápido será.
-Ti decides!</p>
+Sen ningunha dúbida contratarías á muller (deberías sabelo, as mulleres son máis organizadas :) ). Ben, Windows usa o primeiro método e Linux usa o segundo. Mentres máis uses Windows, máis lento será acceder aos arquivos; mentres máis uses Linux, máis rápido será.
+Ti decides!
 
 <img src="Images/defragment.png" />
 

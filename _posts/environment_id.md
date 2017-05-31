@@ -4,9 +4,9 @@
 
 <h2>Lingkungan</h2>
 
-<p align="center">Terima kasih kepada Franz Bourlet atas idenya</p>
+<p align="center">Terima kasih kepada Franz Bourlet atas idenya
 
-<p>Apa bedanya Linux dan Windows kalau kita berbicara tentang lingkungan? Bagaimanapun, mereka adalah perangkat lunak yang hanya memberikan sedikit sumbangan untuk polusi ataupun perubahan iklim. Tetapi sebenarnya, memilih Linux dapat membawa pengaruh kepada lingkungan:</p>
+Apa bedanya Linux dan Windows kalau kita berbicara tentang lingkungan? Bagaimanapun, mereka adalah perangkat lunak yang hanya memberikan sedikit sumbangan untuk polusi ataupun perubahan iklim. Tetapi sebenarnya, memilih Linux dapat membawa pengaruh kepada lingkungan:
 
 <ul>
 

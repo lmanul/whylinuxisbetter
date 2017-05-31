@@ -4,15 +4,15 @@
 
 <h2>Ciesz się darmowym i nieograniczonym wsparciem</h2>
 
-<p>Jedną z najważniejszych zalet społeczności Wolnego Oprogramowania
+Jedną z najważniejszych zalet społeczności Wolnego Oprogramowania
 (w szczególności Linuksa) jest fakt bycia prawdziwą społecznością.
 Użytkownicy wespół z twórcami naprawdę istnieją, dostępni są na forach
 internetowych, listach dyskusyjnych, kanałach IRC - wszyscy chętni do
 pomocy nowicjuszom. Bardzo cieszą się oni z napływu nowych użytkowników
 migrujących na system Linuks i chętnie pomogą poradzić sobie
-z nowym systemem.</p>
+z nowym systemem.
 
-<p>Jeśli więc czegoś nie rozumiesz, jakiś program zaskoczył Cię swoim
+Jeśli więc czegoś nie rozumiesz, jakiś program zaskoczył Cię swoim
 działaniem (bądź niedziałaniem :) ), bądź też nie umiesz poprawnie
 skonfigurować systemu, nie wahaj się ani chwili dłużej - poproś o pomoc.
 Jeśli ktoś z Twojego otoczenia (rodzina? kolega z pracy?) używa Linuksa,
@@ -22,7 +22,7 @@ Cię pytania i wskazówki. Komputerowcy to zresztą zwykle mili ludzie,
 trzeba tylko mieć odpowiednie podejście :). Spróbuj hasła "pomoc linux"
 w wyszukiwarce (lub zastąp słowo "linux" nazwą dystrybucji, której
 używasz, patrz rozdział "Instalacja") i z pewnością znajdziesz odpowiedź
-na wiele pytań.</p>
+na wiele pytań.
 
 </div>
 

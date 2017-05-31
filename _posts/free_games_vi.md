@@ -4,8 +4,8 @@
 
 <h2>Chơi hàng trăm game miễn phí</h2>
 
-<p>Hàng trăm game được viết có bản quyền hoàn toàn miễn phí (GPL): 2D, 3D, giải đố, game chiến thuật, 
-game online... Đây là vài ví dụ:</p>
+Hàng trăm game được viết có bản quyền hoàn toàn miễn phí (GPL): 2D, 3D, giải đố, game chiến thuật, 
+game online... Đây là vài ví dụ:
 
 <div id="items">
 
@@ -14,9 +14,9 @@ game online... Đây là vài ví dụ:</p>
 <br class="clearboth" />
 </div>
 
-<p>Nếu bạn thích chơi game, bạn có thể thấy bức ảnh này rất hấp dẫn (Quake 3 chạy trên Linux, trên 24 màn hình cùng lúc (!) ):</p>
+Nếu bạn thích chơi game, bạn có thể thấy bức ảnh này rất hấp dẫn (Quake 3 chạy trên Linux, trên 24 màn hình cùng lúc (!) ):
 
-<p><a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a></p>
+<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
 </div>
 

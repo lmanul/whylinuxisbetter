@@ -4,21 +4,21 @@
 
 <h2>La tua vita digitale sembra frammentata?</h2>
 
-<p>Se sai già cos'è una frammentazione e sei già abituato a deframmentare 
+Se sai già cos'è una frammentazione e sei già abituato a deframmentare 
 il tuo disco ogni mese, arriviamo al sodo: Linux non ha bisogno di essere 
-deframmentato.</p>
+deframmentato.
 
-<p>Ora immagina che il tuo hard disk sia un'enorme archivio di file, 
+Ora immagina che il tuo hard disk sia un'enorme archivio di file, 
 con milioni di cassetti (grazie a <a href="http://www.pps.jussieu.fr/~dicosmo/">Roberto Di Cosmo</a> per questo paragone). 
 Ogni cassetto può contenere solo un fisso ammontare di dati. Perciò, file 
 più grandi di quanto un cassetto può contenere devono essere divisi. Alcuni 
 file sono così grandi che necessitano di migliaia di cassetti. E, ovviamente, 
 accedere a questi file è più facile quando i cassetti che occupano sono più 
-vicini gli uni agli agli altri.</p>
+vicini gli uni agli agli altri.
 
-<p>Adesso immagina di essere tu il possessore di questo archivio, ma non hai 
+Adesso immagina di essere tu il possessore di questo archivio, ma non hai 
 tempo per preoccupartene, e decidi di assumere qualcuno che lo faccia al posto 
-tuo. Due persone si presentano per il colloquio: una donna ed un uomo.</p>
+tuo. Due persone si presentano per il colloquio: una donna ed un uomo.
 
 <ul>
 
@@ -37,10 +37,10 @@ sarà sempre ordinato.</li>
 
 </ul>
 
-<p>Senza dubbio, dovresti assumere la donna (dovresti averlo capito, le donne 
+Senza dubbio, dovresti assumere la donna (dovresti averlo capito, le donne 
 sono molto più ordinate :) ). Ecco, Windows usa il primo metodo; Linux utilizza 
 il secondo. Più usi Windows, più lento è l'accesso ai file; più usi Linux, più 
-questo è veloce. A te la scelta!</p>
+questo è veloce. A te la scelta!
 
 <img src="Images/defragment.png" />
 

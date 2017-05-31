@@ -4,7 +4,7 @@
 
 <h2>Donnez une seconde jeunesse à votre vieil ordinateur</h2>
 
-<p>Windows a besoin de configurations de plus en plus puissantes à 
+Windows a besoin de configurations de plus en plus puissantes à 
 mesure que le numéro de version croît (95, 98, 2000, Me, XP, etc.), de 
 sorte que si vous souhaitez continuer à utiliser Windows, il vous faut 
 renouveler votre matériel constamment. Je ne vois pas l'intérêt d'une 
@@ -16,9 +16,9 @@ rédigent des documents textuels ou des présentations, quel est l'intérêt
 d'acheter un nouvel ordinateur tous les 2, 3 ou 4 ans, si ce n'est pour 
 enrichir les constructeurs de matériel informatique ? Quelle est 
 exactement la raison pour laquelle votre ordinateur n'est plus capable 
-de faire ce qu'il faisait parfaitement il y a 5 ans ?</p>
+de faire ce qu'il faisait parfaitement il y a 5 ans ?
 
-<p>Linux tourne comme un charme sur les configurations plus anciennes, 
+Linux tourne comme un charme sur les configurations plus anciennes, 
 sur lesquelles Windows 7 n'accepterait sans doute même pas de 
 s'installer, ou vous ferait attendre 20 secondes après chaque clic. 
 Évidemment, Linux ne transformera pas votre ordinateur vieux de 12 ans 
@@ -28,7 +28,7 @@ documents, etc.) sans problème. Justement, l'ordinateur qui vient de
 vous envoyer cette page web n'est plus tout jeune et tourne sous Linux : 
 si vous arrivez à lire ceci, c'est qu'il fonctionne parfaitement (et si 
 le site web se charge lentement, c'est seulement à cause de ma connexion 
-internet).</p>
+internet).
 
 </div>
 

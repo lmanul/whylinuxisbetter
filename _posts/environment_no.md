@@ -4,13 +4,13 @@
 
 <h2>Hjelp miljøet.</h2>
 
-<p align="center">Takk til Franz Bourlet for idéen</p>
+<p align="center">Takk til Franz Bourlet for idéen
 
-<p>Du spør kanskje: Hvordan er Linux forskjellig fra Windows når det gjelder miljøet? I bunn og grunn er de begge programvare med liten direkte innflytelse på forurensning eller klimaforandringer. Tro det eller ei, men å velge Linux har faktisk en positiv innflytelse på miljøet:</p>
+Du spør kanskje: Hvordan er Linux forskjellig fra Windows når det gjelder miljøet? I bunn og grunn er de begge programvare med liten direkte innflytelse på forurensning eller klimaforandringer. Tro det eller ei, men å velge Linux har faktisk en positiv innflytelse på miljøet:
 
 <ul>
 
-<li>Windows og Mac OS blir solgt i esker. Dette betyr at store mengder papir og plastikk må bli fremstilt før varen blir levert til din nærmeste forretning – for deretter å bli kastet som søppel. Linux kan fritt lastes ned fra Internett, og ingen mengde papir eller plastikk er involvert.</p>
+<li>Windows og Mac OS blir solgt i esker. Dette betyr at store mengder papir og plastikk må bli fremstilt før varen blir levert til din nærmeste forretning – for deretter å bli kastet som søppel. Linux kan fritt lastes ned fra Internett, og ingen mengde papir eller plastikk er involvert.
 
 <li>Proprietære applikasjoner for Windows og Mac OS er også, så å si alltid solgt i esker, hvorimot du kan laste ned brorparten av programvare for Linux fra Internett, helt gratis (og igjen, en god del papir og plastikk spart!).</li>  
 

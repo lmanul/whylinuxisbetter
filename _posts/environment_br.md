@@ -4,9 +4,9 @@
 
 <h2>Faça algo pelo meio ambiente</h2>
 
-<p align="center">Obrigado à Franz Bourlet pela ideia</p>
+<p align="center">Obrigado à Franz Bourlet pela ideia
 
-<p>Como o Linux pode ser diferente do Windows quando se trata de meio-ambiente, você poderia perguntar? Afinal, ambos são peças de software que tem um pequeno impacto na poluição ou na mudança de clima. Pois bem, escolhendo o Linux você pode fazer uma influência no meio ambiente:</p>
+Como o Linux pode ser diferente do Windows quando se trata de meio-ambiente, você poderia perguntar? Afinal, ambos são peças de software que tem um pequeno impacto na poluição ou na mudança de clima. Pois bem, escolhendo o Linux você pode fazer uma influência no meio ambiente:
 
 <ul>
 

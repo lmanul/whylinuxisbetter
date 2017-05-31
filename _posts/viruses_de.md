@@ -4,9 +4,9 @@
 
 <h2>Vergiss Viren.</h2>
 
-<p>Wenn dein Computer sich selber ungefragt herunterf&auml;hrt, wenn komische Fenster mit Text, den du nicht verstehst, und jegliche Art von Werbung erscheinen, ohne dass du danach verlangt h&auml;ttest, wenn Emails ohne dein Wissen zu all deinen Kontakten verschickt werden, dann hat dein Computer wahrscheinlich einen Virus. Und der Hauptgrund dafür ist, dass er unter Windows läuft.</p>
+Wenn dein Computer sich selber ungefragt herunterf&auml;hrt, wenn komische Fenster mit Text, den du nicht verstehst, und jegliche Art von Werbung erscheinen, ohne dass du danach verlangt h&auml;ttest, wenn Emails ohne dein Wissen zu all deinen Kontakten verschickt werden, dann hat dein Computer wahrscheinlich einen Virus. Und der Hauptgrund dafür ist, dass er unter Windows läuft.
 
-<p>Linux hat kaum irgendwelche Viren. Und das nicht im Sinne von „Naja, nicht sehr oft, du weißt schon“. Sondern im Sinne von „Wenn du jemals von einem richtigen Linux-Virus geh&ouml;rt hast, sag mir bitte Bescheid“. Nat&uuml;rlich ist ein Linux-Virus nicht unm&ouml;glich. Aber Linux erschwert es aus mehreren Gr&uuml;nden deutlich, dass so etwas passiert:</p>
+Linux hat kaum irgendwelche Viren. Und das nicht im Sinne von „Naja, nicht sehr oft, du weißt schon“. Sondern im Sinne von „Wenn du jemals von einem richtigen Linux-Virus geh&ouml;rt hast, sag mir bitte Bescheid“. Nat&uuml;rlich ist ein Linux-Virus nicht unm&ouml;glich. Aber Linux erschwert es aus mehreren Gr&uuml;nden deutlich, dass so etwas passiert:
 
 <ul>
 

@@ -4,9 +4,9 @@
 
 <h2>Milieu</h2>
 
-<p align="center">Met dank aan Franz Bourlet voor het idee</p>
+<p align="center">Met dank aan Franz Bourlet voor het idee
 
-<p>Hoe kan Linux verschillend zijn van Windows als het aankomt op het milieu, vraagt u zich af? Per slot zijn het toch maar twee stukken software met weinig impact op klimaatsverandering? Het kiezen van Linux heeft wel degelijk invloed op het milieu:</p>
+Hoe kan Linux verschillend zijn van Windows als het aankomt op het milieu, vraagt u zich af? Per slot zijn het toch maar twee stukken software met weinig impact op klimaatsverandering? Het kiezen van Linux heeft wel degelijk invloed op het milieu:
 
 <ul>
 

@@ -4,9 +4,9 @@
 
 <h2>Forgesu la virusojn.</h2>
 
-<p>Se via komputilo elŝaltas per si mem sen demandi al vi, se strangaj fenestroj kun nekomprenebla teksto kaj ĉiaj reklamoj aperas kiam vi ne petis ilin, se retpoŝtoj estas sendataj al viaj kontaktoj sen via sciado, do via komputilo eble havas viruson. La ĉefa kaŭzo por ĉi tio estas ĉar vi uzas Windows.</p>
+Se via komputilo elŝaltas per si mem sen demandi al vi, se strangaj fenestroj kun nekomprenebla teksto kaj ĉiaj reklamoj aperas kiam vi ne petis ilin, se retpoŝtoj estas sendataj al viaj kontaktoj sen via sciado, do via komputilo eble havas viruson. La ĉefa kaŭzo por ĉi tio estas ĉar vi uzas Windows.
 
-<p>Linux malfacile havos iun viruson. Kaj tio estas ne kiel: "Nu, ne tre ofte, vi scias". Tio estas kiel: "Se vi iam aŭdis pri reala viruso en Linux, bonvolu sciigi al mi". Fakte, viruso en Linux ne estas neebla. Sed Linux igas ĉi tion tre malfacile okazebla, pro diversaj kialoj:</p>
+Linux malfacile havos iun viruson. Kaj tio estas ne kiel: "Nu, ne tre ofte, vi scias". Tio estas kiel: "Se vi iam aŭdis pri reala viruso en Linux, bonvolu sciigi al mi". Fakte, viruso en Linux ne estas neebla. Sed Linux igas ĉi tion tre malfacile okazebla, pro diversaj kialoj:
 
 <ul>
 

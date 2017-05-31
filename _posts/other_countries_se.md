@@ -7,27 +7,27 @@
 <center>(Tack till Gabriel E. Patiño -- gepatino {at}gmail{dot} com -- 
 för idén och första texten.) </center>
 
-<p>Microsoft är ett amerikanskt bolag, och dess framgångar gynnar den 
-amerikanska ekonomin.</p>
+Microsoft är ett amerikanskt bolag, och dess framgångar gynnar den 
+amerikanska ekonomin.
 
-<p>Men om du inte lever och bor i USA går ändå ungefär halva 
+Men om du inte lever och bor i USA går ändå ungefär halva 
 produktkostnaden direkt till högkvarteret (Microsoft): att pengar 
 lämnar ett land, medans den andra halvan stannar (säljande, etc.: 
 inga tekniska gynnsamheter). Ditt land producerar inget, och behöver 
 inte ens kvalificerade människor för att sälja boxar. Detta leder till 
 IT-expertis som bara installerar och konfigurerar låst programvara utan 
-valet att modifiera eller lära sig koden.</p>
+valet att modifiera eller lära sig koden.
 
-<p>Med fri programvara (Linux), skulle ekonomin (och kunskapen hos 
+Med fri programvara (Linux), skulle ekonomin (och kunskapen hos 
 IT-expertisen) kunna förbättras, eftersom att finns chans för massor av 
 små företag som har modifierande lösningar, ge support, hyra 
-konsulter, etc.</p>
+konsulter, etc.
 
-<p>Människor som vet hur man gör saker och tjänar pengar på det i 
+Människor som vet hur man gör saker och tjänar pengar på det i 
 ditt land kommer att tjäna på detm hellre än människor som bara 
 säljer boxar med fördefinierade säljargument, skicka pengar ut 
 från landet, och lämna IT-expertisen utan riktig kunskap om hur 
-saker fungerar.</p>
+saker fungerar.
 
 <img src="Images/earth.png" />
 

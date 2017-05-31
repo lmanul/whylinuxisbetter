@@ -4,33 +4,33 @@
 
 <h2>Glöm drivrutiner</h2>
 
-<p>Även den enklaste slags hårdvara kommer vanligtvis med en CD. På 
+Även den enklaste slags hårdvara kommer vanligtvis med en CD. På 
 CD-skivan finns en liten bit av progravara som kallas "drivrutiner". 
 Om du läser instruktionsmanualen får du reda på att hårdvaran inte 
 kommer att fungera utan dessa på en Windows-dator. Om du är som de 
 flesta och inte läser manualen kommer du antagligen att klura ut det 
-själv när din nya pryl inte fungerar direkt ur förpackningen.</p>
+själv när din nya pryl inte fungerar direkt ur förpackningen.
 
-<p>Sätt in CD-skivan, starta installationen, vänta, mata ut 
-CD-skivan, starta om datorn.</p>
+Sätt in CD-skivan, starta installationen, vänta, mata ut 
+CD-skivan, starta om datorn.
 
-<p>Om du har köpt hårdvara ett tag sedan och använder det på en annan 
+Om du har köpt hårdvara ett tag sedan och använder det på en annan 
 dator, glömmer du antagligen CD-skivan och blir tvungen att ladda ner 
 den senaste versionen från tillverkarens hemsida. Detta kan ta ganska 
-lång tid beroende på hur.. konstigt upplagd hemsidan är.</p>
+lång tid beroende på hur.. konstigt upplagd hemsidan är.
 
-<p>Okej, men det är bara en del av hårdvaran. Tänk dig nu att du 
+Okej, men det är bara en del av hårdvaran. Tänk dig nu att du 
 ska installera Windows på en helt ny, orörd dator. För varje liten del 
 av hårdvara måste du hitta den senaste drivrutinen (eller använda 
 CD-skvian), installera, och starta om datorn lite då och då. Grafikkort, 
 ljudkort, tangentbord, mus, moderkortschip, etc. (det är bäst att börja 
 med grafikkortet, så att du slipper den låga upplösningen på din nya 
 fräscha monitor). Och det får du göra efter en lång installation av 
-Windows självt.</p>
+Windows självt.
 
-<p><b>Linux behöver inte separata drivrutiner</b>. 
+<b>Linux behöver inte separata drivrutiner</b>. 
 Alla drivrutiner är redan inkluderade i kärnan - hjärtat i systemet 
-och det följer med varje installation av Linux. Detta betyder att:</p>
+och det följer med varje installation av Linux. Detta betyder att:
 
 <ul>
 <li>En <b>väldigt snabb installation</b>. 

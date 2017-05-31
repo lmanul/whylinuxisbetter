@@ -4,12 +4,12 @@
 
 <h2>Okolina</h2>
 
-<p align="center">Zahvaljujem Frantz Bourlet-u za ideju</p>
+<p align="center">Zahvaljujem Frantz Bourlet-u za ideju
 
-<p>Kako Linux može biti drugačiji od Windows-a kada je u pitanju 
+Kako Linux može biti drugačiji od Windows-a kada je u pitanju 
 okolina, pitate se? Na kraju krajeva, oba su samo parče softvera sa 
 malim uticajem na zagađenje ili promenu klime. Pa, birajući linux možete 
-imati uticaj na okolinu:</p>
+imati uticaj na okolinu:
 
 <ul>
 

@@ -4,16 +4,16 @@
 
 <h2>Zapomnij o wirusach</h2>
 
-<p>Jeśli Twój komputer nagle zamyka się bez wyraźnej przyczyny i bez
+Jeśli Twój komputer nagle zamyka się bez wyraźnej przyczyny i bez
 pytania o "zgodę", jeśli dziwne okna z reklamami lub tekstem którego
 nie rozumiesz pojawiają się nieproszone, jeśli e-maile od Ciebie wysyłają
 się same, bez Twojej o tym wiedzy - to bardzo prawdopodobne jest, że masz
-wirusa. Główną tego przyczyną jest fakt, że używasz systemu Windows.</p>
+wirusa. Główną tego przyczyną jest fakt, że używasz systemu Windows.
 
-<p>Na Linuksa wirusów prawie nie ma. I mam tu na myśli: "Jeśli kiedykolwiek
+Na Linuksa wirusów prawie nie ma. I mam tu na myśli: "Jeśli kiedykolwiek
 natkniesz się na Linuksowego wirusa, koniecznie mi o tym powiedz - zamierzam
 bardzo się zdziwić :)". Oczywiście taki linuksowy wirus nie jest "nie do
-zdobycia", jednak bardzo trudno jest go złapać, z kilku powodów:</p>
+zdobycia", jednak bardzo trudno jest go złapać, z kilku powodów:
 
 <ul>
 
