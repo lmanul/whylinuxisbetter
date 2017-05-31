@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Zašto Windows postaje sporiji svakim danom?</h2>
 
@@ -25,6 +25,6 @@ i dalje radi savršeno dobro i oštro kao i prvi dan.
 
 Linux Vam omogućava da više radite, a manje vremena provodite u reinstalacijama.
 
-</div>
+
 
 

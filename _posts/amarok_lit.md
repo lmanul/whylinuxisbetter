@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Gauk puik&#371; muzikos grotuv&#261;.</h2>
 
@@ -9,6 +9,6 @@ jis puikiai tvarko ir groja muzik&#261;, &#303;sid&#279;mi, kurios dainos jums p
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

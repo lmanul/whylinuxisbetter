@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Aforra algo de enerxía: deixa que a túa computadora durma ou hiberne</h2>
 
@@ -18,6 +18,6 @@ Entón non necesitas "reiniciar" a túa computadora de novo!. Sabendo que Linux 
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

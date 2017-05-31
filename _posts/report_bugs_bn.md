@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>সহজে বাগ রিপোর্ট, ট্র্যাক করুন।</h2>
 
@@ -19,6 +19,6 @@
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

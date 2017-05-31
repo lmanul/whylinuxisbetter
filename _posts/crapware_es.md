@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>No más mierdaware.</h2>
 
@@ -18,6 +18,6 @@ Pero para el usuario, este es el dolor la mayoría de las veces, más espera, m�
 
 Nada de eso con Linux. Ningún programa le dará la lata sobre suscripciones, pagar después de que un período de prueba termine, o simplemente retrasar su computadora y hacerle esperar un poco más mientras se inicia, justo cuando pensaba que estaba listo para ser utilizado. Linux viene con todo lo necesario para empezar a trabajar de inmediato, sin mierdaware.
 
-</div>
+
 
 

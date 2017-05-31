@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Få en fantastisk musikspelare</h2>
 
@@ -13,6 +13,6 @@ från internet!
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

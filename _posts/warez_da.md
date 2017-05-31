@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hvorfor kopiere software ulovligt når du kan få det gratis?</h2>
 
@@ -24,6 +24,6 @@ Windows?");
 
 Tegning af <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ha egyszer már telepítetted a rendszert, miért kellene <i>még mindig</i> telepítgetned?</h2>
 
@@ -26,6 +26,6 @@ Akár azonnal munkához is láthatsz!
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

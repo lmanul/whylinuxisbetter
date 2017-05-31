@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>节省能源：让您的计算机“睡眠”或者“休眠”</h2>
 
@@ -22,6 +22,6 @@
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>¿Tu vida digital parece fragmentada?</h2>
 
@@ -23,6 +23,6 @@ Sin ninguna duda contratarías a la mujer (deberías haberlo sabido, las mujeres
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

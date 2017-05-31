@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Čuvajte energiju: neka Vaš kompjuter miruje ili hibernira.</h2>
 
@@ -27,6 +27,6 @@ itd
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Mediu</h2>
 
@@ -42,6 +42,6 @@ comerciale).</li>
 
 </ul>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>クリックひとつで、ぜーんぶアップデート！</h2>
 
@@ -12,6 +12,6 @@ Linuxには、「パッケージマネージャ」という管理センターが
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Máy tính cũ của bạn vẫn còn rất có ích đấy</h2>
 
@@ -17,6 +17,6 @@ biến máy tính 12 năm tuổi của bạn chạy nhanh như máy mới, nhưn
 cho phép bạn làm những công việc hàng ngày một cách hiệu quả. Chính chiếc máy tính 
 đang chạy Website này khá cũ (nếu trang Web nạp chậm, đó là do kết nối Internet).
 
-</div>
+
 
 

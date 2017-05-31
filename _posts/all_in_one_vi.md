@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sau khi cài xong hệ điều hành, vì sao bạn <i>vẫn phải cài thêm</i> các chương trình khác ?</h2>
 
@@ -35,6 +35,6 @@ Bạn có thể làm việc ngay lập tức.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

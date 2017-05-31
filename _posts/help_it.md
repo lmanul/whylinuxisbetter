@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ottieni supporto gratuito e illimitato</h2>
 
@@ -22,6 +22,6 @@ cose educatamente. Digita semplicemente "linux help" (o sostituisci
 dell'installazione) su Google e troverai senza dubbio tutto ciò di cui 
 hai bisogno.
 
-</div>
+
 
 

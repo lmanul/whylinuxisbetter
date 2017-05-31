@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Η ψηφιακή σας ζωή μοιάζει σκόρπια;</h2>
 
@@ -48,6 +48,6 @@ Roberto Di Cosmo</a> για αυτή την παρομοίωση). Κάθε συ
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

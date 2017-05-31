@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Už vás unavuje neustále reštartovávať váš počítač?</h2>
 
@@ -16,6 +16,6 @@ Pravdepodobne nenecháte svoj počítač zapnutý niekoľko týždňov, ale pods
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

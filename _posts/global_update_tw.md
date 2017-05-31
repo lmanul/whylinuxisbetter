@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>只要按一下滑鼠，就可以更新所有軟體</h2>
 
@@ -12,6 +12,6 @@ Linux 中有個「套件管理程式」，負責照顧所有安裝在你系統�
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

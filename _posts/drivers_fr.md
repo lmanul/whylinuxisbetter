@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ne vous souciez plus des pilotes</h2>
 
@@ -33,6 +33,6 @@ le coeur du système, et cela avec chaque installation Linux. Cela implique:
 <li><b>Plus respectueux de l'environnement</b> car tous les CDs accompagnant le matériel deviennent superflus (enfin, dès que Windows n'en aura plus besoin non plus...)</li>
 </ul>
 
-</div>
+
 
 

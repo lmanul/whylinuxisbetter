@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>V-aţi săturat să vă restartaţi computerul tot timpul?</h2>
 
@@ -38,6 +38,6 @@ sistemul nu vă va mai deranja cu restartarea.
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>您为不停的重新启动计算机而烦恼吗？</h2>
 
@@ -35,6 +35,6 @@ Linux 最基本的设计目标就是不需要重启。不管您安装了新的�
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

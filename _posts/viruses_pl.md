@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Zapomnij o wirusach</h2>
 
@@ -50,6 +50,6 @@ przypadkiem nie jest to luka w bezpieczeństwie?"</li>
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

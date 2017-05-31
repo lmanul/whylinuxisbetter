@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Chơi hàng trăm game miễn phí</h2>
 
@@ -12,12 +12,12 @@ game online... Đây là vài ví dụ:
 
 
 <br class="clearboth" />
-</div>
+
 
 Nếu bạn thích chơi game, bạn có thể thấy bức ảnh này rất hấp dẫn (Quake 3 chạy trên Linux, trên 24 màn hình cùng lúc (!) ):
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

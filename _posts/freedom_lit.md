@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Laisv&#279;!</h2>
 
@@ -28,6 +28,6 @@ dar geriau, galite pats j&#303; i&#353;taisyti (ar k&#261; pasamdyti, kad tai pa
 pakeitimus k&#363;r&#279;jams, kad visi gal&#279;t&#371; pasinaudoti patobulinimu. Su programine &#303;ranga galite 
 daryti (beveik) visk&#261;, k&#261; tik norite.
 
-</div>
+
 
 

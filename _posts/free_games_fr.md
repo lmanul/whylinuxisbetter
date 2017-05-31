@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Jouez à des centaines de jeux gratuitement</h2>
 
@@ -12,12 +12,12 @@ Des centaines de jeux sont disponible gratuitement, publiés sous une licence li
 
 
 <br class="clearboth" />
-</div>
+
 
 Et si les jeux vous intéressent, cette photo vous amusera peut-être, c'est Quake 3 sous Linux, sur 24 écrans (!) :
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

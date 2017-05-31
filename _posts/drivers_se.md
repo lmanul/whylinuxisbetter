@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Glöm drivrutiner</h2>
 
@@ -43,6 +43,6 @@ till hårdvaran längre (i alla fall då Windows inte längre heller
 behöver dem...).</li>
 </ul>
 
-</div>
+
 
 

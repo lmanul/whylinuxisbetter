@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Poznaj wspaniały odtwarzacz muzyczny</h2>
 
@@ -13,5 +13,5 @@ tytuł czy też tekst piosenki, a nawet wygląd okładki albumu!
 
 <img src="Images/amarok.png" />
 
-</div>
+
 

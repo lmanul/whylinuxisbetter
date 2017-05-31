@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?</h2>
 
@@ -44,6 +44,6 @@ Možete jednostavno odmah da počnete sa radom.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

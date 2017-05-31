@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Nincs többé nagy rendetlenség a Start menüdben</h2>
 
@@ -14,6 +14,6 @@ Minden Linuxra telepíthető program rendelkezik azzal az információval, hogy 
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

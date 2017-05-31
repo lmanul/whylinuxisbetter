@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Aidez les autres pays, et le vôtre</h2>
 
@@ -35,6 +35,6 @@ d'acquérir des réelles compétences sur le fonctionnement des logiciels.
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Por que seu Windows fica mais lento dia após dia ?</h2>
 
@@ -13,6 +13,6 @@ Eu pude convencer muitas pessoas a mudar para o Linux, mantendo o Windows em seu
 O Linux te deixa gastar mais tempo trabalhando, e menos tempo reinstalando de novo e de novo.
 
 
-</div>
+
 
 

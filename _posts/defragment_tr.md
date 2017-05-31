@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Dijital hayatınızda parçalanmalar mı var ?</h2>
 
@@ -45,7 +45,7 @@ Seçim size kalmış!
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 
 

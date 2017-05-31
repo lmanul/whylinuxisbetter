@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Zgłaszanie problemów<br />
 <small>(nie musisz czekać latami na ich rozwiązanie!)</small></h2>
@@ -42,5 +42,5 @@ praca nad wspólnym ulepszaniem oprogramowania. Na tym opiera się rozwój Otwar
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 

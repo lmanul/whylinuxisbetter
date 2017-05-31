@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Wenn dein System installiert ist, warum solltest du dann <i>immer noch</i> Software nachinstallieren müssen?</h2>
 
@@ -24,6 +24,6 @@ Du kannst sofort mit der Arbeit loslegen.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

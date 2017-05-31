@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Treba Vam nov softver? Ne tražite po mreži, Linux će Vam nabaviti.</h2>
 
@@ -31,6 +31,6 @@ Dakle jedan: nema surfovanja. Dva: nema skidanja i instaliranja ponaosob.
 Tri: više vremena da se sam program proba.
 
 
-</div>
+
 
 

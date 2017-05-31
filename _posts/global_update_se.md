@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Uppdatera all din mjukvara med ett klick.</h2>
 
@@ -22,6 +22,6 @@ trycka på "Installera uppdateringarar" nere i hörnet:
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

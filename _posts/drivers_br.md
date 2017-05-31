@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Esqueça os drivers</h2>
 
@@ -22,6 +22,6 @@ Ok, agora isso é só apenas uma peça de hardware. Agora imagine que você quer
 .</li>
 </ul>
 
-</div>
+
 
 

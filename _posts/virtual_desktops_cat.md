@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Massa finestres? Fes servir els espais de treball.</h2>
 
@@ -38,6 +38,6 @@ les altres tres estan buides), o fes servir una drecera de teclat.
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

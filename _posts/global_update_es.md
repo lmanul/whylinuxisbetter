@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Actualiza todo tu software con un sólo clic.</h2>
 
@@ -13,6 +13,6 @@ Linux tiene una aplicación especial llamada "Gestor de Paquetes", la cual se en
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

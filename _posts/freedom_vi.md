@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Tự do muôn năm!</h2>
 
@@ -24,6 +24,6 @@ báo lỗi cho mọi người, với các lập trình viên, hoặc tự sửa 
 việc này), sau đó cung cấp bản sửa lỗi cho mọi người. Bạn có thể làm bất cứ điều gì với 
 phần mềm mã nguồn mở.
 
-</div>
+
 
 

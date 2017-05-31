@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Frihet!</h2>
 
@@ -10,6 +10,6 @@ Så hva betyr dette? Forestill deg at Microsoft forsvant imorgen (OK, det er ikk
 
 Takket være «Open source», hvis et spesifikt prosjekt eller supportfirma dør ut, vil all koden være åpen for allmennheten og folk vil kunne fortsette å forbedre den. Hvis dette prosjektet er spesielt viktig for deg, så kan du faktisk lage det selv. Hvis en spesifikk feil irriterer deg, kan du rapportere den inn til utviklerne og snakke med de, men enda bedre: Du kan fikse det helt selv (eller leie noen til å gjøre det), for å deretter sende forandringene tilbake til utviklerne – så alle som anvender programvaren får den nye forbedrede versjonen. Du står fri til å gjøre (nesten) alt du vil med programvaren.
 
-</div>
+
 
 

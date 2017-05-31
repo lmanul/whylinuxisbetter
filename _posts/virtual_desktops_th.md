@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>หน้าต่างมากเกินไปรึเปล่า? ใช้โต๊ะทำงานซิจ๊ะ (Workspaces)</h2>
 
@@ -16,6 +16,6 @@
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

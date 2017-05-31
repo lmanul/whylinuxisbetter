@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>¿Demasiadas ventanas? Usa las distintas áreas de trabajo.</h2>
 
@@ -16,6 +16,6 @@ Ese es el "cambiador de áreas de trabajo". Puedes ver que tiene cuatro pantalla
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

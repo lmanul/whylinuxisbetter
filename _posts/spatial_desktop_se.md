@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Hoppa in i nästa generations skrivbord.</h2>
 
@@ -8,6 +8,6 @@ Du blev fascinerad av de fantastiska 3D- och transparensmöjligheterna som intro
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

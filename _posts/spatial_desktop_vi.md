@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sử dụng môi trường làm việc mới</h2>
 
@@ -11,6 +11,6 @@ Linux làm được việc đó, miễn phí, và tốt hơn nhiều Windows.
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

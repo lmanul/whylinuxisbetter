@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Jump into the next generation of desktops.</h2>
 
@@ -13,6 +13,6 @@ hardware requirements.
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Spar på strømmen: La datamaskinen din «sove» eller «gå i dvale».</h2>
 
@@ -17,6 +17,6 @@ Så i bunn og grunn trenger du ikke å «boote» datamaskinen din igjen! Siden L
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

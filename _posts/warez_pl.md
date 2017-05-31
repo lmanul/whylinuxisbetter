@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Po co piracić, jeśli to samo można mieć legalnie i za darmo?</h2>
 
@@ -39,6 +39,6 @@ table_parser ("Tak", "Nie", "Program", "Darmowy odpowiednik", "Czy istnieje dla 
 
 Autor rysunku: <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

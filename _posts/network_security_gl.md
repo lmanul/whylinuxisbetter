@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Fai morder o po aos piratas</h2>
 
@@ -8,6 +8,6 @@ Windows ten <i>moitos</i> problemas de seguridade. E poden ter graves consecuenc
 
 Linux non é perfecto, pero...
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Njut av fri support för evigt</h2>
 
@@ -22,6 +22,6 @@ faktiskt väldigt snälla människor, om du bara frågar snällt. Bara skriv
 sektionen för installation) i Google och du kommer garanterat att hitta 
 det du söker.
 
-</div>
+
 
 

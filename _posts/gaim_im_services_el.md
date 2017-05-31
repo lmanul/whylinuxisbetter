@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Χρησιμοποιήστε MSN, AIM, ICQ, Jabber, με ένα μόνο πρόγραμμα</h2>
 
@@ -16,4 +16,4 @@ Windows, ενώ στο Mac OS X ονομάζεται "Adium"), μπορείτε 
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

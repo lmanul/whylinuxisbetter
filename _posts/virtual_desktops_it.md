@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Troppe finestre? Usa gli ambienti di lavoro</h2>
 
@@ -34,6 +34,6 @@ tre sono vuoti), o usare una scorciatoia da tastiera.
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Lupakan <i>driver</i></h2>
 
@@ -20,6 +20,6 @@ Itu untuk satu perangkat keras. Sekarang, bayangkan bahwa kamu berniat menginsta
 <li><b>Kecil dampak buruk terhadap bumi</b> karena semua CD tidak diperlukan lagi untuk perangkat keras (bagaimana jika Windows tidak memerlukan CD lagi...).</li>
 </ul>
 
-</div>
+
 
 

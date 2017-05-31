@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Lupakan tentang virus.</h2>
 
@@ -20,6 +20,6 @@ Linux hampir tidak memiliki virus. Dan itu bukan berarti "Yah, sebenarnya sih ti
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

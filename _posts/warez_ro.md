@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>De ce să copiaţi ilegal programe, când le puteţi obţine gratis?</h2>
 
@@ -33,6 +33,6 @@ table_parser ("Da", "Nu", "Comercial", "Open source", "Există pe Windows?");
 
 Desen făcut de <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

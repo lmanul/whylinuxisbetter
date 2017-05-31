@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Prea multe ferestre? Folosiţi spaţiile de lucru.</h2>
 
@@ -27,6 +27,6 @@ o mică previzualizare a ce conţine), sau folosiţi o scurtătură din taste.
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

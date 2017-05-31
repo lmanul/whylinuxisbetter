@@ -1,7 +1,7 @@
 
 
 
-<div id="corps">
+
 
 <h2>Sistema instalatu duzunea, zergaitik <i>ondino</i> gauza gehiago instalatu behar dituzu?</h2>
 
@@ -26,6 +26,6 @@ Berehala lanean hasi zaitezke.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

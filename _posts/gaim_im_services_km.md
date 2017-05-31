@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>ប្រើ MSN, AIM, ICQ, Jabber ជាមួយ​កម្ម​វិធី​តែមួយ​</h2>
 
@@ -15,4 +15,4 @@ MSN, Yahoo, ICQ, Jabber, AIM ។ល។ អំឡុង​ពេល​ដែល�
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

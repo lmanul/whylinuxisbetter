@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Er du lei av å måtte restarte datamaskinen din hele tiden?</h2>
 
@@ -16,6 +16,6 @@ Du vil nok ikke la datamaskinen din stå å kjøre sammenhengende i flere uker, 
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

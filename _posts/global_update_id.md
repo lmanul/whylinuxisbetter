@@ -1,6 +1,6 @@
  
 
-<div id="corps">
+
 
 <h2><i>Update</i> semua perangkat lunakmu dengan satu klik.</h2>
 
@@ -12,6 +12,6 @@ Linux memiliki pusat sentral yang dinamakan "Package Manager", yang tidak hanya 
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

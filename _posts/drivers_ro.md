@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Uitaţi de drivere</h2>
 
@@ -20,6 +20,6 @@ Okay, acum aceea e doar o piesă de hardware. Imaginaţi-vă că doriţi să ins
 <li><b>Mai puţin rău creat planetei</b> deoarece CD-urile nu mai sunt necesare (mă rog, până când nici Windows nu va mai avea nevoie de ele...).</li>
 </ul>
 
-</div>
+
 
 

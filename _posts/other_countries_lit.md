@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Pad&#279;k kitoms &#353;alis, taip pat ir savo.</h2>
 
@@ -18,6 +18,6 @@ I&#353;lo&#353;t&#371; &#382;mon&#279;s, &#382;inantys kaip daryti versl&#261; i
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

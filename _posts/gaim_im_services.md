@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Use MSN, AIM, ICQ, Jabber, with a single program</h2>
 
@@ -17,4 +17,4 @@ at the same time.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

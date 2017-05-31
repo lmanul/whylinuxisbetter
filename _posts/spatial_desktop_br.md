@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Salte para a próxima geração de desktops.</h2>
 
@@ -15,6 +15,6 @@ hardware.
 <? all_video_ids_from_file ();?>
 
 
-</div>
+
 
 

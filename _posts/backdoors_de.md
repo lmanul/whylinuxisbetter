@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Keine Hintertüren in deiner Software.</h2>
 
@@ -14,6 +14,6 @@ Das Ändern des Quelltexts von Open-Source-Software ist ein sehr viel offener Pr
 
 Das ist der Grund, warum du sicher sein kannst, dass Open-Source-Software keine bösen Dinge hinter deinem Rücken tut: Die Gemeinschaft hat stets ein Auge auf alle Rezepte.
 
-</div>
+
 
 

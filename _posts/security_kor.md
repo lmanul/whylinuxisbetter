@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>리눅스, 당신의 컴퓨터를 지킵니다</h2>
 
@@ -15,6 +15,6 @@
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

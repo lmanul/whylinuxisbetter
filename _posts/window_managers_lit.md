@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Pasirinkite, kaip atrodys Jūsų darbalaukis.</h2>
 
@@ -30,6 +30,6 @@ Ar netgi štai tokią, jei Jums patinka savaip susitvarkyti absoliučiai viską:
 
 Kaip matote, Linux'ai <b>leidžia nuspręsti Jums patiems, kaip atrodys Jūsų darbalaukis</b>. Tačiau net ir nusprendus vieną kartą, galite persigalvoti: keisti darbalaukio aplinką galite kiekvieną kartą įsijungę kompiuterį.
 
-</div>
+
 
 

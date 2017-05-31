@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hold øye med været.</h2>
 
@@ -10,6 +10,6 @@ Er du lei av å måtte ha en termometer på utsiden av vinduet ditt for å sjekk
 
 Linux tvinger deg ikke til noe, så du kan plassere denne funksjonen hvor du enn vil på skjermen, eller så kan du fjerne den (i bunn og grunn er det vel litt trivligere å titte ut av vinduet?). Du kan velge et sted du vil holde øye med i en komplett liste av forskjellige steder.
 
-</div>
+
 
 

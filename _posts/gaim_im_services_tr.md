@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>MSN, AIM, ICQ veya Jabber' a tek bir yazılımla bağlanın</h2>
 
@@ -10,4 +10,4 @@ Linux için (Windows ve Mac OS X' te de kullanılabilmektedir) anında mesaj pro
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

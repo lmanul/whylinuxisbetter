@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>體驗下一代的桌面環境</h2>
 
@@ -8,6 +8,6 @@
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

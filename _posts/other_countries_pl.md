@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Pomóż innym krajom, w tym również Twojemu</h2>
 
@@ -29,6 +29,6 @@ i zostawiających rodzimych informatyków bez prawdziwej, fachowej wiedzy.
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

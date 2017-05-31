@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Er systemet ditt ustabilt?</h2>
 
@@ -12,6 +12,6 @@ Det er ikke slik at noe operativsystem er perfekt, og folk som sier at deres ope
 
 I de aller fleste tilfeller vil du ikke la datamaskinen din være kontinuerlig aktiv i så lang tid uten å slå den av, men dette illustrerer hvor stabilt Linux er.
 
-</div>
+
 
 

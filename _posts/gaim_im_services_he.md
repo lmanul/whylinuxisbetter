@@ -10,7 +10,7 @@
 
 <img src="Images/gaim_im_services.png" />
 
-</div>
+
 
 
 

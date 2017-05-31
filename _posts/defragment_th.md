@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>ชีวิตดิจิตอลของคุณแตกออกเป็นเสี่ยงๆ ไหม?</h2>
 
@@ -22,6 +22,6 @@
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

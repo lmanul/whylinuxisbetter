@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Umweltschutz</h2>
 
@@ -20,6 +20,6 @@ Du fragst dich sicher: Wie kann Linux besser für die Umwelt sein als Windows? B
 
 </ul>
 
-</div>
+
 
 

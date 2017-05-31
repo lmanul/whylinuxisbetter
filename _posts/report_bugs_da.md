@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Rapportering af bugs</h2>
 
@@ -10,6 +10,6 @@ Næsten al Open Source software (Linux distributioner inkluderet) har et a <i>bu
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

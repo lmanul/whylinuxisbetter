@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ĉu via operaciumo estas nestabila?</h2>
 
@@ -12,6 +12,6 @@ Kompreneble, neniu operaciumo estas perfekta, kaj la homoj kiuj diras al vi ke s
 
 Vi ne lasos vian komputilon tiom da tempo, dum la plejmulta tempo, sed ĉi tio montras kiom stabila estas Linux.
 
-</div>
+
 
 

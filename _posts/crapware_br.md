@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Esqueça os “crapwares”</h2>
 
@@ -18,7 +18,7 @@ Mas para o usuário, isso é na maioria dos casos uma dor de cabeça, maior temp
 
 Nada disso vem com o Linux. Nenhum programa vai te encher o saco pedindo que você se inscreva em algo, ou exija que você pague ao término do período de teste, ou vai tornar seu computador cada vez mais lento e te fazer esperar cada vez mais a cada vez que você liga o computador. Linux vem com tudo o que você precisa pra trabalhar, mas não tem nenhum desses programinhas chatos, os tais <i>crapwares</i>.
 
-</div>
+
 
 
 

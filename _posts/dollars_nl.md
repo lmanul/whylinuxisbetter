@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Betaal geen €100 voor uw besturingssysteem</h2>
 
@@ -20,6 +20,6 @@ doen sommige bedrijven goede zaken door het verkopen van ondersteuning, document
 helplijn voor hun eigen versie van Linux, en dit is zeker een goede zaak. Maar meestal zult u
 niks moeten betalen.
 
-</div>
+
 
 

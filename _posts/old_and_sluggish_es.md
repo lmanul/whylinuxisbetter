@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>¿Por qué tu Windows es más lento cada día?</h2>
 
@@ -14,6 +14,6 @@ Linux te deja más tiempo para trabajar sin tener que reinstalar una y otra vez 
 
 
 
-</div>
+
 
 

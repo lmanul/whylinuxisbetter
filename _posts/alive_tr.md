@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Eski bilgisayarınız ikinci baharını yaşasın</h2>
 
@@ -25,6 +25,6 @@ sunan bilgisayar pek te yeni sayılmaz ve Linux yüklü. Şu anda bunları
 okuyabiliyorsanız, demek ki hala sağlam ve çalışıyor (ve eğer sayfa yavaş 
 yükleniyorsa yalnızca internet erişiminizi suçlayın).
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Spara energi: Låt datorn sova.</h2>
 
@@ -17,6 +17,6 @@ Praktiskt taget behöver du aldrig starta (boota) datorn igen! Eftersom att Linu
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

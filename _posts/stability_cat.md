@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>És el teu sistema inestable?</h2>
 
@@ -31,6 +31,6 @@ deixaràs el teu ordinador engegat tot el temps, i podràs continuar
 d'aquesta manera durant anys sense tenir cap problema.
 
 
-</div>
+
 
 

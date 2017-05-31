@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Usa MSN, AIM, ICQ, Jabber, con un singolo programma</h2>
 
@@ -16,4 +16,4 @@ i tuoi contatti di diversi account insieme.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

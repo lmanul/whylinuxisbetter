@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Virüsleri unutun.</h2>
 
@@ -24,6 +24,6 @@ gerçekten çok zorlaştırır. Sebeplerine gelecek olursak:
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

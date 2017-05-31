@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Dùng MSN, AIM, ICQ, Jabber, chỉ bằng một chương trình</h2>
 
@@ -13,4 +13,4 @@ tên là "Adium"), bạn có thể sử dụng mọi dịch vụ đó cùng mộ
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

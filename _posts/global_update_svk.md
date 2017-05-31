@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Aktualizujte všetky svoje programy jedným kliknutím</h2>
 
@@ -12,6 +12,6 @@ Linux má centrálny nástroj s názvom "Správca balíkov" ("Package Manager"),
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

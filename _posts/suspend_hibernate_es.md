@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ahorra algo de energía: deja que tu ordenador duerma o hiberne</h2>
 
@@ -18,6 +18,6 @@ Por supuesto, Linux te permite hacer esto pero también te permite poner a "hibe
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

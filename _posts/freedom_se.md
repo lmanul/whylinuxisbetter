@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Frihet!</h2>
 
@@ -30,6 +30,6 @@ bättre, du kan laga den själv (eller låta någon annan göra det åt dig), oc
 tillbaka ändringarna till utvecklarna så att alla får ta del av förbättringen. Du är fri 
 att göra (nästan) allt du vill med programmet.
 
-</div>
+
 
 

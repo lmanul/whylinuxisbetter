@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux protexe a tua computadora.</h2>
 
@@ -14,6 +14,6 @@ Pero de feito isto non é exactamente un asunto de <i>cantas</i> fallas un siste
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

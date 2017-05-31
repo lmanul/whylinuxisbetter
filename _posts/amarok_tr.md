@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Mükemmel bir müzik çalıcınız olsun</h2>
 
@@ -9,6 +9,6 @@ tercih ettiğiniz tarzları öğrenir; parça bilgilerini, şarkı sözlerini ve
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

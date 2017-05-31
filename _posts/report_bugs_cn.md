@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>报告漏洞（Bugs）</h2>
 
@@ -21,6 +21,6 @@ Windows的下一个版本能够修复它（但是您将又为此支付上千元�
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

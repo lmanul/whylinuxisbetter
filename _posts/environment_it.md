@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ambiente</h2>
 
@@ -21,6 +21,6 @@ potresti chiedere? Dopotutto, entrambi sono solo pezzi di software con un legger
 
 </ul>
 
-</div>
+
 
 

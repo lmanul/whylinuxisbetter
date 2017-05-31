@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Dóna una segona vida al teu ordinador</h2>
 
@@ -28,6 +28,6 @@ si pots llegir açò, aleshores està engegat i executant-se (i si la
 pàgina web es carrega lentament, tira la culpa a la meva connexió a 
 Internet únicament).
 
-</div>
+
 
 

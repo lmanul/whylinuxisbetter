@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Non pagas 100 € polo teu sistema operativo.</h2>
 
@@ -18,6 +18,6 @@ o mellor que poida :) ). De feito, algunhas compañías están facendo un bo neg
 servizo en liña, etc., para a súa propia versión de Linux e isto é algo realmente bo. Afortunadamente a maior
 parte do tempo ti non vas ter que pagar un centavo.
 
-</div>
+
 
 

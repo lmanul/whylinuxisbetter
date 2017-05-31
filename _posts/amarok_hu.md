@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Szeretnél egy klassz zenelejátszót?</h2>
 
@@ -8,6 +8,6 @@ Linuxon rengeteg zenelejátszó van (AmaroK, Rhythmbox, Banshee stb.), és sok k
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

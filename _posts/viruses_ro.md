@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Uitaţi de viruşi.</h2>
 
@@ -40,6 +40,6 @@ din lume se poate uita la codul sursă (ingredientul fiecărui program) şi să 
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

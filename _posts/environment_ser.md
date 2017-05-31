@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Okolina</h2>
 
@@ -39,6 +39,6 @@ instalacioni medij, jednostavno ga možete ponovo "skinuti").</li>
 
 </ul>
 
-</div>
+
 
 

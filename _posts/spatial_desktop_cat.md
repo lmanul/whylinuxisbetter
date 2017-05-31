@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Salta a la nova generació d'escriptoris.</h2>
 
@@ -13,6 +13,6 @@ Vista? Com d'enganyat estàs: Linux ho fa millor, de franc, i amb molts menys re
 <? all_video_ids_from_file ();?>
 
 
-</div>
+
 
 

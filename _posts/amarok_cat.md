@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Aconsegueix un genial reproductor musical.</h2>
 
@@ -13,6 +13,6 @@ Internet, i fins i tot aconsegueix les cobertes del CD per tu !
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

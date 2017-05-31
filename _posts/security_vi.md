@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux bảo vệ máy tính của bạn</h2>
 
@@ -32,6 +32,6 @@ khoảng thời gian đó quá đủ để những kẻ xâm nhập làm bất k
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

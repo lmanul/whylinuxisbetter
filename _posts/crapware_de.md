@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 
 <h2>Nie wieder Crapware</h2>
@@ -27,6 +27,6 @@ diese Programme „crapware“ getauft.
 Das alles gibt es unter Linux nicht. Kein Programm wird dich zu einem Abonnement oder zum Bezahlen nach Ende des Testzeitraums nötigen, und auch nicht deinen Computer 
 verlangsamen und dich während und nach dem Systemstart ewig warten lassen. Linux bringt alles mit, was du zum sofortigen Losarbeiten baruchst, aber keine Crapware.
 
-</div>
+
 
 

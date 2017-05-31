@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Gràcies a Franz Bourlet per la idea</h2>
 
@@ -18,6 +18,6 @@ Com pot ser Linux diferent de Windows quan es tracta del medi ambient, et pots p
 
 </ul>
 
-</div>
+
 
 

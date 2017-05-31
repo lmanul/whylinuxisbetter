@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Aiuta gli altri Paesi, ed il tuo</h2>
 
@@ -33,6 +33,6 @@ decentemente come funzionino le cose.
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

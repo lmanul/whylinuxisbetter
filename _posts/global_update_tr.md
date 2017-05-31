@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Yazılımınızı tek bir tık ile güncelleyin.</h2>
 
@@ -21,6 +21,6 @@ butonuna tıklamanız olacaktır. :
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

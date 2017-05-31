@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hãy khiến những kẻ quấy rầy tránh xa máy tính của bạn</h2>
 
@@ -10,6 +10,6 @@ Windows, hắn có thể kết nối đến máy tính của bạn và mọi d�
 
 Linux không hoàn hảo, nhưng
 
-</div>
+
 
 

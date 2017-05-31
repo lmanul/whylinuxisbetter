@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Previše prozora? Koristite radne površine.</h2>
 
@@ -35,6 +35,6 @@ a možete koristiti i prečice sa tastature
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

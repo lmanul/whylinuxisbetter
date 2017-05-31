@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Mengapa semakin hari Windows Anda semakin lambat?</h2>
 
@@ -16,6 +16,6 @@ Sejak mereka berpindah ke Linux, sebagian besar dari mereka meng-<i>install</i> 
 
 Linux membantumu memanfaatkan lebih banyak waktu untuk bekerja, dan lebih sedikit waktu untuk meng-<i>install</i> ulang lagi dan lagi.
 
-</div>
+
 
 

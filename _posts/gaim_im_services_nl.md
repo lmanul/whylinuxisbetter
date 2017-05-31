@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Gebruik AIM, ICQ, IRC, Jabber en Facebook Chat met één programma</h2>
 
@@ -13,6 +13,6 @@ Met Pidgin, hét chatprogramma voor Linux (het bestaat voor Windows ook, en voor
 
 <img src="Images/gaim_im_services.png" />
 
-</div>
+
 
 

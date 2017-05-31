@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>창을 너무 많이 띄우셨나요? 작업공간을 이용하세요</h2>
 
@@ -16,6 +16,6 @@
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

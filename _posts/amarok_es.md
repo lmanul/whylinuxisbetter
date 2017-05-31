@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Consigue un gran reproductor musical</h2>
 
@@ -8,6 +8,6 @@ Linux tiene muchos reproductores de música (incluyendo Amarok, Rhythmbox, Bansh
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

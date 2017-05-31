@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Supravegheaţi vremea.</h2>
 
@@ -16,6 +16,6 @@ să amplasaţi acest add-on oriunde vreţi pe ecran, sau să scăpaţi de el.
 Puteţi selecta oraşul unde locuiţi (sau orice altă zonă) dintr-o listă completă
 de locaţii (OK, am trişat, am ales Honolulu pentru poză, sunt 2°C în România acum!).
 
-</div>
+
 
 

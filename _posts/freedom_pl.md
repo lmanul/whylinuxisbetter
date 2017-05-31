@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Wolność!</h2>
 
@@ -43,6 +43,6 @@ stworzone poprawki wysłać z powrotem do społeczności, żeby inni również
 mogli z nich skorzystać. Z Wolnym Oprogramowaniem możesz robić wszystko,
 co Ci się podoba (no, może prawie wszystko).
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Escolha o visual de sua área de trabalho.</h2>
 
@@ -45,6 +45,6 @@ de trabalho</b>. E não precisa ser definitivo: você pode trocar para
 qualquer um desses estilos de área de trabalho sempre que for logar em 
 seu computador.
 
-</div>
+
 
 

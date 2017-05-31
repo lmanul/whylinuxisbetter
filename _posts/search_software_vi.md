@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Bạn cần chương trình mới ? Không cần tìm trên mạng, Linux sẽ tải về cho bạn.</h2>
 
@@ -27,6 +27,6 @@ Hoặc duyệt qua danh sách các chương trình (rất nhiều đấy!) theo 
 Với Linux, bạn sẽ: không phải tìm kiếm trên mạng, không phải tải về và càt đặt 
 bằng tay, và có nhiều thời gian để dùng thử chương trình.
 
-</div>
+
 
 

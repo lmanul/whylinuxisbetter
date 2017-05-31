@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linuxがパソコンを守ります！</h2>
 
@@ -15,6 +15,6 @@
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

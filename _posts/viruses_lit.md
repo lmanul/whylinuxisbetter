@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Pamir&#353;kite apie virusus.</h2>
 
@@ -36,6 +36,6 @@ spraga?“.
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 ﻿<h2>Ajude outros países, inclusive o seu</h2>
 
@@ -16,6 +16,6 @@ Pessoas que sabem como fazer coisas e ganhar dinheiro em seu país, se beneficia
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

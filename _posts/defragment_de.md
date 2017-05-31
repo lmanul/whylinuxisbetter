@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Scheint dein digitales Leben fragmentiert zu sein?</h2>
 
@@ -23,6 +23,6 @@ Zweifellos solltest du die Frau anstellen (du h&auml;ttest es wissen m&uuml;ssen
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

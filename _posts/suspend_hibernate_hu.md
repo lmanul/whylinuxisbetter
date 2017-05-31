@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Takaríts meg egy kis energiát: függeszd fel vagy hibernáld számítógéped!</h2>
 
@@ -17,6 +17,6 @@ Tehát alapvetően, nem kell ismét "elindítanod" a számítógéped! Mivel a L
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

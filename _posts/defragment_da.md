@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Føler du at dit digitale liv er fragmenteret?</h2>
 
@@ -22,6 +22,6 @@ Du skal, uden tvivl, hyre kvinden til at tage sig af fil-kabinettet (du burde vi
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

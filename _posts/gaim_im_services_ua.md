@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>MSN, AIM, ICQ та Jabber в одній програмі</h2>
 
@@ -12,4 +12,4 @@
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

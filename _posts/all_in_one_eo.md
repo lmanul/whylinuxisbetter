@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kiam la operaciumo estas instalita, kial vi<i>ankoraŭ</i> bezonas instali pli?</h2>
 
@@ -26,6 +26,6 @@ Vi povas eklabori tuj.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

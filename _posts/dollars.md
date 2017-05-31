@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Don't pay $100 for your operating system</h2>
 
@@ -20,6 +20,6 @@ some companies are making good business by selling support, documentation, hotli
 their own version of Linux, and this is certainly a good thing. But most of the time, you won't 
 need to pay a cent.
 
-</div>
+
 
 

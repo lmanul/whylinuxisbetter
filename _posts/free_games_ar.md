@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Play hundreds of games for free</h2>
 
@@ -11,12 +11,12 @@ Hundreds of games are released under a free (as in "free beer" and as in "free s
 
 
 <br class="clearboth" />
-</div>
+
 
 And if you're interested in games, you might like this picture of Quake 3 running on Linux, on 24 screens (!) :
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

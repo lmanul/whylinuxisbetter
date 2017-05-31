@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Trợ giúp mọi lúc mọi nơi và miễn phí</h2>
 
@@ -17,6 +17,6 @@ bạn chỉ cần lên mạng, có hàng ngàn người sẽ giúp bạn giải 
 thật ra rất thân thiện, nếu bạn hỏi đúng cách. Chỉ cần gõ "linux help" (hoặc thay "linux" 
 bằng phiên bản bạn đang dùng - xem mục "Cài Đặt" - bạn sẽ tìm được mọi thứ bạn cần).
 
-</div>
+
 
 

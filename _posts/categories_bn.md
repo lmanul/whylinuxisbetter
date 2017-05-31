@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>স্টার্ট মেনু রাখুন পরিচ্ছন্ন।</h2>
 
@@ -14,6 +14,6 @@
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

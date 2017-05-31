@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Sloboda!</h2>
 
@@ -10,6 +10,6 @@ Prečo sa zaujímať o slobodu? Predstavte si, že Microsoft zajtra zmizne (ouke
 
 So slobodným softvérom ak špecifický projekt alebo spoločnosť poskytujúca podporu zanikne, celý kód ostáva prístupný komunite a ľudia môžu pokračovať v jeho vylepšovaní. Ak je tento projekt pre vás mimoriadne užitočný, môžete sa na ňom dokonca sami podieľať. Ak vás obťažuje špecifická chyba, môžte ju ohlásiť, hovoriť  s vývojármi, alebo, ešte lepšie, môžte si ju opraviť sami (alebo najať niekoho, kto to spraví), a poslať zmeny späť k vývojárom, takže každý môže využiť toto vaše vylepšenie. So softvérom môžete robiť (takmer) čokoľvek.
 
-</div>
+
 
 

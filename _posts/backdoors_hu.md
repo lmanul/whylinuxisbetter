@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Nincsenek többé backdoorok</h2>
 
@@ -16,6 +16,6 @@ Egy nyílt forráskódú szoftver forráskódjának a megváltoztatása sokkal n
 
 Ezért lehetsz biztos benne, hogy egy nyílt forráskódú program nem tesz semmi rosszat a hátad mögött: a közösség alaposan rajta tartja a szemét a recepteken.
 
-</div>
+
 
 

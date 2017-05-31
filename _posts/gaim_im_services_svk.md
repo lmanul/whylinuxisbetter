@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Používajte MSN, AIM, ICQ, Jabber jedným programom</h2>
 
@@ -12,4 +12,4 @@ S Pidgin-on, komunikátorom pre Linux (existuje aj verzia pre Windows, a tiež a
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

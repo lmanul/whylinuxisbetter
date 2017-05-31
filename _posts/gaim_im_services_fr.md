@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Connectez-vous à MSN, AIM, ICQ, Jabber, avec un  seul programme</h2>
 
@@ -17,4 +17,4 @@ avec un seul programme, et de voir tous vos contacts en même temps.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

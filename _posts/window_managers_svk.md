@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Vyberte si štýl vašej pracovnej plochy</h2>
 
@@ -30,6 +30,6 @@ Alebo dokonca niečo takéto, ak si radi kompletne prispôsobujete pracovné pro
 
 Ako môžete vidieť, s Linux-om <b>vy rozhodujete, ako vyzerá vaša pracovná plocha</b>. A dokonca sa ani nemusíte rozhodnúť pre jednu špecifickú: môžete si ich zmeniť vždy pri prihlasovaní do systému.
 
-</div>
+
 
 

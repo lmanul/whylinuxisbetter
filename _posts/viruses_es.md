@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Olvida los virus.</h2>
 
@@ -21,6 +21,6 @@ Linux difícilmente tendrá algún virus y no es como: "Bueno, no muy común, tu
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

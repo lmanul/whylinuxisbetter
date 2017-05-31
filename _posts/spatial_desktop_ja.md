@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>新世代デスクトップへ飛び出そう！</h2>
 
@@ -8,6 +8,6 @@ Windows Vistaの新機能の3Dデスクトップや透明化にびっくりし�
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

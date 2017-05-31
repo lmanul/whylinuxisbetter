@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Oblida't dels controladors</h2>
 
@@ -20,6 +20,6 @@ D'acord, això es solament una peça de maquinari. Ara imagina que vols instal·
 <li><b>Menys escalfament del planeta</b> perquè tots aquestos CDs no necessiten venir amb el maquinari mai més (bé, com a mínim mentre Windows no els necessite tampoc...).</li>
 </ul>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Varför blir Windows långsammare för var dag som går?</h2>
 
@@ -27,6 +27,6 @@ det fortfarande är responsivt och snabbt.
 Linux låter dig få mer tid över till att arbeta, och mindre tid 
 till att installera om hela tiden.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Folosiţi MSN, AIM, ICQ, Jabber cu un singur program</h2>
 
@@ -16,4 +16,4 @@ vizualizaţi prietenii în acelaşi timp.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

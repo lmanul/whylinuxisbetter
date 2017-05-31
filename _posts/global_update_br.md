@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>﻿Atualize todos seus programas com um simples clique.</h2>
 
@@ -12,6 +12,6 @@ O Linux tem uma central chamada "Gerenciamento de Pacotes", que toma conta de tu
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

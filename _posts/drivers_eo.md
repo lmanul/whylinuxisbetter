@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Forgesu la pelilojn</h2>
 
@@ -20,6 +20,6 @@ Nu, ĝi nur estas pecon de aparataro. Nun imagu ke vi volas instali Windows en t
 <li><b>Malpli da noco por la planedo</b> ĉar ĉiuj tiuj KD-j ne bezonas veni kun la aparataro iam (nu, krom se Windows ne bezonas ilin...).</li>
 </ul>
 
-</div>
+
 
 

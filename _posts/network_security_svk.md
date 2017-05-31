@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Nedajte šancu internetovým pirátom</h2>
 
@@ -8,6 +8,6 @@ Windows má <i>veľa</i> bezpečnostných problémov. A monoho z nich môže ma�
 
 Linux nie je dokonalý, ale jeho sila tkvie v rôznorodosti. Preto ešte žiadny univerzálny vírus nedokázal napadnúť a poškodiť <i>všetky</i> distribúcie Linuxu. Vytvorenie takéhoto vírusu je omnoho ťažšie ako vytvorenie vírusu, ktorý napadne Windows. Pre viac informácií si pozrite článok "Vírusy".
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>För många fönster? Använd olika skrivbord.</h2>
 
@@ -23,6 +23,6 @@ I detta fallet är de andra tre tommma), eller använd en tangentbordskombinatio
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

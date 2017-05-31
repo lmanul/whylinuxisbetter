@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Nieuwe software nodig? Verspil uw tijd niet met het zoeken op internet, Linux heeft het voor u.</h2>
 
@@ -29,6 +29,6 @@ categorieën.
 
 Dus 1: niet meer surfen. 2: niet meer zelf downloaden en zelf installeren. 3: meer tijd om de software uit te proberen.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci!<br />
 <small>Linuks zrobi to za Ciebie</small></h2>
@@ -30,6 +30,6 @@ Czyli po pierwsze: nigdy więcej szukania nowych programów przeglądarką. Po d
 dość ręcznego ściągania plików... i wreszcie po trzecie: więcej czasu na eksperymenty
 z nowymi programami.
 
-</div>
+
 
 

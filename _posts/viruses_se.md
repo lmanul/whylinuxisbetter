@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Glöm virus.</h2>
 
@@ -20,6 +20,6 @@ Linux har knappt några virus. Och det betyder inte “I alla fall inte så ofta
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

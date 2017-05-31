@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Llibertat!</h2>
 
@@ -37,6 +37,6 @@ encara, pots solucionar-la tu mateix (o contractar a algú perquè ho
 faci), i retornar els canvis als desenvolupadors principals perquè 
 tothom aconsegueixi també la millora.
 
-</div>
+
 
 

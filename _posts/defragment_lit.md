@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ar Jūsų skaitmeninis gyvenimas atrodo išsibarstęs?</h2>
 
@@ -22,6 +22,6 @@ Be abejonės, pasamdyti tokiam darbui reikėtų moterį (beveik visada moterys y
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

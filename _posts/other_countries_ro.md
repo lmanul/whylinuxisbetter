@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ajutaţi alte ţări, şi a dumneavoastră</h2>
 
@@ -27,6 +27,6 @@ lăsând profesioniştii IT fără cunoştiinţe reale despre cum merg lucrurile
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

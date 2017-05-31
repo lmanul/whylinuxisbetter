@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hilf anderen L&auml;ndern inklusive deinem eigenen</h2>
 
@@ -16,6 +16,6 @@ Menschen, die wissen, wie man Dinge erledigt und das Geld im Land halten, werden
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

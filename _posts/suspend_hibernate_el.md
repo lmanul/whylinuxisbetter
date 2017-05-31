@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Εξοικονομήστε ενέργεια: αφήστε τον υπολογιστή σας να κοιμηθεί.</h2>
 
@@ -31,6 +31,6 @@
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

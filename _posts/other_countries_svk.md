@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Pomôžte ostatným krajinám, a aj tej svojej</h2>
 
@@ -16,6 +16,6 @@ So slobodným softvérom (napr Linux), sa hospodárstvo (a znalosti IT profesion
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

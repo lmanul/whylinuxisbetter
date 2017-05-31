@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Forget about drivers</h2>
 
@@ -30,6 +30,6 @@ the system, and that comes with every single Linux installation. This means:
 <li><b>Less harm for the planet</b> because all these CDs don't need to come with hardware any more (well, at least once Windows don't need them either...).</li>
 </ul>
 
-</div>
+
 
 

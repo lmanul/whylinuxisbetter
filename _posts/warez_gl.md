@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Por que copiar software ilegalmente se o podes ter gratis?</h2>
 
@@ -22,6 +22,6 @@ table_parser ("Sí", "Non", "Comercial", "Código Aberto", "Existe en Windows?")
 
 Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

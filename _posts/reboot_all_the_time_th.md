@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>คุณเหนื่อยหน่ายที่จะบู๊ตเครื่องของคุณใหม่ซ้ำๆ ซากๆ ไหม?</h2>
 
@@ -16,6 +16,6 @@
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ar j&#363;s&#371; sistema nestabili?</h2>
 
@@ -27,6 +27,6 @@ metus.
 Ai&#353;ku, da&#382;niausiai nelaikysite kompiuter&#303; &#303;jung&#281; tiek laiko. Bet tai parodo Linux'&#371; 
 stabilum&#261;.
 
-</div>
+
 
 

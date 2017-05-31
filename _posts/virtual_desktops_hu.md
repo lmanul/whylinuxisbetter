@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Túl sok az ablak? Használj munkaterületeket!</h2>
 
@@ -18,6 +18,6 @@ Ez a munkaterület-váltó. Láthatod, hogy négy (virtuális) képernyő van, d
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

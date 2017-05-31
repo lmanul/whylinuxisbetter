@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Milieu</h2>
 
@@ -39,6 +39,6 @@ te houden, omdat u dit gewoon opnieuw kan downloaden.</li>
 
 </ul>
 
-</div>
+
 
 

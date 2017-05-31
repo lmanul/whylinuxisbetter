@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Windows'unuz neden gün geçtikçe yavaşlar?</h2>
 
@@ -12,6 +12,6 @@ Birçok insanı Linux'a geçmeye ikna ettim, aynı zamanda Windows'u da sabit di
 
 Linux, yeniden kurmakla değil, işinize vakit geçirmenizi sağlar.
 
-</div>
+
 
 

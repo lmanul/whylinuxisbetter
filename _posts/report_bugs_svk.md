@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Ohlasovanie chýb</h2>
 
@@ -10,6 +10,6 @@ Takmer všetok slobodný softvér (vrátane Linux distribúcií) má <i>systém 
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

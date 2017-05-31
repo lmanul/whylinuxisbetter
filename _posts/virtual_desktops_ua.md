@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Забагато вікон? Користуйся робочими поверхнями.</h2>
 
@@ -19,6 +19,6 @@
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

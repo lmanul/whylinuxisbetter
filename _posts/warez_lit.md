@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kam nelegaliai kopijuoti programas jeigu galima gauti nemokamas?</h2>
 
@@ -22,6 +22,6 @@ table_parser ("Taip", "Ne", "Komercinės (mokamos)", "Nemokamos (atviro kodo)", 
 
 Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

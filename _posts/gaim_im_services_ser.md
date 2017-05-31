@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom.</h2>
 
@@ -15,6 +15,6 @@ jednim programom, i videti sve Vaše kontakte u isto vreme.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>
+
 
 

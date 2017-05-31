@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Pavargote nuolat perkraudin&#279;ti kompiuter&#303;?</h2>
 
@@ -16,6 +16,6 @@ J&#363;s tikriausiai nepaliksite &#303;jungto kompiuterio keletui savai&#269;i&#
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Eniru en la novan generacion de labortabloj.</h2>
 
@@ -8,6 +8,6 @@
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

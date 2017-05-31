@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>「OS入れただけじゃ何もできない」なんて、おかしいじゃない？</h2>
 
@@ -25,6 +25,6 @@ Linuxなら（たとえばUbuntuとか、Mandrivaとか、Fedoraとか、いろ�
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

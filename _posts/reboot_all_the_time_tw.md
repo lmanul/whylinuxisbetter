@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>你是否為了要不斷重開電腦而感到厭煩？</h2>
 
@@ -16,6 +16,6 @@ Windows 總是要求你重新啟動電腦，這實在很惱人（也許碰巧有
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

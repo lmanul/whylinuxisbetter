@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kial via Windows iĝas pli malrapida ĉiutage?</h2>
 
@@ -12,6 +12,6 @@ Mi povis konvinki multajn homojn por ke ili ŝanĝu al Linux, kune kun Windows e
 
 Linux lasas al vi pli da tempo por labori sen reinstali ĉion denove.
 
-</div>
+
 
 

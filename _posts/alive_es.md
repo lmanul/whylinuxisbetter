@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Deja que tu viejo ordenador tenga una segunda vida</h2>
 
@@ -9,6 +9,6 @@ Windows requiere ordenadores cada vez más y más potentes, mientras el número 
 Linux funciona perfectamente en ordenadores antiguos, en un ordenador en el que Windows Xp no podría ser instalado, o te haría esperar 20 segundos después de cada clic. De hecho, Linux no va a hacer que tu ordenador de 12 años sea un bólido, pero funcionará muy bien en él y te permitirá realizar tareas habituales (navegar por internet, escribir textos, etc.) simplemente bien. Para poner un ejemplo, el ordenador que te envió esta página no es muy moderno y ejecuta Linux: si puedes leer esto, entonces está activo y funcionando (y si la página web carga lentamente, échale la culpa sólo a mi conexión de internet).
 
 
-</div>
+
 
 

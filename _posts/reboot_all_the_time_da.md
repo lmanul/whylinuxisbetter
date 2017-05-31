@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Er du træt af at genstarte din computer hele tiden?</h2>
 
@@ -17,6 +17,6 @@ Du vil nok ikke lade din computer stå og køre i flere uger, men pointen er, at
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ŝparu iom da energio: lasu ke via komputilo dormu aŭ travintru.</h2>
 
@@ -17,6 +17,6 @@ Do vi ne bezonas "restartigi" la komputilon denove! Pro tio ke Linux estas tre s
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

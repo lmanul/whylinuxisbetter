@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Miljö</h2>
 
@@ -36,6 +36,6 @@ du har installerat mjukvaran - du kan alltid ladda ner det senare igen).</li>
 
 </ul>
 
-</div>
+
 
 

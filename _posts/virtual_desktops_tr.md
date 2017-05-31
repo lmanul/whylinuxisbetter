@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Çok fazla mı pencere var? Çoklu masaüstü kullanın.</h2>
 
@@ -16,6 +16,6 @@ Alttaki görüntüye ve sağ alt köşeye dikkatli bakın:
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

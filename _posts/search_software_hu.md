@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Egy új szoftverre lenne szükséged? Ne bajlódj a neten való keresgéléssel, a Linux megteszi helyetted!</h2>
 
@@ -23,6 +23,6 @@ Linuxszal minden <b>sokkal egyszerűbb</b>. Linuxon van egy csomagkezelő: minde
 
 Tehát egy: nem kell többé keresgélned a neten. Kettő: nem kell többé neked magadnak letölteni és telepíteni a programokat. Három: így végül is több időd jut arra, hogy kipróbáld a szoftvereket.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Disfruta de soporte gratis e ilimitado</h2>
 
@@ -10,6 +10,6 @@ Si hay algo que no entiendes, un programa que no se comporta de la manera que t√
 
 
 
-</div>
+
 
 

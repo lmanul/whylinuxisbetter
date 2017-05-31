@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Bespaar energie: zet uw computer in slaapstand of pauzestand</h2>
 
@@ -20,6 +20,6 @@ Je moet dus nooit meer uw computer opnieuw opstarten! Omdat Linux heel stabiel i
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

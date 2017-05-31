@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 ﻿<h2>Muitas janelas? Use desktops virtuais.</h2>
 
@@ -16,6 +16,6 @@ Esse é o seu "trocador de desktops virtuais". Você pode ver que ele tem quatro
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

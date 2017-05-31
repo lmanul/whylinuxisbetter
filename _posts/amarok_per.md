@@ -7,7 +7,7 @@
   
 
 <body>
-<div id="corps">
+
 
 <h2 style="font-family: Tahoma;">يك پخش كننده موسيقي قوي داشته باشيد!</h2>
 <span style="font-family: Tahoma;">لينوكس داراي پخش كننده&zwnj;هاي قوي ايه مثل(amaroK,Rhythmbox,Bansheeو غيره)و بعضي&zwnj;هاشون </span><span style="font-weight: bold; font-family: Tahoma;">عالي</span><span style="font-family: Tahoma;">
@@ -16,7 +16,7 @@
 دارين و حتي مي&zwnj;تونه شعرها و عكسهاي مربوط به يك اهنگ رو از اينترنت
 بگيره!</span><img src="Images/amarok.png">
 
-</div>
+
 
 
 

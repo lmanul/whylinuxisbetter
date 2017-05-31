@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Vyzerá vaš digitálny život fragmentovane?</h2>
 
@@ -23,6 +23,6 @@ Bezpochyby by ste mali najať ženu (mali ste to vedieť, ženy sú poriadnejši
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

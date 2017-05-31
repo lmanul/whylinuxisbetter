@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>﻿다른 나라를 도와주세요, 당신의 나라도요</h2>
 
@@ -16,6 +16,6 @@
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

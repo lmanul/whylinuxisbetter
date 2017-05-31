@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Linuks chroni Twój komputer</h2>
 
@@ -40,6 +40,6 @@ wystarcza oszustom, by robić z Twoim komputerem, co tylko zechcą.
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Spiel hunderte von freien Spielen</h2>
 
@@ -11,12 +11,12 @@ Hunderte von Spielen werden unter einer freien (frei wie „Freibier“ und wie 
 
 
 <br class="clearboth" />
-</div>
+
 
 Und wenn dich Spiele interessieren, könnte dir dieses Bild gefallen. Quake 3 unter Linux, auf 24 Bildschirmen(!):
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

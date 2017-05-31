@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Viaţa dvs. virtuală pare fragmentată?</h2>
 
@@ -45,6 +45,6 @@ mai lent; cu cât folosiţi mai mult Linux, accesul la fişiere devine mai rapid
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

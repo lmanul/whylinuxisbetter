@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Trenger du ny programvare? Ikke søk på Internett, Linux skaffer det for deg.</h2>
 
@@ -25,6 +25,6 @@ Med Linux så er alt <b>mye lettere</b>. Linux har noe som kalles en «package m
 #2: Du trenger ikke å nedlaste og installere programvare selv.<br>
 #3: Mer tid til å faktisk bruke programvaren.
 
-</div>
+
 
 

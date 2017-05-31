@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Glem alt om drivere</h2>
 
@@ -20,6 +20,6 @@ Okay, det er kun ét stykke hardware. Forestil dig så at du vil installere Wind
 <li><b>Mindre skade for planeten</b> fordi alle de CD'er ikke behøver at følge med hardwaren mere (nå ja, i det mindste når Windows heller ikke behøver dem mere...).</li>
 </ul>
 
-</div>
+
 
 

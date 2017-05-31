@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Denk nicht über Treiber nach</h2>
 
@@ -20,6 +20,6 @@ Okay, das war nur ein Hardwareteil. Nun stell dir mal vor, du willst Windows auf
 <li>Weniger Schaden an der Umwelt, denn es werden weniger Treiber-CDs benötigt.</li>
 </ul>
 
-</div>
+
 
 

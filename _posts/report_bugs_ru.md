@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Сообщения об ошибках</h2>
 
@@ -34,6 +34,6 @@ href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.h
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

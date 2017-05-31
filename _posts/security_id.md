@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux melindungi komputermu</h2>
 
@@ -15,6 +15,6 @@ Tetapi sebenarnya, ini bukan hanya tentang <i>seberapa banyak</i> celah keamanan
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

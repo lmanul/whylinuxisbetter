@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Update uw software met 1 klik</h2>
 
@@ -21,6 +21,6 @@ wilt houden, het enige dat u hoeft te doen is duwen op de knop
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

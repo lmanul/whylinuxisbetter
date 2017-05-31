@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>与其非法复制软件，何不使用免费软件？</h2>
 
@@ -23,6 +23,6 @@ Windows?");
 
 Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

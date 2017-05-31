@@ -38,7 +38,7 @@
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 
 

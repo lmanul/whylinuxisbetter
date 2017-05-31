@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>จะละเมิดใช้ซอฟต์แวร์ผิดกฎหมายทำไม? ในเมื่อคุณเรียกหามันได้ฟรี</h2>
 
@@ -23,6 +23,6 @@ Windows?");
 
 ภาพโดย <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">ไมเคิล แคมบอน</a>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>ประหยัดพลัง : ปล่อยให้เครื่องของคุณหลับหรือจำศีลซะเถอะ</h2>
 
@@ -17,6 +17,6 @@
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

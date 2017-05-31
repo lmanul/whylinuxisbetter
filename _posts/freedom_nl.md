@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Vrijheid!</h2>
 
@@ -35,6 +35,6 @@ inhuren om dit te doen) en de wijzigingen doorgeven aan het project
 zodat anderen hiervan ook kunnen genieten. U bent (bijna) vrij te doen
 wat u maar wilt met de software.
 
-</div>
+
 
 

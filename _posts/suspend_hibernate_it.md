@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Risparmia energia: puoi ibernare o mandare in sleep il tuo computer</h2>
 
@@ -27,6 +27,6 @@ svegliarlo, ecc.
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

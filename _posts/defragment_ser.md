@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Da li Vaš digitalni život izgleda fragmentiran?</h2>
 
@@ -45,6 +45,6 @@ Izbor je na Vama!
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

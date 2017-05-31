@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>途上国のため、世界のために</h2>
 
@@ -17,6 +17,6 @@
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

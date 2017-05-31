@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Грай в сотні безкоштовних ігор</h2>
 <p align="center">Переклад з німецької Жолобака Максима
@@ -11,12 +11,12 @@
 
 
 <br class="clearboth" />
-</div>
+
 
 Якщо тебе цікавлять ігри, тобі мабуть сподобається ця картинка: Quake III під Linux на 24 екранах:
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

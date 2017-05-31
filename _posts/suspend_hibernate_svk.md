@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Ušetrite energiu: nechajte váš počítač spať alebo hibernovať</h2>
 
@@ -17,6 +17,6 @@ Takže vlastne nepotrebujete znovu zapínať váš počítač. Keďže Linux je 
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

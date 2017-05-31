@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hjelp miljøet.</h2>
 
@@ -20,6 +20,6 @@ Du spør kanskje: Hvordan er Linux forskjellig fra Windows når det gjelder milj
 
 </ul>
 
-</div>
+
 
 

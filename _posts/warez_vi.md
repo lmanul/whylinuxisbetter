@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Đừng vi phạm bản quyền khi bạn có thể dùng phần mềm miễn phí</h2>
 
@@ -30,6 +30,6 @@ table_parser ("Có", "Không", "Thương Mại", "Mã Nguồn Mở", "Chạy tr�
 
 Ảnh vẽ bởi <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

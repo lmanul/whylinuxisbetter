@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Perché copiare software illegalmente quando puoi ottenerlo gratuitamente?</h2>
 
@@ -36,6 +36,6 @@ Windows?");
 
 Immagine di <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

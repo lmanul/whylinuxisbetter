@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>İşletim sisteminize neden 100$ ödeyesiniz ki?</h2>
 
@@ -10,6 +10,6 @@ Belki de ben Windows'a para ödemedim ki diye düşünüyorsunuz. Emin misiniz? 
 
 Bir yandan da Linux'u <b>tamamen ücretsiz</b> edinebilirsiniz. Evet, gerçekten böyle, dünyadanın dört bir yanındaki bu adamlar düzenli, güvenli, kullanışlı ve iyi görünümlü bir sistem yaptılar, ve herkesin özgürce kullanabilmesi için bunu paylaşıyorlar (eğer bu adamların neden bunu yaptığını merak ediyorsanız bana bir e-posta gönderin, yapabildiğim kadarıyla açıklamaya çalışırım :) ). Bazı şirketler destek ve dökümantasyon sağlayarak Linux sayesinde para kazanıyorlar. Bu da kesinlikle güzel bir şey. Fakat çoğunlukla cebinizden tek bir kuruş bile çıkmayacaktır.
 
-</div>
+
 
 

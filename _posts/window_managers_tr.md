@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Masaüstünüzün nasıl olması gerektiğini siz seçin.</h2>
 
@@ -45,7 +45,7 @@ Ve bir kerede hepsi için karar vermek zorunda değilsiniz.
 Bu masaüstü stillerinden hangisine geçeceğinize her yani oturum açışınızda 
 karar verebilirsiniz.
 
-</div>
+
 
 
 

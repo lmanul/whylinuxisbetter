@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Отримай чудовий музичний плейєр</h2>
 <p align="center">Переклад з німецької Завгородньої Тетяни
@@ -8,6 +8,6 @@ Linux має багато музичних плеєрів  (AmaroK, Rhythmbox, B
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

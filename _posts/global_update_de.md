@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Update deine komplette Software mit einem einzigen Klick.</h2>
 
@@ -13,6 +13,6 @@ Linux hat eine zentrale Stelle namens „Paket-Manager“, die sich ebenso um al
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

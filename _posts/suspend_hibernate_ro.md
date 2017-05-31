@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Salvaţi energie: lăsaţi-vă computerul să hiberneze.</h2>
 
@@ -25,6 +25,6 @@ hibernare, trezire, etc.
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

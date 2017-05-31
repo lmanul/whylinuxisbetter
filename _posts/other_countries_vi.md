@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Giúp đất nước của bạn phát triển</h2>
 
@@ -25,6 +25,6 @@ của bạn sẽ càng có lợi.
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

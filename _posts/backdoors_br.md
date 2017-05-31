@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sem "invasões" no seu software.</h2>
 
@@ -16,6 +16,6 @@ Mudando o código fonte de um software de código aberto é um processo muito ma
 
 É por isso que você pode ter certeza de que o software de código aberto não faz nada ruim pelas suas costas: a comunidade sempre estará de olho em todas as receitas.
 
-</div>
+
 
 

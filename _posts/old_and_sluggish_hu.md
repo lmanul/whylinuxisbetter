@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Miért lesz a Windows napról napra lassabb?</h2>
 
@@ -12,6 +12,6 @@ Sok embert sikerült meggyőznöm, hogy úgy váltsanak Linuxra, hogy mellette m
 
 Linuxszal kevesebb időt kell az újratelepítésekkel töltened, több időd jut a munkára.
 
-</div>
+
 
 

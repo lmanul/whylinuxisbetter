@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Naudokit&#279;s MSN, AIM, ICQ, Jabber su viena programa</h2>
 
@@ -12,4 +12,4 @@ tarnyb&#371; vienu metu ir matyti visus draugus i&#353; karto.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

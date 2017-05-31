@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Enjoy free and unlimited support</h2>
 
@@ -22,6 +22,6 @@ people, if you ask your question politely. Just type "linux help" (or
 replace "linux" with whatever distribution you chose -- see the install 
 section) in Google and you'll undoubtedly find everything you need.
 
-</div>
+
 
 

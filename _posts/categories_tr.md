@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Başlat menünüzde kaybolmayın</h2>
 
@@ -14,6 +14,6 @@ Linux için tüm kurulabilir yazılımlar içerdikleri yazılım türü bilgisi 
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Trop de fenêtres ? Adoptez les espaces de travail.</h2>
 
@@ -41,6 +41,6 @@ raccourci clavier.
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

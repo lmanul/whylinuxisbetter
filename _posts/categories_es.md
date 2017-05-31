@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sin desastres en tu menú principal</h2>
 
@@ -14,6 +14,6 @@ Todas las piezas instalables de software para Linux vienen con información sobr
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

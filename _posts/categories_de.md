@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kein Riesendurcheinander in deinem Startmenü</h2>
 
@@ -14,6 +14,6 @@ Alle installierbaren Linuxanwendungen kommen mit der Information, welche Art von
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

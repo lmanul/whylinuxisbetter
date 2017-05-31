@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Obţineţi un mp3 player minunat</h2>
 
@@ -12,6 +12,6 @@ pe Internet, şi chiar face rost de copertele CD-urilor pentru dumneavoastră!
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

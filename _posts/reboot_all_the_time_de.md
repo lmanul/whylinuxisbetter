@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Bist du es leid, deinen Computer st&auml;ndig neustarten zu m&uuml;ssen?</h2>
 
@@ -17,6 +17,6 @@ Du l&auml;sst deinen Computer vermutlich nicht wochenlang laufen, aber der Punkt
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

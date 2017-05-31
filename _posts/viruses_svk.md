@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Zabudnite na vírusy</h2>
 
@@ -20,6 +20,6 @@ Linux takmer nemá vírusy. A nie je to tak, že "No viete, aspoň nie veľmi č
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

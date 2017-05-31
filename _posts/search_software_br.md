@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Precisa de programas novos? Não se aborreça procurando na internet, o Linux pega para você.</h2>
 
@@ -23,6 +23,6 @@ Com o Linux, tudo é <b>muito mais simples</b>. O Linux tem o que é chamado de 
 
 Primeira conclusão: não precisa mais de navegar na internet. Segunda: não precisa mais baixar nem instalar por conta própria. Terceira: definitivamente mais tempo para testar o programa.
 
-</div>
+
 
 

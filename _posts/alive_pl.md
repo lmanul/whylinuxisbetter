@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Podaruj staruszkowi nowe życie</h2>
 
@@ -26,6 +26,6 @@ tą stronę zawiera Linuksa: jeśli możesz ją czytać, znaczy to że działa
 i ma się dobrze (a jeśli strona ładuje się powoli, to jest to wyłącznie wina
 dostawcy Internetu).
 
-</div>
+
 
 

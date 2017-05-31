@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Glem alt om virusser.</h2>
 
@@ -20,6 +20,6 @@ Linux har næsten ingen virusser (eller vira hvis man skal tale korrekt). Og det
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

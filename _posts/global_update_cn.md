@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>只需单击一下鼠标，就能升级您的所有软件</h2>
 
@@ -17,6 +17,6 @@ Linux 系统中有一个软件管理中心叫做“Package manager”，它负�
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

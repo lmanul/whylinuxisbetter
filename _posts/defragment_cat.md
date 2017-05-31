@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>La teva vida digital sembla fragmentada?</h2>
 
@@ -49,6 +49,6 @@ Tria !
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

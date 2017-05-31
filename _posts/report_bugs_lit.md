@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Prane&#353;imai apie riktus (klaidas)</h2>
 
@@ -15,6 +15,6 @@ Tad &#269;ia yra &#382;mon&#279;s, sprend&#382;iantys problemas, informuojantys 
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

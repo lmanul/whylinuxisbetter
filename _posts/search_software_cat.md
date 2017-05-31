@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Necessites més programari? No cerques a la web, Linux l'aconsegueix per tu.</h2>
 
@@ -28,6 +28,6 @@ molta elecció!) per categories.
 
 Així que una: no més navegar. Dos: no més baixar programari i instal·lar-te'l tu mateix. Tres: més temps per a provar el programari realment.
 
-</div>
+
 
 

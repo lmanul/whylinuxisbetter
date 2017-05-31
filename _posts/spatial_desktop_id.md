@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Beralih ke desktop generasi selanjutnya.</h2>
 
@@ -8,6 +8,6 @@ Kamu telah terksesan dengan efek 3D dan efek transparansi yang diperkenalkan ole
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

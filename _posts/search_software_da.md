@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Har du brug for noget nyt software? Lad være med at søge på nettet, Linux finder det for dig.</h2>
 
@@ -23,6 +23,6 @@ Med Linux er alting <b>meget mere simpelt</b>. Linux har det man kalder en "pakk
 
 Så A: ikke mere surfing efter software. B: ikke mere downloaden og installeren manuelt. C: mere tid til faktisk at prøve softwaren.
 
-</div>
+
 
 

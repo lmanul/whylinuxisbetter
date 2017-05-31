@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Probeer de laatste generatie van bureaubladomgevingen</h2>
 
@@ -8,6 +8,6 @@ U was onder de indruk van de 3D- en transparantie-mogelijkheden geïntroduceerd 
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

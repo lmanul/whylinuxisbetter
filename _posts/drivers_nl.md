@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Vergeet stuurprogramma's</h2>
 
@@ -20,6 +20,6 @@ Ok, dat was slechts één stuk hardware. Stel u voor dat u Windows wilt installe
 <li><b>Minder schadelijk voor het milieu</b> omdat al deze cd's niet meer hoeven gemaakt te worden (tenminste als Windows deze niet meer nodig heeft).</li>
 </ul>
 
-</div>
+
 
 

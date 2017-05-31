@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Vælg selv hvordan din desktop skal se ud.</h2>
 
@@ -30,6 +30,6 @@ Eller denne hér, hvis du ønsker fuldstændig kontrol over hvad din window mana
 
 Som du kan se kan du med Linux <b>selv bestemme hvordan din desktop skal se ud</b>. Og du behøves ikke engang at beslutte dig én gang for alle : du kan skifte imellem en hvilken som helst window manager du har installeret når du logger ind.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Czemu Twój Windows spowalnia z każdym dniem?</h2>
 
@@ -28,5 +28,5 @@ po dzień dzisiejszy - bez reinstalacji.
 Linuks pozwala Ci więcej czasu spędzić konstruktywnie, nie musisz
 bowiem marnować go na ciągłe reinstalacje.
 
-</div>
+
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sloboda!</h2>
 
@@ -33,6 +33,6 @@ nekome za to), i poslati promene naviše ka developerima
 kako bi svi zainteresovani mogli da dobiju poboljšanje. Slobodni ste da uradite
 (skoro) sve što hoćete sa softverom.
 
-</div>
+
 
 

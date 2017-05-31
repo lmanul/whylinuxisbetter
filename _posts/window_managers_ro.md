@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Control complet asupra aspectelor desktop-ului.</h2>
 Dacă sunteţi un utilizator de Windows, desktop-ul dumneavoastră
@@ -41,6 +41,6 @@ desktop-ul</b>. Şi nu e nevoie să decideţi odată pentru totdeauna:
 puteţi schimba între aceste stiluri de fiecare dată când porniţi computerul.
 
 
-</div>
+
 
 

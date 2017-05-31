@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>帮助其他国家和您的祖国</h2>
 
@@ -23,6 +23,6 @@ Microsoft（微软）是美国的一家公司， 它的成功推动了美国的�
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

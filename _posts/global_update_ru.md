@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Обновите весь ваш софт одним кликом!.</h2>
 
@@ -21,6 +21,6 @@
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Speel honderden gratis spellen</h2>
 
@@ -11,12 +11,12 @@ Honderden spellen zijn gratis en vrijelijk beschikbaar: 2D- en 3D-spellen, puzze
 
 
 <br class="clearboth" />
-</div>
+
 
 En als u geïnteresseerd bent in games, zult u deze afbeelding van Quake 3 op Linux met 24 schermen (!) vast leuk vinden:
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

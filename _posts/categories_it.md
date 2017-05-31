@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Nessuna confusione nel tuo menu di avvio</h2>
 
@@ -14,6 +14,6 @@ Tutti i pacchetti di software installabili su Linux sono forniti con informazion
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sin puertas traseras en tu software.</h2>
 
@@ -15,6 +15,6 @@ Cambiar el código fuente del software de código abierto, es un proceso mucho m
 
 Esta es la razón por la que puedes estar seguro que el software de código abierto no hace cosas malas a tus espaldas: la comunidad mantiene un ojo muy cerca de todas las recetas.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>﻿계속되는 재부팅에 지치셨나요?</h2>
 
@@ -16,6 +16,6 @@
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

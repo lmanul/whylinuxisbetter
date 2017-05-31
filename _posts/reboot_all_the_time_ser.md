@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2> Zar niste umorni od stalnog restartovanja sistema?</h2>
 
@@ -36,6 +36,6 @@ poenta je: sistem Vam neće dosađivati stalnim restartovanjima.
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

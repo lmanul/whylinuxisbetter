@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Découvrez un lecteur de musique d'exception</h2>
 
@@ -13,6 +13,6 @@ chercher les couvertures des CDs pour vous!
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

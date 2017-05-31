@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>No big mess in your start menu</h2>
 
@@ -14,6 +14,6 @@ All installable pieces of software for Linux come with information on what kind 
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

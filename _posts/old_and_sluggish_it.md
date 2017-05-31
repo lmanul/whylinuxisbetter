@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Perché Windows rallenta giorno dopo giorno?</h2>
 
@@ -28,6 +28,6 @@ egregiamente.
 Con Linux spenderai tempo solo per lavorarci, piuttosto che 
 reinstallarlo ogni volta.
 
-</div>
+
 
 

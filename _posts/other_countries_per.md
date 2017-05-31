@@ -55,7 +55,7 @@
 
 <img src="Images/earth.png">
 
-</div>
+
 
 
 

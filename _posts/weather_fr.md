@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Gardez un oeil sur la météo</h2>
 
@@ -18,6 +18,6 @@ l'endroit que vous voulez) grâce à une liste complète de villes
 (d'accord, j'ai triché, j'ai choisi Honolulu pour la capture 
 d'écran, il fait 2°C à Paris !).
 
-</div>
+
 
 

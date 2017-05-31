@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 ﻿<h2>Deixe seu computador velho ter uma segunda vida</h2>
 
@@ -8,6 +8,6 @@ O Windows requer cada vez mais poder de hardware, à medida que a versão aument
 
 O Linux roda perfeitamente bem num hardware mais velho, no qual o Windows 7 provavelmente recusaria a ser instalado, ou deixaria você esperando 20 segundos depois de cada clique. Claro, o Linux não vai fazer do seu computador de 12 anos um campeão de velocidade, mas vai rodar muito bem nele, e te permitirá realizar tarefaz comuns (navegar na internet, escrever documentos, etc.) muito bem. Por exemplo, o computador que te envia esta página não é muito novo e roda Linux: se você pode ler isso, ele está ativo e funcionando (e se o site carrega lentamente, culpe apenas minha conexão de internet).
 
-</div>
+
 
 

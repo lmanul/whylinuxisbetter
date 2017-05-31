@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Játssz játékok százaival ingyen!</h2>
 
@@ -11,12 +11,12 @@ Játékok millióit adják ki ingyen, ráadásul szabad licenccel: 2D, 3D, kirak
 
 
 <br class="clearboth" />
-</div>
+
 
 És ha érdekelnek a játékok, talán tetszeni fog ez a kép a Quake 3-ról, amint Linuxon fut 24(!) képernyőn:
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

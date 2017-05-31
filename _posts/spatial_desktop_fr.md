@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Découvrez la nouvelle génération de bureaux.</h2>
 
@@ -14,6 +14,6 @@ exigences matérielles bien plus faibles.
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

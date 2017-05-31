@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ben je moe om de hele tijd te herstarten?</h2>
 
@@ -36,6 +36,6 @@ punt is: het systeem zal u niet lastig vallen met de hele tijd herstarten.
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

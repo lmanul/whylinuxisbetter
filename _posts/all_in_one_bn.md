@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>শেষ হইয়াও হইলোনা শেষ...</h2>
 
@@ -26,6 +26,6 @@
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

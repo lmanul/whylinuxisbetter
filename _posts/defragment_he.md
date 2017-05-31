@@ -38,7 +38,7 @@ Di Cosmo</a> על ההשוואה הזו).
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 
 

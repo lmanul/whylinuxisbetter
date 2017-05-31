@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ez dituzu 200€ zure sistema eragilearengatik ordainduko.</h2>
 
@@ -19,6 +19,6 @@ ematen saiatuko naiz :) ). Egia esanda, konpainia batzuk negozioa egiten ari dir
 dokumentazioa, on-line zerbitzua etab. salduz, eta hauxe benetan oso ona da. Zorionez, gehienetan ez duzu zentimo bakar 
 bat ere ez ordaindu behar izango.
 
-</div>
+
 
 

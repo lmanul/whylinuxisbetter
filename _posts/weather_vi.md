@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Xem dự báo thời tiết</h2>
 
@@ -14,6 +14,6 @@ trên màn hình, hoặc tắt hẳn (thỉnh thoảng chạy ra ngoài cũng t�
 theo dõi thời tiết ở bất cứ nơi nào trên thế giới (hình ở trên không đúng đâu, tôi đã 
 chọn Honolulu, giờ này ở Paris là 2 độ C!).
 
-</div>
+
 
 

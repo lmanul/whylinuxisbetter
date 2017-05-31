@@ -36,7 +36,7 @@
 
 <img src="Images/report_bugs_thumb.png">
 
-</div>
+
 
 
 

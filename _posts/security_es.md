@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux protege tu ordenador</h2>
 
@@ -14,6 +14,6 @@ Pero de hecho esto no es exactamente un asunto de <i>cuántos</i> fallos tiene u
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

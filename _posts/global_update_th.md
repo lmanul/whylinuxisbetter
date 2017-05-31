@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>อัพเดททุกซอฟต์แวร์ของคุณด้วยคลิกเดียว</h2>
 
@@ -12,6 +12,6 @@
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sense portes falses al teu programari.</h2>
 
@@ -13,6 +13,6 @@ No fa molt (a l'Octubre de 2008) un munt d'usuaris de Windows xinesos (la majori
 Les modificacions del codi font al programari de codi obert és un procés molt més obert. Per definició, totes les receptes són públiques. No importa si tu no pots entendre el codi, sinó que la gent que entén puga llegir-lo, i denunciar. I ho fan a sovint. Cada poc de temps algú vol canviar el codi font, tots els desenvolupadors poden veure'l i modificar-lo ("ei paio, per què has afegit aquest tros de codi espiant el que l'usuari pica al teclat, t'has tornat boig?"). I fins i tot si tot un equip de mantenidors d'una peça de programari s'han trastornat i han començat a afegir funcionalitats indegudes en tot el seu codi, algú des de fora del equip pot agafar el codi fàcilment, eliminar tots els bits dolents, crear una nova versió completa del programari, i fer saber al món quina és la diferència. És <i>obert</i>.
 
 Això és la raó per la qual el programari de codi obert no pot fer coses dolentes sense que te n'adones: la comunitat té l'ull posat en totes les receptes.
-</div>
+
 
 

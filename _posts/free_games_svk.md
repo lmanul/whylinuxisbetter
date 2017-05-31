@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Hrajte stovky hier zadarmo</h2>
 
@@ -11,12 +11,12 @@ Stovky hier sú vydávané pod bezplatnou (ako v "bezplatný servis", alebo "bez
 
 
 <br class="clearboth" />
-</div>
+
 
 A ak vás zaujímajú hry, možno sa vám bude páčiť tento obrázok Quake 3 bežiacej na Linuxe, na 24 monitoroch (!):
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

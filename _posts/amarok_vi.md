@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Các chương trình nghe nhạc tuyệt vời</h2>
 
@@ -11,6 +11,6 @@ từ trên mạng, thậm chí cả bìa đĩa CD nữa!
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ne pagu 100 dolarojn por via operaciumo</h2>
 
@@ -10,6 +10,6 @@ Vi eble diras al vi mem: "Ho, mi ne pagis por Windows". Ĉu vi estas tute certa?
 
 Aliflanke, vi povas akiri Linux <b>tute senkoste</b>. Jes, ĉiuj tiuj uloj ĉirkaŭ la mondo laboris multege por krei netan, sekuran, efikan, belan operaciumon, kaj ili donas ĝin al ĉiuj por ke ili uzadu ĝin (se vi demandas al vi mem kial ĉi tiuj uloj faras tiajn aferojn, sendu al mi retpoŝton kaj mi provos klarigi tion al vi kiel eble plej bone). Kompreneble, kelkaj firmaoj faras bonan negocon vendante apogon, dokumentaron, helplineon, ktp., por sia propra versio de Linux, kaj ĉi tio estas vere bona afero. Sed dum la plej multa tempo vi ne devos pagi ion.
 
-</div>
+
 
 

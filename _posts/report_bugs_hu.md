@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>A hibák jelentése</h2>
 
@@ -10,6 +10,6 @@ Szinte minden nyílt forráskódú szoftver (a Linux különböző változatait 
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

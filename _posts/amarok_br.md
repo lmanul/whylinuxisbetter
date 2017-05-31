@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Tenha um ótimo tocador de músicas</h2>
 
@@ -13,6 +13,6 @@ traz a capa do CD para você!
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

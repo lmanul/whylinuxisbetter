@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Zaboravite na drajvere</h2>
 
@@ -19,6 +19,6 @@ Dobro, to je samo jedan uređaj. Zamislite da instalirate Windows na nov, nedirn
 <li><b>Out-of-the-box spremne</b> uređaje.</li>
 <li><b>Manja šteta po planetu</b> pošto oni silni CD-ovi više ne moraju da se pakuju zajedno sa uređajima (tj. kad ne budu trebali ni windows-u...).</li>
 
-</div>
+
 
 

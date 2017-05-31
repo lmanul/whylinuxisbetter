@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>A Linux védelmet nyújt számítógéped számára</h2>
 
@@ -15,6 +15,6 @@ De tulajdonképpen nem is az a lényeg, <i>mennyi</i> rés van egy rendszerben a
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

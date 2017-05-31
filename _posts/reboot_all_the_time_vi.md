@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Bạn có mệt khi phải khởi động lại máy tính suốt ngày không ?</h2>
 
@@ -28,6 +28,6 @@ hệ thống sẽ không yêu cầu bạn khởi động lại liên tục.
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

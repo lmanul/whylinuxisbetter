@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Reikia naujos programos? Neieškokite jos internete, Linux'ai ją suras už jus.
 </h2>
@@ -24,6 +24,6 @@ Su Linux'ais, viskas yra <b>daug paprasčiau</b>. Linux'ai turi tokį įrankį, 
 
 Taigi visų pirma: nereikia klaidžioti internete. Antra: parsisiųsti ir įdiegti programos pačiam nebereikia. Trečia: sutaupote laiko, kurį galite panaudoti naujos programos išmėginimui.
 
-</div>
+
 
 

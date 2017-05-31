@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Felejtsd el az eszközillesztőket!</h2>
 
@@ -20,6 +20,6 @@ Oké, ez csak egyetlen hardver volt. Most képzed el, hogy szeretnéd installál
 <li><b>Kevésbé szennyezed a bolygót</b>, hisz az eszközökhöz nem kell többé CD-t is adniuk (legalábbis ha már a Windows-nak sem lesz szüksége rájuk...).</li>
 </ul>
 
-</div>
+
 
 

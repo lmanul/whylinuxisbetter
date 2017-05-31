@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Lascia i pirati come dei pesci a brodo</h2>
 
@@ -12,6 +12,6 @@ delle volte, prenderne il controllo.
 
 Linux non è perfetto, ma
 
-</div>
+
 
 

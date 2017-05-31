@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Använd MSN, AIM, ICQ, Jabber - med ett enda program</h2>
 
@@ -16,4 +16,4 @@ simultant.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

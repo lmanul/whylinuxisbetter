@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Per què copiar programari il·legal quan pots tenir-lo de franc?</h2>
 
@@ -40,6 +40,6 @@ Windows ?");
 
 Dibuixat per <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

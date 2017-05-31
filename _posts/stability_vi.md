@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hệ thống của bạn có chạy ổn định ?</h2>
 
@@ -25,6 +25,6 @@ gặp vấn đề gì.
 Hầu hết mọi người sẽ không để máy chạy lâu như vậy, nhưng đây là bằng chứng về 
 sự ổ định của Linux.
 
-</div>
+
 
 

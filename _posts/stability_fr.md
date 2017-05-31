@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Votre système est-il instable ?</h2>
 
@@ -36,6 +36,6 @@ pendant des années sans rencontrer de problème.
 La plupart du temps, vous ne laisserez pas votre ordinateur 
 allumé si longtemps. Mais cela montre à quel point Linux est stable.
 
-</div>
+
 
 

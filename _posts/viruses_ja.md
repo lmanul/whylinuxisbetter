@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>さよなら、ウィルス！</h2>
 
@@ -20,6 +20,6 @@ Linuxにはほとんどウィルスはありません。それも、「まあ、
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

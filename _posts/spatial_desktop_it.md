@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Fai un salto verso la nuova generazione di desktop.</h2>
 
@@ -8,6 +8,6 @@ Sei rimasto colpito dalle animazioni 3D e trasparenze introdotte in Windows Vist
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Bilgisayarınızı sürekli baştan başlatmaktan sıkıldınız mı?</h2>
 
@@ -16,6 +16,6 @@ Büyük ihtimalle bilgisayarınızı haftalarca açık bırakmayacaksınız. Fak
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

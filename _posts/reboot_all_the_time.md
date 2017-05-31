@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Are your tired of restarting your computer all the time?</h2>
 
@@ -37,6 +37,6 @@ point is: the system won't bother you with restarting all the time.
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

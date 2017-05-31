@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>নিরাপদ রাখুন কম্পিউটার।</h2>
 
@@ -17,6 +17,6 @@ Windows কে বিভিন্ন ভাইরাস, trojan, adware, spyware
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

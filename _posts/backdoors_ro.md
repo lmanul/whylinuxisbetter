@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Fără găuri de securitate în software.</h2>
 Diferenţa dintre software-ul "closed source" (comercial) şi "open source"
@@ -43,6 +43,6 @@ rău din el, să creeze o nouă versiune şi să informeze lumea de diferenţe. 
 Acesta este motivul pentru care puteţi fi sigur(ă) că software-ul open-source nu face
 lucruri rele pe ascuns: comunitatea supraveghează cu atenţie toate ingredientele.
 
-</div>
+
 
 

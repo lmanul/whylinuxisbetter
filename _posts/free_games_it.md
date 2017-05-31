@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Gioca a centinaia di videogame gratuitamente</h2>
 
@@ -13,12 +13,12 @@ ancora! Ecco alcuni esempi (la lista intera sarebbe infinita) :
 
 
 <br class="clearboth" />
-</div>
+
 
 E, se sei un esperto di giochi, potrebbe interessarti questo snapshot di Quake 3 per Linux, su 24 monitor (!) :
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

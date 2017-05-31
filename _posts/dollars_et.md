@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>&Auml;ra maksa operatsioonis&uuml;steemi eest 4 000.-</h2>
 
@@ -22,6 +22,6 @@ selleks sunnib, siis k&uuml;si minult e-kirja teel ja ma seletan seda nii h&auml
 ma oskan). Samal ajal saavad ettev&otilde;tted raha teenida klienditoe ja dokumentatsiooni pealt.
 Kuid &uuml;ldjuhul ei pea sina midagi maksma.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ayuda a otros países y al tuyo propio</h2>
 
@@ -16,6 +16,6 @@ Las personas que saben cómo hacer las cosas y retener el dinero en tu país se 
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

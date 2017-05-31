@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Behöver du nya program? Strunta i att söka på nätet – Linux ordnar det åt dig.</h2>
 
@@ -23,6 +23,6 @@ Med Linux är allting <b>mycket enklare</b>. Linux har vad som kallas en ”pake
 
 Alltså, ett: inget mer letande på nätet. Två: Inget mer nedladdande och installerande självt. Tre: Mer tid till att faktiskt testa det nya programmet!
 
-</div>
+
 
 

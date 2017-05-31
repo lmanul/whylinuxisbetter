@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Necesitas novos programas? Non busques en internet, Linux os trae por ti.</h2>
 
@@ -23,6 +23,6 @@ Con Linux todo é <b>moito máis simple</b>. Linux ten algo chamado "Xestor de P
 
 Primeira conclusión: para conseguir aplicacións non hai que navegar máis por internet. Segunda: non máis descargar e instalar pola túa conta. Terceira: definitivamente máis tempo para probar o software.
 
-</div>
+
 
 

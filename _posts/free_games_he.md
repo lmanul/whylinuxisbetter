@@ -11,13 +11,13 @@
 
 
 <br class="clearboth" />
-</div>
+
 
 רצה על מכונת לינוקס ו24 מסכים ! Quake 3 ואם את\ה מתעניין במשחקים, אולי תאהב את התמונה של  :
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 
 

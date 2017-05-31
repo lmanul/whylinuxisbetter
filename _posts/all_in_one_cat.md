@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Quan el teu sistema està instal·lat, per què necessites instal·lar 
 <i>encara</i> més coses?</h2>
@@ -46,6 +46,6 @@ Ja pots començar a treballar.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

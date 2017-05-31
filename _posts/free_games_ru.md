@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Играй в сотни игр - бесплатно!</h2>
 
@@ -11,12 +11,12 @@
 
 
 <br class="clearboth" />
-</div>
+
 
 И если вы интересуетесь играми, возможно, вас развеселит это изображение Quake 3, запущенного в Linux, на 24 (!) мониторах:
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

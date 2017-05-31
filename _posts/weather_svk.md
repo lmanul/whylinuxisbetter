@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Sledovanie počasia</h2>
 
@@ -10,6 +10,6 @@ Unavuje vás neustále pozerať na teplomer na vašom okne ak chcete ísť nieka
 
 Samozrejme, Linux vás nenúti robiť nič čo nechcete, takže si tento ukazovateľ môžete dať kdekoľvek na plochu, alebo aj ho odstrániť (veď nakoniec nie je krajšie sa pozrieť von oknom?). Môžete si vybrať miesto, kde žijete (alebo kdekoľvek inde) v rozsiahlom zozname miest na svete (OK, trochu som podvádzal, na hornom obrázku je počasie v Honolulu, na dolnom je zase počasie v Paríži).
 
-</div>
+
 
 

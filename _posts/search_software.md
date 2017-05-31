@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Need new software? Don't bother searching the web, Linux gets it for you.</h2>
 
@@ -30,6 +30,6 @@ and press "Apply" or "OK". Or you can just browse existing software
 So one: no more surfing. Two: no more downloading and installing 
 software yourself. Three: more time to actually try out the software.
 
-</div>
+
 
 

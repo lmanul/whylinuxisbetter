@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Chọn giao diện nào bạn muốn</h2>
 
@@ -34,6 +34,6 @@ Hay cả cái này nữa, nếu bạn muốn điều chỉnh mọi thứ bạn t
 Bạn thấy đấy, với Linux <i>bạn là người quyết định giao diện bạn muốn dùng</i>. Bạn 
 cũng không cần chọn duy nhất một giao diện mà có thể thay đổi mỗi khi bạn bật máy.
 
-</div>
+
 
 

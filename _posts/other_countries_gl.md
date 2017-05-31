@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Axuda a outros países, incluído o teu</h2>
 
@@ -16,6 +16,6 @@ As persoas que saben como facer as cousas e reter o diñeiro no teu país benefi
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

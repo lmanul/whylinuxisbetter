@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Êtes-vous fatigué de redémarrer votre PC sans arrêt ?</h2>
 
@@ -44,6 +44,6 @@ vous ennuiera pas en vous demandant de redémarrer tout le temps.
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

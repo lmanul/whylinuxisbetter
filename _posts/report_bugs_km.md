@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>រាយ​ការណ៍​​កំហុស</h2>
 
@@ -27,6 +27,6 @@
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>أستخدم مشغل صوتيات ممتاز</h2>
 
@@ -10,6 +10,6 @@
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

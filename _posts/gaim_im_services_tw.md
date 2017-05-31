@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>只需要一套軟體，就能使用 MSN、AIM、ICQ 和 Jabber 等服務</h2>
 
@@ -10,4 +10,4 @@ Pidgin 是 Linux 上的即時通訊軟體（它也有 Windows 版本，在 Mac O
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kial kopii programaron neleĝe se vi povas akiri ĝin senkoste?</h2>
 
@@ -23,6 +23,6 @@ Windows?");
 
 Desegno de <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm"></a>Michel Cambon
 
-</div>
+
 
 

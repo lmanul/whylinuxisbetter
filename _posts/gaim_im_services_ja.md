@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>MSNにAIMにICQにGoogle Talkに。ああ、どれを使ったらいいのさ？</h2>
 
@@ -10,4 +10,4 @@ Linux用のメッセンジャー、Pidginなら、こういったアカウント
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

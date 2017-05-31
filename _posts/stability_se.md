@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Är ditt system instabilt?</h2>
 
@@ -12,6 +12,6 @@ Självklart är inget operativsystem perfekt, och folk som säger att deras inte
 
 Oftast lämnar du inte datorn påslagen en längre period, men detta visar hur stabilt Linux är.
 
-</div>
+
 
 

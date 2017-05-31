@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Πάρα πολλά παράθυρα; Χρησιμοποιήστε επιφάνειες εργασίας.</h2>
 
@@ -36,6 +36,6 @@ email, το πρόγραμμα messenger και μερικά άλλα παράθ
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

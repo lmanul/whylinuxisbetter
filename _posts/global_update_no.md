@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Oppdater all din programvare med ett enkelt museklikk.</h2>
 
@@ -12,6 +12,6 @@ Linux har noe som kalles «Package manager», som passer på alt som er installe
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

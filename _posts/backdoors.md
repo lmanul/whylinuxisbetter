@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>No backdoors in your software.</h2>
 
@@ -54,6 +54,6 @@ That's why you can be sure open source software doesn't do bad things
 behind your back: the community keeps a close eye on all the 
 recipes.
 
-</div>
+
 
 

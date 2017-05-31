@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Intraţi în noua generaţie de desktop-uri.</h2>
 
@@ -12,6 +12,6 @@ fără cerinţe mari de sistem.
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

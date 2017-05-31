@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>ไวรัส.... ลืมๆ มันไปได้เลย</h2>
 
@@ -20,6 +20,6 @@
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

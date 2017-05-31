@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>មិន​ខ្វល់​អំពី​មេរោគ ។</h2>
 
@@ -45,6 +45,6 @@
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

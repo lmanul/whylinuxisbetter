@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux bilgisayarınızı korur.</h2>
 
@@ -46,6 +46,6 @@ atması için yeterli bir süredir.
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

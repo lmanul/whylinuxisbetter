@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Žiadne zadné vrátka vo vašom softvéri</h2>
 
@@ -16,6 +16,6 @@ Zmena zdrojového kódu slobodného softvéru je otvorený proces. Podľa defin�
 
 To je dôvod, prečo si môžete byť istý, že slobodný softvér nerobí zlé veci poza váš chrbát: celá komunita dáva pozor na všetky recepty.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Geniet van gratis, onbeperkte ondersteuning</h2>
 
@@ -23,6 +23,6 @@ vriendelijk stelt. Typ "linux help" (of vervang "linux" door eender welke
 distributie die u kiest - zie de Installeer Linux-pagina) in Google en u zult
 ongetwijfeld vinden wat u nodig heeft.
 
-</div>
+
 
 

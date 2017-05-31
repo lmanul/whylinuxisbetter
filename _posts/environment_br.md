@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Faça algo pelo meio ambiente</h2>
 
@@ -21,6 +21,6 @@ Como o Linux pode ser diferente do Windows quando se trata de meio-ambiente, voc
 
 </ul>
 
-</div>
+
 
 

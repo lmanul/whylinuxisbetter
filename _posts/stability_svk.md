@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Je váš systém nestabilný?</h2>
 
@@ -12,6 +12,6 @@ Posledné verzie Windows-u, hlavne verzie "Professional", sú stabilnejšie ako 
 
 Väčšinu času nebudete potrebovať nechávať váš počítač zapnutý tak dlho, ale to dokazuje stabilitu Linux-u.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Betala inte 1000kr för ditt operativsystem</h2>
 
@@ -21,6 +21,6 @@ förklara så gott jag kan :) ). Självklart tjänar vissa företag genom att s�
 dokumentation, jourtelefon, etc., för sin egen version av Linux, och det är självklart 
 bra. Oftast behöver du dock inte betala ett öre.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Bisogno di nuovo software? Non ti preoccupare di cercarlo in rete, Linux lo prende per te</h2>
 
@@ -30,6 +30,6 @@ scelta!) per categorie.
 Quindi, uno: niente più navigazione. Due: niente più scaricare e 
 installare manualmente. Tre: più tempo per provare effettivamente il software.
 
-</div>
+
 
 

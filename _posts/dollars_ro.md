@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Nu plătiţi $100 pentru sistemul de operare</h2>
 <h3>(Şi nu îl copiaţi ilegal)</h3>
@@ -19,6 +19,6 @@ pot :) ). Desigur, unele companii au afaceri în care vând servicii de ajutor, 
 lor versiune de Linux, şi acesta e cu siguranţă un lucru bun. Dar în cele mai multe cazuri, nu va trebui
 să plătiţi nici un cent.
 
-</div>
+
 
 

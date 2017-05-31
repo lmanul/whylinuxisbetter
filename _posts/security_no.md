@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux beskytter datamaskinen din.</h2>
 
@@ -14,6 +14,6 @@ Men faktisk så er det ikke et spørsmål om <i>hvor mange</i> sikkerhetsfeil et
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

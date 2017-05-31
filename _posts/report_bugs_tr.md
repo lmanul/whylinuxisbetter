@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hataların bildirilmesi</h2>
 
@@ -10,6 +10,6 @@ Açık kaynaklı yazılımların (Linux dağıtımları da dahil) neredeyse tama
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

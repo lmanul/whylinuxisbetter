@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Bucuraţi-vă de ajutor gratuit şi nelimitat!</h2>
 
@@ -20,6 +20,6 @@ amabili, dacă îi întrebaţi politicos. Doar scrieţi "ajutor linux" (sau înl
 cu numele distribuţiei ce o folosiţi -- vedeţi secţiunea de instalare) pe Google
 şi veţi găsi fără îndoială tot ce aveţi nevoie.
 
-</div>
+
 
 

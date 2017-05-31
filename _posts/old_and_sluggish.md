@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Why does your Windows get slower day after day?</h2>
 
@@ -27,6 +27,6 @@ and is still running perfectly well and is still snappy today.
 Linux lets you spend more time working, less time reinstalling over 
 and over again.
 
-</div>
+
 
 

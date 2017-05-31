@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Linux skyddar din dator</h2>
 
@@ -15,6 +15,6 @@ Men egentligen har inte <i>hur många</i> säkerhetshål som systemet har någon
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

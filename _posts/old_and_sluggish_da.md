@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hvorfor bliver din Windows-maskine langsommere dag for dag?</h2>
 
@@ -13,6 +13,6 @@ Jeg har formået at overbevise mange folk om at skifte til Linux, imens at de be
 
 Linux lader dig bruge din tid på at bruge computeren, ikke at geninstallere igen og igen.
 
-</div>
+
 
 

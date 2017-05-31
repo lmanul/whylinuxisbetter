@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Aktualizuj <i>całe</i> swoje oprogramowanie jednym kliknięciem</h2>
 
@@ -26,6 +26,6 @@ to kliknąć przycisk "Zainstaluj aktualizacje" (poniżej wersja angielska):
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

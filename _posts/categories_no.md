@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ikke noe rot i Start-menyen din.</h2>
 
@@ -14,6 +14,6 @@ All installerbar programvare for Linux kommer med informasjon om hva slags progr
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

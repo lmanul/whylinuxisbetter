@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Scegli l'aspetto del tuo desktop</h2>
 
@@ -42,6 +42,6 @@ Come puoi vedere, con Linux <b>sei tu a decidere l'aspetto del tuo
 desktop</b>. E non dovrai fare una scelta per tutte: puoi passare a uno di 
 questi stili desktop ogni volta che accedi ad una sessione del computer.
 
-</div>
+
 
 

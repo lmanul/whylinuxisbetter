@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Válaszd ki, milyen legyen az asztalod!</h2>
 
@@ -30,6 +30,6 @@ Vagy ezt, ha szeretnéd teljesen testre szabni az asztali környezeted:
 
 Láthatod, hogy Linuxon <b>te döntöd el, hogy nézzen ki az asztalod</b>. És nem kell egyszer és mindenkorra választanod : bármikor válthatsz valamelyik másik asztalstílusra.
 
-</div>
+
 
 

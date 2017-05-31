@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Prijavljivanje grešaka</h2>
 
@@ -28,6 +28,6 @@ i naprave bolji softver. To je način na koji Open Source funkcioniše.
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

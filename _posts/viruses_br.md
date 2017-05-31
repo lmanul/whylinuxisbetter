@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 ﻿<h2>Esqueça os vírus.</h2>
 
@@ -52,6 +52,6 @@ e se 'blah blah blah', isso não é uma falha de segurança?".</li>
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

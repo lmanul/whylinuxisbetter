@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Profitez de hotlines gratuites et illimitées</h2>
 
@@ -25,6 +25,6 @@ votre question poliment. Tapez simplement "linux aide" (ou remplacez
 sur l'installation) dans Google et vous trouverez sans aucun doute ce 
 que vous cherchez.
 
-</div>
+
 
 

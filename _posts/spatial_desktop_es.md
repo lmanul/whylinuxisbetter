@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Entra en la nueva generación de escritorios</h2>
 
@@ -8,6 +8,6 @@
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

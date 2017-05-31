@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Zure bizitza digitala zatituta dirudi?</h2>
 
@@ -22,6 +22,6 @@ Pentsatu barik, seguru emakumea kontratatuko zenukeela (jakin beharko zenuke, em
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

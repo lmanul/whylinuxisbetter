@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Salta á próxima xeración de contornas gráficas de escritorio.</h2>
 
@@ -8,6 +8,6 @@ Quedaches impresionado polos efectos 3D e posibilidades de transparencia na prim
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

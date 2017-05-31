@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Update all your software with a single click.</h2>
 
@@ -21,6 +21,6 @@ single piece of software your computer has. So if you want to keep
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

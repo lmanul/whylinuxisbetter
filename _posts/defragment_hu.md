@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Töredékekként látod a világot?</h2>
 
@@ -22,6 +22,6 @@ Kétségtelen, hogy a nőt kellene felvenned (egyébként is tudnod kellett voln
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

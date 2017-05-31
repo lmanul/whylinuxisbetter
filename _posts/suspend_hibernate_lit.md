@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sutaupykite energijos: u&#382;migdykite arba hibernuokite kompiuter&#303;.</h2>
 
@@ -17,6 +17,6 @@ Tad jums nebereik&#279;s &#303;krauti kompiuterio! Kadangi Linux'ai labai stabil
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

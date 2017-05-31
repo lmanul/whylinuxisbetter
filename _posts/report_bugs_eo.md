@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sciigu erarojn</h2>
 
@@ -12,6 +12,6 @@ Preskaŭ la tuta libera programaro (inkludante la distribuojn Linux) havas <i>il
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

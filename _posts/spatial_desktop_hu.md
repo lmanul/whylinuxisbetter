@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ismerd meg az asztalok legújabb generációját!</h2>
 
@@ -8,6 +8,6 @@ Nagy hatással volt rád a 3D és az átlátszóság, melyet elsőként a Window
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Waarom illegale software gebruiken als het ook gratis kan?</h2>
 
@@ -35,6 +35,6 @@ Windows?");
 
 Tekening door <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

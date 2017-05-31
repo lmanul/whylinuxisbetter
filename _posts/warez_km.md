@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>ហេតុ​អ្វី​​ត្រូវ​ចម្លង​​កម្មវិធី​​​មិន​ស្រប​ច្បាប់​ ប្រសិន​បើ​អ្នក​អាច​យក​វា​​ដោយ​ឥត​គិត​ថ្លៃ​នោះ​ ?</h2>
 
@@ -35,6 +35,6 @@ Windows?");
 
 គូរ​ដោយ​ <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

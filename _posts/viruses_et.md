@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>J&auml;ta viirustega h&uuml;vasti.</h2>
 
@@ -27,6 +27,6 @@ Mida enam silmi, seda v&auml;hem turvaauke. Linuxi l&auml;htekood on avatud. See
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

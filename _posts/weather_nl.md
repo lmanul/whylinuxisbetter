@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hou het weer in de gaten</h2>
 
@@ -15,6 +15,6 @@ de plaats selecteren waar u woont (of een andere plaats) in een volledige lijst 
 (ok, ik heb valsgespeeld, ik heb voor Honolulu gekozen in de screenshot in plaats van Parijs, het is hier nu 
 2°C!).
 
-</div>
+
 
 

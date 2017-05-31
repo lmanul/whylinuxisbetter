@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ĉu necesas nova programo? Ne zorgu serĉi rete, Linux faras tion por vi.</h2>
 
@@ -23,6 +23,6 @@ Per Linux, ĉio estas <b>pli simpla</b>. Linux havas ion nomatan "Pakaĵa admini
 
 Do, unue: ne pli da retumo. Due: ne pli da elŝutoj kaj instaloj por vi mem. Trie: ja pli da tempo por provi la programaron.
 
-</div>
+
 
 

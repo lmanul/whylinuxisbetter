@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Aktualigu vian tutan programaron per unu klako.</h2>
 
@@ -12,6 +12,6 @@ Linux havas centran lokon nomatan "Pakaĵa administrilo", kiu okupiĝas pri ĉio
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

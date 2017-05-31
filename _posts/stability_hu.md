@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Instabil a rendszered?</h2>
 
@@ -12,6 +12,6 @@ Természetesen egy operációs rendszer sem tökéletes, és akik azt állítjá
 
 Normál esetben úgysem hagyod bekapcsolva a géped ilyen hosszú ideig, de ez jól illusztrálja, mennyire stabil is a Linux.
 
-</div>
+
 
 

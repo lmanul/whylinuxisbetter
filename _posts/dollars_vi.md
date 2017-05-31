@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Đừng trả 100$ cho hệ diều hành</h2>
 
@@ -19,6 +19,6 @@ thích một cách dễ hiểu nhất :) ). Dĩ nhiên, vài công ty vẫn có 
 trợ kĩ thuật, viết hướng dẫn sử dụng... cho phiên bản Linux của họ. Nhưng hầu hết thời 
 gian, bạn không phải trả một xu nào.
 
-</div>
+
 
 

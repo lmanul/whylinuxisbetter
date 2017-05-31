@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hjælp andre lande, og dit eget!</h2>
 
@@ -16,6 +16,6 @@ Folk der véd hvordan at man gør ting og holder penge i dit land vil drage ford
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>你的數位生活似乎有些零散？</h2>
 
@@ -22,6 +22,6 @@
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

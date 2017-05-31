@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Waarom zou u na de installatie <i>nog</i> software moeten installeren?</h2>
 
@@ -45,6 +45,6 @@ U kan direct beginnen met werken.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

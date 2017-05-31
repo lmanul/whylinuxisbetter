@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Dejemos que los piratas muerdan el polvo</h2>
 
@@ -8,7 +8,7 @@ Windows tiene <i>muchos</i> fallos de seguridad. Muchos de estos fallos pueden t
 
 Linux no es perfecto, pero por la forma en que está construido, este tipo de fallos no son posibles (o al menos, no se pueden explotar).
 
-</div>
+
 
 
  

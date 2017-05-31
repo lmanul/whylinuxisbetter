@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ikke gi hackere sjansen.</h2>
 
@@ -8,6 +8,6 @@ Windows har <i>mange</i> sikkerhetsproblemer. En del av disse kan virkelig være
 
 Linux er ikke perfekt, men 
 
-</div>
+
 
 

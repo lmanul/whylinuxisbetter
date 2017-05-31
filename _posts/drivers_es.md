@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Olvídate de los controladores</h2>
 
@@ -20,6 +20,6 @@ Bien, es una pequeña pieza de hardware, pero ahora imagina si quieres instalar 
 <li><b>Menos daño para el planeta</b> porque todos estos CDs no necesitan venir con el hardware jamás (bueno, al menos que Windows no los necesite...).</li>
 </ul>
 
-</div>
+
 
 

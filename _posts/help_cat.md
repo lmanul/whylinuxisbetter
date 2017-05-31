@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Gaudeix de suport lliure i il·limitat</h2>
 
@@ -23,6 +23,6 @@ Tan sols tecleja “linux help” (o substitueix “linux” per qualsevol
 distribució que tries – mira la secció d'instal·lació) en Google i sens 
 dubte trobaràs el que necessites.
 
-</div>
+
 
 

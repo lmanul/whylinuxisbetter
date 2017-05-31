@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Frihed!</h2>
 
@@ -10,6 +10,6 @@ Så kan du ikke være ligeglad med frihed? Forestil dig at Microsoft gik nedenom
 
 Med Open Source, hvis et givent projekt eller support-firma går under, så vil al kildekoden forblive åbent for alle, og folk kan blive ved med at forbedre det. Hvis det givne projekt er meget vigtigt for dig kan du endda gøre dette selv. Hvis en given bug irriterer dig meget, så kan du rapportere buggen, tale om den med udviklerne, og, endnu bedre, fikse problemet selv (eller hyre nogen til at gøre det for dig), og sende ændringerne tilbage til udviklerne så alle kan få den forbedrede udgave. Du er fri til at gøre (næsten) hvad du vil med softwaren.
 
-</div>
+
 
 

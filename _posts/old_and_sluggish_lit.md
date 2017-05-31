@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kodėl Jūsų Windows'ai kasdien vis lėtėja?</h2>
 
@@ -12,6 +12,6 @@ Gal Jūs galvojate, kad kompiuteriai būtent taip ir turi dirbti: naujos technol
 
 Linux'ai leidžia Jums dirbti ir neprarasti laiko bereikalingai perinstaliuojant operacinę sistemą iš naujo ir iš naujo.
 
-</div>
+
 
 

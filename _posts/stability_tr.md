@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sisteminiz kararsız mı?</h2>
 
@@ -12,6 +12,6 @@ Tabi ki hiç bir işletim sistemi mükemmel değildir ve size işletim sistemim 
 
 Çoğu zaman, bilgisayarınızı bu kadar yalnız bırakmazsınız, fakat bu Linux'un ne kadar dayanıklı olduğunun bir göstergesidir.
 
-</div>
+
 
 

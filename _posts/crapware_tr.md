@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Çöp yazılımlara son.</h2>
 
@@ -18,6 +18,6 @@ Fakat kullanıcı için bu daha çok acı verir. Daha fazla bekleme, istenmeyen 
 
 Linux ile bunların hiçbiri olmaz. Hiçbir program abone olmanızı, süresi bittiğinde ödeme yapmanızı istemeyecek veya bilgisayarınızı yavaşlatıp başlamadan önce beklemelere sebep olmayacak. Aynı kullanmaya hazır istediğiniz gibi olacak! Linux, çöp yazılımlar gelmeden hemen çalışmaya başlamanız için gereken her şey ile birlikte gelir.
 
-</div>
+
 
 

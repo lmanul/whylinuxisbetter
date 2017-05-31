@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>﻿Não pague $100 pelo seu sistema operacional</h2>
 
@@ -25,6 +25,6 @@ etc., para sua própria versão do Linux, e obviamente isso é uma coisa
 boa. Mas na maioria das vezes, você não precisará pagar nenhum 
 centavo.
 
-</div>
+
 
 

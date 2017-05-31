@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>省エネでエコ。使わないパソコンは眠らせよっ</h2>
 
@@ -17,6 +17,6 @@
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

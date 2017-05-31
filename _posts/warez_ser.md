@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Zašto kopirati softver ilegalno kada možete da ga dobijete besplatno?</h2>
 
@@ -37,6 +37,6 @@ Windows?");
 
 Crtež uradio <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

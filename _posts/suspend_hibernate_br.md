@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 ﻿<h2>Economize energia: deixe seu computador dormir ou hibernar.</h2>
 
@@ -18,6 +18,6 @@ Então, basicamente, você não precisa "reiniciar" seu computador novamente! Sa
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

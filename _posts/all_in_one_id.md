@@ -1,6 +1,6 @@
  
 
-<div id="corps">
+
 
 <h2>Ketika sistem sudah terinstal, kenapa <i>repot-repot</i> menginstal yang lain ?</h2>
 
@@ -26,6 +26,6 @@ Ketika kamu menggunakan Linux (seperti Ubuntu, Mandriva, Fedora, dll., masing-ma
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>¡Libertad!</h2>
 
@@ -10,6 +10,6 @@ Entonces te preguntarás: ¿a mi que me importa la libertad? Bueno imagina que m
 
 A diferencia de esto, con el software de código abierto, si un proyecto en particular o empresa de soporte cierra, todo el código permanece abierto a la comunidad y la gente puede seguir mejorándolo. Si este proyecto es especialmente útil para ti hasta puedes hacerlo tú mismo. Si un error en particular te molesta, puedes notificarlo, hablar con los mismos diseñadores del programa, pero incluso antes, los puedes arreglar por tí mismo (o contratar a alguien para que lo haga) y enviar los cambios de vuelta a los diseñadores del programa para que todos tengan también las mejoras. Tú eres libre de hacer (casi) lo que quieras con el software.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 
 <h2>您的数字生活看上去是破碎的吗？</h2>
@@ -39,6 +39,6 @@
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

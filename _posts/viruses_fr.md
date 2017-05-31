@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Oubliez les virus.</h2>
 
@@ -55,6 +55,6 @@ mais si blabla bliblu, ce ne serait pas un trou de sécurité ?".</li>
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

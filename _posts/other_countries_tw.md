@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>幫助台灣以及其他國家</h2>
 
@@ -16,6 +16,6 @@
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

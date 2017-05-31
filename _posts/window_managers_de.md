@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Such dir aus, wie dein Desktop aussehen soll.</h2>
 
@@ -30,6 +30,6 @@ Oder diesen, wenn du es liebst, deine Arbeitsumgebung vollständig selbst zu ges
 
 Wie du hier sehen kannst, <b>entscheidest du, wie dein Desktop aussieht</b>. Und diese Entscheidung ist auch nicht endgültig: Bei jedem Login kannst du zwischen jedem dieser Desktop-Stile wählen.
 
-</div>
+
 
 

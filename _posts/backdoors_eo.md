@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sen post-pordoj en via programaro.</h2>
 
@@ -14,6 +14,6 @@ Antaŭ nelonge (oktobro 2008) multaj ĉinaj uzantoj de Windows (multegaj el ili 
 
 Tio estas la kialo per kiu vi povas esti certa ke la libera programaro ne faras malbonajn aferojn ĉe via dorso: la komunumo tenas okulon proksime de la tutaj receptoj.
 
-</div>
+
 
 

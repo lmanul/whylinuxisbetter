@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Välj hur du ditt skrivbord ska se ut.</h2>
 
@@ -30,6 +30,6 @@ Eller kanske denna, om du vill ha total konfigurationsförmåga på skrivbordet:
 
 Som du märker kan du med Linux <b>bestämma hur du vill att ditt skrivbord ska se ut</b>. Och du kan ändra senare om du ångrar dig: Du kan byta till vilken som helst av skrivbordsstilerna när du loggar in.
 
-</div>
+
 
 

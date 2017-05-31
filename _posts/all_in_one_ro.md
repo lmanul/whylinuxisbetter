@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Când sistemul a fost instalat, de ce <i>ar mai trebui</i> să instalaţi alte lucruri?</h2>
 Instalarea Windows-ului e doar începutul. Imaginaţi-vă că doar aţi instalat
@@ -41,6 +41,6 @@ Puteţi să începeţi lucrul imediat.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

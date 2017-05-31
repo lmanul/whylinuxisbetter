@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Használj AIM-et, MSN-t, ICQ-t és Jabbert egyetlen programmal!</h2>
 
@@ -10,4 +10,4 @@ Pidginnel, a Linux egyik azonnaliüzenet-küldő programjával (Windows-on is fu
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

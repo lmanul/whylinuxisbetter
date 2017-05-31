@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux beskytter din computer.</h2>
 
@@ -15,6 +15,6 @@ Men det er faktisk ikke kun et spørgsmål om <i>hvor mange</i> fejl et system h
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

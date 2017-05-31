@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ikke vent årevis på at feil skal bli fikset – rapporter dem.</h2>
 
@@ -10,6 +10,6 @@ Så å si all «Open source»-programvare (Linux-distribusjoner inkludert) har n
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

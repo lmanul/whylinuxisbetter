@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Quá nhiều cửa sổ trên màn hình ? Hãy dùng nhiều không gian làm việc (workspace)</h2>
 
@@ -26,6 +26,6 @@ chuyển sang màn hình khác, chỉ việc bấm vào khung chữ nhật tươ
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

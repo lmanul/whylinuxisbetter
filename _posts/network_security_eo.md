@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ni lasu ke la piratoj leku polvon</h2>
 
@@ -8,6 +8,6 @@ Windows havas <i>multajn</i> sekurecajn problemojn. Multaj el ili povas havi mal
 
 Linux ne estas perfekta, sed pro la maniero je kiu ĝi estas farita, tiaj eraroj ne estas eblaj (aŭ almenaŭ ili ne estas ekspluateblaj).
 
-</div>
+
 
 

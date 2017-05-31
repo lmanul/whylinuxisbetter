@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hvorfor blir din Windows tregere for hver dag som går?</h2>
 
@@ -12,6 +12,6 @@ Jeg har klart å overbevise mange til å bytte over til Linux, samtidig som de b
 
 Linux tillater deg å bruke mer tid til å arbeide, og mindre tid til å reinstallere om og om igjen.
 
-</div>
+
 
 

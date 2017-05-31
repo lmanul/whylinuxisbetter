@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>N'estàs ben tip de reiniciar el teu ordinador a sovint?</h2>
 
@@ -16,6 +16,6 @@ Probablement tu no hauràs de tenir el teu ordinador encès durant setmanes per�
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>버그 신고하기</h2>
 
@@ -10,6 +10,6 @@
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

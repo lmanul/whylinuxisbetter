@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Cando o sistema xa foi instalado, por que <i>aínda</i> necesitas instalar máis cousas?</h2>
 
@@ -25,6 +25,6 @@ Simplemente puedes empezar a trabajar en seguida.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

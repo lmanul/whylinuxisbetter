@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Gebruik een fantastische muziekspeler</h2>
 
@@ -8,6 +8,6 @@ Linux heeft veel muziekspelers (waaronder AmaroK, Rhythmbox, Banshee, enz.) en s
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

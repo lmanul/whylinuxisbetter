@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Bruk MSN, AIM, ICQ, Jabber, alt med ett enkelt program.</h2>
 
@@ -10,4 +10,4 @@ Med Pigdin, chatteprogrammet for Linux (også for Windows, og for Mac OS X med n
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

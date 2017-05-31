@@ -14,7 +14,7 @@
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 
 

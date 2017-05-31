@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Permite-i computerului să învie</h2>
 
@@ -25,6 +25,6 @@ acum această pagină nu e foarte nou şi rulează Linux: dacă puteţi citi
 aceste rânduri, atunci e pornit şi rulează (şi dacă site-ul se încarcă
 greu, e de vină conexiunea mea la Internet).
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Uživajte u besplatnoj i neograničenoj podršci</h2>
 
@@ -22,6 +22,6 @@ ukoliko postavljate pitanja ljubazno. Jednostavno kucajte "linux pomoć"
 (ili umesto "linux" stavite ime distribucije koja vas interesuje)
 u googlu i bez sumnje ćete naći sve što Vas zanima.
 
-</div>
+
 
 

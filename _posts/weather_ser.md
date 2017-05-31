@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2> Pratite vreme.</h2>
 
@@ -17,6 +17,6 @@ izabrati mesto u kom živite (ili bilo koje drugo) u kompletnoj listi lokacija
 (OK, varao sam, izabrao sam Honolulu za ovu sliku, sada je 
 2°C u Parizu!).
 
-</div>
+
 
 

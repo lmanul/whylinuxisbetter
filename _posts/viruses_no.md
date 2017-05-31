@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Glem alt om virus.</h2>
 
@@ -20,6 +20,6 @@ Linux har så å si ingen virus. Og det er ikke «tja, ikke så veldig ofte, vet
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Oblida't dels virus</h2>
 
@@ -50,6 +50,6 @@ què si bla bla bla, no és això una errada de seguretat?”.</li>
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

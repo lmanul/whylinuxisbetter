@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Nemok&#279;k 100 doleri&#371; u&#382; operacin&#281; sistem&#261;</h2>
 <h3>(Ir nekopijuok neteis&#279;tai)</h3>
@@ -20,6 +20,6 @@ produkt&#371; palaikymo, dokumentacijos, telefonini&#371; konsultacij&#371; pasl
 Linux'o versijoms, ir tai, &#382;inoma, yra gerai. Ta&#269;iau da&#382;niausiai jums nereik&#279;s i&#353;leisti n&#279; 
 cento.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Atnaujinkite visą savo programinę įrangą vienu paspaudimu.</h2>
 
@@ -13,6 +13,6 @@ Linux'ai turi įrankį, kuris vadinasi "Package manager", kuris rūpinasi visa �
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

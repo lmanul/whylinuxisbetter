@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Apakah kamu sudah lelah me-<i>restart</i> komputer setiap waktu?</h2>
 
@@ -17,6 +17,6 @@ Mungkin kamu tidak akan membiarkan komputer hidup dalam beberapa minggu tetapi i
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

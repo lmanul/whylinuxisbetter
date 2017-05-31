@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux štiti Vaš kompjuter </h2>
 
@@ -41,6 +41,6 @@ manje-više šta god hoće da Vašim kompjuterom.
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

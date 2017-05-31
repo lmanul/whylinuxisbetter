@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Giv hackerne baghjul!</h2>
 
@@ -8,6 +8,6 @@ Windows har <i>mange</i> sikkerheds problemer. Mange af disse kan have dårlige 
 
 Linux er ikke perfekt, men
 
-</div>
+
 
 

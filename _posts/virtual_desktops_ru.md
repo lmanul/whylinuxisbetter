@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Слишком много окон? Используйте Виртуальные Рабочие Столы!.</h2>
 
@@ -40,6 +40,6 @@ in this case the three others are empty), or use a keyboard shortcut.
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

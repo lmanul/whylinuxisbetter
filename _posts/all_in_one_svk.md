@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Keď je systém nainštalovaný, <i>prečo</i> je potrebné inštalovať ďalšie programy?</h2>
 
@@ -26,6 +26,6 @@ Môžete hneď začať pracovať.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Terlalu banyak membuka window/jendela? Gunakanlah Workspace.</h2>
 
@@ -16,6 +16,6 @@ Itu adalah "workspace switcher" / penukar workspace. Kamu bisa mengaturnya agar 
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

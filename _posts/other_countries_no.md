@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hjelp andre land og ditt eget!</h2>
 
@@ -16,6 +16,6 @@ Folk som vet hvordan man gjør ting og beholder penger i ditt land vil dra nytte
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

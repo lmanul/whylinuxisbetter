@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Économisez de l'énergie: faites dormir ou hiberner votre ordinateur.</h2>
 
@@ -28,6 +28,6 @@ programmes, etc.) exactement telles que vous les avez laissées.
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

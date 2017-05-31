@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kies hoe uw bureaubladomgeving eruitziet.</h2>
 
@@ -41,6 +41,6 @@ Of zelfs deze, als u graag uw omgeving volledig aanpast:
 
 Zoals u kan zien, met Linux <b>beslist uzelf hoe uw bureaublad eruitziet</b>. En u hoeft niet te beslissen voor eens en altijd: u kan altijd nog wisselen van bureaubladstijl als u inlogt in uw computer.
 
-</div>
+
 
 

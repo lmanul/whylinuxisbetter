@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Vì sao Windows càng ngày càng chạy chậm ?</h2>
 
@@ -21,6 +21,6 @@ rất hoàn hảo kể từ ngày được cài đặt.
 
 Linux giúp bạn dành nhiều thời gian vào công việc hơn, và ít thời gian cài đi cài lại hệ thống.
 
-</div>
+
 
 

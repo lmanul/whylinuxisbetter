@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Inget kaos i startmenyn</h2>
 
@@ -20,6 +20,6 @@ i kategorier:
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

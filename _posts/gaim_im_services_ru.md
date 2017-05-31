@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Пользуйтесь ICQ, Jabber, MSN, AIM - в одной программе!</h2>
 
@@ -16,4 +16,4 @@ Jabber, Yahoo, MSN, AIM, и других. В Windows или MacOS, вам, ск�
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

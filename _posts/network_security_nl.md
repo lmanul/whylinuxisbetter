@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Laat piraten in het stof bijten</h2>
 
@@ -8,6 +8,6 @@ Windows heeft <i>veel</i> beveiligingsproblemen. Veel hiervan kunnen slechte gev
 
 Linux is niet perfect, maar is veel beter bestand tegen virussen en hackers.
 
-</div>
+
 
 

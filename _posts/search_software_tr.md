@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Yeni yazılıma mı ihtiyacınız var? İnternet'te aramaya çalışmayın, Linux ayağınıza getirsin.</h2>
 
@@ -23,6 +23,6 @@ Püff, gerçekten çok iş.
 
 Daha fazla sörf yapmama, veya verileri indirip kurmakla uğraşmama gerek yok, istediğim kadar yazılımı kolayca deneyebilirim.
 
-</div>
+
 
 

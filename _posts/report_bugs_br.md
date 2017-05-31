@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>﻿Relatando Bugs</h2>
 
@@ -11,6 +11,6 @@ Quase todos os softwares livres (incluindo distribuições Linux) têm um sistem
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

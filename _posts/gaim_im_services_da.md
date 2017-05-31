@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Brug MSN, AIM, ICQ, Jabber, med ét enkelt program.</h2>
 
@@ -13,4 +13,4 @@ Med Pidgin, chat-programmet til Linux (det findes også til Windows og Mac OS X 
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

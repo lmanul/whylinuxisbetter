@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>លី​នុច​ការ​ពារ​កុំ​ព្យូទ័រ​របស់​អ្នក​</h2>
 
@@ -42,6 +42,6 @@
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

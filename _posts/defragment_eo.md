@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ĉu via cifereca vivo ŝajnas fragmentigita?</h2>
 
@@ -22,6 +22,6 @@ Sendube, vi dungus la virinon (vi devus scii tion, la virinoj estas pli organizi
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

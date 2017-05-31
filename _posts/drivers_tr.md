@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sürücüleri unutun</h2>
 
@@ -21,6 +21,6 @@ Tamam, bu sadece bir donanım parçasıydı. Şimdi Windows'u tamamen yeni, doku
 <li><b>Gezegen için daha az zarar</b> çünkü tüm bu CD'ler donanımla birlikte gelmek zorunda değil. (Tabii, Windows da onlara ihtiyaç duymayı bıraktığı zaman).</li>
 </ul>
 
-</div>
+
 
 

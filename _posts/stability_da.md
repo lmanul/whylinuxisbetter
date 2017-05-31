@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Er dit system ustabilt?</h2>
 
@@ -12,6 +12,6 @@ Selvfølgelig, intet operativ system er perfekt, og folk der fortæller dig at d
 
 Det meste af tiden vil du højst sandsynligt ikke gøre dette, men det viser stadig hvor stabilt Linux er.
 
-</div>
+
 
 

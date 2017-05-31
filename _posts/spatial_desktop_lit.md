@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Pasinerkite į naują darbalaukių kartą.</h2>
 
@@ -8,6 +8,6 @@ Jūs buvote sužavėti 3D grafikos ir permatomumo galimybėmis, su kuriomis Jus 
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Opdatér al din software med et enkelt klik.</h2>
 
@@ -12,6 +12,6 @@ Linux har et centralt program kaldet en "Pakke-manager", som tager sig af at opd
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

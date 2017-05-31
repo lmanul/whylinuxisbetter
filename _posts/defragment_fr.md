@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Votre vie digitale est-elle fragmentée ?</h2>
 
@@ -51,6 +51,6 @@ est rapide. À vous de choisir !
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

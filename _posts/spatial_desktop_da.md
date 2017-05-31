@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Gør dig klar til den næste generation af desktops.</h2>
 
@@ -8,6 +8,6 @@ Du er sikkert blevet imponeret af de 3D- og gennemsigtigheds-funktioner der før
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

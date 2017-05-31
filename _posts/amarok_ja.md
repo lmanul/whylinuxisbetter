@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>音楽聞くならLinux！</h2>
 
@@ -8,6 +8,6 @@ Linuxの世界には、音楽プレーヤーがいっぱい（AmaroK、Rhythmbox
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

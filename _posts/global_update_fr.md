@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2> Mettez à jour tous vos logiciels d'un seul clic.</h2>
 
@@ -25,6 +25,6 @@ sûr un système en français chez vous) ci-dessous :
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

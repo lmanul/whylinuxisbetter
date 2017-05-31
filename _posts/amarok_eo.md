@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Akiru grandan muzikludilon</h2>
 
@@ -8,6 +8,6 @@ Linux havas multajn muzikludilojn (inkludante AmaroK, Rhythmbox, Banshee, ktp.),
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

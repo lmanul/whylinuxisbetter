@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Uzu MSN, AIM, ICQ, Jabber, per nur unu programo</h2>
 
@@ -10,4 +10,4 @@ Per Pidgin, la tujmesaĝilo de Linux (ĝi ekzistas por Windows ankaŭ, kaj por M
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

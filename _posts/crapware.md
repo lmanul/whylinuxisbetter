@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>No more crapware.</h2>
 
@@ -36,6 +36,6 @@ period ends, or just slow your computer down and make you wait some more while i
 when you thought it was ready to be used. Linux comes with everything that you need to start
 working right away, without the crapware.
 
-</div>
+
 
 

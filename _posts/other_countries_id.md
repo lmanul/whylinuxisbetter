@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Membantu Negara Lain, dan juga Negara Anda</h2>
 
@@ -17,6 +17,6 @@ Orang-orang yang memahami bagaimana melakukan hal yang benar untuk menyimpan uan
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

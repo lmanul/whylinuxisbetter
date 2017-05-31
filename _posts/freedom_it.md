@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Libertà!</h2>
 
@@ -33,6 +33,6 @@ qualcuno di farlo per te), e inviare i cambiamenti agli sviluppatori
 in modo che chiunque possa beneficiarne. Sei libero di fare (quasi) tutto 
 quello che vuoi con il software.
 
-</div>
+
 
 

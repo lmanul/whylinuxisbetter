@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Pamirškite tvarkykles (draiverius)</h2>
 
@@ -20,6 +20,6 @@ Gerai, susitvarkėme tik su viena kompiuterio dalimi. Įsivaizduokite, kad norit
 <li>Mažiau kenkiame gamtai, nes visoms kompiuterio dalims nereikia diskų su tvarkyklėmis (na, tik kai kurioms, kurios yra gaminamos specialiai Windows'ams...).</li>
 </ul>
 
-</div>
+
 
 

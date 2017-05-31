@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux besch&uuml;tzt deinen Computer</h2>
 
@@ -14,6 +14,6 @@ Aber tats&auml;chlich ist es nicht wirklich die Frage, <i>wieviele</i> L&uuml;ck
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

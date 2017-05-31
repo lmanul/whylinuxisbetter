@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>a i svojoj.</h2>
 
@@ -31,6 +31,6 @@ bez stvarnog znanja kako stvari funkcionišu.
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

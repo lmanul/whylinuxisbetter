@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Príliš veľa okien? Použite pracovné plochy</h2>
 
@@ -16,6 +16,6 @@ To je váš "prepínač pracovných plôch". Môžete vidieť, že sú tam štyr
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

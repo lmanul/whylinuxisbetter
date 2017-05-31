@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2> Neka Vaš stari kompjuter dobije drugi život.</h2>
 
@@ -24,6 +24,6 @@ Sam kompjuter koji Vam servira ovu stranu nije baš mlad i tera
 Linux: ako možete da pročitate ovu stranu onda je upaljen i radi
 (a ako se sajt učitava polako, krivite moju internet konekciju).
 
-</div>
+
 
 

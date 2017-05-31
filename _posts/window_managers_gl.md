@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Escolle como queres que se vexa o teu escritorio.</h2>
 
@@ -32,6 +32,6 @@ Como podes ver, con Linux <b>ti decides como queres que se vexa o teu escritorio
 
 
 
-</div>
+
 
 

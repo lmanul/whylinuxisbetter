@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Nemojte platiti 100$ za Vaš Operativni sistem</h2>
 
@@ -20,6 +20,6 @@ neke kompanije prave dobar posao prodajući podršku, dokumentaciju, servis, itd
 verziju Linux, i to je svakako dobra stvar. Ali u najvećem broju slučajeva 
 nećete morati platiti ni dianara.
 
-</div>
+
 
 

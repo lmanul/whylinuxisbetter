@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Masaüstlerinde yeni çağa atlayın</h2>
 
@@ -8,6 +8,6 @@ Windows Vista ile tanıtılan 3D ve transparanlık özellikleri sizi çok şaş�
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Zu viele Fenster? Benutz Arbeitsflächen.</h2>
 
@@ -16,6 +16,6 @@ Das ist dein „Arbeitsfl&auml;chen-Schalter“. Du kannst sehen, dass er vier (
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Warum Software illegal kopieren, wenn du sie umsonst haben kannst?</h2>
 
@@ -22,6 +22,6 @@ table_parser ("Ja", "Nein", "Kommerziell", "Open Source", "Existiert für Window
 
 Zeichnung von <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

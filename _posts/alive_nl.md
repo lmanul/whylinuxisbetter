@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Geef uw oude computer een tweede leven</h2>
 
@@ -27,6 +27,6 @@ Deze computer dat u deze pagina bezorgt is niet erg jong en werkt op Linux.
 Als u deze pagina kan lezen, dan werkt deze nog steeds (en als de website
 traag laadt, ligt dit enkel aan mijn internetverbinding).
 
-</div>
+
 
 

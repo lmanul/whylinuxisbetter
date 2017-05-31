@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Der er ingen bagdøre i dine programmer.</h2>
 
@@ -15,6 +15,6 @@ For et stykke tid siden (oktober 2008) oplevede en masse Kinesiske Windows bruge
 
 Det er derfor, du kan være sikker på open source-software ikke gør dårlige ting bag din ryg: Open source samfundet holder et vågent øje med alle opskrifterene.
 
-</div>
+
 
 

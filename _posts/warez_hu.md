@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Miért másolnál egy szoftvert illegálisan, amikor ingyen is hozzájuthatsz?</h2>
 
@@ -22,6 +22,6 @@ table_parser ("Igen", "Nem", "Kereskedelmi", "Nyílt forráskódú", "Fut Window
 
 Rajzolta: <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Is uw systeem onstabiel?</h2>
 
@@ -29,6 +29,6 @@ opstaan.
 Meestal zult u uw computer niet zolang laten opstaan, maar het toont hoe
 stabiel Linux is.
 
-</div>
+
 
 

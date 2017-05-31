@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Cuộc sống số của bạn có bị "phân mảnh" không ?</h2>
 
@@ -36,6 +36,6 @@ method ; Linux uses the second one. Đó là lựa chọn của bạn!.
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

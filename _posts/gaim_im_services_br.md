@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>﻿Use MSN, AIM, ICQ, Yahoo, Google Talk, Jabber, com um único programa</h2>
 
@@ -13,4 +13,4 @@ Windows também), você pode conectar em todos esses serviços de uma vez, com e
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

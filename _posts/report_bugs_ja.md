@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>いつまでも直らないバグ。バグ退治に協力すれば解決は早いのにぃ</h2>
 
@@ -11,6 +11,6 @@ href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.h
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

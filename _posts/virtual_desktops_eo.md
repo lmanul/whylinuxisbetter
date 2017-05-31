@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ĉu tro da fenestroj? Uzu laborspacojn.</h2>
 
@@ -16,6 +16,6 @@ Tio estas la "ŝanĝilo de laborspacoj". Vi povas vidi ke ĝi havas kvar (virtua
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

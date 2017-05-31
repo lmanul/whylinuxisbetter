@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Không còn lo lắng về virus nữa</h2>
 
@@ -36,6 +36,6 @@ ai cũng có thể truy cập mã nguồn và cùng giúp sửa lỗi, hoặc b�
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

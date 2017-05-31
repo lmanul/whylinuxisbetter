@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Warum wird dein Windows Tag f&uuml;r Tag langsamer?</h2>
 
@@ -13,6 +13,6 @@ Der Autor dieses Textes hat viele Leute davon überzeugt, auf Linux zu wechseln,
 
 Linux lässt dir mehr Zeit für die wesentliche Arbeit und nimmt weniger Zeit für ständige Neuinstallationen.
 
-</div>
+
 
 

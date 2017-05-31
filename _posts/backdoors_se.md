@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Inga bakdörrar i mjukvaran.</h2>
 
@@ -56,6 +56,6 @@ Det är därför du kan vara säker på att öppen mjukvara inte gör
 elaka saker bakom ryggen på dig: användarna håller ett öga på alla 
 recept.
 
-</div>
+
 
 

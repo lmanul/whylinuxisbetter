@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>หลายร้อยหลายพันเกมส์ให้เล่นฟรี</h2>
 
@@ -11,12 +11,12 @@
 
 
 <br class="clearboth" />
-</div>
+
 
 และถ้าคุณจริงจังกับเกมส์ คุณอาจจะสนใจรูปด้านล่างนี้ นี่คือรูปของ Quake 3 เล่นอยู่บนลินุกซ์ บน 24 จอ (!) :
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

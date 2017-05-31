@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Is uw digitale leven een beetje gefragmenteerd?</h2>
 
@@ -47,6 +47,6 @@ hoe sneller het gaat. De keuze is aan u!
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

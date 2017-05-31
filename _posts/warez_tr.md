@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Yazılımı ücretsiz alabiliyorken, niçin yasal olmayan şekilde kopyalama yapalım?</h2>
 
@@ -22,6 +22,6 @@ table_parser ("Evet", "Hayır", "Ücretli", "Açık kaynak", "Windows da Var mı
 
 Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

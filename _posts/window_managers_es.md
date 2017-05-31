@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Escoge la apariencia de tu escritorio.</h2>
 
@@ -32,6 +32,6 @@ Como puedes ver, con Linux <b>tú decides como quieres que se vea tu escritorio<
 
 
 
-</div>
+
 
 

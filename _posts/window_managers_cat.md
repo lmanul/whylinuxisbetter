@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Tria l'aparença del teu escriptori.</h2>
 
@@ -30,6 +30,6 @@ O fins i tot aquesta, si t'agrada personalitzar completament el teu entorn d'esc
 
 Com pots veure, amb Linux <b>tu decideixes com ha de ser l'aparença del teu escriptori</b>. I ni tan sols necessites decidir una vegada i per sempre: podràs canviar a qualsevol d'aquestos escriptoris una vegada et registres al teu ordinador.
 
-</div>
+
 
 

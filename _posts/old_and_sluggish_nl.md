@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Waarom wordt Windows steeds langzamer?</h2>
 
@@ -28,6 +28,6 @@ Linux nog steeds perfect draait en vlug werkt.
 Linux laat u meer tijd doorbrengen met uw echte werk en minder
 met het steeds maar opnieuw installeren.
 
-</div>
+
 
 

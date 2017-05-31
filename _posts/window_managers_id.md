@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Pilih seperti apa desktop pilihanmu.</h2>
 
@@ -30,6 +30,6 @@ Atau yang ini, jika kamu ingin benar-benar mengatur keseluruhan pengaturan deskt
 
 Seperti yang kamu lihat, dengan Linux <b>kamu yang menentukan tampilan desktop yang kamu sukai</b>. Dan kamu bahkan tidak perlu mengatur satu atau semuanya: kamu bisa menggantinya sesuai keinginan kapanpun pada saat log in ke komputer.
 
-</div>
+
 
 

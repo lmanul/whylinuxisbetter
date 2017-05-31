@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Varför piratkopiera när du kan få program gratis?</h2>
 
@@ -22,6 +22,6 @@ table_parser ("Ja", "Nej", "Kommersiell", "Öppen mjukvara", "Finns på Windows?
 
 Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

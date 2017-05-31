@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Butuh perangkat lunak baru? Tak perlu mencari di internet, Linux akan menyediakannya untukmu.</h2>
 
@@ -24,6 +24,6 @@ Dengan Linux, segalanya menjadi <b>sangat mudah</b>. Linux memiliki program yang
 Jadi, pertama: tidak perlu berselancar di internet. Kedua: tidak perlu lagi mengunduh dan meng-install perangkat lunak sendiri. Ketiga: ada banyak waktu tersedia untuk benar-benar mencoba perangkat lunak tersebut.
 
 
-</div>
+
 
 

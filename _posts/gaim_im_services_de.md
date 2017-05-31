@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Benutz MSN, AIM, ICQ und Jabber mit einem einzigen Programm.</h2>
 
@@ -10,4 +10,4 @@ Mit Pidgin, dem Instant Messenger für Linux (den es auch für Windows und unter
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

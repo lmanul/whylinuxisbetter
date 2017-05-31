@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>For mange vinduer? Bruk flere skrivebord.</h2>
 
@@ -16,6 +16,6 @@ Det er din «workspace switcher», eller «skrivebord-velger». Du kan se på de
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

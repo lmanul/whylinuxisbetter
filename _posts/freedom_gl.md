@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Liberdade!</h2>
 
@@ -11,6 +11,6 @@ Entón preguntaraste: a min que me importa a liberdade? Ben, imaxina que mañá 
 A diferenza disto, co software de código aberto, se un proxecto ou unha empresa de soporte pecha, todo o código permanece aberto á comunidade e a xente pode seguir mellorándoo. Se este proxecto é especialmente útil para ti ata podes facelo ti mesmo. Se un erro en particular te molesta, podes inforalo, falar cos mesmos deseñadores do programa, ou pódelo arranxar por ti mesmo (ou contratar a alguén para que o faga) e mandar os cambios de volta aos deseñadores do programa para que todos teñan tamén as melloras. Ti es libre de facer (case) o que queiras co software.
 
 
-</div>
+
 
 

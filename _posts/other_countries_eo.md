@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Helpu aliajn landojn, kaj vian propran</h2>
 
@@ -16,6 +16,6 @@ La homoj kiuj scias kiel fari la aferojn kaj reteni la monon en via lando profit
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

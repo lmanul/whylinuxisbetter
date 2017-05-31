@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Linux chráni váš počítač</h2>
 
@@ -15,6 +15,6 @@ Ale vlastne to nie je otázka <i>množstva</i> chýb, ktoré systém má v porov
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

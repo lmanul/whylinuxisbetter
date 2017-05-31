@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>When the system has installed, why would you <i>still</i> need to install stuff?</h2>
 
@@ -44,6 +44,6 @@ You can just start working right away.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

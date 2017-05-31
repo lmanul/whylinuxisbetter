@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Programinės įrangos durys yra atviros.</h2>
 
@@ -14,6 +14,6 @@ Kai yra pakoreguojamas atviras kodas, tai jau kita istorija. Visi receptai yra m
 
 Todėl galite būti tikri, kad atviro kodo programos nedaro negerų dalykų Jums už nugaros: bendruomenės prižiūri visus jų receptus.
 
-</div>
+
 
 

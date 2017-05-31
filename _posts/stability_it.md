@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Il tuo sistema è instabile?</h2>
 
@@ -31,6 +31,6 @@ preoccupazione.
 Nella maggior parte dei casi non lascerai il computer acceso per tutto questo 
 tempo, ma è una dimostrazione di quanto sia stabile Linux.
 
-</div>
+
 
 

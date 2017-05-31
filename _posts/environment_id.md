@@ -1,6 +1,6 @@
  
 
-<div id="corps">
+
 
 <h2>Lingkungan</h2>
 
@@ -20,6 +20,6 @@ Apa bedanya Linux dan Windows kalau kita berbicara tentang lingkungan? Bagaimana
 
 </ul>
 
-</div>
+
 
 

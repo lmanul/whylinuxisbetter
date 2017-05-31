@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Czy Twój system jest niestabilny?</h2>
 
@@ -32,5 +32,5 @@ W większości przypadków nie zajdzie potrzeba włączania komputera na tak dł
 jednak istnienie takiej możliwości dobitnie pokazuje, jak stabilnym systemem
 jest Linuks.
 
-</div>
+
 

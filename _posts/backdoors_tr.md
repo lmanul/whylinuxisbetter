@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Yazılımda kapalı kapılara hayır!</h2>
 
@@ -14,6 +14,6 @@ Halbuki açık kaynaklı bir yazılımın kaynak kodunu değiştirmek çok daha 
 
 İşte bu yüzden açık kaynaklı yazılımların sizi arkanızdan hançerlemeyeceğinden emin olabilirsiniz: topluluğumuz her zaman kaynakları yakın takibe alır.
 
-</div>
+
 
 

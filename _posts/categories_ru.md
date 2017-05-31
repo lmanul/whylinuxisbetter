@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Скажите “нет” беспорядку в вашем меню.</h2>
 
@@ -14,6 +14,6 @@
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

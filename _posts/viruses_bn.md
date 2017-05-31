@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>ভাইরাস নিয়ে দুশ্চিন্তা ভুলে যান।</h2>
 
@@ -20,6 +20,6 @@
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

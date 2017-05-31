@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Geen virussen meer.</h2>
 
@@ -42,6 +42,6 @@ andere ontwikkelaars vertellen: "Hej, wat als bla bla, is dit geen beveiligingsp
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

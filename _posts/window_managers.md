@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Choose what your desktop looks like.</h2>
 
@@ -45,6 +45,6 @@ like</b>. And you don't even need to decide once and for all : you can
 switch to any of these desktop styles whenever you log into your 
 computer.
 
-</div>
+
 
 

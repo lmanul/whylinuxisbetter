@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Liberté !</h2>
 
@@ -40,6 +40,6 @@ développeurs, en amont, de façon à ce que tout le monde profite de
 l'amélioration. Vous êtes libre de faire (presque) tout ce que vous 
 voulez avec les logiciels libres.
 
-</div>
+
 
 

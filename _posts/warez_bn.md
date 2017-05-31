@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>ফ্রিতেই যদি সফটওয়্যার পাওয়া যায়, তাহলে অবৈধভাবে কপি করবো কেন?</h2>
 
@@ -25,6 +25,6 @@ Windows?");
 
 <small>Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a></small>
 
-</div>
+
 
 

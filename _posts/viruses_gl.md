@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Esquéceche dos virus.</h2>
 
@@ -21,6 +21,6 @@ Se a túa computadora apágase soa sen preguntarche, se aparecen estrañas vent�
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

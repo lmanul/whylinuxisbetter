@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Rilassati con un eccezionale riproduttore musicale.</h2>
 
@@ -12,6 +12,6 @@ su Internet, e trova per te anche le copertine dei CD e le informazioni sugli au
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

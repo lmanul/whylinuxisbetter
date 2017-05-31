@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Potrebujete nové programy? Neobťažujte sa hľadaním na internete, Linux ich nájde pre vás</h2>
 
@@ -23,6 +23,6 @@ S Linux-om je všetko <b>omnoho ľahšie</b>. Linux má nástroj, ktorý sa vol�
 
 Takže po prvé: už žiadne hľadanie na internete. Po druhé: už žiadne manuálne sťahovanie a inštalovanie. Po tretie: viac času na vyskúšanie nových programov.
 
-</div>
+
 
 

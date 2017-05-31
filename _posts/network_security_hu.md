@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hadd harapjanak csak fűbe a crackerek!</h2>
 
@@ -8,6 +8,6 @@ A Windows-nak <i>rengeteg</i> biztonsági hiányossága van. A legtöbbjüknek s
 
 A Linux sem tökéletes, de
 
-</div>
+
 
 

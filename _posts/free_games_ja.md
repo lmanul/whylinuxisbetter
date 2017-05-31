@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>無料ゲームが無数にあるんだよ</h2>
 
@@ -11,12 +11,12 @@
 
 
 <br class="clearboth" />
-</div>
+
 
 ゲーマーなら、Linuxで走るQuake 3のこの画像を見なくちゃ！　24画面だよっ！
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

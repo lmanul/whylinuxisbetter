@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Frissítsd minden programod egyetlen kattintással!</h2>
 
@@ -12,6 +12,6 @@ Linuxon van egy központi ún. csomagkezelő, ami mindenről gondoskodik, nem cs
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Прекалено много прозорци? Използвайте работните места.</h2>
 
@@ -17,6 +17,6 @@
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

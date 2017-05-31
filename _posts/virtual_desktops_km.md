@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>មាន​បង្អួច​ច្រើន​ពេក​ឬ​? ​ប្រើតំបន់​ធ្វើ​ការ​ ។</h2>
 
@@ -35,6 +35,6 @@
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Spravte niečo pre životné prostredie</h2>
 
@@ -20,6 +20,6 @@ Môžete sa opýtať, ako sa môže Linux odlišovať od Windows-u, keď hovorí
 
 </ul>
 
-</div>
+
 
 

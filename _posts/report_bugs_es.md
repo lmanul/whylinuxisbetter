@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>No esperes años a que se arreglen los fallos, comunícalos y sigue su solución</h2>
 
@@ -12,6 +12,6 @@ Casi todo el software de código abierto (incluyendo las distribuciones Linux) t
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

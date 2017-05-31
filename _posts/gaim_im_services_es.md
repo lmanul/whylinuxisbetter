@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Usa MSN, AIM, ICQ, Jabber, con un único programa</h2>
 
@@ -8,4 +8,4 @@ Tal vez tengas cuentas en varios servicios de mensajería instantánea, tales co
 
 Con Pidgin, el cliente de mensajería instantánea para Linux (existe también para Windows), te puedes conectar a todos estos servicios a la vez con este único programa y ver a todos tus amigotes al mismo tiempo.
 
-</div>  
+  

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Забудь про віруси!</h2>
 
@@ -22,6 +22,6 @@
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

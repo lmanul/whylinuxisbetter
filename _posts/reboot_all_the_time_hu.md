@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Belefáradtál már abba, hogy folyton újraindítsd a géped?</h2>
 
@@ -16,6 +16,6 @@ Valószínűleg nem hagyod bekapcsolva a géped hetekig, de a lényeg: a rendsze
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

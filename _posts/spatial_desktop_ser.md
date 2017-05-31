@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Uskočite u novu generaciju radne površine</h2>
 
@@ -12,6 +12,6 @@ manjim hardverskim zahtevima.
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

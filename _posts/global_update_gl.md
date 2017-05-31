@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Actualiza todo i que tes no teu PC cun só click.</h2>
 
@@ -13,6 +13,6 @@ Linux ten unha aplicación especial chamada "Xestor de Paquetes", e encárgase d
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>当你的系统已经安装好了以后，为什么你<i>还</i>需要再安装别的东西？</h2>
 
@@ -36,6 +36,6 @@
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

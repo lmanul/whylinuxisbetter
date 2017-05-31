@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Czy nie męczą Cię ciągłe restarty?</h2>
 
@@ -38,5 +38,5 @@ ciągłymi potrzebami restartu.
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 

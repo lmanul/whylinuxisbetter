@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Når systemet er installert, hvorfor må du <i>stadig</i> installere nye ting?</h2>
 
@@ -26,6 +26,6 @@ Du kan starte med arbeidet ditt med en gang!
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

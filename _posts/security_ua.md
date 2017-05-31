@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Linux protects your computer</h2>
 <p align="center">Переклад з німецької Грицюка Володимира
@@ -17,6 +17,6 @@
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

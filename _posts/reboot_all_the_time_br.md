@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 ﻿<h2>Cansou de reiniciar seu computador toda hora?</h2>
 
@@ -16,6 +16,6 @@ Você provavelmente não deixará seu computador ligado por várias semanas, mas
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

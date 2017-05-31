@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hãy để máy tính ở chế độ tiết kiệm điện (sleep) hoặc "ngủ đông" (hibernate)</h2>
 
@@ -24,6 +24,6 @@ hibernate, bật máy, cứ thế cứ thế...
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

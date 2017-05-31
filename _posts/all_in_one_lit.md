@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kai sistema jau įdiegta, kodėl jums vis dar reikia įdiegti visa kita?</h2>
 
@@ -40,6 +40,6 @@ Galite i&#353;kart prad&#279;ti darb&#261;.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

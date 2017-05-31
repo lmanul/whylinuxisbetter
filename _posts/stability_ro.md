@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Sistemul dumneavoastră e instabil?</h2>
 
@@ -24,6 +24,6 @@ puteţi să continuaţi aşa ani de zile fără vreo problemă.
 Probabil nu o să vă lăsaţi computerul deschis pentru atât de mult timp, dar asta
 arată cât de stabil e Linux.
 
-</div>
+
 
 

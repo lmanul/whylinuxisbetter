@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux protektas vian komputilon</h2>
 
@@ -15,6 +15,6 @@ Sed fakte, ĉi tio ne estas afero pri <i>kiomajn</i> erarojn havas operaciumo, s
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

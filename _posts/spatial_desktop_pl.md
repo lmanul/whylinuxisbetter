@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Nowa generacja rozwiązań wizualnych czeka na Ciebie</h2>
 
@@ -12,6 +12,6 @@ wymaga od sprzętu. Zerknij poniżej...
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

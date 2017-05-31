@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2> Pourquoi pirater des logiciels quand vous pouvez en avoir 
 gratuitement ?</h2>
@@ -41,6 +41,6 @@ table_parser ("Oui", "Non", "Commercial", "Libre", "Existe sous Windows
 
 Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

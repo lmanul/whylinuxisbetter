@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Donnez une seconde jeunesse à votre vieil ordinateur</h2>
 
@@ -30,6 +30,6 @@ si vous arrivez à lire ceci, c'est qu'il fonctionne parfaitement (et si
 le site web se charge lentement, c'est seulement à cause de ma connexion 
 internet).
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>ウィンドウ散らかりっぱなし。ワークスペース使えばいいのに</h2>
 
@@ -16,6 +16,6 @@ Linuxの画面のスクリーンショットを見てごらん。画面の右下
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

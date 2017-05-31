@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Kendi ülkenize ve diğer ülkelere yardım edin</h2>
 
@@ -16,6 +16,6 @@ Eğer ABD'de yaşamıyorsanız, lisanslı bir yazılım satın aldığınızda (
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

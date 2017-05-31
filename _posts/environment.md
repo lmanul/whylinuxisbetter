@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Environment</h2>
 
@@ -42,6 +42,6 @@ software, you can always download it again later). </li>
 
 </ul>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>如果你可以自由地取得軟體，哪還需要非法複製軟體呢？</h2>
 
@@ -22,6 +22,6 @@ table_parser ("Yes", "No", "商業軟體", "開放原始碼軟體", "是否有 W
 
 由 <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a> 所繪製
 
-</div>
+
 
 

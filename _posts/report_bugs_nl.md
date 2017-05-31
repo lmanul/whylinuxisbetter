@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Foutmeldingen rapporteren</h2>
 
@@ -30,6 +30,6 @@ software beter wordt. Dit is hoe open source werkt.
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

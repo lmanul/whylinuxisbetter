@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Geen achterpoortjes in uw software.</h2>
 
@@ -56,6 +56,6 @@ Dat is de reden waarom u zeker kan zijn dat opensourcesoftware
 geen slechte dingen doet achter uw rug: de gemeenschap houdt alle
 recepten in de gaten.
 
-</div>
+
 
 

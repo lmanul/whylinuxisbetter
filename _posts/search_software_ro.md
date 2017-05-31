@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Aveţi nevoie de programe noi? Nu vă pierdeţi timpul căutând, Linux vă face rost.</h2>
 
@@ -28,6 +28,6 @@ doar naviga prin software-ul existent (o mulţime de software-uri!) în categori
 
 Unu: Fără navigări. Doi: Fără descărcare şi instalare manuală. Trei: mai mult timp să folosiţi noul program.
 
-</div>
+
 
 

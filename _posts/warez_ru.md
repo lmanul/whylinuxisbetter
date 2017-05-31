@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Зачем копировать софт нелегально, если вы можете получить лучший аналог - бесплатно?</h2>
 
@@ -44,6 +44,6 @@ Windows?");
 
 Изображения <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Майкла Кэмбона (Michel Cambon)</a>
 
-</div>
+
 
 

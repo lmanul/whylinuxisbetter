@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Spar på strømmen : lad din computer sove eller gå i dvale.</h2>
 
@@ -17,6 +17,6 @@ Så i bund og grund har du ikke brug for at "boote" din computer igen! Da Linux 
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Ciesz się darmowym i nieograniczonym wsparciem</h2>
 
@@ -24,6 +24,6 @@ w wyszukiwarce (lub zastąp słowo "linux" nazwą dystrybucji, której
 używasz, patrz rozdział "Instalacja") i z pewnością znajdziesz odpowiedź
 na wiele pytań.
 
-</div>
+
 
 

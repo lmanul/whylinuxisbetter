@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Medio</h2>
 
@@ -20,6 +20,6 @@ Kiel povas Linux esti malsama de Windows se paroli pri la medio, vi povas demand
 
 </ul>
 
-</div>
+
 
 

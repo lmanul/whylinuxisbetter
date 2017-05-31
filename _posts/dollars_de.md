@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Bezahl keine 200&#x202f;&euro; f&uuml;r dein Betriebssystem</h2>
 
@@ -10,6 +10,6 @@ Wahrscheinlich denkst du dir: „Oh, ich hab nicht f&uuml;r Windows bezahlt“. 
 
 Auf der anderen Seite kannst du Linux <b>absolut kostenlos</b> bekommen. Jawohl, all diese Typen rund um den Globus haben hart gearbeitet, um ein &uuml;bersichtliches, sicheres, effizientes und gut aussehendes System zu entwickeln und ihre Arbeit f&uuml;r jeden frei zur Verf&uuml;gung zu stellen (falls du dich fragst, warum sie so etwas tun, schick mir eine Mail und ich werde es dir so gut ich kann erkl&auml;ren :) ). Nat&uuml;rlich machen einige Firmen durch den Verkauf von Support, Dokumentation, Hotline, etc. f&uuml;r ihre eigene Linux-Version ein gutes Gesch&auml;ft, und das ist sicherlich eine gute Sache. Aber im Normalfall wirst du keinen Cent bezahlen m&uuml;ssen.
 
-</div>
+
 
 

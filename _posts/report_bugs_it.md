@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Riportare i bug</h2>
 
@@ -29,6 +29,6 @@ migliore. E' così che funziona l'open source.
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

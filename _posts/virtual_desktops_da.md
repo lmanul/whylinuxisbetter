@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>For mange vinduer? Brug flere skriveborde.</h2>
 
@@ -16,6 +16,6 @@ Det er din "skrivebords-vælger". Du kan se den har fire (virtuelle) skærme, me
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Glem alt om drivere.</h2>
 
@@ -20,6 +20,6 @@ Men forestill deg at du vil installere Windows på en helt ny, urørt datamaskin
 <li><b>Mer miljøgunstig for planeten vår</b> på grunn av alle CD-ene ikke trenger å følge med hardwaren (vel, når Windows ikke trenger de mer, så klart … ;-) ).</li>
 </ul>
 
-</div>
+
 
 

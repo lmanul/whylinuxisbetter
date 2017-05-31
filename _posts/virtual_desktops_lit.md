@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Per daug lang&#371;? Naudokit&#279;s virtualiais darbastaliais.</h2>
 
@@ -16,6 +16,6 @@ Pa&#382;i&#363;r&#279;kite &#303; &#382;emiau esant&#303; paveiksl&#279;l&#303;,
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Rapportera buggar</h2>
 
@@ -12,6 +12,6 @@ Nästan all öppen mjukvara (Linuxdistributioner inkluderade) har ett <i>buggsp�
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

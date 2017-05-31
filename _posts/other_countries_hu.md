@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Segíts más országokon és a sajátodon!</h2>
 
@@ -16,6 +16,6 @@ Szabad szoftverrel (mint a Linux), az országod gazdasága (és az informatikus 
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Spela hundratals av spel gratis</h2>
 
@@ -14,13 +14,13 @@ exempel (hela listan skulle bli oändlig) :
 
 
 <br class="clearboth" />
-</div>
+
 
 Och om du skulle vara intresserad av spel, kanske du gillar bilden av Quake 3 som 
 spelas på Linux, på 24 skärmar (!):
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

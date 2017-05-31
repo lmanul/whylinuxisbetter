@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>デフラグって何さ！</h2>
 
@@ -23,6 +23,6 @@ Di Cosmo</a>のアイデア）。引き出しひとつひとつにはあんま�
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

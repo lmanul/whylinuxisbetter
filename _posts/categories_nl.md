@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Geen grote rommel in uw startmenu</h2>
 
@@ -14,6 +14,6 @@ Alle installeerbare programma's op Linux bevatten informatie die beschrijft om w
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

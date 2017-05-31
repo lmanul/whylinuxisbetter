@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Är du trött på att starta om datorn hela tiden?</h2>
 
@@ -40,6 +40,6 @@ dig med att vilja starta om.
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

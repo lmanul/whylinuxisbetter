@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>차세대 데스크탑으로 뛰어들기</h2>
 
@@ -8,6 +8,6 @@
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

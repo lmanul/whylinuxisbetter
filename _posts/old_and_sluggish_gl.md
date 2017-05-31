@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Por que Windows se fai máis lento cada día?</h2>
 
@@ -14,6 +14,6 @@ Linux déixache máis tempo para traballar sen ter que reinstalar unha e outra v
 
 
 
-</div>
+
 
 

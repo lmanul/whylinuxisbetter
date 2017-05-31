@@ -2,7 +2,7 @@
 require("../../base.php"); 
 ?>
 
-<div id="corps">
+
 
 <h2>No paguis 100€ pel teu sistema operatiu</h2>
 
@@ -27,6 +27,6 @@ directe, etc. per a la seva pròpia versió de Linux, i això és certament
 molt bo. Però la la majoria de les vegades, no hauràs de pagar un 
 cèntim.
 
-</div>
+
 
 

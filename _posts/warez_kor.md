@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>공개 소프트웨어라면 불법복제걱정은 없겠죠?</h2>
 
@@ -23,6 +23,6 @@ Windows?");
 
 그림제공 :<a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

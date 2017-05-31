@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Estás cansado de reiniciar a túa computadora todo o tempo?</h2>
 
@@ -17,6 +17,6 @@ Probablemente non vas deixar a túa computadora funcionando varias semanas pero 
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

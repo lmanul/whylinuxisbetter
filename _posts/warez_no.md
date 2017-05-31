@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Hvorfor kopiere programvare på ulovlig vis når du kan få det helt gratis?</h2>
 
@@ -22,6 +22,6 @@ table_parser ("Ja", "Nei", "Kommersiell", "Open source", "Tilgjengelig på Windo
 
 Illustrasjon av <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

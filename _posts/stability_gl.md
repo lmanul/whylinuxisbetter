@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>É inestable o teu sistema ?</h2>
 
@@ -12,6 +12,6 @@ Ningún sistema operativo é perfecto e a xente que che di que o seu xamais se v
 
 Seguramente non adoitas deixar acendida a túa computadora tanto tempo seguido, pero é unha demostración da estabilidade de Linux.
 
-</div>
+
 
 

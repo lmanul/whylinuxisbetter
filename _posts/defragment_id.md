@@ -1,6 +1,6 @@
  
 
-<div id="corps">
+
 
 <h2>Apakah kehidupan dijitalmu terasa terfragmentasi?</h2>
 
@@ -22,6 +22,6 @@ Tanpa ragu-ragu, kamu seharusnya menyewa perempuan tersebut (tentunya kamu sudah
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

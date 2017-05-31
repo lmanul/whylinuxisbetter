@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Lăsaţi crackerii să eşueze</h2>
 
@@ -8,6 +8,6 @@ Windows are <i>multe</i> probleme de securitate. O mulţime din acestea pot avea
 
 Linux nu e perfect, dar
 
-</div>
+
 
 

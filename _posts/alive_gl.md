@@ -9,6 +9,6 @@ Windows require cada vez computadoras máis e máis potentes mentres o número d
 Linux corre perfectamente ben en computadoras antigas, nas que Windows 7 rexeitaría ser instalado, ou te farí­a esperar 20 segundos despois de cada clic. De feito, Linux non vai facer un bólido da túa computadora de 12 anos de antigüidade, pero a fará funcionar moi ben e permitirache realizar ben as tarefas habituais (navegar por internet, escribir textos, etc.). Para pór un exemplo, a computadora que enviou esta páxina non é moi moderna e corre Linux: se podes ler isto, entón estará activa e funcionando (e se a páxina web carga lentamente, botalle a culpa só á miña conexión de internet).
 
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 
 <h2>Sistemi kurduktan sonra neden <i>hala</i> daha fazla araç kurasınız ki?</h2>
@@ -42,6 +42,6 @@ Linux ile, kolayca çalışmaya başlayabilirsiniz.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

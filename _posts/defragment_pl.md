@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Czy Twoje życie wydaje się pofragmentowane?</h2>
 
@@ -45,5 +45,5 @@ do plików - im więcej Linuksa, tym szybszy. Wybór należy do Ciebie!
 
 <img src="Images/defragment.png" />
 
-</div>
+
 

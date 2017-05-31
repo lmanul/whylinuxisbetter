@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>När systemet är installerat, varför skulle du då 
 <i>fortfarande</i> 
@@ -53,6 +53,6 @@ Du kan börja arbeta direkt.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

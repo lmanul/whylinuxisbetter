@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>ใช้ MSN, AIM, ICQ, Jabber ด้วยโปรแกรมเพียงหนึ่งเดียว</h2>
 
@@ -10,4 +10,4 @@
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

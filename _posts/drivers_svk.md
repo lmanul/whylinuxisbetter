@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Zabudnite na ovládače</h2>
 
@@ -20,6 +20,6 @@ No dobre, ale to je iba jedno zariadenie. Teraz si predstavte, že chcete nainš
 <li><b>Menšie poškodenie planéty</b> pretože všetky tieto CD, ktoré dávajú k zariadeniam, už nie sú potrebné (teda ak by ich nepotreboval Windows...).</li>
 </ul>
 
-</div>
+
 
 

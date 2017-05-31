@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Når systemet er installeret, hvorfor skulle du så <i>stadig</i> have brug for at installere ting?</h2>
 
@@ -26,6 +26,6 @@ Du kan simpelthen begynde at bruge computeren lige med det samme
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 
 

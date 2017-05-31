@@ -1,6 +1,6 @@
  
 
-<div id="corps">
+
 
 <h2>Gunakan MSN, AIM, ICQ, Jabber, dengan hanya satu program</h2>
 
@@ -10,4 +10,4 @@ Dengan Pidgin, layanan pesan instan untuk Linux (tersedia pula untuk Windows, da
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

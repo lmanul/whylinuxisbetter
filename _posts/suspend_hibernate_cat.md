@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Estalvia un poc d'energia: bloca o hiverna el teu ordinador.</h2>
 
@@ -17,6 +17,6 @@ Així que bàsicament, no necessites “arrencar” el teu ordinador altra vegad
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

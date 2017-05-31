@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Verkar ditt digitala liv vara fragmenterat?</h2>
 
@@ -50,6 +50,6 @@ Linux, desto snabbare går det. Valet är upp till dig!
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

@@ -25,7 +25,7 @@
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 
 

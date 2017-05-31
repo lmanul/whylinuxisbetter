@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Let your old computer have a second life</h2>
 
@@ -25,6 +25,6 @@ young and runs Linux: if you can read this, then it is up and
 running (and if the website loads slowly, blame my Internet 
 connection only).
 
-</div>
+
 
 

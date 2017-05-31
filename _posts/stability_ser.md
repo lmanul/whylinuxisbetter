@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Jel Vap sistem stabilan ?</h2>
 
@@ -29,6 +29,6 @@ stalno uključenim, tako možete raditi godinama a da nemate ni jedan problem.
 Najčešće, ne morate da ostavljate kompjuter stalno uključenim, ali ovo pokazuje
 koliko je Linux stabilan.
 
-</div>
+
 
 

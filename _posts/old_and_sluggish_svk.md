@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Prečo je Windows každým dňom pomalší?</h2>
 
@@ -12,6 +12,6 @@ Podarilo sa mi presvedčiť mnoho ľudí, aby prešli na Linux, zatiaľ čo si p
 
 Linux vám umožňuje stráviť viac času prácou, a menej času preinštalovaním znova a znova.
 
-</div>
+
 
 

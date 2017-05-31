@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Help other countries, and your own</h2>
 
@@ -31,6 +31,6 @@ without real knowledge about how things work.
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

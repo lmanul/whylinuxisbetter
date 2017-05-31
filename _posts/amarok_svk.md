@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Získajte úžasný prehrávač hudby</h2>
 
@@ -10,6 +10,6 @@ atď.), a niektoré z nich sú <b>úžasné</b>. Vyskúšajte napríklad AmaroK
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

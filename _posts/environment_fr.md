@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Environnement</h2>
 
@@ -24,6 +24,6 @@ Linux peut avoir une influence sur notre environnement:
 
 </ul>
 
-</div>
+
 
 

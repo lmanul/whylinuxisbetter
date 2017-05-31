@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Reporting bugs</h2>
 
@@ -29,6 +29,6 @@ works.
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

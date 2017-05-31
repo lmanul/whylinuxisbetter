@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Låt piraterna bita gräset</h2>
 
@@ -8,6 +8,6 @@ Windows har  <i>många</i> säkerhetsproblem. Många av dessa ger dåliga konsek
 
 Linux är inte perfekt, men..
 
-</div>
+
 
 

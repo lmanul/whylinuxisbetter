@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Mari berantas pembajakan</h2>
 
@@ -9,6 +9,6 @@ Windows memiliki <i>banyak</i> permasalahan dalam keamanan. Permasalahan keamana
 Linux tidak sempurna, tetapi
 
 
-</div>
+
 
 

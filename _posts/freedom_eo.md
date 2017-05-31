@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Libereco!</h2>
 
@@ -10,6 +10,6 @@ Do vi eble demandas vin: ĉu la libereco koncernas min? Imagu ke Microsoft malap
 
 Per la malfermita programaro, se difina projekto aŭ helpa firmao mortas, la tuta kodo restas malfermita por la komunumo kaj la homoj plu povas plibonigi ĝin. Se ĉi tiu projekto estas speciale utila al vi, vi mem eĉ povas fari tion. Se iu difina eraro ĝenas vin, vi povas sciigi tion, paroli kun la programistoj, sed eĉ pli bone, vi mem povas ripari ĝin (aŭ dungi iun por la laboro), kaj resendi la ŝanĝojn al la programistoj por ke ĉiuj ankaŭ havu la plibonigojn. Vi estas libera fari (preskaŭ) ĉion kion vi volas kun kaj per la programaro.
 
-</div>
+
 
 

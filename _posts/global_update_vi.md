@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Cập nhật hệ thống bằng một click chuột</h2>
 
@@ -18,6 +18,6 @@ thứ chỉ với 1 click chuột.
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

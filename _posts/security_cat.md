@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux protegeix el teu ordinador</h2>
 
@@ -14,6 +14,6 @@ Però realment, el problema no és quantes falles de seguretat té un sistema, c
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

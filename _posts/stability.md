@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Is your system unstable?</h2>
 
@@ -32,6 +32,6 @@ having any trouble.
 Most of the time, you won't leave your computer on for such a long time, but 
 this shows how stable Linux is.
 
-</div>
+
 
 

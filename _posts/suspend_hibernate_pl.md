@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Oszczędź nieco prądu: wprowadź komputer w stan uśpienia lub hibernacji</h2>
 
@@ -29,5 +29,5 @@ hibernować i budzić, z pominięciem czasochłonnego procesu restartu.
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 

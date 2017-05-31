@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Emaiozu zure ordenagailuari bigarren bizitza bat</h2>
 
@@ -9,6 +9,6 @@ Windows-ek, bere bertsioa igotzen duen bitartean (95, 98, 2000, Xp, Vista), orde
 Linux ordenagailu zaharretan primeran dabil, seguraski Windows Xp instalatzeko posibilitaterik ez daukan ordenagailu batean hain zuzen ere, edota klik baten ostean 20 segundo ixarotera behartuko zintuzkeen batean. Berez, Linuxek ez du 12 urteko konputagailu bat superbolido batean bihurtuko, baina gutxienez ondo funtzionatuko du, eta ohizko gauzak egiten utziko dizu (internetetik nabigatu, dokumentuak idatzi, etab.). Adibidez, web orrialde hau bidali dizuen ordenagailuak Linux erabiltzen du: hortaz, hau irakurri ahal baduzu, horrek konputagailua funtzionamendu ona daukala esan nahi du (eta nabigadorea motel baldin badabil, errua zure internet konexioarena da).
 
 
-</div>
+
 
 

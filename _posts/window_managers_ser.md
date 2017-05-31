@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Izaberite kako će Vaš desktop izgledati.</h2>
 
@@ -42,6 +42,6 @@ Kao što možete da vidite, <b>Vi birate kako Vaš desktop izgleda</b>.
 I čak ne morate da donesete konačnu odluku: možete  
 promeniti bilo koji od ovih stilova kad god se ulogujete na Vaš kompjuter.
 
-</div>
+
 
 

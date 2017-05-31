@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Låt din gamla dator få ett nytt liv</h2>
 
@@ -28,6 +28,6 @@ särskilt ny, och kör linux: Om du kan läsa detta är det datorns
 förtjänst (om hemsidan laddar långsamt är det internetuppkopplingen det 
 är fel på).
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Pourquoi votre Windows est-il de plus en plus lent ?</h2>
 
@@ -31,6 +31,6 @@ pas laissés tomber, et il est aussi rapide et réactif qu'au début.
 Linux vous permet de passer plus de temps à travailler, et moins
 de temps à réinstaller votre système encore et encore.
 
-</div>
+
 
 

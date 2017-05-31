@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>擁有一套很棒的音樂播放軟體</h2>
 
@@ -8,7 +8,7 @@ Linux 有很多音樂播放軟體（包括了 AmaroK、Rhythmbox 和 Banshee 等
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 
 u

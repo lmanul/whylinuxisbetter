@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Medio Ambiente</h2>
 
@@ -20,6 +20,6 @@
 
 </ul>
 
-</div>
+
 
 

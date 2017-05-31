@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ajuda altres païssos i al teu també</h2>
 
@@ -35,6 +35,6 @@ sobre com funcionen les coses.
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

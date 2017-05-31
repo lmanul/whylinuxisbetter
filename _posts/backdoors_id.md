@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Tidak ada backdoor di perangkat lunakmu.</h2>
 
@@ -52,6 +52,6 @@ Itu sebabnya kamu harus percaya perangkat lunak open source yang tidak
 akan mengerjakan sesuatu yang buruk tanpa sepengetahuan kamu: komunitas
 akan tetap menjaga resep.
 
-</div>
+
 
 

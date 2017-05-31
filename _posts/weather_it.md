@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Dà un occhiata al tempo</h2>
 
@@ -16,6 +16,6 @@ guardare fuori dalla finestra?). Puoi scegliere la zona dove abiti (o
 qualsiasi altro posto) in una lista completa (ok, ho imbrogliato, ho 
 scelto Honolulu per lo screenshot, ci sono 2°C adesso a Parigi!).
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Erlebe die nächste Desktop-Generation.</h2>
 
@@ -8,6 +8,6 @@ Haben dich die Transparenz- und 3D-Effekte in Windows Vista beeindruckt? Hast du
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

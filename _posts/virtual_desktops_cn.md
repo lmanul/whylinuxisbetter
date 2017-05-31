@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>太多窗口？请使用工作区</h2>
 
@@ -26,6 +26,6 @@
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

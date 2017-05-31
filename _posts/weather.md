@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Keep an eye on the weather.</h2>
 
@@ -17,6 +17,6 @@ select the place where you live (or anywhere else) in a complete list of
 locations (OK, I cheated, I chose Honolulu for the screen capture, it's 
 2°C right now in Paris!).
 
-</div>
+
 
 

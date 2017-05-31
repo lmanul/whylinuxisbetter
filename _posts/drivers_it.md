@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Dimenticati dei driver</h2>
 
@@ -21,6 +21,6 @@ Ok, questo era solo un pezzo di hardware. Ora immagina di dover installare Windo
 <li><b>Meno danni al pianeta</b> perchè non c'è bisogno che tutti questi CD siano forniti con l'hardware (bè, almeno per un volta anche Windows non ne ha bisogno...).</li>
 </ul>
 
-</div>
+
 
 

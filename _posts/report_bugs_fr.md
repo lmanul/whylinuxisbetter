@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>N'attendez pas des années que les bugs soient résolus, 
 signalez-les et traquez-les.</h2>
@@ -34,6 +34,6 @@ Tel est le principe des logiciels libres.
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

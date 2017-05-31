@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Seu sistema é instável ?</h2>
 
@@ -34,6 +34,6 @@ problema.
 Na maioria das vezes não deixará seu computador ligado por tanto 
 tempo, mas isso mostra o quanto o Linux é estável.
 
-</div>
+
 
 

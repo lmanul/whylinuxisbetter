@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Fes servir MSN, AIM, ICQ, Jabber en una mateixa aplicació.</h2>
 
@@ -16,4 +16,4 @@ mateixa vegada.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

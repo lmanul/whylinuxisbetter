@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Báo lỗi</h2>
 
@@ -22,6 +22,6 @@ cải thiện. Đây là mô hình làm việc của phần mềm mã nguồn m�
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

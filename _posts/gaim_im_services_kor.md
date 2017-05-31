@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>MSN, AIM, ICQ, Jabber를 한꺼번에 사용하기</h2>
 
@@ -10,4 +10,4 @@ Pidgin이라는 리눅스용 메신저(윈도우즈용으로도 있고, 맥 OS�
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

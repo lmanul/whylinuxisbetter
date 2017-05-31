@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>进入下一代桌面时代</h2>
 
@@ -10,6 +10,6 @@
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

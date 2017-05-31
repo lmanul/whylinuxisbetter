@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Spill hundrevis av spill helt gratis.</h2>
 
@@ -11,12 +11,12 @@ Hundrevis av spill er utgitt under en fri lisens (som i en «gratis øl» og som
 
 
 <br class="clearboth" />
-</div>
+
 
 Og hvis du er interessert i spill, så vil du kanskje like dette bildet av Quake 3 kjørende på Linux, på 24 skjermer (!):
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

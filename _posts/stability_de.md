@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ist dein System instabil?</h2>
 
@@ -12,6 +12,6 @@ Nat&uuml;rlich ist kein Betriebssystem perfekt, und Leute, die dir erz&auml;hlen
 
 Normalerweise wirst du deinen Computer nicht so lange anlassen, aber das zeigt, wie stabil Linux ist.
 
-</div>
+
 
 

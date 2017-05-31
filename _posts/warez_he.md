@@ -19,14 +19,14 @@
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?></div>
+?>
 
 <br /><br>
 
 <img src="Images/warez.png" />
   האיור מאת    <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">   מישל קמבון    Michel Cambon</a>
 
-</div>
+
 
 
 

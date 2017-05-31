@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>De ce Windows-ul dvs. merge din ce în ce mai lent în fiecare zi?</h2>
 
@@ -26,6 +26,6 @@ dezamăgit, şi încă rulează perfect azi.
 
 Linux vă permite să folosiţi mai mult timp pentru a lucra, şi mai puţin timp
 reinstalând. 
-</div>
+
 
 

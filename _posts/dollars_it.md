@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Non pagare 250 € per il tuo sistema operativo</h2>
 
@@ -21,6 +21,6 @@ facendo buoni affari vendendo supporto, documentazione, aiuto telefonico, ecc., 
 versione di Linux, e questa è certamente una buona cosa. Ma nella stragrande parte dei casi, non
 ci metterai un centesimo.
 
-</div>
+
 
 

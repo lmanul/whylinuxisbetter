@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Környezetvédelem</h2>
 
@@ -20,6 +20,6 @@ Biztos azt kérded, miért lenne környezetbarátabb a Linux a Windows-nál? Vé
 
 </ul>
 
-</div>
+
 
 

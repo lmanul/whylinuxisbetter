@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Informa d'errades</h2>
 
@@ -10,6 +10,6 @@ Pràcticament tot el programari de codi obert (incloent les distribucions de Lin
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Programvaren din er fri for bakdører.</h2>
 
@@ -14,6 +14,6 @@ Endring av kildekoden i «Open source»-programvare er derimot en åpen prosess.
 
 Dette er grunnen til at du kan være sikker på at «open source»-programvare ikke skader datamaskinen din – det blir alltid holdt et øye med på «oppskriftene».
 
-</div>
+
 
 

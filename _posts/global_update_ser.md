@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Osvežite Vaš softver jednim klikom miša.</h2>
 
@@ -20,6 +20,6 @@ parčetu softvera koji Vaš kompjuter ima. Dakle, ako hoćete da imate
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

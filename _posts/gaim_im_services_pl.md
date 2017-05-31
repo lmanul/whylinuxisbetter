@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Używaj równocześnie Gadu-Gadu, MSN, ICQ i Jabbera z pomocą jednego programu</h2>
 
@@ -16,4 +16,4 @@ ze wszystkich sieci / komunikatorów <i>równocześnie</i>.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

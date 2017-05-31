@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Choisissez l'allure de votre bureau.</h2>
 
@@ -47,6 +47,6 @@ toutes : vous pouvez passer à n'importe lequel de ces styles
 d'environnement à chaque fois que vous utilisez votre
 ordinateur.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>¿Necesitas software nuevo? No te molestes buscando en la web, Linux lo hace por tí</h2>
 
@@ -23,6 +23,6 @@ Con Linux todo es <b>mucho más simple</b>. Linux tiene algo llamado "Gestor de 
 
 Primera conclusión: no hay que navegar más por internet. Segunda: no más descargar e instalar por tu cuenta. Tercera: definitivamente más tiempo para probar el software.
 
-</div>
+
 
 

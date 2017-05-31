@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Warte nicht jahrelang darauf, dass Bugs behoben werden; melde sie und bring sie zur Strecke</h2>
 
@@ -10,6 +10,6 @@ Fast alle Open-Source-Programme (inklusive den Linuxdistributionen) haben ein â€
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

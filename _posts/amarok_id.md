@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Dapatkan pemutar musik yang luar biasa!</h2>
 
@@ -8,6 +8,6 @@ Linux memiliki banyak pemutar musik (termasuk Amarok, Rhythmbox, Banshee, dll.),
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

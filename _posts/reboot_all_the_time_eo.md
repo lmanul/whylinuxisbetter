@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ĉu vi estas laca restartigi la komputilon daŭre?</h2>
 
@@ -16,6 +16,6 @@ Vi eble ne lasos vian komputilon funkciantan dum kelkaj semajnoj sed la fakto es
 
 <img src="Images/reboot_all_the_time_thumb.png" />
 
-</div>
+
 
 

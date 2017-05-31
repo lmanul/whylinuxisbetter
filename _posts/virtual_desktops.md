@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Too many windows? Use workspaces.</h2>
 
@@ -35,6 +35,6 @@ in this case the three others are empty), or use a keyboard shortcut.
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

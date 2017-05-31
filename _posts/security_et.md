@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux kaitseb sinu arvutit</h2>
 
@@ -14,6 +14,6 @@ Kui tegelikult ei oma t&auml;htsust niiv&otilde;rd see, <i>kui palju</i> vigu s&
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

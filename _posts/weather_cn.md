@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>轻松了解天气情况</h2>
 
@@ -15,6 +15,6 @@
 
 <img src="Images/weather_details.png" />
 
-</div>
+
 
 

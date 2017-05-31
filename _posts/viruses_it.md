@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Dimenticati dei virus</h2>
 
@@ -48,6 +48,6 @@ sviluppatori: "Ehi, e se bla bla bla, non può rappresentare una falla di sicure
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

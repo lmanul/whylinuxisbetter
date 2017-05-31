@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Musika entzuteko aukera on bat izan.</h2>
 
@@ -8,6 +8,6 @@ Linux-ek musika entzuteko hainbat programa dauzka (adibidez, Amarok, Rhythmbox, 
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

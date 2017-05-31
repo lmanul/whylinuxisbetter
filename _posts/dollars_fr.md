@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ne payez pas 100 € pour votre système d'exploitation</h2>
 
@@ -27,6 +27,6 @@ documentaiton, une hotline, etc., pour leur propre version de Linux, et
 c'est certainement une bonne chose. Mais la plupart du temps, vous 
 n'aurez pas besoin de débourser un centime. 
 
-</div>
+
 
 

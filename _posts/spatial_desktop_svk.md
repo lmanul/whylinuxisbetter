@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Naskočte na novú vlnu desktopov</h2>
 
@@ -8,6 +8,6 @@ Nadchli vás možnosti 3D a priehľadnosti prvýkrát predstavené vo Windows Vi
 
 <? all_video_ids_from_file ();?>
 
-</div>
+
 
 

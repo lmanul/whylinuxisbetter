@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Informe de Fallos</h2>
 
@@ -12,6 +12,6 @@ Case todo o software de código aberto (incluíndo as distribucións Linux) ten 
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

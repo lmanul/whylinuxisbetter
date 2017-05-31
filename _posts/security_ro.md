@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux vă protejează computerul</h2>
 
@@ -37,6 +37,6 @@ crackerilor să facă orice vor în computerul dumneavoastră.
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

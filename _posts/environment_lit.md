@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Saugok aplinką</h2>
 
@@ -20,6 +20,6 @@ Kuo čia dėta aplinka, kai kalbame apie Linux'us ir Windows'us? Juk jos abi tė
 
 </ul>
 
-</div>
+
 
 

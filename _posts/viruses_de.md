@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Vergiss Viren.</h2>
 
@@ -20,6 +20,6 @@ Linux hat kaum irgendwelche Viren. Und das nicht im Sinne von „Naja, nicht seh
 
 <img src="Images/viruses_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Raportarea defectelor</h2>
 
@@ -27,6 +27,6 @@ sistemul dvs, va fi rezolvată pe sistemele tuturor: e în interesul tuturor să
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Melaporkan <i>bug</i></h2>
 
@@ -11,6 +11,6 @@ Hampir seluruh perangkat lunak open source (termasuk distribusi Linux) memiliki 
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

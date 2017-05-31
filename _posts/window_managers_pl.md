@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Dostosuj wygląd systemu do swoich potrzeb</h2>
 
@@ -41,6 +41,6 @@ wyglądać. Decyzji tej wcale nie musisz podjąć raz na zawsze - menedżera
 okien możesz zmieniać na zupełnie inny przy każdej okazji przelogowywania
 się w systemie.
 
-</div>
+
 
 

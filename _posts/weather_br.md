@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Fique de olho no tempo.</h2>
 
@@ -16,6 +16,6 @@ não é legal dar uma saidinha da sala ?). Você pode selecionar onde mora
 trapaciei, eu escolhi Honolulu para a captura de tela, está fazendo 2 °C 
 agora em Paris !).
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>﻿조각모음이 필요하십니까?</h2>
 
@@ -22,6 +22,6 @@
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

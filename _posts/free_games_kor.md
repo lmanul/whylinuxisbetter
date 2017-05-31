@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>무료로 즐기는 수백 가지의 게임들</h2>
 
@@ -11,12 +11,12 @@
 
 
 <br class="clearboth" />
-</div>
+
 
 그리고 게임에 취미가 있으신 분이라면, 아마 리눅스에서 24개의 모니터로 퀘이크3를 하는 걸 보신적 있으실겁니다(!) :
 
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Freedom!</h2>
 
@@ -34,6 +34,6 @@ someone to do so), and send the changes back to the upstream developers
 so that everyone gets the improvement as well. You're free to do 
 (nearly) whatever you want with the software.
 
-</div>
+
 
 

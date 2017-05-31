@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Per què el teu Windows cada dia que passa va més lent?</h2>
 
@@ -26,6 +26,6 @@ Linux no els ha defraudat, i encara està perfectament bé i actiu avui en
 dia. Linux et deixa gastar més temps en treballar, i menys temps 
 reinstal·lant una i altra vegada.
 
-</div>
+
 
 

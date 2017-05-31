@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Regala una seconda vita al tuo vecchio computer</h2>
 
@@ -24,6 +24,6 @@ computer stesso che ti ha inviato questa pagina non è molto giovane e ha Linux:
 riesci a leggere tutto questo significa che è acceso e funzionante (e se il sito si 
 carica lentamente, dai la colpa solo alla mia connessione a Internet).
 
-</div>
+
 
 

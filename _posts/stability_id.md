@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Apakah sistem komputermu tidak stabil?</h2>
 
@@ -12,6 +12,6 @@ Tentu saja, tidak ada sistem operasi yang sempurna, dan orang yang mengatakan ba
 
 Pada dasarnya, kamu tidak akan sering-sering meninggalkan komputer dalam jangka waktu lama, tetapi contoh ini menunjukkan betapa stabilnya sistem Linux.
 
-</div>
+
 
 

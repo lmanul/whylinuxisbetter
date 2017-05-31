@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Du brauchst neue Software? Durchsuche nicht das Netz, Linux besorgt sie f&uuml;r dich.</h2>
 
@@ -23,6 +23,6 @@ Mit Linux geht alles <b>viel einfacher</b>. Linux hat etwas an Bord, das sich ‚Ä
 
 Zusammengefasst: Kein Gesuche im Netz mehr, kein manuelles Herunterladen und Installieren, daf√ºr aber mehr Zeit, um die gesuchte Software auszuprobieren.
 
-</div>
+
 
 

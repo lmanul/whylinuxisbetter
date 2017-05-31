@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>বেশি উইন্ডো নিয়ে ঝামেলা? "ওয়ার্কস্পেস" ব্যবহার করুন।</h2>
 
@@ -16,6 +16,6 @@
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

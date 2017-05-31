@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2></h2>
 
@@ -12,6 +12,6 @@ Sellist asja nagu ideaalne operatsioonisüsteem pole olemas. Kui keegi väidab, 
 
 Arvuteid jäätakse nii kauaks tööle ainult erandjuhtudel, kuid see on heaks näiteks Linuxi stabiilsusest.
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Help andere landen, ook uw eigen</h2>
 
@@ -30,6 +30,6 @@ IT-professionals zonder echte kennis achterblijven over hoe dingen werken.
 
 <img src="Images/earth.png" />
 
-</div>
+
 
 

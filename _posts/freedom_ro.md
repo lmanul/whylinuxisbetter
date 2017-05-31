@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Libertate!</h2>
 
@@ -22,6 +22,6 @@ dezvoltatorii, sau și mai bine, o poți repara chiar tu însuți (sau plăti pe
 primească îmbunătățirea. Ești liber(ă) să faci (aproape) tot ce vrei cu software-ul.
 
 
-</div>
+
 
 

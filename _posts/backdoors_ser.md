@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Bez tajnih vrata u vašem softveru.</h2>
 
@@ -14,6 +14,6 @@ Menjanje izvornog kôda nekog open source softvera mnogo je transparentniji proc
 
 Iz ovih razloga možete biti sigurni da softver otvorenog kôda ne radi ništa iza vaših leđa: čitava zajednica posmatra recepte.
 
-</div>
+
 
 

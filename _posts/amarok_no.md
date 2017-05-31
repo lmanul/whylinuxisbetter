@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Få en god musikkavspiller.</h2>
 
@@ -8,6 +8,6 @@ Linux har mange musikkavspillere (som AmaroK, Rhythmbox, Banshee, osv), og de er
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

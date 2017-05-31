@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Ακούστε μουσική</h2>
 
@@ -11,6 +11,6 @@
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

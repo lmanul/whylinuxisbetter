@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Linux protects your computer</h2>
 
@@ -43,6 +43,6 @@ they want with your computer.
 
 <img src="Images/security_thumb.png" />
 
-</div>
+
 
 

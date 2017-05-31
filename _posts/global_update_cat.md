@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Actualitza el teu programari amb un sol clic.</h2>
 
@@ -12,6 +12,6 @@ Linux té un lloc central anomenat el “Gestor de paquets”, el qual té cura 
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

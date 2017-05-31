@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Pas de "portes dérobées".</h2>
 
@@ -14,6 +14,6 @@ Changer le code source d'un logiciel open source est un processus bien plus ouve
 
 C'est pourquoi, vous pouvez être sûr que les logiciels open source ne vous font pas de coups bas: la communauté surveille de près toutes leurs recettes ;-)
 
-</div>
+
 
 

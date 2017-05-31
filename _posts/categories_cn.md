@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>开始菜单不再混乱</h2>
 
@@ -14,6 +14,6 @@
 
 <img src="Images/categories_menu.png">
 
-</div>
+
 
 

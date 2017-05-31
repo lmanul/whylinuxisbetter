@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Save some energy : let your computer sleep or hibernate.</h2>
 
@@ -29,6 +29,6 @@ etc.
 
 <img src="Images/suspend_hibernate_thumb.png" />
 
-</div>
+
 
 

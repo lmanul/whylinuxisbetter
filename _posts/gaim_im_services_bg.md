@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Използвайте MSN, AIM, ICQ, Jabber с една-единствена програма</h2>
 
@@ -12,4 +12,4 @@ Messenger за MSN, ICQ за ICQ, и т.н.
 
 <img src="Images/gaim_im_services.png" />
 
-</div>  
+  

@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Er ditt digitale liv fragmentert?</h2>
 
@@ -22,6 +22,6 @@ Ville du ha leid mannen eller kvinnen? Kvinnen, så klart. (Kvinner er vel også
 
 <img src="Images/defragment.png" />
 
-</div>
+
 
 

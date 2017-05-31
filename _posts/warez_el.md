@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Γιατί να αντιγράφεται παράνομα λογισμικό όταν μπορείτε να το έχετε δωρεάν;</h2>
 
@@ -41,6 +41,6 @@ Windows?");
 
 Σχέδιο του <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

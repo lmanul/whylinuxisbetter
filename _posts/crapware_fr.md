@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Fini les pourriciels.</h2>
 
@@ -18,6 +18,6 @@ Toutefois, pour l'utilisateur ce sont surtout des ennuis, de l'attente, la dési
 
 Rien de tout cela avec Linux. Aucun programme ne viendra vous embêter en vous demandant de vous inscrire à un service ou de payer après une courte période d'essai, aucun programme ne ralentira votre ordinateur pendant que le bureau se prépare à s'afficher, tout juste quand vous pensiez qu'il était prêt à recevoir vos commandes. Linux inclut tout ce qui est nécessaire pour que vous puissiez commencer à travailler immédiatement, sans les pourriciels.
 
-</div>
+
 
 

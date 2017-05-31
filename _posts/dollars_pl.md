@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Nie płać za system operacyjny</h2>
 
@@ -20,6 +20,6 @@ opierają swoje istnienie na sprzedaży takich usług jak wsparcie techniczne, d
 linię itp. do swojego własnego wariantu Linuksa; z pewnością dobrze że tak się właśnie dzieje.
 W większości jednak wypadków nie zapłacisz ani grosza.
 
-</div>
+
 
 

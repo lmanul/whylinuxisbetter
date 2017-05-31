@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2> Nabavite odličan muzički plejer.</h2>
 
@@ -12,6 +12,6 @@ sa internet-a, i čak može da Vam pokaže omot CD-a !
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

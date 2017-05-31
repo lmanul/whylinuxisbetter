@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Μην περιμένετε χρόνια να λυθούν τα προβλήματα, αναφέρετέ τα και παρακολουθήστε τα.</h2>
 
@@ -28,6 +28,6 @@ href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.h
 
 <img src="Images/report_bugs_thumb.png" />
 
-</div>
+
 
 

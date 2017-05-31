@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Let pirates bite the dust</h2>
 
@@ -8,6 +8,6 @@ Windows has <i>many</i> security issues. A lot of these can have bad consequence
 
 Linux is not perfect, but
 
-</div>
+
 
 

@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?</h2>
 
@@ -49,5 +49,5 @@ Możesz prosto z marszu rozpocząć pracę.
 
 <img src="Images/app_menu.png" />
 
-</div>
+
 

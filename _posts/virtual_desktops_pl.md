@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Zbyt wiele okien? Użyj wirtualnych pulpitów</h2>
 
@@ -35,6 +35,6 @@ uznania.
 
 <img src="Images/workspaces_full.png" border="0"/>
 
-</div>
+
 
 

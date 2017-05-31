@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Get a great music player</h2>
 
@@ -12,6 +12,6 @@ on the Internet, and even gets the CD covers for you!
 
 <img src="Images/amarok.png" />
 
-</div>
+
 
 

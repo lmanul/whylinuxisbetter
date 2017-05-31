@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Besoin de nouveaux logiciels ? Ne cherchez pas, Linux les 
 télécharge pour vous.</h2>
@@ -35,6 +35,6 @@ Donc premièrement: plus besoin de surfer. Deuxièmement: plus besoin
 de télécharger et d'installer vous-même. Troisièmement: davantage de 
 temps pour effectivement tester le logiciel.
 
-</div>
+
 
 

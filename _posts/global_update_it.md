@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Aggiorna tutto il tuo software con un unico clic</h2>
 
@@ -20,6 +20,6 @@ i singoli pacchetti installati nel tuo computer. Quindi, se vuoi avere
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

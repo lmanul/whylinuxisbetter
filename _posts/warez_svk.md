@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Prečo kopírovať softvér ilegálne ak ho môžete získať zadarmo?</h2>
 
@@ -22,6 +22,6 @@ table_parser ("Áno", "Nie", "Komerčný", "Slobodný", "Existuje aj na Windows?
 
 Nakreslil <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a>
 
-</div>
+
 
 

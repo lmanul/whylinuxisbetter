@@ -1,6 +1,6 @@
 
 
-<div id="corps">
+
 
 <h2>Actualizaţi-vă tot software-ul cu un singur click.</h2>
 
@@ -21,6 +21,6 @@ e să apăsaţi butonul "Instalare actualizări (Install Updates)" aici:
 
 <img src="Images/global_update.png" />
 
-</div>
+
 
 

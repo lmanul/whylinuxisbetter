@@ -1,6 +1,6 @@
 ﻿
 
-<div id="corps">
+
 
 <h2>Nie daj szansy oszustom i internetowym włamywaczom</h2>
 
@@ -15,6 +15,6 @@ nie powstał uniwersalny wirus zdolny zarazić <i>każdą</i> dystrybucję Linuk
 Zadanie napisania takowego jest o wiele trudniejsze od stworzenia wirusa dla systemu Windows.
 Po więcej szczegółów zapraszam do rozdziału "Wirusy".
 
-</div>
+
 
 
