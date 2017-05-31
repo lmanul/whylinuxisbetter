@@ -1,3 +1,6 @@
+---
+lang: ku
+---
 
 
 <div id="corps" dir="rtl">

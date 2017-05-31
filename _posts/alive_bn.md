@@ -1,3 +1,6 @@
+---
+lang: bn
+---
 ﻿<?php require("../../entete.php");
  require("../../base.php");
 require("../../fonctions.php");?>

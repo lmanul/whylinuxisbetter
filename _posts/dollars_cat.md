@@ -1,3 +1,6 @@
+---
+lang: cat
+---
  <?php 
 require("../../base.php"); 
 ?>

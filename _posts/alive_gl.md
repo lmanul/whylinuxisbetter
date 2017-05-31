@@ -1,3 +1,6 @@
+---
+lang: gl
+---
 
 
 <div ide="corps">

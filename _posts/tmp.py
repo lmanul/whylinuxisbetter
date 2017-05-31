@@ -7,11 +7,10 @@ for i in items:
   lang = i[last_underscore + 1:last_dot]
   if len(lang) > 3:
     lang = "en"
-  print(lang)
-  header = "---\nlang: ' + lang + '\n---\n"
+  header = "---\nlang: " + lang + "\n---\n"
   orig = open(i, mode="r", encoding='utf-8').read()
   f = open(i, mode="w", encoding='utf-8')
-  #f.write(header)
+  f.write(header)
   f.write(orig)
   f.close()
 
