@@ -31,5 +31,5 @@ le site web se charge lentement, c'est seulement à cause de ma connexion
 internet).</p>
 
 </div>
-</body>
-</html>
+
+

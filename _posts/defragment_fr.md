@@ -52,5 +52,5 @@ est rapide. À vous de choisir ! </p>
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

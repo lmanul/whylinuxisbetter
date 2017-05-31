@@ -14,5 +14,5 @@ Internet, i fins i tot aconsegueix les cobertes del CD per tu !</p>
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+
+

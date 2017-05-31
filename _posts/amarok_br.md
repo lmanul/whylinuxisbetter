@@ -14,5 +14,5 @@ traz a capa do CD para você!</p>
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+
+

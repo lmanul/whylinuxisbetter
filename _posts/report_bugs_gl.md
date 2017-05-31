@@ -13,5 +13,5 @@ hai un interesante artigo sobre isto. Que pasa se Microsoft nin sequera se decat
 <img src="Images/report_bugs_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

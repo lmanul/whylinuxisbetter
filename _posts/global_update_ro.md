@@ -22,5 +22,5 @@ e să apăsaţi butonul "Instalare actualizări (Install Updates)" aici: </p>
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

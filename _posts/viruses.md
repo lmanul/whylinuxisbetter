@@ -49,5 +49,5 @@ or just tell other developers "Hey, what if blah blah, isn't this a security fla
 <img src="Images/viruses_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

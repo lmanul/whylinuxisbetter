@@ -13,5 +13,5 @@
 <p>Linuxszal kevesebb időt kell az újratelepítésekkel töltened, több időd jut a munkára.</p>
 
 </div>
-</body>
-</html>
+
+

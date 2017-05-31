@@ -9,5 +9,5 @@
 <p>Linux'ai veikia puikiausiai ir su senesne technine &#303;ranga, &#303; kuri&#261; Windows 7 netgi nesileist&#371; &#303;diegiami, ar leist&#371; padaryti 20 sekund&#382;i&#371; pertraukas po kiekvieno pel&#279;s spragtel&#279;jimo. &#381;inoma, Linux'ai nepadarys lenktyni&#371; nugal&#279;tojo i&#353; j&#363;s&#371; 12-os met&#371; senumo kompiuterio, bet puikiausiai veiks ir leis atlikti &#303;prastas u&#382;duotis (nar&#353;yti tinkle, ra&#353;yti tekstus, etc.). Kompiuteris, pateikiantis jums &#353;&#303; puslap&#303;, kur&#303; skaitote, n&#279;ra labai naujas ir jame veikia Linux'ai: jei skaitote tai, vadinasi jis veikia (o jeigu puslapis pakraunamas l&#279;tai, jums der&#279;t&#371; kaltinti tiktai mano interneto ry&#353;&#303;).</p>
 
 </div>
-</body>
-</html>
+
+

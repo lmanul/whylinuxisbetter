@@ -36,5 +36,5 @@ zodat anderen hiervan ook kunnen genieten. U bent (bijna) vrij te doen
 wat u maar wilt met de software.</p>
 
 </div>
-</body>
-</html>
+
+

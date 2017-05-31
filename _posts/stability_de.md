@@ -13,5 +13,5 @@
 <p>Normalerweise wirst du deinen Computer nicht so lange anlassen, aber das zeigt, wie stabil Linux ist.</p>
 
 </div>
-</body>
-</html>
+
+

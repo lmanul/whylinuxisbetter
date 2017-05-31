@@ -21,5 +21,5 @@ helplijn voor hun eigen versie van Linux, en dit is zeker een goede zaak. Maar m
 niks moeten betalen.</p>
 
 </div>
-</body>
-</html>
+
+

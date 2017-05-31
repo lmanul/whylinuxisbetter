@@ -28,5 +28,5 @@ o mică previzualizare a ce conţine), sau folosiţi o scurtătură din taste.</
 <img src="Images/workspaces_full.png" border="0"/>
 
 </div>
-</body>
-</html>
+
+

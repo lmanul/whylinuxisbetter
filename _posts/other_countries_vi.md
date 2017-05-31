@@ -26,5 +26,5 @@ của bạn sẽ càng có lợi.</p>
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

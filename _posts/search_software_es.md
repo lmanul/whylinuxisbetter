@@ -24,5 +24,5 @@
 <p>Primera conclusión: no hay que navegar más por internet. Segunda: no más descargar e instalar por tu cuenta. Tercera: definitivamente más tiempo para probar el software.</p>
 
 </div>
-</body>
-</html>
+
+

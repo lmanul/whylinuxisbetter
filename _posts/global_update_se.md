@@ -23,5 +23,5 @@ trycka på "Installera uppdateringarar" nere i hörnet:</p>
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

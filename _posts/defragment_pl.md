@@ -46,5 +46,4 @@ do plików - im więcej Linuksa, tym szybszy. Wybór należy do Ciebie!</p>
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+

@@ -42,5 +42,5 @@ proberen:</p>
 <p>Zoals u kan zien, met Linux <b>beslist uzelf hoe uw bureaublad eruitziet</b>. En u hoeft niet te beslissen voor eens en altijd: u kan altijd nog wisselen van bureaubladstijl als u inlogt in uw computer.</p>
 
 </div>
-</body>
-</html>
+
+

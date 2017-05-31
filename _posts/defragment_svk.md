@@ -24,5 +24,5 @@ Di Cosmovi</a> za toto prirovnanie). Každá zásuvka môže obsahovať iba urč
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

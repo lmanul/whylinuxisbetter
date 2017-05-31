@@ -18,5 +18,5 @@ Webでページを見ようと思ったら、パソコンからの信号に答�
 <img src="Images/reboot_all_the_time_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -25,5 +25,5 @@ używasz, patrz rozdział "Instalacja") i z pewnością znajdziesz odpowiedź
 na wiele pytań.</p>
 
 </div>
-</body>
-</html>
+
+

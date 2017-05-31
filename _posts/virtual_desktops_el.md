@@ -37,5 +37,5 @@ email, το πρόγραμμα messenger και μερικά άλλα παράθ
 <img src="Images/workspaces_full.png" border="0"/>
 
 </div>
-</body>
-</html>
+
+

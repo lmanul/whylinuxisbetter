@@ -57,5 +57,5 @@ SELinux, являющаяся сильнейшим продуктом для з�
 <img src="Images/security_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

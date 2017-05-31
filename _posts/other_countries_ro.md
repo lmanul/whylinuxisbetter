@@ -28,5 +28,5 @@ lăsând profesioniştii IT fără cunoştiinţe reale despre cum merg lucrurile
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

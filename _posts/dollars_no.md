@@ -11,5 +11,5 @@
 <p>Som en kontrast til dette, <b>får du Linux helt gratis</b>. Ja, det stemmer – alle disse utviklerne rundt omkring i verden arbeider virkelig hardt for å skaffe til veie et godt, sikkert, effektivt og pent system, og de gir arbeidet sitt ut gratis slik at alle kan bruke det (og hvis du lurer på hvorfor de gjør dette, send meg en e-post og jeg vil forklare så godt jeg kan :-) ). Noen selskaper, derimot, gjør business på å selge support, dokumentasjon, osv. til deres egen versjon av Linux, og dette er bare en god ting. Men i de aller fleste tilfeller trenger du ikke å betale ei eneste krone – nei, ikke engang trenger du å betale ett eneste øre.</p>
 
 </div>
-</body>
-</html>
+
+

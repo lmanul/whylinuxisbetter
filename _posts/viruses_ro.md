@@ -41,5 +41,5 @@ din lume se poate uita la codul sursă (ingredientul fiecărui program) şi să 
 <img src="Images/viruses_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -31,5 +31,5 @@
 <p>Kiel vi povas vidi, per Linux <b>vi decidas kiel vi volas ke estu la ŝajno de via labortablo</b>. Kaj vi eĉ ne devas decidi definitive: vi povas ŝanĝi al iu ajn el ĉi tiuj diversaj klasoj de labortabloj kiam vi ensalutas.</p>
 
 </div>
-</body>
-</html>
+
+

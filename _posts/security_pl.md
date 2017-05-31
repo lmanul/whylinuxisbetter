@@ -41,5 +41,5 @@ wystarcza oszustom, by robić z Twoim komputerem, co tylko zechcą.</p>
 <img src="Images/security_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -26,5 +26,5 @@ Windows, θα πρέπει να αγοράζετε συνεχώς νέο hardwar
 στο Internet).</p>
 
 </div>
-</body>
-</html>
+
+

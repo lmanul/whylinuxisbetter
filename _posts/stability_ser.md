@@ -30,5 +30,5 @@ stalno uključenim, tako možete raditi godinama a da nemate ni jedan problem.</
 koliko je Linux stabilan.</p>
 
 </div>
-</body>
-</html>
+
+

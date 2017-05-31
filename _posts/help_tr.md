@@ -9,5 +9,5 @@
 <p>Eğer anlamadığınız bir şeyler olursa ya da bir program umduğunuz şekilde çalışmazsa çekinmeden yardım isteyin. Yakınınızda Linux kullanan birileri varsa size yardım etmekten mutluluk duyacaklardır. Ya da online olarak, sorularınızı kibarca yönelttiğiniz takdirde, size seve seve yardım edecek insanlar bulabilirsiniz. Google' da "Linux yardım" ve ya "Linux -kullandığınız dağıtım-" şeklinde aramalar yaparak istediğiniz bütün bilgilere ulaşabilirsiniz.</p>
 
 </div>
-</body>
-</html>
+
+

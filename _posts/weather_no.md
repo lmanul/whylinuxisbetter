@@ -11,5 +11,5 @@
 <p>Linux tvinger deg ikke til noe, så du kan plassere denne funksjonen hvor du enn vil på skjermen, eller så kan du fjerne den (i bunn og grunn er det vel litt trivligere å titte ut av vinduet?). Du kan velge et sted du vil holde øye med i en komplett liste av forskjellige steder.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -30,5 +30,5 @@ i zostawiających rodzimych informatyków bez prawdziwej, fachowej wiedzy.</p>
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

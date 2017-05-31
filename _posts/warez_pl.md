@@ -40,5 +40,5 @@ table_parser ("Tak", "Nie", "Program", "Darmowy odpowiednik", "Czy istnieje dla 
 <p>Autor rysunku: <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a></p>
 
 </div>
-</body>
-</html>
+
+

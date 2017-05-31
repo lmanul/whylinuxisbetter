@@ -31,5 +31,5 @@
 <p>Som du kan se kan du med Linux <b>selv bestemme hvordan din desktop skal se ud</b>. Og du behøves ikke engang at beslutte dig én gang for alle : du kan skifte imellem en hvilken som helst window manager du har installeret når du logger ind.</p>
 
 </div>
-</body>
-</html>
+
+

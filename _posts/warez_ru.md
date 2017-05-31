@@ -45,5 +45,5 @@ Windows?");
 <p>Изображения <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Майкла Кэмбона (Michel Cambon)</a></p>
 
 </div>
-</body>
-</html>
+
+

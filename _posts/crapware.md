@@ -37,5 +37,5 @@ when you thought it was ready to be used. Linux comes with everything that you n
 working right away, without the crapware.</p>
 
 </div>
-</body>
-</html>
+
+

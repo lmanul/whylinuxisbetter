@@ -15,5 +15,5 @@
 <p>C'est pourquoi, vous pouvez être sûr que les logiciels open source ne vous font pas de coups bas: la communauté surveille de près toutes leurs recettes ;-)</p>
 
 </div>
-</body>
-</html>
+
+

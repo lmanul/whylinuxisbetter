@@ -18,5 +18,5 @@ locations (OK, I cheated, I chose Honolulu for the screen capture, it's
 2°C right now in Paris!).</p>
 
 </div>
-</body>
-</html>
+
+

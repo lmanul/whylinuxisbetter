@@ -15,5 +15,5 @@
 <p>Dette er grunnen til at du kan være sikker på at «open source»-programvare ikke skader datamaskinen din – det blir alltid holdt et øye med på «oppskriftene».</p>
 
 </div>
-</body>
-</html>
+
+

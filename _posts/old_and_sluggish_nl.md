@@ -29,5 +29,5 @@ Linux nog steeds perfect draait en vlug werkt.</p>
 met het steeds maar opnieuw installeren.</p>
 
 </div>
-</body>
-</html>
+
+

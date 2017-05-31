@@ -12,4 +12,4 @@ Messenger за MSN, ICQ за ICQ, и т.н.</p>
 
 <img src="Images/gaim_im_services.png" />
 
-</div> </body> </html>
+</div>  

@@ -36,5 +36,5 @@ de télécharger et d'installer vous-même. Troisièmement: davantage de
 temps pour effectivement tester le logiciel.</p>
 
 </div>
-</body>
-</html>
+
+

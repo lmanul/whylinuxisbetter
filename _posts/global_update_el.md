@@ -20,5 +20,5 @@ Adobe; Τον συμπιεστή ZIP; Το πρόγραμμα εγγραφής C
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

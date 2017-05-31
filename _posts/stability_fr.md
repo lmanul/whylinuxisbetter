@@ -37,5 +37,5 @@ pendant des années sans rencontrer de problème.</p>
 allumé si longtemps. Mais cela montre à quel point Linux est stable.</p>
 
 </div>
-</body>
-</html>
+
+

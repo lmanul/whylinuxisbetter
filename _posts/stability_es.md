@@ -13,5 +13,5 @@
 <p>La mayor parte de las ocasiones, no vas a dejar encendido tu ordenador tanto tiempo, pero esto muestra cuan estable es Linux.</p>
 
 </div>
-</body>
-</html>
+
+

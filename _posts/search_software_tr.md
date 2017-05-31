@@ -24,5 +24,5 @@
 <p>Daha fazla sörf yapmama, veya verileri indirip kurmakla uğraşmama gerek yok, istediğim kadar yazılımı kolayca deneyebilirim.</p>
 
 </div>
-</body>
-</html>
+
+

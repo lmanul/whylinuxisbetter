@@ -22,5 +22,5 @@ versione di Linux, e questa è certamente una buona cosa. Ma nella stragrande pa
 ci metterai un centesimo.</p>
 
 </div>
-</body>
-</html>
+
+

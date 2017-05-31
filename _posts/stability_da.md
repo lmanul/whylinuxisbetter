@@ -13,5 +13,5 @@
 <p>Det meste af tiden vil du højst sandsynligt ikke gøre dette, men det viser stadig hvor stabilt Linux er.</p>
 
 </div>
-</body>
-</html>
+
+

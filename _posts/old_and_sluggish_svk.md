@@ -13,5 +13,5 @@
 <p>Linux vám umožňuje stráviť viac času prácou, a menej času preinštalovaním znova a znova.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -44,5 +44,5 @@ rău din el, să creeze o nouă versiune şi să informeze lumea de diferenţe. 
 lucruri rele pe ascuns: comunitatea supraveghează cu atenţie toate ingredientele.</p>
 
 </div>
-</body>
-</html>
+
+

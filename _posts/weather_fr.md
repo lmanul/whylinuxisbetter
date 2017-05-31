@@ -19,5 +19,5 @@ l'endroit que vous voulez) grâce à une liste complète de villes
 d'écran, il fait 2°C à Paris !).</p>
 
 </div>
-</body>
-</html>
+
+

@@ -31,5 +31,5 @@
 <p>Som du ser, med Linux <b>er det du som velger hvordan skrivebordet ditt skal se ut</b>. Og du trenger ikke å gjøre et permanent valg – du kan forandre så ofte du vil – ja hver gang du logger inn på datamaskinen.</p>
 
 </div>
-</body>
-</html>
+
+

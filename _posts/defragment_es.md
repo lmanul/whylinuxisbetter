@@ -24,5 +24,5 @@ Di Cosmo</a> por esta comparación). Cada cajón puede contener sólo un número
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -26,5 +26,5 @@ sur l'installation) dans Google et vous trouverez sans aucun doute ce
 que vous cherchez.</p>
 
 </div>
-</body>
-</html>
+
+

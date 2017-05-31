@@ -43,5 +43,5 @@ kurdunuz, ama o problemin sadece başlangıcıydı.</p>
 <img src="Images/app_menu.png" />
 
 </div>
-</body>
-</html>
+
+

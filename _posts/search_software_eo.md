@@ -24,5 +24,5 @@
 <p>Do, unue: ne pli da retumo. Due: ne pli da elŝutoj kaj instaloj por vi mem. Trie: ja pli da tempo por provi la programaron.</p>
 
 </div>
-</body>
-</html>
+
+

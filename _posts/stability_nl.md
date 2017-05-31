@@ -30,5 +30,5 @@ opstaan.</p>
 stabiel Linux is.</p>
 
 </div>
-</body>
-</html>
+
+

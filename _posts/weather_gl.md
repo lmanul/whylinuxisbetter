@@ -11,5 +11,5 @@
 <p>Por suposto, Linux non te forza a facer nada, así que podes colocar isto onde queiras na túa pantalla ou simplemente non colocalo (á fin e ao cabo, non é bonito mirar a través da túa fiestra?). Podes escoller o lugar onde vives (ou calquera outro) dunha lista completa de lugares (vale, fixen trampa, escollín Honolulu para a captura de pantalla, estamos a 2°C neste momento en Paris!).</p>
 
 </div>
-</body>
-</html>
+
+

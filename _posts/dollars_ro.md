@@ -20,5 +20,5 @@ lor versiune de Linux, şi acesta e cu siguranţă un lucru bun. Dar în cele ma
 să plătiţi nici un cent.</p>
 
 </div>
-</body>
-</html>
+
+

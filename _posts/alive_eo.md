@@ -9,5 +9,5 @@
 <p>Linux funkcias tre bone en malnova aparataro, en kiu Windows 7 eble eĉ refuzus esti instalata, aŭ atendigus vin dum 20 sekundoj post ĉiu klako. Kompreneble, Linux ne igos vian 12-jaran komputilon en rapidegan aŭton, sed ĝi funkcios tre bone kaj permesos al vi fari kutimajn taskojn (retumi, skribi dosierojn, ktp.) simple bone. La komputilo kiu sendas al vi ĉi tiun retpaĝon ne estas nova kaj uzas Linux: se vi povas legi ĉi tion, ĝi funkcias (kaj se la retpaĝo ŝarĝas malrapide, riproĉu nur mian konekton).</p>
 
 </div>
-</body>
-</html>
+
+

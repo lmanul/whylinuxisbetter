@@ -16,5 +16,5 @@ Zadanie napisania takowego jest o wiele trudniejsze od stworzenia wirusa dla sys
 Po więcej szczegółów zapraszam do rozdziału "Wirusy".</p>
 
 </div>
-</body>
-</html>
+
+

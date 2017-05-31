@@ -13,5 +13,5 @@ on the Internet, and even gets the CD covers for you!</p>
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+
+

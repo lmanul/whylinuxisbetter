@@ -31,5 +31,5 @@
 <p>Wie du hier sehen kannst, <b>entscheidest du, wie dein Desktop aussieht</b>. Und diese Entscheidung ist auch nicht endgültig: Bei jedem Login kannst du zwischen jedem dieser Desktop-Stile wählen.</p>
 
 </div>
-</body>
-</html>
+
+

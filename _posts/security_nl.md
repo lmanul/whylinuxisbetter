@@ -35,5 +35,5 @@ willen met uw computer.</p>
 <img src="Images/security_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -19,5 +19,5 @@
 <p>Geen van dit alles met Linux. Geen programma's die u vragen een abonnement aan te schaffen, betalen nadat de proefperiode verstreken is of uw computer gewoon trager maken, u langer doen wachten bij het opstarten, net wanneer u dacht dat deze klaar was voor gebruik. Linux bevat alle software die u nodig hebt om direct te starten, zonder alle crapware.</p>
 
 </div>
-</body>
-</html>
+
+

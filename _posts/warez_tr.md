@@ -23,5 +23,5 @@ table_parser ("Evet", "Hayır", "Ücretli", "Açık kaynak", "Windows da Var mı
 <p>Drawing by <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a></p>
 
 </div>
-</body>
-</html>
+
+

@@ -17,4 +17,4 @@ avec un seul programme, et de voir tous vos contacts en même temps.</p>
 
 <img src="Images/gaim_im_services.png" />
 
-</div> </body> </html>
+</div>  

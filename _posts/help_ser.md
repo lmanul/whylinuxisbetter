@@ -23,5 +23,5 @@ ukoliko postavljate pitanja ljubazno. Jednostavno kucajte "linux pomoć"
 u googlu i bez sumnje ćete naći sve što Vas zanima.</p>
 
 </div>
-</body>
-</html>
+
+

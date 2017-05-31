@@ -13,5 +13,5 @@
 <p>Arvuteid jäätakse nii kauaks tööle ainult erandjuhtudel, kuid see on heaks näiteks Linuxi stabiilsusest.</p>
 
 </div>
-</body>
-</html>
+
+

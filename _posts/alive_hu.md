@@ -9,5 +9,5 @@
 <p>A Linux tökéletesen fut régebbi számítógépeken is, az olyanokon, amelyekre Windows 7 nem hajlandó feltelepülni vagy minden kattintás után 20 másodpercet várat. Természetesen a Linux nem fog villámgyorssá tenni egy 12 éves számítógépet, de remekül fog rajta futni és átlagos feladatok elvégzésére alkalmas lesz (a net böngészésére, szövegek írására stb.). A számítógép, mely ezt a weboldalt szolgáltatja (a szervere), sem mai darab, és Linux fut rajta: úgyhogy ha ezt most olvasod, azt jelenti, még mindig működik és fut (és ha az oldal lassan töltődik, csakis az internetszolgáltatód hibáztathatod).</p>
 
 </div>
-</body>
-</html>
+
+

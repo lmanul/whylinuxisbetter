@@ -14,5 +14,5 @@ At geninstallere Windows løser problemet... indtil næste gang.</p>
 <p>Linux lader dig bruge din tid på at bruge computeren, ikke at geninstallere igen og igen.</p>
 
 </div>
-</body>
-</html>
+
+

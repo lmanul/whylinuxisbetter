@@ -23,5 +23,5 @@ replace "linux" with whatever distribution you chose -- see the install
 section) in Google and you'll undoubtedly find everything you need.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -17,5 +17,5 @@
 <p>É por isso que você pode ter certeza de que o software de código aberto não faz nada ruim pelas suas costas: a comunidade sempre estará de olho em todas as receitas.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -13,5 +13,5 @@
 <p>Linux tillater deg å bruke mer tid til å arbeide, og mindre tid til å reinstallere om og om igjen.</p>
 
 </div>
-</body>
-</html>
+
+

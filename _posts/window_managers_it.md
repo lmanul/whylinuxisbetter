@@ -43,5 +43,5 @@ desktop</b>. E non dovrai fare una scelta per tutte: puoi passare a uno di
 questi stili desktop ogni volta che accedi ad una sessione del computer.</p>
 
 </div>
-</body>
-</html>
+
+

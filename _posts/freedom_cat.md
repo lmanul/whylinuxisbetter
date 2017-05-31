@@ -38,5 +38,5 @@ faci), i retornar els canvis als desenvolupadors principals perquè
 tothom aconsegueixi també la millora.</p>
 
 </div>
-</body>
-</html>
+
+

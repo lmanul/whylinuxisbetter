@@ -28,5 +28,5 @@ Als u deze pagina kan lezen, dan werkt deze nog steeds (en als de website
 traag laadt, ligt dit enkel aan mijn internetverbinding).</p>
 
 </div>
-</body>
-</html>
+
+

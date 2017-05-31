@@ -28,5 +28,5 @@ Windows?");
 
 </div>
 <?php require("../../license_he.php");?>
-</body>
-</html>
+
+

@@ -22,5 +22,5 @@ single piece of software your computer has. So if you want to keep
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

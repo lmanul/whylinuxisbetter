@@ -44,5 +44,5 @@ OpenOffice, μα και πάλι, πρέπει να το βρείτε, να το
 <img src="Images/app_menu.png" />
 
 </div>
-</body>
-</html>
+
+

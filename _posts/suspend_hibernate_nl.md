@@ -21,5 +21,5 @@ Het verschil met pauzestand (stand-by) is dat uw computer helemaal geen stroom g
 <img src="Images/suspend_hibernate_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

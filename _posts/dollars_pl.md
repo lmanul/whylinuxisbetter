@@ -21,5 +21,5 @@ linię itp. do swojego własnego wariantu Linuksa; z pewnością dobrze że tak 
 W większości jednak wypadków nie zapłacisz ani grosza.</p>
 
 </div>
-</body>
-</html>
+
+

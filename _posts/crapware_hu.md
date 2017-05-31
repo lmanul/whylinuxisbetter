@@ -19,5 +19,5 @@
 <p>A Linux esetében viszont a fentiek közül eggyel sem találkozhatsz. Nincs olyan program, mely azzal nyaggatna, hogy fizess elő rájuk, hogy fizess, miután lejár a próbaverzió ideje, vagy csak lelassítaná a gépedet és váratna téged, míg elindul, s kellene várnod még többet, mikor már azt hiszed kész van a használatra. A Linuxxal mindent megkapsz, ami kell ahhoz, hogy azonnal a munkához láss, de egy programmal se többet.</p>
 
 </div>
-</body>
-</html>
+
+

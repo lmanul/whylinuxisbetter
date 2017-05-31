@@ -28,5 +28,5 @@ Mida enam silmi, seda v&auml;hem turvaauke. Linuxi l&auml;htekood on avatud. See
 <img src="Images/viruses_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

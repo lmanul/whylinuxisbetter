@@ -12,5 +12,5 @@
 Geniş kapsamlı listeden yaşadığınız yeri (ya da başka bir yeri) seçebilirsiniz (Tamam, sizi kandırdım, ekran görüntüsü için Honolulu' yu seçmiştim. Paris şu anda 2°C !).</p>
 
 </div>
-</body>
-</html>
+
+

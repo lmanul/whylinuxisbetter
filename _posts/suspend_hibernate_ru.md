@@ -35,5 +35,5 @@ Linux обычно грузится менее чем за 40 секунд, пр
 <img src="Images/suspend_hibernate_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

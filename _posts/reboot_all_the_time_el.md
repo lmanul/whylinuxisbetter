@@ -40,5 +40,5 @@ software (ακόμη και πολύ μεγάλα προγράμματα) ή ε�
 <img src="Images/reboot_all_the_time_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

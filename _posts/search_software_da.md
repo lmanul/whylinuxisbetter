@@ -24,5 +24,5 @@
 <p>Så A: ikke mere surfing efter software. B: ikke mere downloaden og installeren manuelt. C: mere tid til faktisk at prøve softwaren.</p>
 
 </div>
-</body>
-</html>
+
+

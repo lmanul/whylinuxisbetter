@@ -23,5 +23,5 @@ ma oskan). Samal ajal saavad ettev&otilde;tted raha teenida klienditoe ja dokume
 Kuid &uuml;ldjuhul ei pea sina midagi maksma.</p>
 
 </div>
-</body>
-</html>
+
+

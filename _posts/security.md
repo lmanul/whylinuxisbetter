@@ -44,5 +44,5 @@ they want with your computer.</p>
 <img src="Images/security_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

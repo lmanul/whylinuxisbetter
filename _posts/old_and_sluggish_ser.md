@@ -26,5 +26,5 @@ i dalje radi savršeno dobro i oštro kao i prvi dan.</p>
 <p>Linux Vam omogućava da više radite, a manje vremena provodite u reinstalacijama.</p>
 
 </div>
-</body>
-</html>
+
+

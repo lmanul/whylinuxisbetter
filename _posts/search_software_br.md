@@ -24,5 +24,5 @@
 <p>Primeira conclusão: não precisa mais de navegar na internet. Segunda: não precisa mais baixar nem instalar por conta própria. Terceira: definitivamente mais tempo para testar o programa.</p>
 
 </div>
-</body>
-</html>
+
+

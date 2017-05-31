@@ -30,5 +30,5 @@ categorieën.</p>
 <p>Dus 1: niet meer surfen. 2: niet meer zelf downloaden en zelf installeren. 3: meer tijd om de software uit te proberen.</p>
 
 </div>
-</body>
-</html>
+
+

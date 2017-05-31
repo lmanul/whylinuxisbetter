@@ -27,5 +27,5 @@ i ma się dobrze (a jeśli strona ładuje się powoli, to jest to wyłącznie wi
 dostawcy Internetu).</p>
 
 </div>
-</body>
-</html>
+
+

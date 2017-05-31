@@ -20,5 +20,5 @@ dokumentazioa, on-line zerbitzua etab. salduz, eta hauxe benetan oso ona da. Zor
 bat ere ez ordaindu behar izango.</p>
 
 </div>
-</body>
-</html>
+
+

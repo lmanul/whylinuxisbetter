@@ -10,5 +10,5 @@ tercih ettiğiniz tarzları öğrenir; parça bilgilerini, şarkı sözlerini ve
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+
+

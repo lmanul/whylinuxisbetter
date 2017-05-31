@@ -21,5 +21,5 @@ i singoli pacchetti installati nel tuo computer. Quindi, se vuoi avere
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

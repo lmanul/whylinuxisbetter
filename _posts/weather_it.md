@@ -17,5 +17,5 @@ qualsiasi altro posto) in una lista completa (ok, ho imbrogliato, ho
 scelto Honolulu per lo screenshot, ci sono 2°C adesso a Parigi!).</p>
 
 </div>
-</body>
-</html>
+
+

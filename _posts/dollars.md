@@ -21,5 +21,5 @@ their own version of Linux, and this is certainly a good thing. But most of the 
 need to pay a cent.</p>
 
 </div>
-</body>
-</html>
+
+

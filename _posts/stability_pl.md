@@ -33,5 +33,4 @@ jednak istnienie takiej możliwości dobitnie pokazuje, jak stabilnym systemem
 jest Linuks.</p>
 
 </div>
-</body>
-</html>
+

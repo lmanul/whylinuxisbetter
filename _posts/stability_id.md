@@ -13,5 +13,5 @@
 <p>Pada dasarnya, kamu tidak akan sering-sering meninggalkan komputer dalam jangka waktu lama, tetapi contoh ini menunjukkan betapa stabilnya sistem Linux.</p>
 
 </div>
-</body>
-</html>
+
+

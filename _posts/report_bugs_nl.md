@@ -31,5 +31,5 @@ software beter wordt. Dit is hoe open source werkt.</p>
 <img src="Images/report_bugs_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

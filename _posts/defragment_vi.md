@@ -37,5 +37,5 @@ method ; Linux uses the second one. Đó là lựa chọn của bạn!.</p>
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

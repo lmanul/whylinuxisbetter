@@ -27,5 +27,5 @@ to kliknąć przycisk "Zainstaluj aktualizacje" (poniżej wersja angielska):</p>
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -42,5 +42,5 @@ okien możesz zmieniać na zupełnie inny przy każdej okazji przelogowywania
 się w systemie.</p>
 
 </div>
-</body>
-</html>
+
+

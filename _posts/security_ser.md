@@ -42,5 +42,5 @@ manje-više šta god hoće da Vašim kompjuterom.</p>
 <img src="Images/security_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

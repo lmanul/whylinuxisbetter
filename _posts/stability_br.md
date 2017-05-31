@@ -35,5 +35,5 @@ problema.</p>
 tempo, mas isso mostra o quanto o Linux é estável.</p>
 
 </div>
-</body>
-</html>
+
+

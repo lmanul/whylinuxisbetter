@@ -18,5 +18,5 @@
 <p><a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a></p>
 
 </div>
-</body>
-</html>
+
+

@@ -16,5 +16,5 @@ jednim programom, i videti sve Vaše kontakte u isto vreme.</p>
 <img src="Images/gaim_im_services.png" />
 
 </div>
-</body>
-</html>
+
+

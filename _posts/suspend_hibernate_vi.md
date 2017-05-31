@@ -25,5 +25,5 @@ hibernate, bật máy, cứ thế cứ thế...</p>
 <img src="Images/suspend_hibernate_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

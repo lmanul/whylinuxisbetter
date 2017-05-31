@@ -15,5 +15,5 @@
 <p>Das ist der Grund, warum du sicher sein kannst, dass Open-Source-Software keine bösen Dinge hinter deinem Rücken tut: Die Gemeinschaft hat stets ein Auge auf alle Rezepte.</p>
 
 </div>
-</body>
-</html>
+
+

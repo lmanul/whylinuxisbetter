@@ -26,5 +26,5 @@
 #3: Mer tid til å faktisk bruke programvaren.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -16,4 +16,4 @@ Jabber, Yahoo, MSN, AIM, и других. В Windows или MacOS, вам, ск�
 
 <img src="Images/gaim_im_services.png" />
 
-</div> </body> </html>
+</div>  

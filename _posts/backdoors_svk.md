@@ -17,5 +17,5 @@
 <p>To je dôvod, prečo si môžete byť istý, že slobodný softvér nerobí zlé veci poza váš chrbát: celá komunita dáva pozor na všetky recepty.</p>
 
 </div>
-</body>
-</html>
+
+

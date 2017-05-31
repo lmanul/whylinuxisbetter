@@ -41,5 +41,5 @@ l'amélioration. Vous êtes libre de faire (presque) tout ce que vous
 voulez avec les logiciels libres.</p>
 
 </div>
-</body>
-</html>
+
+

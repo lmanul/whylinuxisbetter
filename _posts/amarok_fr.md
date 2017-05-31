@@ -14,5 +14,5 @@ chercher les couvertures des CDs pour vous!</p>
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+
+

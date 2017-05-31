@@ -21,5 +21,5 @@ parčetu softvera koji Vaš kompjuter ima. Dakle, ako hoćete da imate
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -31,5 +31,5 @@ IT-professionals zonder echte kennis achterblijven over hoe dingen werken.</p>
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

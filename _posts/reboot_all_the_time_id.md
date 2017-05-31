@@ -18,5 +18,5 @@ me-<i>restart</i> komputer. Dan jika kamu sedang berada jauh dari komputermu dan
 <img src="Images/reboot_all_the_time_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

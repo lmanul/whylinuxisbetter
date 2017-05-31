@@ -46,8 +46,8 @@ Bu masaüstü stillerinden hangisine geçeceğinize her yani oturum açışını
 karar verebilirsiniz.</p>
 
 </div>
-</body>
-</html>
+
+
 
 
 

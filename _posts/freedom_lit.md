@@ -29,5 +29,5 @@ pakeitimus k&#363;r&#279;jams, kad visi gal&#279;t&#371; pasinaudoti patobulinim
 daryti (beveik) visk&#261;, k&#261; tik norite.</p>
 
 </div>
-</body>
-</html>
+
+

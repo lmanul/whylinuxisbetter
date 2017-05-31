@@ -11,5 +11,5 @@
 <p>Di sisi lain, kamu bisa mendapatkan Linux <b>tanpa membayar sepeser pun</b>. Ya, semua orang di seluruh dunia telah bekerja keras untuk membuat sistem yang bagus, aman, efisien dengan tampilan menarik dan mereka memberikan hasil kerja mereka secara bebas untuk orang lain (kalau kamu masih penasaran kenapa orang-orang itu melakukan hal tersebut, kirim email pada saya dan saya akan mencoba untuk menjelaskan dengan sebaik-baiknya :) ). Tentu saja, beberapa perusahaan telah membuat bisnis yang berhasil dengan menyediakan dukungan, dokumentasi, layanan telepon, dll., untuk versi Linux yang mereka dukung, dan ini merupakan hal yang wajar. Akan tetapi, untuk sebagian besar kasus, kamu memang tidak perlu membayar sepeser pun.</p>
 
 </div>
-</body>
-</html>
+
+

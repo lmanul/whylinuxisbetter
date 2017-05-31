@@ -17,5 +17,5 @@
 <p>Ezért lehetsz biztos benne, hogy egy nyílt forráskódú program nem tesz semmi rosszat a hátad mögött: a közösség alaposan rajta tartja a szemét a recepteken.</p>
 
 </div>
-</body>
-</html>
+
+

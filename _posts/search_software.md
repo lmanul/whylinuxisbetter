@@ -31,5 +31,5 @@ and press "Apply" or "OK". Or you can just browse existing software
 software yourself. Three: more time to actually try out the software.</p>
 
 </div>
-</body>
-</html>
+
+

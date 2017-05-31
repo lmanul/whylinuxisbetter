@@ -16,5 +16,5 @@ Det er det sammen med Microsoft, de giver heller ikke opskriften, eller "kildeko
 <p>Det er derfor, du kan være sikker på open source-software ikke gør dårlige ting bag din ryg: Open source samfundet holder et vågent øje med alle opskrifterene.</p>
 
 </div>
-</body>
-</html>
+
+

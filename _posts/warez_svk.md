@@ -23,5 +23,5 @@ table_parser ("Áno", "Nie", "Komerčný", "Slobodný", "Existuje aj na Windows?
 <p>Nakreslil <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a></p>
 
 </div>
-</body>
-</html>
+
+

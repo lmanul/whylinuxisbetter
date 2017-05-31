@@ -53,5 +53,5 @@ akan mengerjakan sesuatu yang buruk tanpa sepengetahuan kamu: komunitas
 akan tetap menjaga resep.</p>
 
 </div>
-</body>
-</html>
+
+

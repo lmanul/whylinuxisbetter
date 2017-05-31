@@ -16,5 +16,5 @@ de plaats selecteren waar u woont (of een andere plaats) in een volledige lijst 
 2°C!).</p>
 
 </div>
-</body>
-</html>
+
+

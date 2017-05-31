@@ -18,5 +18,5 @@ untuk ide dan versi pertama dari tulisan ini) </center>
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

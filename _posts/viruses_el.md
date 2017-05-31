@@ -53,5 +53,5 @@ Apache web server (ένας web server είναι ένα πρόγραμμα πο
 <img src="Images/viruses_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

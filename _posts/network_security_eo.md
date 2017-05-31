@@ -9,5 +9,5 @@
 <p>Linux ne estas perfekta, sed pro la maniero je kiu ĝi estas farita, tiaj eraroj ne estas eblaj (aŭ almenaŭ ili ne estas ekspluateblaj).</p>
 
 </div>
-</body>
-</html>
+
+

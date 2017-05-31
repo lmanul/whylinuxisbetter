@@ -27,5 +27,5 @@ dia. Linux et deixa gastar més temps en treballar, i menys temps
 reinstal·lant una i altra vegada.</p>
 
 </div>
-</body>
-</html>
+
+

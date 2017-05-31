@@ -31,5 +31,5 @@
 <p>Seperti yang kamu lihat, dengan Linux <b>kamu yang menentukan tampilan desktop yang kamu sukai</b>. Dan kamu bahkan tidak perlu mengatur satu atau semuanya: kamu bisa menggantinya sesuai keinginan kapanpun pada saat log in ke komputer.</p>
 
 </div>
-</body>
-</html>
+
+

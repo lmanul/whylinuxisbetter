@@ -20,5 +20,5 @@
 <li><b>Manja šteta po planetu</b> pošto oni silni CD-ovi više ne moraju da se pakuju zajedno sa uređajima (tj. kad ne budu trebali ni windows-u...).</li>
 
 </div>
-</body>
-</html>
+
+

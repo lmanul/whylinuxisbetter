@@ -10,5 +10,5 @@ jis puikiai tvarko ir groja muzik&#261;, &#303;sid&#279;mi, kurios dainos jums p
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+
+

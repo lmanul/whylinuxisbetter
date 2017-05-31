@@ -51,5 +51,5 @@ Linux, desto snabbare går det. Valet är upp till dig!</p>
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

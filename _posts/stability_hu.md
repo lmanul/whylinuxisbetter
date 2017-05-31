@@ -13,5 +13,5 @@
 <p>Normál esetben úgysem hagyod bekapcsolva a géped ilyen hosszú ideig, de ez jól illusztrálja, mennyire stabil is a Linux.</p>
 
 </div>
-</body>
-</html>
+
+

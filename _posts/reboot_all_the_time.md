@@ -38,5 +38,5 @@ point is: the system won't bother you with restarting all the time.</p>
 <img src="Images/reboot_all_the_time_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

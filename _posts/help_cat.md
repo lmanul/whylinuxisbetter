@@ -24,5 +24,5 @@ distribució que tries – mira la secció d'instal·lació) en Google i sens
 dubte trobaràs el que necessites.</p>
 
 </div>
-</body>
-</html>
+
+

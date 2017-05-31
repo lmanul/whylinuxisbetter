@@ -18,5 +18,5 @@ thật ra rất thân thiện, nếu bạn hỏi đúng cách. Chỉ cần gõ "
 bằng phiên bản bạn đang dùng - xem mục "Cài Đặt" - bạn sẽ tìm được mọi thứ bạn cần).</p>
 
 </div>
-</body>
-</html>
+
+

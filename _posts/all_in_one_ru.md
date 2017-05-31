@@ -42,5 +42,5 @@ OpenOffice. Но вам по прежнему нужно найти его, ск
 <img src="Images/app_menu.png" />
 
 </div>
-</body>
-</html>
+
+

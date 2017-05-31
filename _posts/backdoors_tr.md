@@ -15,5 +15,5 @@
 <p>İşte bu yüzden açık kaynaklı yazılımların sizi arkanızdan hançerlemeyeceğinden emin olabilirsiniz: topluluğumuz her zaman kaynakları yakın takibe alır.</p>
 
 </div>
-</body>
-</html>
+
+

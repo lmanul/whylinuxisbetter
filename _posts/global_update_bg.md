@@ -14,5 +14,5 @@ ZIP архиваторът? Програмата за запис на диско
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -19,5 +19,5 @@ servizo en liña, etc., para a súa propia versión de Linux e isto é algo real
 parte do tempo ti non vas ter que pagar un centavo.</p>
 
 </div>
-</body>
-</html>
+
+

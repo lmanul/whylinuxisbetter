@@ -13,5 +13,5 @@
 <p>Çoğu zaman, bilgisayarınızı bu kadar yalnız bırakmazsınız, fakat bu Linux'un ne kadar dayanıklı olduğunun bir göstergesidir.</p>
 
 </div>
-</body>
-</html>
+
+

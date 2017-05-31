@@ -31,5 +31,5 @@
 <p>Láthatod, hogy Linuxon <b>te döntöd el, hogy nézzen ki az asztalod</b>. És nem kell egyszer és mindenkorra választanod : bármikor válthatsz valamelyik másik asztalstílusra.</p>
 
 </div>
-</body>
-</html>
+
+

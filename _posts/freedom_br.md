@@ -38,5 +38,5 @@ desenvolvedores, para o benefício de todos. Você está livre para fazer
 (quase) tudo que quiser com o programa.</p>
 
 </div>
-</body>
-</html>
+
+

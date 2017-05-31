@@ -22,5 +22,5 @@ wilt houden, het enige dat u hoeft te doen is duwen op de knop
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

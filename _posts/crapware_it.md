@@ -19,5 +19,5 @@
 <p>Nulla di tutto ciò in Linux. Nessun programma ti tormenterà per sottoscriverti, pagare dopo il termine di un periodo di prova, o rallenterà il tuo computer facendoti aspettare di più mentre si avvia, quando invece pensavi fosse pronto per essere usato. Linux è fornito con tutto ciò che ti serve per iniziare a lavorare subito, senza spazzatura.</p>
 
 </div>
-</body>
-</html>
+
+

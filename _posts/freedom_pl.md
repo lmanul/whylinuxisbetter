@@ -44,5 +44,5 @@ mogli z nich skorzystać. Z Wolnym Oprogramowaniem możesz robić wszystko,
 co Ci się podoba (no, może prawie wszystko).</p>
 
 </div>
-</body>
-</html>
+
+

@@ -9,5 +9,5 @@
 <p>Tad, jei ko nors nesuprantate, kokia programa neveikia taip, kaip i&#353; jos tikit&#279;s, ar negalite rasti kokios savyb&#279;s, nedvejodami klauskite patarimo. Jei kas &#353;alia j&#363;s&#371; (gimin&#279;s? bendradarbiai?) naudoja Linux'us, jie d&#382;iaugsis, gal&#279;dami jums pad&#279;ti. Kitu atveju, papras&#269;iausiai prisijunkite prie interneto ir rasite t&#363;kstan&#269;ius viet&#371;, kur &#382;mon&#279;s atsakys &#303; j&#363;s&#371; klausimus ir pad&#279;s s&#279;kmingai i&#353;spr&#281;sti problemas. "&#381;iniukai" i&#353; ties&#371; yra malon&#363;s &#382;mon&#279;s, jei pateikiate klausimus mandagiai. Tiesiog nar&#353;ykl&#279;s paie&#353;kos laukelyje surinkite "linux help" (arba pakeiskite "linux" savo distribucijos pavadinimu - pa&#382;i&#363;r&#279;kite diegimo skyrelyje) Google puslapyje ir neabejotinai rasite visk&#261;, ko jums reik&#279;s.</p>
 
 </div>
-</body>
-</html>
+
+

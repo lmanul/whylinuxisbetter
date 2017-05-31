@@ -13,5 +13,5 @@
 <p>Vi ne lasos vian komputilon tiom da tempo, dum la plejmulta tempo, sed ĉi tio montras kiom stabila estas Linux.</p>
 
 </div>
-</body>
-</html>
+
+

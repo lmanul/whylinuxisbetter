@@ -20,5 +20,5 @@ servicio en línea, etc., para su propia versión de Linux y esto es algo realme
 parte del tiempo tú no vas a tener que pagar un céntimo.</p>
 
 </div>
-</body>
-</html>
+
+

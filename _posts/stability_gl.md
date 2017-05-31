@@ -13,5 +13,5 @@
 <p>Seguramente non adoitas deixar acendida a túa computadora tanto tempo seguido, pero é unha demostración da estabilidade de Linux.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -13,5 +13,5 @@
 <p>Linux lasas al vi pli da tempo por labori sen reinstali ĉion denove.</p>
 
 </div>
-</body>
-</html>
+
+

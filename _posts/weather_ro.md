@@ -17,5 +17,5 @@ Puteţi selecta oraşul unde locuiţi (sau orice altă zonă) dintr-o listă com
 de locaţii (OK, am trişat, am ales Honolulu pentru poză, sunt 2°C în România acum!).</p>
 
 </div>
-</body>
-</html>
+
+

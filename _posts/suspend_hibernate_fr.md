@@ -29,5 +29,5 @@ programmes, etc.) exactement telles que vous les avez laissées.</p>
 <img src="Images/suspend_hibernate_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

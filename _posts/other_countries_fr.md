@@ -36,5 +36,5 @@ d'acquérir des réelles compétences sur le fonctionnement des logiciels.</p>
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

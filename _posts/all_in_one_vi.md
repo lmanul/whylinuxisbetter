@@ -36,5 +36,5 @@ bạn thấy đấy, hệ thống Windows không hoàn thiện, càt đặt Wind
 <img src="Images/app_menu.png" />
 
 </div>
-</body>
-</html>
+
+

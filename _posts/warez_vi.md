@@ -31,5 +31,5 @@ table_parser ("Có", "Không", "Thương Mại", "Mã Nguồn Mở", "Chạy tr�
 <p>Ảnh vẽ bởi <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a></p>
 
 </div>
-</body>
-</html>
+
+

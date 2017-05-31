@@ -9,5 +9,5 @@
 <p>Linux er ikke perfekt, men</p>
 
 </div>
-</body>
-</html>
+
+

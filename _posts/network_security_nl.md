@@ -9,5 +9,5 @@
 <p>Linux is niet perfect, maar is veel beter bestand tegen virussen en hackers.</p>
 
 </div>
-</body>
-</html>
+
+

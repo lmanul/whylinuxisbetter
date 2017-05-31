@@ -50,5 +50,4 @@ tworzenia prezentacji, rysowania, malowania i edycji równań matematycznych</li
 <img src="Images/app_menu.png" />
 
 </div>
-</body>
-</html>
+

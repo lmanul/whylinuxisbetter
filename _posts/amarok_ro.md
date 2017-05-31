@@ -13,5 +13,5 @@ pe Internet, şi chiar face rost de copertele CD-urilor pentru dumneavoastră!</
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -18,5 +18,5 @@ izabrati mesto u kom živite (ili bilo koje drugo) u kompletnoj listi lokacija
 2°C u Parizu!).</p>
 
 </div>
-</body>
-</html>
+
+

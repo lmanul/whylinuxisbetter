@@ -24,5 +24,5 @@ Di Cosmo</a> за това сравнение). Всяко чекмедже мо
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -35,5 +35,5 @@ bạn thích. Nhưng đừng lo, giao diện sẵn có của Linux tương đố
 cũng không cần chọn duy nhất một giao diện mà có thể thay đổi mỗi khi bạn bật máy.</p>
 
 </div>
-</body>
-</html>
+
+

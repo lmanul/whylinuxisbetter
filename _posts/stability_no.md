@@ -13,5 +13,5 @@
 <p>I de aller fleste tilfeller vil du ikke la datamaskinen din være kontinuerlig aktiv i så lang tid uten å slå den av, men dette illustrerer hvor stabilt Linux er.</p>
 
 </div>
-</body>
-</html>
+
+

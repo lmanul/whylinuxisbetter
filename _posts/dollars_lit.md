@@ -21,5 +21,5 @@ Linux'o versijoms, ir tai, &#382;inoma, yra gerai. Ta&#269;iau da&#382;niausiai 
 cento.</p>
 
 </div>
-</body>
-</html>
+
+

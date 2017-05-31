@@ -13,5 +13,5 @@ sa internet-a, i čak može da Vam pokaže omot CD-a !</p>
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -31,5 +31,5 @@ tillbaka ändringarna till utvecklarna så att alla får ta del av förbättring
 att göra (nästan) allt du vill med programmet.</p>
 
 </div>
-</body>
-</html>
+
+

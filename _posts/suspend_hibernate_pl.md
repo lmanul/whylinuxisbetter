@@ -30,5 +30,4 @@ hibernować i budzić, z pominięciem czasochłonnego procesu restartu.</p>
 <img src="Images/suspend_hibernate_thumb.png" />
 
 </div>
-</body>
-</html>
+

@@ -48,5 +48,5 @@ hoe sneller het gaat. De keuze is aan u!</p>
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

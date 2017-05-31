@@ -47,5 +47,5 @@ rápido ele fica. A escolha é toda sua!</p>
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -35,5 +35,5 @@ so that everyone gets the improvement as well. You're free to do
 (nearly) whatever you want with the software.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -28,5 +28,5 @@ diese Programme „crapware“ getauft.</p>
 verlangsamen und dich während und nach dem Systemstart ewig warten lassen. Linux bringt alles mit, was du zum sofortigen Losarbeiten baruchst, aber keine Crapware.</p>
 
 </div>
-</body>
-</html>
+
+

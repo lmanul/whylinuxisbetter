@@ -34,5 +34,5 @@ in modo che chiunque possa beneficiarne. Sei libero di fare (quasi) tutto
 quello che vuoi con il software.</p>
 
 </div>
-</body>
-</html>
+
+

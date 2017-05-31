@@ -21,5 +21,5 @@ i kategorier:</p>
 <img src="Images/categories_menu.png">
 
 </div>
-</body>
-</html>
+
+

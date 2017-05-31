@@ -29,5 +29,5 @@ molta elecció!) per categories.</p>
 <p>Així que una: no més navegar. Dos: no més baixar programari i instal·lar-te'l tu mateix. Tres: més temps per a provar el programari realment.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -16,5 +16,5 @@
 <img src="Images/weather_details.png" />
 
 </div>
-</body>
-</html>
+
+

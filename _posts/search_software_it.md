@@ -31,5 +31,5 @@ scelta!) per categorie.</p>
 installare manualmente. Tre: più tempo per provare effettivamente il software.</p>
 
 </div>
-</body>
-</html>
+
+

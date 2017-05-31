@@ -13,5 +13,5 @@ wymaga od sprzętu. Zerknij poniżej...</p>
 <? all_video_ids_from_file ();?>
 
 </div>
-</body>
-</html>
+
+

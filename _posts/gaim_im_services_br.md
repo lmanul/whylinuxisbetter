@@ -13,4 +13,4 @@ Windows também), você pode conectar em todos esses serviços de uma vez, com e
 
 <img src="Images/gaim_im_services.png" />
 
-</div> </body> </html>
+</div>  

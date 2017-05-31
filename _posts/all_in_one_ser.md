@@ -45,5 +45,5 @@ i njegova instalacija je samo početak nevolja.</p>
 <img src="Images/app_menu.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -46,5 +46,5 @@ switch to any of these desktop styles whenever you log into your
 computer.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -45,5 +45,5 @@ vous ennuiera pas en vous demandant de redémarrer tout le temps.</p>
 <img src="Images/reboot_all_the_time_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

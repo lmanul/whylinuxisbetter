@@ -26,5 +26,5 @@ sûr un système en français chez vous) ci-dessous :</p>
 <img src="Images/global_update.png" />
 
 </div>
-</body>
-</html>
+
+

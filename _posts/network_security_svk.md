@@ -9,5 +9,5 @@
 <p>Linux nie je dokonalý, ale jeho sila tkvie v rôznorodosti. Preto ešte žiadny univerzálny vírus nedokázal napadnúť a poškodiť <i>všetky</i> distribúcie Linuxu. Vytvorenie takéhoto vírusu je omnoho ťažšie ako vytvorenie vírusu, ktorý napadne Windows. Pre viac informácií si pozrite článok "Vírusy".</p>
 
 </div>
-</body>
-</html>
+
+

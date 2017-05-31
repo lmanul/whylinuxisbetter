@@ -34,5 +34,5 @@ le coeur du système, et cela avec chaque installation Linux. Cela implique:</p>
 </ul>
 
 </div>
-</body>
-</html>
+
+

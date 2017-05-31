@@ -24,5 +24,5 @@
 <p>Zusammengefasst: Kein Gesuche im Netz mehr, kein manuelles Herunterladen und Installieren, dafür aber mehr Zeit, um die gesuchte Software auszuprobieren.</p>
 
 </div>
-</body>
-</html>
+
+

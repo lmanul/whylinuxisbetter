@@ -9,6 +9,6 @@
 <p>Linux no es perfecto, pero por la forma en que está construido, este tipo de fallos no son posibles (o al menos, no se pueden explotar).</p>
 
 </div>
-</body>
-</html>
+
+
  

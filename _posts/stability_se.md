@@ -13,5 +13,5 @@
 <p>Oftast lämnar du inte datorn påslagen en längre period, men detta visar hur stabilt Linux är.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -34,5 +34,5 @@ kako bi svi zainteresovani mogli da dobiju poboljšanje. Slobodni ste da uradite
 (skoro) sve što hoćete sa softverom.</p>
 
 </div>
-</body>
-</html>
+
+

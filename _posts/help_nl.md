@@ -24,5 +24,5 @@ distributie die u kiest - zie de Installeer Linux-pagina) in Google en u zult
 ongetwijfeld vinden wat u nodig heeft.</p>
 
 </div>
-</body>
-</html>
+
+

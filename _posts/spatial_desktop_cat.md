@@ -14,5 +14,5 @@ Vista? Com d'enganyat estàs: Linux ho fa millor, de franc, i amb molts menys re
 
 
 </div>
-</body>
-</html>
+
+

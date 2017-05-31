@@ -32,5 +32,5 @@ preoccupazione.</p>
 tempo, ma è una dimostrazione di quanto sia stabile Linux.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -34,5 +34,5 @@ decentemente come funzionino le cose.</p>
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -13,5 +13,5 @@ hay un interesante artículo sobre esto. ¿Qué tal si Microsoft ni siquiera se 
 <img src="Images/report_bugs_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

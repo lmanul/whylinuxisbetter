@@ -25,5 +25,5 @@
 <p>Taigi visų pirma: nereikia klaidžioti internete. Antra: parsisiųsti ir įdiegti programos pačiam nebereikia. Trečia: sutaupote laiko, kurį galite panaudoti naujos programos išmėginimui.</p>
 
 </div>
-</body>
-</html>
+
+

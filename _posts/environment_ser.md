@@ -40,5 +40,5 @@ instalacioni medij, jednostavno ga možete ponovo "skinuti").</li>
 </ul>
 
 </div>
-</body>
-</html>
+
+

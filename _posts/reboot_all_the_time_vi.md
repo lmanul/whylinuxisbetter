@@ -29,5 +29,5 @@ hệ thống sẽ không yêu cầu bạn khởi động lại liên tục.</p>
 <img src="Images/reboot_all_the_time_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

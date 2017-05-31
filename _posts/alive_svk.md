@@ -9,5 +9,5 @@
 <p>Linux beží rovnako dobre aj na staršom hardvéri, na ktorý sa Windows 7 pravdepodobne nebude dať ani nainštalovať, alebo po každom kliknutí nastane 20 sekundová pauza. Jasne, Linux neurobí z 12-ročného počítača výkonný stroj, ale bude na ňom bežať veľmi dobre a dovolí vám vykonávať bežné úlohy (prehliadať internet, písať dokumenty, atď). Počítač, ktorý vám poskytuje túto stránku tiež nie je najmladší a beží na ňom Linux: ak si toto práve čítate, tak je spustený a beží (a ak sa stránka nahráva pomaly, je to len vinou Internetového pripojenia).</p>
 
 </div>
-</body>
-</html>
+
+

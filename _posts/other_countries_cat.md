@@ -36,5 +36,5 @@ sobre com funcionen les coses.</p>
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

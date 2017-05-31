@@ -29,5 +29,5 @@ pàgina web es carrega lentament, tira la culpa a la meva connexió a
 Internet únicament).</p>
 
 </div>
-</body>
-</html>
+
+

@@ -35,5 +35,5 @@ tre sono vuoti), o usare una scorciatoia da tastiera.</p>
 <img src="Images/workspaces_full.png" border="0"/>
 
 </div>
-</body>
-</html>
+
+

@@ -15,5 +15,5 @@ exigences matérielles bien plus faibles.</p>
 <? all_video_ids_from_file ();?>
 
 </div>
-</body>
-</html>
+
+

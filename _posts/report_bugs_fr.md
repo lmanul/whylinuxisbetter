@@ -35,5 +35,5 @@ Tel est le principe des logiciels libres.</p>
 <img src="Images/report_bugs_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -9,5 +9,5 @@
 <p>Linux kjører utmerket på eldre hardware, der Windows 7 høyst sannsynlig ikke engang ville blitt installert, eller som i tilfellet ville ha ventet 20 sekunder etter et museklikk. Linux vil selvfølgelig ikke forvandle din 12 år gamle datamaskin til en monstermaskin, men den vil kjøre problemfritt og vil gjøre deg i stand til å utføre og arbeide med vanlige oppgaver (som for eksempel å surfe på Internett, skriving av dokumenter, osv.). Datamaskinen som leverer denne websiden kjører Linux: Hvis du kan lese dette, er den oppe og går. (Og hvis websiden er treg til å lade, skyldes det min trege Internettforbindelse.)</p>
 
 </div>
-</body>
-</html>
+
+

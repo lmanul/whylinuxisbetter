@@ -22,5 +22,5 @@ dokumentation, jourtelefon, etc., för sin egen version av Linux, och det är sj
 bra. Oftast behöver du dock inte betala ett öre.</p>
 
 </div>
-</body>
-</html>
+
+

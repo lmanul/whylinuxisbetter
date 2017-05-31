@@ -27,5 +27,5 @@ chuyển sang màn hình khác, chỉ việc bấm vào khung chữ nhật tươ
 <img src="Images/workspaces_full.png" border="0"/>
 
 </div>
-</body>
-</html>
+
+

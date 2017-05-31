@@ -9,5 +9,5 @@
 <p>Linux dapat dengan baik beroperasi pada perangkat keras lama, dimana kalau menggunakan Windows 7, bahkan akan menolak untuk diinstal, atau membuat kamu harus menunggu 20 detik setiap melakukan klik. Tentu saja, Linux tidak akan membuat sebuah komputer dengan usia pemakaian 12 tahun menjadi komputer tercepat, tapi Linux akan beroperasi dengan baik dan kamu bisa mengerjakan pekerjaan seperti biasa (berselancar di internet, menulis dokumen, dll.). Halaman ini dibuat dengan komputer yang tidak lagi baru dan menggunakan Linux: Kalau kamu bisa membaca halaman ini, berarti komputernya sedang beroperasi (kalau akses ke situs ini lambat, salahkan koneksi internetnya).</p>
 
 </div>
-</body>
-</html>
+
+

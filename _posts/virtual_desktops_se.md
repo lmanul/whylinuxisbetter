@@ -24,5 +24,5 @@ I detta fallet är de andra tre tommma), eller använd en tangentbordskombinatio
 <img src="Images/workspaces_full.png" border="0"/>
 
 </div>
-</body>
-</html>
+
+

@@ -21,5 +21,5 @@ cu numele distribuţiei ce o folosiţi -- vedeţi secţiunea de instalare) pe Go
 şi veţi găsi fără îndoială tot ce aveţi nevoie.</p>
 
 </div>
-</body>
-</html>
+
+

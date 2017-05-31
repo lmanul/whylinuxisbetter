@@ -37,5 +37,5 @@ du har installerat mjukvaran - du kan alltid ladda ner det senare igen).</li>
 </ul>
 
 </div>
-</body>
-</html>
+
+

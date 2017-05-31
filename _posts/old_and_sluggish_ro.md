@@ -27,5 +27,5 @@ dezamăgit, şi încă rulează perfect azi.</p>
 <p>Linux vă permite să folosiţi mai mult timp pentru a lucra, şi mai puţin timp
 reinstalând.</p> 
 </div>
-</body>
-</html>
+
+

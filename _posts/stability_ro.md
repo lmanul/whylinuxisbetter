@@ -25,5 +25,5 @@ puteţi să continuaţi aşa ani de zile fără vreo problemă.</p>
 arată cât de stabil e Linux.</p>
 
 </div>
-</body>
-</html>
+
+

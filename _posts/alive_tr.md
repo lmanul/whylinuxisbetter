@@ -26,5 +26,5 @@ okuyabiliyorsanız, demek ki hala sağlam ve çalışıyor (ve eğer sayfa yava�
 yükleniyorsa yalnızca internet erişiminizi suçlayın).</p>
 
 </div>
-</body>
-</html>
+
+

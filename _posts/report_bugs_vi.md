@@ -23,5 +23,5 @@ cải thiện. Đây là mô hình làm việc của phần mềm mã nguồn m�
 <img src="Images/report_bugs_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -32,5 +32,5 @@ pas laissés tomber, et il est aussi rapide et réactif qu'au début.</p>
 de temps à réinstaller votre système encore et encore.</p>
 
 </div>
-</body>
-</html>
+
+

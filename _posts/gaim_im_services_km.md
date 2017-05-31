@@ -15,4 +15,4 @@ MSN, Yahoo, ICQ, Jabber, AIM ។ល។ អំឡុង​ពេល​ដែល�
 
 <img src="Images/gaim_im_services.png" />
 
-</div> </body> </html>
+</div>  

@@ -11,5 +11,5 @@
 <p>Açık Kaynak sayesinde, proje veya onu destekleyen şirket bittiğinde, kodlar halka açıktır ve insanlar onu geliştirmeye devam edebilir. Eğer proje sizin çok işinize yarıyorsa kendiniz bile geliştirebilirsiniz. Canınızı sıkan bir hata olduğunda bunu bildirebilir, geliştiricileriyle konuşabilir, daha iyisi kendiniz de düzeltebilir (ya da düzeltecek birini tutabilir) ve değişiklikleri geliştiriciye yollayarak herkesin bu iyileştirmeden yararlanmasını sağlayabilirsiniz. Bu yazılımla (neredeyse) herşeyi yapmakta özgürsünüz.</p>
 
 </div>
-</body>
-</html>
+
+

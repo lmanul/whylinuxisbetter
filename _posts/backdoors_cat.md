@@ -14,5 +14,5 @@
 
 <p>Això és la raó per la qual el programari de codi obert no pot fer coses dolentes sense que te n'adones: la comunitat té l'ull posat en totes les receptes.</p>
 </div>
-</body>
-</html>
+
+

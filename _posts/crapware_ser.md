@@ -19,5 +19,5 @@
 <p>Ništa od toga nema na linuxu. Niti jedan program vam neće zvocati o registraciji, plaćanju nakon isteka probnog perioda ili usporavati kompjuter bez potrebe. Linux dolazi sa svime što je potrebno da odmah započnete rad, bez ikakvog "sranjver-a" .</p>
 
 </div>
-</body>
-</html>
+
+

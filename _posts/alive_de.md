@@ -9,5 +9,5 @@
 <p>Linux läuft bestens auf älterer Hardware, auf der Windows 7 sich möglicherweise nicht einmal mehr installieren oder dich nach jedem Klick 20 Sekunden warten ließe. Natürlich macht auch Linux keine Rennmaschine aus deinem zwölf Jahre alten PC, aber es wird sehr gut darauf laufen und dich oben genannte Tätigkeiten wunderbar ausführen lassen. Der Rechner, der dir diese Seite liefert, ist nicht mehr der jüngste und läuft mit Linux: Wenn du dies hier lesen kannst, dann läuft er (und wenn sich die Seite langsam aufbaut, gib allein meiner Internet-Verbindung die Schuld).</p>
 
 </div>
-</body>
-</html>
+
+

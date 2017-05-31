@@ -23,5 +23,5 @@ table_parser ("Ja", "Nei", "Kommersiell", "Open source", "Tilgjengelig på Windo
 <p>Illustrasjon av <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a></p>
 
 </div>
-</body>
-</html>
+
+

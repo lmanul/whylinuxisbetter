@@ -33,5 +33,5 @@ having any trouble.</p>
 this shows how stable Linux is.</p>
 
 </div>
-</body>
-</html>
+
+

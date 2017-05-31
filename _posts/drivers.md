@@ -31,5 +31,5 @@ the system, and that comes with every single Linux installation. This means:</p>
 </ul>
 
 </div>
-</body>
-</html>
+
+

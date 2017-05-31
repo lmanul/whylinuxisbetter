@@ -24,5 +24,5 @@ Windows?");
 <p>ภาพโดย <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">ไมเคิล แคมบอน</a></p>
 
 </div>
-</body>
-</html>
+
+

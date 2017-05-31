@@ -14,5 +14,5 @@ en Facebook Chat. Op Windows of Mac OS X heeft u waarschijnlijk verschillende pr
 <img src="Images/gaim_im_services.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -17,5 +17,5 @@ trapaciei, eu escolhi Honolulu para a captura de tela, está fazendo 2 °C
 agora em Paris !).</p>
 
 </div>
-</body>
-</html>
+
+

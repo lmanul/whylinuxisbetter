@@ -46,5 +46,5 @@ ili da kaže drugom developeru "Hej, šta ako bla bla, zar to nije propust?".</l
 <img src="Images/viruses_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

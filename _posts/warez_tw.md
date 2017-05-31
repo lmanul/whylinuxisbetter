@@ -23,5 +23,5 @@ table_parser ("Yes", "No", "商業軟體", "開放原始碼軟體", "是否有 W
 <p>由 <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a> 所繪製</p>
 
 </div>
-</body>
-</html>
+
+

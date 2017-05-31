@@ -13,5 +13,5 @@
 <p>Linux'ai leidžia Jums dirbti ir neprarasti laiko bereikalingai perinstaliuojant operacinę sistemą iš naujo ir iš naujo.</p>
 
 </div>
-</body>
-</html>
+
+

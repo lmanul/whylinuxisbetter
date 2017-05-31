@@ -15,5 +15,5 @@
 <p>Todėl galite būti tikri, kad atviro kodo programos nedaro negerų dalykų Jums už nugaros: bendruomenės prižiūri visus jų receptus.</p>
 
 </div>
-</body>
-</html>
+
+

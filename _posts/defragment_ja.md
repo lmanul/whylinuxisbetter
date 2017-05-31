@@ -24,5 +24,5 @@ Di Cosmo</a>のアイデア）。引き出しひとつひとつにはあんま�
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -25,5 +25,5 @@ Linux: ako možete da pročitate ovu stranu onda je upaljen i radi
 (a ako se sajt učitava polako, krivite moju internet konekciju).</p>
 
 </div>
-</body>
-</html>
+
+

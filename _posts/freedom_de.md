@@ -11,5 +11,5 @@
 <p>Bei Quelloffenheit fließen, wenn ein Projekt oder eine Firma aufgegeben wird, alle Quellcodes zurück in die Community und so können die Produkte weiterhin verbessert werden. Wenn dieses Projekt für dich besonders wertvoll ist, kannst du das sogar auch selbst tun. Wenn dich ein bestimmter Bug stört, kannst du ihn melden und mit den Entwicklern reden, oder noch besser, du kannst ihn auch selbst beheben (oder jemanden bitten, dies zu übernehmen) und die Änderungen per Versionsupgrade zurück an die Entwicker senden, so dass jeder aus deiner Arbeit einen Nutzen zieht. Du kannst mit der Software (fast) alles tun, was du willst.</p>
 
 </div>
-</body>
-</html>
+
+

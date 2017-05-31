@@ -15,5 +15,5 @@ theo dõi thời tiết ở bất cứ nơi nào trên thế giới (hình ở t
 chọn Honolulu, giờ này ở Paris là 2 độ C!).</p>
 
 </div>
-</body>
-</html>
+
+

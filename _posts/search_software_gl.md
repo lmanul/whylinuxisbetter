@@ -24,5 +24,5 @@
 <p>Primeira conclusión: para conseguir aplicacións non hai que navegar máis por internet. Segunda: non máis descargar e instalar pola túa conta. Terceira: definitivamente máis tempo para probar o software.</p>
 
 </div>
-</body>
-</html>
+
+

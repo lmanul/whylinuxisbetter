@@ -23,5 +23,5 @@ table_parser ("Ja", "Nein", "Kommerziell", "Open Source", "Existiert für Window
 <p>Zeichnung von <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">Michel Cambon</a></p>
 
 </div>
-</body>
-</html>
+
+

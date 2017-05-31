@@ -21,5 +21,5 @@ verziju Linux, i to je svakako dobra stvar. Ali u najvećem broju slučajeva
 nećete morati platiti ni dianara.</p>
 
 </div>
-</body>
-</html>
+
+

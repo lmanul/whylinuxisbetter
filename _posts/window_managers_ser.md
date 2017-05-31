@@ -43,5 +43,5 @@ I čak ne morate da donesete konačnu odluku: možete
 promeniti bilo koji od ovih stilova kad god se ulogujete na Vaš kompjuter.</p>
 
 </div>
-</body>
-</html>
+
+

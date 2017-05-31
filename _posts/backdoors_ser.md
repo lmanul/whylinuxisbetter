@@ -15,5 +15,5 @@
 <p>Iz ovih razloga možete biti sigurni da softver otvorenog kôda ne radi ništa iza vaših leđa: čitava zajednica posmatra recepte.</p>
 
 </div>
-</body>
-</html>
+
+

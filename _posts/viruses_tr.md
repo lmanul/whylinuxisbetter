@@ -25,5 +25,5 @@ gerçekten çok zorlaştırır. Sebeplerine gelecek olursak:</p>
 <img src="Images/viruses_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -24,5 +24,5 @@
 <p>Alltså, ett: inget mer letande på nätet. Två: Inget mer nedladdande och installerande självt. Tre: Mer tid till att faktiskt testa det nya programmet!</p>
 
 </div>
-</body>
-</html>
+
+

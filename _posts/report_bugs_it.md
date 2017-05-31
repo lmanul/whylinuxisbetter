@@ -30,5 +30,5 @@ migliore. E' così che funziona l'open source.</p>
 <img src="Images/report_bugs_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -15,5 +15,5 @@
 <p>Tio estas la kialo per kiu vi povas esti certa ke la libera programaro ne faras malbonajn aferojn ĉe via dorso: la komunumo tenas okulon proksime de la tutaj receptoj.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -12,4 +12,4 @@ tarnyb&#371; vienu metu ir matyti visus draugus i&#353; karto.</p>
 
 <img src="Images/gaim_im_services.png" />
 
-</div> </body> </html>
+</div>  

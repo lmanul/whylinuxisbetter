@@ -8,4 +8,4 @@
 
 <p>Con Pidgin, o cliente de mensaxería instantánea para Linux (existe tamén para Windows), pódeste conectar a todos estes servizos á vez con este único programa e ver a todos os teus amigotes ao mesmo tempo.</p>
 
-</div> </body> </html>
+</div>  

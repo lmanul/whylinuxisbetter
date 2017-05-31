@@ -40,5 +40,5 @@ Di Cosmo</a> על ההשוואה הזו).
 
 </div>
 <?php require("../../license_he.php");?>
-</body>
-</html>
+
+

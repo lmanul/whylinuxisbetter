@@ -24,5 +24,5 @@
 <p>Tehát egy: nem kell többé keresgélned a neten. Kettő: nem kell többé neked magadnak letölteni és telepíteni a programokat. Három: így végül is több időd jut arra, hogy kipróbáld a szoftvereket.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -19,5 +19,5 @@ J&#363;s&#371; &#353;alis nieko negamina, netgi nereikia auk&#353;tos kvalifikac
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -14,5 +14,5 @@
 <p>Linux lässt dir mehr Zeit für die wesentliche Arbeit und nimmt weniger Zeit für ständige Neuinstallationen.</p>
 
 </div>
-</body>
-</html>
+
+

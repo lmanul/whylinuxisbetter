@@ -16,4 +16,4 @@ mateixa vegada.</p>
 
 <img src="Images/gaim_im_services.png" />
 
-</div> </body> </html>
+</div>  

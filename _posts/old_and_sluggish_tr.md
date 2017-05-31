@@ -13,5 +13,5 @@
 <p>Linux, yeniden kurmakla değil, işinize vakit geçirmenizi sağlar.</p>
 
 </div>
-</body>
-</html>
+
+

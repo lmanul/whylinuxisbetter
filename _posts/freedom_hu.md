@@ -11,5 +11,5 @@
 <p>Nyílt forráskódú szoftver esetén, ha az adott projekt vagy támogató vállalat becsődöl, az összes kód nyílt marad a közösség számára és az emberek továbbfejleszthetik. Ha ez a projekt különösen fontos a számodra, akár egyedül is csinálhatod. Ha egy adott hiba zavar téged, jelentheted, beszélhetsz a fejlesztőkkel, de ami még jobb, akár te magad is kijavíthatod (vagy bérelhetsz valakit, aki megcsinálja neked), majd elküldheted a változtatásokat a főfejlesztőknek, így aztán mindenki hozzájuthat a javításokhoz. (Szinte) bármit megtehetsz a szoftverrel, amit csak akarsz.</p>
 
 </div>
-</body>
-</html>
+
+

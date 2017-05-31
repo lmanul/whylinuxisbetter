@@ -20,5 +20,5 @@
 <li>Windows ve Mac OS yazılımlarını kap içinde satabilmek için milyonlarca CD yazılır. Kabul etmek gerekir ki, Linux'ü yükleyebilmek için de CD yakmaya ihtiyaç duyabilirsiniz (Elbette, CD yakmadan da Linux kurulumu yapabilmeniz mümkün -- ağ aracılıyla ya da sabit diskten kurulum yapmak olgunca yaygındır.) Buna rağmen, birçok kişi Linux dağıtımını yeniden yazılabilir CD'lere (CD-RW) yazmayı tercih ediyor, böylece kurulum işlemini tamamladıklarında, CD'lerini farklı amaçlar için de kullanabiliyorlar (Sahipli işletim sistemlerinin aksine, yazılımın CD'lerini sürekli yanınızda taşımak yerine, Linux'ü internetten istediğiniz zaman indirebilirsiniz.).</li>
 
 </div>
-</body>
-</html>
+
+

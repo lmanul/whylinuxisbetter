@@ -17,5 +17,5 @@ Sejak mereka berpindah ke Linux, sebagian besar dari mereka meng-<i>install</i> 
 <p>Linux membantumu memanfaatkan lebih banyak waktu untuk bekerja, dan lebih sedikit waktu untuk meng-<i>install</i> ulang lagi dan lagi.</p>
 
 </div>
-</body>
-</html>
+
+

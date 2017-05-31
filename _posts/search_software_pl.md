@@ -31,5 +31,5 @@ dość ręcznego ściągania plików... i wreszcie po trzecie: więcej czasu na 
 z nowymi programami.</p>
 
 </div>
-</body>
-</html>
+
+

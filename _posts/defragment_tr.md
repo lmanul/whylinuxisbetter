@@ -46,8 +46,8 @@ Seçim size kalmış! </p>
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+
 
 
 

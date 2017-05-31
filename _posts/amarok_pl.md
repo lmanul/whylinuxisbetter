@@ -14,5 +14,4 @@ tytuł czy też tekst piosenki, a nawet wygląd okładki albumu!</p>
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+

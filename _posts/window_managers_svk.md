@@ -31,5 +31,5 @@
 <p>Ako môžete vidieť, s Linux-om <b>vy rozhodujete, ako vyzerá vaša pracovná plocha</b>. A dokonca sa ani nemusíte rozhodnúť pre jednu špecifickú: môžete si ich zmeniť vždy pri prihlasovaní do systému.</p>
 
 </div>
-</body>
-</html>
+
+

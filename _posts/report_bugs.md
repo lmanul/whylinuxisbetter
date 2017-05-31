@@ -30,5 +30,5 @@ works.</p>
 <img src="Images/report_bugs_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

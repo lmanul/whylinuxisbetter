@@ -24,5 +24,5 @@ oder so zu defragmentieren, ist hier die Kurzversion: Linux benötigt keine Defr
 <img src="Images/defragment.png" />
 
 </div>
-</body>
-</html>
+
+

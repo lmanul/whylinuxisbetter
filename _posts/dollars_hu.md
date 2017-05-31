@@ -11,5 +11,5 @@
 <p>Linuxhoz viszont <b>teljesen ingyen</b> juthatsz. Így igaz, a készítők világszerte keményen dolgoztak, hogy egy ízléses, biztonságos, hatékony és csinos kis rendszert készítsenek, és mindenki számára ingyen elérhetővé teszik munkájukat (ha kíváncsi vagy, a készítők miért teszik ezt, dobj meg egy maillel, és megpróbálom a lehető legjobban elmagyarázni :) ). Természetesen néhány vállalat jó üzletet csinál a saját Linux-verziójuk támogatásának, dokumentációjának, segélyvonalának stb. az eladásával, és ez így is van rendjén. De általában az a jellemző, hogy egy fillért sem kell fizetned.</p>
 
 </div>
-</body>
-</html>
+
+

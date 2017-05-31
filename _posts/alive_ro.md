@@ -26,5 +26,5 @@ aceste rânduri, atunci e pornit şi rulează (şi dacă site-ul se încarcă
 greu, e de vină conexiunea mea la Internet).</p>
 
 </div>
-</body>
-</html>
+
+

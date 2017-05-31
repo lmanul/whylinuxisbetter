@@ -24,5 +24,5 @@
 <p>Takže po prvé: už žiadne hľadanie na internete. Po druhé: už žiadne manuálne sťahovanie a inštalovanie. Po tretie: viac času na vyskúšanie nových programov.</p>
 
 </div>
-</body>
-</html>
+
+

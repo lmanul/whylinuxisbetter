@@ -38,5 +38,5 @@ crackerilor să facă orice vor în computerul dumneavoastră.</p>
 <img src="Images/security_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

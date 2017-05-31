@@ -42,5 +42,5 @@ puteţi schimba între aceste stiluri de fiecare dată când porniţi computerul
 
 
 </div>
-</body>
-</html>
+
+

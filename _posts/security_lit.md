@@ -36,5 +36,5 @@ pataisymus po m&#279;nesio nuo spragos aptikimo (ir da&#382;nai paskelbimo): tai
 <img src="Images/security_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

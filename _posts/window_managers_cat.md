@@ -31,5 +31,5 @@
 <p>Com pots veure, amb Linux <b>tu decideixes com ha de ser l'aparença del teu escriptori</b>. I ni tan sols necessites decidir una vegada i per sempre: podràs canviar a qualsevol d'aquestos escriptoris una vegada et registres al teu ordinador.</p>
 
 </div>
-</body>
-</html>
+
+

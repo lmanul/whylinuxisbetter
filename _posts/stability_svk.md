@@ -13,5 +13,5 @@
 <p>Väčšinu času nebudete potrebovať nechávať váš počítač zapnutý tak dlho, ale to dokazuje stabilitu Linux-u.</p>
 
 </div>
-</body>
-</html>
+
+

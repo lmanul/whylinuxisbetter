@@ -13,5 +13,5 @@ delle volte, prenderne il controllo.</p>
 <p>Linux non è perfetto, ma</p>
 
 </div>
-</body>
-</html>
+
+

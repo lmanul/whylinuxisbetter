@@ -42,5 +42,5 @@ obţineţi de asemenea, <i>fără a instala nimic în plus</i>:</p>
 <img src="Images/app_menu.png" />
 
 </div>
-</body>
-</html>
+
+

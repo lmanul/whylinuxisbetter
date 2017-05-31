@@ -37,5 +37,5 @@ poenta je: sistem Vam neće dosađivati stalnim restartovanjima.</p>
 <img src="Images/reboot_all_the_time_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

@@ -25,5 +25,5 @@ Linux peut avoir une influence sur notre environnement:</p>
 </ul>
 
 </div>
-</body>
-</html>
+
+

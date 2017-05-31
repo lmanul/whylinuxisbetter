@@ -43,5 +43,4 @@ praca nad wspólnym ulepszaniem oprogramowania. Na tym opiera się rozwój Otwar
 <img src="Images/report_bugs_thumb.png" />
 
 </div>
-</body>
-</html>
+

@@ -29,5 +29,4 @@ po dzień dzisiejszy - bez reinstalacji.</p>
 bowiem marnować go na ciągłe reinstalacje.</p>
 
 </div>
-</body>
-</html>
+

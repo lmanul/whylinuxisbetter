@@ -11,5 +11,5 @@ atď.), a niektoré z nich sú <b>úžasné</b>. Vyskúšajte napríklad AmaroK
 <img src="Images/amarok.png" />
 
 </div>
-</body>
-</html>
+
+

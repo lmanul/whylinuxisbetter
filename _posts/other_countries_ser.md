@@ -32,5 +32,5 @@ bez stvarnog znanja kako stvari funkcionišu.</p>
 <img src="Images/earth.png" />
 
 </div>
-</body>
-</html>
+
+

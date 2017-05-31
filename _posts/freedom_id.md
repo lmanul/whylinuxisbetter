@@ -11,5 +11,5 @@
 <p>Dengan <i>Open Source</i>, jika suatu proyek atau dukungan tidak berlanjut, semua kode program tetap bersifat terbuka bagi komunitas dan setiap orang bisa tetap melanjutkan proyek atau dukungan tersebut. Jika proyek itu sangat berguna terutama untukmu, kamu bahkan bisa melakukannya dengan dirimu sendiri. Apabila kamu terganggu dengan suatu <i>bug</i>, kamu bisa melaporkannya, berbicara langsung dengan para pengembang program tersebut, atau bahkan lebih baik, kamu bisa memperbaikinya sendiri (atau menggunakan jasa orang lain), dan mengirimkan kembali perubahannya ke para pengembang utama program sehingga semua orang akan merasakan hasil perbaikan yang kamu lakukan. Kamu bebas untuk melakukan (hampir) semua yang kamu inginkan dengan perangkat lunak tersebut.</p>
 
 </div>
-</body>
-</html>
+
+

@@ -28,5 +28,5 @@ molt bo. Però la la majoria de les vegades, no hauràs de pagar un
 cèntim.</p>
 
 </div>
-</body>
-</html>
+
+

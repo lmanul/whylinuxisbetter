@@ -29,5 +29,5 @@ i naprave bolji softver. To je način na koji Open Source funkcioniše.</p>
 <img src="Images/report_bugs_thumb.png" />
 
 </div>
-</body>
-</html>
+
+

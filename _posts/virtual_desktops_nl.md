@@ -33,5 +33,5 @@ in dit geval zijn de drie andere leeg) of gebruik een sneltoetscombinatie om te 
 <img src="Images/workspaces_full.png" border="0"/>
 
 </div>
-</body>
-</html>
+
+
