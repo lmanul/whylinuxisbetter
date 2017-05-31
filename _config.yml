@@ -1,0 +1,7 @@
+title: Why Linux is Better
+baseurl: "/"
+url: "http://whylinuxisbetter.net"
+
+permalink: :title
+
+markdown: kramdown
