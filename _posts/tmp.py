@@ -9,8 +9,8 @@ for i in items:
     lang = "en"
   print(lang)
   header = "---\nlang: ' + lang + '\n---\n"
-  orig = open(i, "r").read()
-  f = open(i, "w")
+  orig = open(i, mode="r", encoding='utf-8').read()
+  f = open(i, mode="w", encoding='utf-8')
   #f.write(header)
   f.write(orig)
   f.close()
