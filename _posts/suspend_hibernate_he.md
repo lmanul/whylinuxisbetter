@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir='rtl'>
 <h2>חסוך אנרגיה: תן למחשב לישון או לחרופ.</h2>
@@ -26,6 +26,6 @@
 <img src="Images/suspend_hibernate_thumb.png" />
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

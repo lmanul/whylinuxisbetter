@@ -1,4 +1,4 @@
-<?php require("../../entete.php"); ?> <?php 
+ <?php 
 require("../../base.php"); 
 ?>
 

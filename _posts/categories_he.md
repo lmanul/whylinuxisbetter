@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir='rtl'>
 <h2>אין בלגן בתפריט ההתחלה שלך</h2>
@@ -16,6 +16,6 @@
 <img src="Images/categories_menu.png">
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

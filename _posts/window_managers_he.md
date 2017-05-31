@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -34,6 +34,6 @@
 ואתה אפילו לא חייב להחליט פעם אחת ולתמיד: ביכולתך להחליף את מראה שולחן העבודה שלך בכל פעם שתפעיל את מחשבך.
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

@@ -1,4 +1,4 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?>
+
 
 <div id="corps">
 
@@ -8,7 +8,7 @@ Centenas de jogos são lançados sob licença livre: 2D, 3D, puzzles, jogos de g
 
 <div id="items">
 
-<?php all_games_from_file (); ?>
+
 
 <br class="clearboth" />
 </div>

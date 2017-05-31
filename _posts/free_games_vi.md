@@ -1,4 +1,4 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?> <?php require("../../fonctions.php"); ?>
+
 
 <div id="corps">
 
@@ -9,7 +9,7 @@ game online... Đây là vài ví dụ:
 
 <div id="items">
 
-<?php all_games_from_file (); ?>
+
 
 <br class="clearboth" />
 </div>

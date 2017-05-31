@@ -1,4 +1,4 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?>
+
 
 <div id="corps">
 
@@ -8,7 +8,7 @@ Stotine igara se izdaju pod besplatnom/slobodnom (kao "besplatno pivo" i kao "sl
 
 <div id="items">
 
-<?php all_games_from_file (); ?>
+
 
 <br class="clearboth" />
 </div>

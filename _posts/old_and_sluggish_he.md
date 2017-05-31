@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir='rtl'>
 <h2> מדוע חלונות איטית יותר מיום ליום?</h2>
@@ -12,6 +12,6 @@
 לינוקס מאפשר לכם לבלות יותר זמן בעבודה, ופחות בהתקנות ותיקונים.
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

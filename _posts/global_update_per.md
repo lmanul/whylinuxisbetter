@@ -6,7 +6,7 @@
   
   
   <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
-<?php require("../../entete.php"); ?><?php require("../../base.php"); ?>
+
 
 
   

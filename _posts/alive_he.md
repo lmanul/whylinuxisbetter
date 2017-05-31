@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir="rtl">
 <h2>חיים חדשים למחשבך הישן</h2>
@@ -22,6 +22,6 @@
 
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -27,6 +27,6 @@
 <img src="Images/reboot_all_the_time_thumb.png" />
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

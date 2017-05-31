@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -28,6 +28,6 @@
 </ul>
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

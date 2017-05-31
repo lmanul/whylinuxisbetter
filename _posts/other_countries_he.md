@@ -1,4 +1,4 @@
-﻿<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+﻿
 
 <div id="corps" class="rtl" dir='rtl'>
 
@@ -18,6 +18,6 @@
 <img src="Images/earth.png" />
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

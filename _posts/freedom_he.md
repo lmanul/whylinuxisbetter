@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -20,6 +20,6 @@
 (או לשכור מישהו שיעשה זאת עבורך), ולשלוח את התיקונים חזרה למפתחים במעלה הזרם, כך שכל אחד ייהנה גם כן מהשיפור. הינך חופשי לעשות (כמעט) כל מה שתרצה לעשות עם התוכנה.
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

@@ -1,4 +1,4 @@
-﻿<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+﻿
 
 <div id="corps" class="rtl" dir='rtl'>
 
@@ -27,6 +27,6 @@ Windows?");
   האיור מאת    <a href="http://michel.cambon.free.fr/ampere/salle1bis.htm">   מישל קמבון    Michel Cambon</a>
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

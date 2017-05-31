@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -12,6 +12,6 @@
 אזור המגורים שלך (או כל מקום אחר) מרשימה מלאה של מקומות (או קיי, רימיתי, בחרתי את הונלולו לצילום המסך, במחניים עכשיו 32° צלזיוס!).
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

@@ -1,4 +1,4 @@
-﻿<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?>
+﻿
 
 <div id="corps">
 
@@ -8,7 +8,7 @@ Setki gier wydawanych jest na licencjach umożliwiających ich darmowe rozpowsze
 
 <div id="items">
 
-<?php all_games_from_file (); ?>
+
 
 <br class="clearboth" />
 </div>

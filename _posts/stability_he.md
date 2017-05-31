@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -21,6 +21,6 @@
 רוב הזמן, לא תשאיר את מחשבך דולק כל כך הרבה זמן, אבל זה מראה כמה שלינוקס יציבה.
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

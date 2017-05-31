@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps">
 
@@ -8,7 +8,7 @@ Honderden spellen zijn gratis en vrijelijk beschikbaar: 2D- en 3D-spellen, puzze
 
 <div id="items">
 
-<?php all_games_from_file ();?>
+
 
 <br class="clearboth" />
 </div>

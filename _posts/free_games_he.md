@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -8,7 +8,7 @@
 
 <div id="items">
 
-<?php all_games_from_file ();?>
+
 
 <br class="clearboth" />
 </div>
@@ -18,6 +18,6 @@
 <a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

@@ -1,4 +1,4 @@
-<?php require("../../entete.php");?> <?php require("../../base.php");?> <?php require("../../fonctions.php");?>
+
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -9,6 +9,6 @@
 לינוקס אינה מושלמת, אך בכול זאת...
 
 </div>
-<?php require("../../license_he.php");?>
+
 
 

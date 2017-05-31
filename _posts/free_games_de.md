@@ -1,4 +1,4 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?>
+
 
 <div id="corps">
 
@@ -8,7 +8,7 @@ Hunderte von Spielen werden unter einer freien (frei wie „Freibier“ und wie 
 
 <div id="items">
 
-<?php all_games_from_file (); ?>
+
 
 <br class="clearboth" />
 </div>

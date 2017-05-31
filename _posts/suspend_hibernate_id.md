@@ -1,4 +1,4 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?> <?php require("../../fonctions.php"); ?>
+
 
 <div id="corps">
 While your computer is sleeping, you can't use it, but it's consuming 
