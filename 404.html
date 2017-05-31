@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+<h1>Gloops, I can't find this page. Sorry!</h1>
+
+<script>
+  // On 2016-02-01 GitHub Pages upgraded to Jekyll3, which broke all blog posts with trailing slashes
+  // and there are tons of links out there on the web to posts with a trailing slash, so can't ignore it
+  var url = location.href;
+  if (url.indexOf('php') != -1) {
+    window.location = 'http://whylinuxisbetter.net';
+  }
+</script>
