@@ -1,11 +1,11 @@
 ---
 lang: tr
----
 ﻿
 
 
 
-<h2>Ücretsiz ve sınırsız desteğin keyfini çıkarın</h2>
+title: Ücretsiz ve sınırsız desteğin keyfini çıkarın
+---
 
 Açık kaynak topluluğunun en iyi yanlarından bir tanesi de, gerçek bir topluluk olmasıdır. Kullanıcılar ve geliştiriciler dışarıda bizimle, web forumlarında, posta listelerinde, IRC kanallarında yeni kullanıcılara yardım etmekte ve yeni sistemlerini kavramaya çalışmalarını sağlamaktadır. Daha fazla insanın Linux'a geçmesi onlara mutluluk verir.
 

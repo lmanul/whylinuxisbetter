@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Il tuo sistema è instabile?
 ---
-
-
-
-
-<h2>Il tuo sistema è instabile?</h2>
 
 hai mai perso il tuo lavoro perché Windows è crashato? Spegni sempre 
 il computer nel modo giusto o a volte stacchi direttamente la spina perché 

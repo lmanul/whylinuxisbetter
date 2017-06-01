@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Twoja stacja robocza, zawsze tam gdzie Ty.</h2>
+title: Twoja stacja robocza, zawsze tam gdzie Ty.
+---
 
 <img src="Images/earth.png" />
 

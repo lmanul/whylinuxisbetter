@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -13,7 +12,8 @@ lang: per
 <body>
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>لينوكس از كامپيوتر شما محافظت مي&zwnj;كنه</h2>
+title: لينوكس از كامپيوتر شما محافظت مي&zwnj;كنه
+---
 ويروسها،توجانها،تبليغات ابزارها و جاسوس ابزارها...ويندوز به راحتي به
 اين چيزها اجازه ورود مي&zwnj;ده.ميانگين زمانيكه يك سيستم ويندوزي متصل
 به اينترنت و داراي SP2 آلوده بشه در حدود 40 دقيقه&zwnj; است.(و در برخي

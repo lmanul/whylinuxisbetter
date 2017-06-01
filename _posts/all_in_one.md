@@ -1,11 +1,11 @@
 ---
 lang: one
+
+
+
+
+title: When the system has installed, why would you <i>still</i> need to install stuff?
 ---
-
-
-
-
-<h2>When the system has installed, why would you <i>still</i> need to install stuff?</h2>
 
 Installing Windows is just the beginning. Imagine you just installed 
 your brand new copy of Windows 7 and prepare to unleash your computer 

@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Njut av fri support för evigt
 ---
-
-
-
-
-<h2>Njut av fri support för evigt</h2>
 
 En av de stora tillgångar hos "open source-communityn" (speciellt 
 Linux), är att det är ett riktigt community. Användare och utvecklare är 

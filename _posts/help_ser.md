@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Uživajte u besplatnoj i neograničenoj podršci
 ---
-
-
-
-
-<h2>Uživajte u besplatnoj i neograničenoj podršci</h2>
 
 Jedna od velikih prednosti Open Source zajednice (i Linux-a
 pogotovo), jeste da je to prava zajednica. Korisnici i developeri

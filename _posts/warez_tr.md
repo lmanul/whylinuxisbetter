@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Yazılımı ücretsiz alabiliyorken, niçin yasal olmayan şekilde kopyalama yapalım?
 ---
-
-
-
-
-<h2>Yazılımı ücretsiz alabiliyorken, niçin yasal olmayan şekilde kopyalama yapalım?</h2>
 
 Eğer gerçekten, tamamen temizseniz, tüm yazılımlarınızın *öhöm* lisansını satın aldıysanız *öhöm* ve bunları kimseye kullandırmadıysanız, sizi gerçekten tebrik ediyoruz.
 

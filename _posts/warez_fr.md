@@ -1,12 +1,12 @@
 ---
 lang: fr
+
+
+
+
+title:  Pourquoi pirater des logiciels quand vous pouvez en avoir 
+gratuitement ?
 ---
-
-
-
-
-<h2> Pourquoi pirater des logiciels quand vous pouvez en avoir 
-gratuitement ?</h2>
 
 Donc, vous n'avez rien à vous reprocher, vous avez *hum* acheté des 
 licenses pour tous les logiciels que vous utilisez *hum*, et personne ne 

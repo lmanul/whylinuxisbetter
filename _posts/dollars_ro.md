@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Nu plătiţi $100 pentru sistemul de operare
 ---
-
-
-
-
-<h2>Nu plătiţi $100 pentru sistemul de operare</h2>
 <h3>(Şi nu îl copiaţi ilegal)</h3>
 
 Probabil vă spuneţi singur(ă): "Nu am plătit pentru Windows". Sunteţi absolut sigur(ă)?

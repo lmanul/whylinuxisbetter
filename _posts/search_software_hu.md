@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Egy új szoftverre lenne szükséged? Ne bajlódj a neten való keresgéléssel, a Linux megteszi helyetted!
 ---
-
-
-
-
-<h2>Egy új szoftverre lenne szükséged? Ne bajlódj a neten való keresgéléssel, a Linux megteszi helyetted!</h2>
 
 Ha egy új programot szeretnél kipróbálni Windows-on:
 

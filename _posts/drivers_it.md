@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Dimenticati dei driver
 ---
-
-
-
-
-<h2>Dimenticati dei driver</h2>
 
 I pezzi hardware nuovi, anche i più semplici, di solito sono abbinati a un CD. Sul CD, c'è un software molto piccolo chiamato "driver". Se leggi il manuale di istruzioni, saprai che l'hardware non funzionerà su un computer Windows finchè non installi il driver. Se sei come la maggior parte delle persone e non leggi il manuale, allora lo capirai da solo quando vedrai che il tuo nuovo gioiellino high-tech non funziona appena inserito.
 

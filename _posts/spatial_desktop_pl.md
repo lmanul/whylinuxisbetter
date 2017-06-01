@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Nowa generacja rozwiązań wizualnych czeka na Ciebie</h2>
+title: Nowa generacja rozwiązań wizualnych czeka na Ciebie
+---
 
 Czy nowe, trójwymiarowe możliwości systemu Windows Vista zrobiły na
 Tobie wrażenie? Czy warte są swoich (niemałych) pieniędzy? Czy skłoniły

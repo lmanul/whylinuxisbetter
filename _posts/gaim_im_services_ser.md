@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom.
 ---
-
-
-
-
-<h2>Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom.</h2>
 
 Možda imate naloge na nekoliko servisa za instant poruke, kao što su
 MSN, Yahoo, ICQ, Jabber, AIM, itd. Dok koristite Windows ili Mac OS X, 

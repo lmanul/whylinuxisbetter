@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Massa finestres? Fes servir els espais de treball.
 ---
-
-
-
-
-<h2>Massa finestres? Fes servir els espais de treball.</h2>
 
 Jo mai no vaig ser un usuari de Windows i hi ha una cosa que no puc 
 entendre : una vegada tens el teu processador de textos, el teu 

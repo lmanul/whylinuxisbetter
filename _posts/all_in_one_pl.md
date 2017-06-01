@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?</h2>
+title: System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?
+---
 
 Instalacja systemu Windows to dopiero początek. Wyobraź sobie, że
 instalacja właśnie się skończyła i nie możesz się już doczekać rozpoczęcia

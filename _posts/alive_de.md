@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Lass deinen alten Computer einen zweiten Frühling erleben
 ---
-
-
-
-
-<h2>Lass deinen alten Computer einen zweiten Frühling erleben</h2>
 
 Windows benötigt mit steigender Versionsnummer (95, 98, 2000, Me, XP, Vista, 7 usw.) mehr und mehr Hardware-Power. Wenn du also Windows weiter benutzen willst, musst du ständig neue Hardware kaufen. Aber ich sehe keinen Grund für so eine schnelle Entwicklung. Natürlich benötigen viele Menschen hohe Computer-Leistung, und neue Hardware und Technologien sind da hilfreich. Aber warum sollten die meisten Nutzer, die im Netz surfen, Emails lesen und schreiben sowie Textdateien und Folien verfassen, sich alle zwei, drei oder vier Jahre einen neuen Computer kaufen, außer dass die Händler daran verdienen? Worin genau liegt der tiefere Sinn, dass dein Computer nicht mehr das schaffen kann, was er vor fünf Jahren noch wunderbar geleistet hat?
 

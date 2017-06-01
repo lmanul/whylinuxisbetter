@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Milieu
 ---
-
-
-
-
-<h2>Milieu</h2>
 
 <p align="center">Met dank aan Franz Bourlet voor het idee
 

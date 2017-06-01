@@ -1,11 +1,11 @@
 ---
 lang: he
----
 
 
 <div id="corps" class="rtl" dir="rtl">
 
-<h2>קבל נגן מוסיקה מדהים</h2>
+title: קבל נגן מוסיקה מדהים
+---
 
 יש ללינוקס הרבה נגני מוסיקה (כולל AmaroK, Rhythmbox, Banshee, 
 וכו'), וכמה מהם <b>מדהימים</b>. בדוק למשל את AmaroK

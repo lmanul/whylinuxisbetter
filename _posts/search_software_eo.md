@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Ĉu necesas nova programo? Ne zorgu serĉi rete, Linux faras tion por vi.
 ---
-
-
-
-
-<h2>Ĉu necesas nova programo? Ne zorgu serĉi rete, Linux faras tion por vi.</h2>
 
 Se vi volas vidi novan programon en Windows, vi bezonos:
 

@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Brug MSN, AIM, ICQ, Jabber, med ét enkelt program.
 ---
-
-
-
-
-<h2>Brug MSN, AIM, ICQ, Jabber, med ét enkelt program.</h2>
 
 Du har muligvis flere forskellige kontoer fra forskellige IM (instant messenger) tjenester, f.eks. 
 MSN, Yahoo, ICQ, Jabber, AIM, etc. Når du kører Windows eller Mac OS X, 

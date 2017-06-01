@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Obţineţi un mp3 player minunat
 ---
-
-
-
-
-<h2>Obţineţi un mp3 player minunat</h2>
 
 Linux are multe programe de redat muzică (incluzând AmaroK, Rhythmbox,
 Banshee, etc.), şi câteva din ele sunt <b>fantastice</b>. Aruncaţi o privire

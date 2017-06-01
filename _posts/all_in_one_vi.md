@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Sau khi cài xong hệ điều hành, vì sao bạn <i>vẫn phải cài thêm</i> các chương trình khác ?
 ---
-
-
-
-
-<h2>Sau khi cài xong hệ điều hành, vì sao bạn <i>vẫn phải cài thêm</i> các chương trình khác ?</h2>
 
 Cài đặt Windows chỉ là điểm khởi đầu. Hãy tưởng tượng bạn vừa cài xong bản Windows 7 
 mới toanh và muốn làm việc với nó càng nhanh càng tốt. Một người khác gửi cho bạn một tập tin 

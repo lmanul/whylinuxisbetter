@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Is uw systeem onstabiel?
 ---
-
-
-
-
-<h2>Is uw systeem onstabiel?</h2>
 
 Heeft u ooit uw kostbare werk verloren omdat Windows crashte? Sluit u altijd
 uw computer af op de juiste manier, of zet u deze soms gewoon af omdat Windows

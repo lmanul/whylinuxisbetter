@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Mainkan ratusan jenis permainan secara bebas
 ---
-
-
-
-
-<h2>Mainkan ratusan jenis permainan secara bebas</h2>
 
 Ratusan jenis permainan telah dilepas dengan gratis bagi para penikmatnya (seperti dalam "bir gratis" dan "gratis/bebas bicara"): 2D, 3D, teka-teki, permainan peperangan, permainan online multiplayer, apa saja! Di bawah ini beberapa contoh (daftar lengkapnya bisa sangat banyak) :
 

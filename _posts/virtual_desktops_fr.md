@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Trop de fenêtres ? Adoptez les espaces de travail.
 ---
-
-
-
-
-<h2>Trop de fenêtres ? Adoptez les espaces de travail.</h2>
 
 Je n'ai jamais été un réel utilisateur de Windows et il y a quelque 
 chose que je ne comprends vraiment pas : une fois que vous avez ouvert 

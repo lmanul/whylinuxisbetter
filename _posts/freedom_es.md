@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: ¡Libertad!
 ---
-
-
-
-
-<h2>¡Libertad!</h2>
 
 Linux y los software de "Código Abierto" son "libres". Esto significa que su licencia es una "licencia libre" y la más común es la GPL (Licencia Pública General). Esta licencia establece que a cualquiera le está permitido copiar el software, ver el código fuente (la "receta"), modificarlo y redistribuirlo siempre y cuando mantenga la licencia GPL.
 

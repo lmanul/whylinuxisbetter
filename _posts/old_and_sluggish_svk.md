@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Prečo je Windows každým dňom pomalší?</h2>
+title: Prečo je Windows každým dňom pomalší?
+---
 
 Windows má niekoľko konštrukčých vád, ktorých výsledkom je, že sa časom stáva čoraz pomalším a nevydrží dlho. Pravdopodobne ste už niekoľkokrát počuli niekoho povedať: "Môj počítač lenivie, musím ho preinštalovať". Preinštalovanie Windows-u vyrieši problém... na chvíľu.
 

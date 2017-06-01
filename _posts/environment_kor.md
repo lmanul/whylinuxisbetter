@@ -1,11 +1,11 @@
 ---
 lang: kor
+
+
+
+
+title: ﻿환경문제
 ---
-
-
-
-
-<h2>﻿환경문제</h2>
 
 <p align="center">아이디어를 제공해 주신 Franz Bourlet님께 감사!
 

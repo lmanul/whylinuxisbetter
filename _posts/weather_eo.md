@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Ĵetu rigardon al la vetero.
 ---
-
-
-
-
-<h2>Ĵetu rigardon al la vetero.</h2>
 
 Ĉu vi estas laca havi termometron ekster la fenestro kaj vidi ĝin antaŭ la eliro? Nur ĵetu rigardon al la ekrano de Linux kaj konsultu la veteron:
 

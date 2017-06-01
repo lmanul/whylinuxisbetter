@@ -1,12 +1,12 @@
 ---
 lang: fr
+
+
+
+
+title: N'attendez pas des années que les bugs soient résolus, 
+signalez-les et traquez-les.
 ---
-
-
-
-
-<h2>N'attendez pas des années que les bugs soient résolus, 
-signalez-les et traquez-les.</h2>
 
 Si vous trouvez un bug dans Windows, attendre et prier pour que 
 Microsoft corrige le problème rapidement est à peu près la seule chose 

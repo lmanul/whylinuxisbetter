@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Forget about drivers
 ---
-
-
-
-
-<h2>Forget about drivers</h2>
 
 New pieces of hardware, even the simplest kind, usually come with a CD. On the CD, a very small piece of software 
 called a "driver". If you read the instructions manual, you'll know that the hardware won't work on a Windows computer 

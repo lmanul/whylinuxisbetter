@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Dra nyte av gratis og ubegrenset support.
 ---
-
-
-
-
-<h2>Dra nyte av gratis og ubegrenset support.</h2>
 
 En stor fordel med «Open source»-samfunnet (og spesielt Linux), er at det er godt og sammensveiset. Brukere og utviklere er der ute, på webforum, på maillister, på IRC-kanaler, alt for å tilby hjelp til brukere. De er glade for å se fler og fler bytte til Linux, og de er også glade for å hjelpe en nybegynner til å få tak på et nytt system.
 

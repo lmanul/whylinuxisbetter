@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Folosiţi MSN, AIM, ICQ, Jabber cu un singur program
 ---
-
-
-
-
-<h2>Folosiţi MSN, AIM, ICQ, Jabber cu un singur program</h2>
 
 Poate că aveţi conturi pentru multe servicii de mesagerie instantă,
 ca MSN, Yahoo, ICQ, Jabber, AIM, etc. Pe Windows sau Mac OS X probabil 

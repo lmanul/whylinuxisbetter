@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Pamir&#353;kite apie virusus.
 ---
-
-
-
-
-<h2>Pamir&#353;kite apie virusus.</h2>
 
 Jeigu kompiuteris pats i&#353;sijungia neatsiklausdamas j&#363;s&#371;, jei pasirodo keisti langai su nesuprantamu 
 tekstu ir visokiausios reklamos i&#353;&#353;oka, nors to nepra&#353;ote, jei elektroniniai lai&#353;kai 

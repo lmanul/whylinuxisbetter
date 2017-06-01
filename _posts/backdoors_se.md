@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Inga bakdörrar i mjukvaran.
 ---
-
-
-
-
-<h2>Inga bakdörrar i mjukvaran.</h2>
 
 Skillnaden mellan "stängd mjukvara"(skyddad) och "öppen mjukvara" är 
 (hur kunde du gissa?) är att "källan" är öppen. Hm, varför skulle jag 

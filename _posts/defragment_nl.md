@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Is uw digitale leven een beetje gefragmenteerd?
 ---
-
-
-
-
-<h2>Is uw digitale leven een beetje gefragmenteerd?</h2>
 
 Als u reeds weet wat fragmentatie is, en u reeds gewoon bent aan het
 elke maand defragmenteren van uw schijf, hier is de korte versie:

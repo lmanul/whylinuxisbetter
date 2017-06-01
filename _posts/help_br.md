@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: ﻿Desfrute de suporte grátis e ilimitado
 ---
-
-
-
-
-<h2>﻿Desfrute de suporte grátis e ilimitado</h2>
 
 Um dos maiores valores da comunidade Open Source (e Linux em particular), é que é uma comunidade real. Usuários e desenvolvedores estão lá de verdade, em fóruns de internet, em listas de email, em canais IRC, ajudando novos usuários. Eles estão felizes de ver mais e mais pessoas mudando para o Linux, e estão felizes em ajudá-los a se familiarizarem com seu novo sistema.
 

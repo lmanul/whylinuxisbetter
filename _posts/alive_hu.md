@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Adj még egy esélyt veterán számítógépednek!
 ---
-
-
-
-
-<h2>Adj még egy esélyt veterán számítógépednek!</h2>
 
 Ahogy emelkedik a Windows verziószáma (95, 98, 2000, Me, XP, 7 stb.), annál nagyobb teljesítményű hardvert igényel. Szóval ha továbbra is Windows-t szeretnél használni, állandóan új hardvereket kell vásárolnod. Én viszont nem látok semmi okot erre a gyors fejlődésre. Természetesen sok embernek van szüksége nagy számítási kapacitásra, és az új hardverek meg technológiák tényleg nagy segítségükre vannak. De a legtöbb felhasználónak, aki a webet böngészi, e-maileket ír és olvas, szövegeket és bemutatókat készít, miért kell 2, 3 vagy 4 évente új számítógépet vásárolnia, eltekintve attól, hogy a számítógép-kereskedők több pénzt keressenek? Pontosan mi a nyomós oka, amiért a számítógéped nem tudja ugyanolyan tökéletesen ellátni ugyanazokat a feladatokat, mint 5 évvel ezelőtt?
 

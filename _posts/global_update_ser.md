@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Osvežite Vaš softver jednim klikom miša.
 ---
-
-
-
-
-<h2>Osvežite Vaš softver jednim klikom miša.</h2>
 
 Windows ima zgodan alat koji se zove "Windows update", i koji Vam
 dozvoljava da ažurirate Vaš sistem najsvežijim dostupnim zakrpama.

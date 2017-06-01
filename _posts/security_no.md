@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Linux beskytter datamaskinen din.
 ---
-
-
-
-
-<h2>Linux beskytter datamaskinen din.</h2>
 
 Virus, trojanere, adware, spionvare … Windows lar alt dette få adgang til datamaskinen din ganske så lettvint. Gjennomsnittstiden før en datamaskin med Windows (med en Internettforbindelse og med en standard «Service Pack 2»-installasjon) blir infisert er <b>40 minutter</b> (og noen ganger helt ned til 30 sekunder).
 

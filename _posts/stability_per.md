@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -16,7 +15,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>سيستمتون ناپايداره؟</h2>
+title: سيستمتون ناپايداره؟
+---
 
 آيا تا حالا كارهاتون رو بدليل قفل كردن ويندوز از دست دادين؟آيا شما
 هميشه كامپيوترتون رو به ميل خودتون خاموش مي&zwnj;كنين يا اينكا رو بعهضي

@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Save some energy : let your computer sleep or hibernate.
 ---
-
-
-
-
-<h2>Save some energy : let your computer sleep or hibernate.</h2>
 
 <ul>
 <li>Windows allows "sleep" and "hibernate" (for the latter, hold the Shift key down when you see the shutdown 

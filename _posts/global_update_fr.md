@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title:  Mettez à jour tous vos logiciels d'un seul clic.
 ---
-
-
-
-
-<h2> Mettez à jour tous vos logiciels d'un seul clic.</h2>
 
 Windows possède ou outil très pratique nommé "Windows Update", 
 qui permet de mettre à jour le système vers la dernière version 

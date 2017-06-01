@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: Por que copiar programas ilegalmente se você pode consegui-los de graça ?
 ---
-
-
-
-
-<h2>Por que copiar programas ilegalmente se você pode consegui-los de graça ?</h2>
 
 Então, você tem ficha limpa, você *cof, cof* adquiriu uma licença para todos os programas que você já usou *cof, cof*, e ninguém pode te incomodar por causa disso ? Bem, se esse é o caso, parabéns :)
 

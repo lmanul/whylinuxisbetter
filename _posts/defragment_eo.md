@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Ĉu via cifereca vivo ŝajnas fragmentigita?
 ---
-
-
-
-
-<h2>Ĉu via cifereca vivo ŝajnas fragmentigita?</h2>
 
 Se vi jam scias kio estas fragmentigo, kaj vi kutimas malfragmentigi la diskon ĉiumonate, pli-malpli, jen la mallonga versio: Linux ne bezonas malfragmentigon.
 

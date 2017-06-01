@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Kam nelegaliai kopijuoti programas jeigu galima gauti nemokamas?
 ---
-
-
-
-
-<h2>Kam nelegaliai kopijuoti programas jeigu galima gauti nemokamas?</h2>
 
 Taigi, Jūs esate visiškai švarus, Jūs *khem* nusipirkote visas licencijas *khem* visai jūsų naudojamai programinei įrangai ir niekas negali prie Jūsų prikibti? Na, jeigu taip iš tikro yra, sveikinu :)
 

@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Betala inte 1000kr för ditt operativsystem
 ---
-
-
-
-
-<h2>Betala inte 1000kr för ditt operativsystem</h2>
 
 <h3>(Och piratkopiera inte heller)</h3>
 

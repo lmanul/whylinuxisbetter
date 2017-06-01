@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Tự do muôn năm!
 ---
-
-
-
-
-<h2>Tự do muôn năm!</h2>
 
 Linux và phần mềm mã nguồn mở "miễn phí". Có nghĩa bản quyền sản phẩm của phần 
 mềm mã nguồn mở là miễn phí, phổ biến nhất là GPL (General Public License). 

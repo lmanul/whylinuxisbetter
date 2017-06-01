@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Inget kaos i startmenyn
 ---
-
-
-
-
-<h2>Inget kaos i startmenyn</h2>
 
 Om du använder Windows och har installerat flertalet program är 
 chansen stor att startmenyn börjar se ut ungefär såhär:

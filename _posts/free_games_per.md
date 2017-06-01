@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -18,7 +17,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>صدها بازي رو رايگان انجام بدين</h2>
+title: صدها بازي رو رايگان انجام بدين
+---
 
 صدها بازي هستند كه بصورت كاملاً مجاني توزيع مي&zwnj;شن.انواع بازهاي 2
 بعدي و 3 بعدي،پازلها بازيهاي جنگي،بازيهاي آنلاين چند نفره.اينجا چندتاشون

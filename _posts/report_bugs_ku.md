@@ -1,11 +1,11 @@
 ---
 lang: ku
----
 
 
 <div id="corps" dir="rtl">
 
-<h2>Reporting bugs</h2>
+title: Reporting bugs
+---
 
 ئەگەرتۆ بوگت دۆزیەوە لە ویندۆز، ئەوا دەبێ چاوەڕێ بکەیت و بپاڕێیتەوە تا مایکرۆسۆفت چارەسەری بکات بە زوویی . لەوانەیە تۆ وا بیر بکەیتەوە ناردنی ئە بوگە زۆر ئاسان بێت.،باشە دووبارە بیر بکەرەوە. <a 
 href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">لێرە</a> 

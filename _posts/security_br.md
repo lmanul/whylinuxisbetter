@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: O Linux protege seu computador
 ---
-
-
-
-
-<h2>O Linux protege seu computador</h2>
 
 Vírus, trojans, adwares, spywares... O Windows deixa tudo isso entrar 
 em seu computador muito facilmente. O tempo médio antes de um PC Windows 

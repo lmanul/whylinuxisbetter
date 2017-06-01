@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Spiel hunderte von freien Spielen
 ---
-
-
-
-
-<h2>Spiel hunderte von freien Spielen</h2>
 
 Hunderte von Spielen werden unter einer freien (frei wie „Freibier“ und wie in „Redefreiheit“) Lizenz veröffentlicht: 2D, 3D, Puzzles, Kriegsspiele, Online-Multiplayer-Spiele und viele mehr. Hier sind nur einige Beispiele, die ganze Liste wäre schier endlos.
 

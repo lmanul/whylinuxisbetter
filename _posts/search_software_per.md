@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -18,7 +17,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>به نرم&zwnj;افزار جديدي نياز داريد؟خودتون رو با جستجو توي اينترنت اذيت نكنيد!لينوكس براي شما مي&zwnj;گيرتش.</h2>
+title: به نرم&zwnj;افزار جديدي نياز داريد؟خودتون رو با جستجو توي اينترنت اذيت نكنيد!لينوكس براي شما مي&zwnj;گيرتش.
+---
 
 
 

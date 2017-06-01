@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: ﻿Use MSN, AIM, ICQ, Yahoo, Google Talk, Jabber, com um único programa
 ---
-
-
-
-
-<h2>﻿Use MSN, AIM, ICQ, Yahoo, Google Talk, Jabber, com um único programa</h2>
 
 Você deve ter contas em vários serviços de mensagem instantânea, como MSN, Yahoo, ICQ, Google Talk, Jabber, AIM etc. Quando está usando Windows ou Mac OS X, você provavelmente precisa de um programa para conectar em cada um deles: MSN Messenger para o MSN, ICQ para o ICQ, etc.
 

@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Nie daj szansy oszustom i internetowym włamywaczom</h2>
+title: Nie daj szansy oszustom i internetowym włamywaczom
+---
 
 System Windows ma <i>wiele</i> problemów z bezpieczeństwem. Wiele z nich może
 doprowadzić do tragedii, wystarczy tylko połączyć się z Internetem. Oszuści, znając

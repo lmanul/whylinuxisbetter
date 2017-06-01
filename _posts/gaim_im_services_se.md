@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Använd MSN, AIM, ICQ, Jabber - med ett enda program
 ---
-
-
-
-
-<h2>Använd MSN, AIM, ICQ, Jabber - med ett enda program</h2>
 
 Du kanske har flera konton för flera olika chattprogram, som MSN, 
 Yahoo, ICQ, Jabber, AIM, etc. Medans du om du kör Windows eller MAC 

@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: For mange vinduer? Brug flere skriveborde.
 ---
-
-
-
-
-<h2>For mange vinduer? Brug flere skriveborde.</h2>
 
 Jeg har aldrig været en Windows-bruger så der er noget jeg bare ikke kan forstå: når du først har dit tekstbehandlingsprogram, din web browser, din email applikation, dit chat-program og nogle vinduer åbne til at lede efter filer med, hvordan formår Windows brugere at undgå at <b>fare vild</b> i alle de åbne vinduer?
 

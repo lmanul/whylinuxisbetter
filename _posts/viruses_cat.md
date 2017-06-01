@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Oblida't dels virus
 ---
-
-
-
-
-<h2>Oblida't dels virus</h2>
 
 Si el teu ordinador s'apaga sense demanar-te permís, si unes 
 estranyes finestres amb text que no entens i tot tipus de propaganda 

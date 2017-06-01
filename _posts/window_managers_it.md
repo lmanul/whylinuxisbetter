@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Scegli l'aspetto del tuo desktop
 ---
-
-
-
-
-<h2>Scegli l'aspetto del tuo desktop</h2>
 
 Se sei un utente di Windows, probabilmente il tuo desktop non sarà 
 così diverso da questo:

@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Why does your Windows get slower day after day?
 ---
-
-
-
-
-<h2>Why does your Windows get slower day after day?</h2>
 
 Windows has a number of design flaws, resulting in it becoming
 slower and slower and not lasting very long. You've probably

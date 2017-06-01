@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Votre système est-il instable ?
 ---
-
-
-
-
-<h2>Votre système est-il instable ?</h2>
 
 N'avez-vous jamais perdu votre précieux travail à cause d'un 
 plantage de Windows ? Éteignez-vous toujours votre ordinateur 

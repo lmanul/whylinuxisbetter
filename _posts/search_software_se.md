@@ -1,11 +1,11 @@
 ---
 lang: se
----
 ﻿
 
 
 
-<h2>Behöver du nya program? Strunta i att söka på nätet – Linux ordnar det åt dig.</h2>
+title: Behöver du nya program? Strunta i att söka på nätet – Linux ordnar det åt dig.
+---
 
 Om du vill hitta ny mjukvara till Windows måste du:
 

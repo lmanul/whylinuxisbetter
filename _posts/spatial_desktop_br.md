@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: Salte para a próxima geração de desktops.
 ---
-
-
-
-
-<h2>Salte para a próxima geração de desktops.</h2>
 
 Você ficou impressionado pelos efeitos 3D e possibilidades de 
 transparência na primeira apresentação do VIsta e decidiu que estas 

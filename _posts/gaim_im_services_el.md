@@ -1,11 +1,11 @@
 ---
 lang: el
+
+
+
+
+title: Χρησιμοποιήστε MSN, AIM, ICQ, Jabber, με ένα μόνο πρόγραμμα
 ---
-
-
-
-
-<h2>Χρησιμοποιήστε MSN, AIM, ICQ, Jabber, με ένα μόνο πρόγραμμα</h2>
 
 Πιθανώς να έχετε λογαριασμούς σε διάφορες υπηρεσίες messenger, όπως τα
 MSN, Yahoo, ICQ, Jabber, AIM, κλπ. Αν τρέχετε Windows ή Mac OS X, 

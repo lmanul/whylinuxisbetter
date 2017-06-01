@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Previše prozora? Koristite radne površine.
 ---
-
-
-
-
-<h2>Previše prozora? Koristite radne površine.</h2>
 
 Ja nikad nisam bio korisnik Windows-a i jednu stvar ne mogu da razumem:
 jednom kad otvorite text procesor, web browser, email program,

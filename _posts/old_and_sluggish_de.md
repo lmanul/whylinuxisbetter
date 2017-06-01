@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Warum wird dein Windows Tag f&uuml;r Tag langsamer?
 ---
-
-
-
-
-<h2>Warum wird dein Windows Tag f&uuml;r Tag langsamer?</h2>
 
 Windows hat einige Designfehler, weshalb es immer langsamer und langsamer wird und nicht sehr lange durchhält. Du wirst wohl öfter schon gehört haben, wie jemand sagte „Mein Windows ist total zugemüllt, ich werd’s neu installieren“. Eine Neuinstallation von Windows behebt das Problem … bis zum nächsten Mal.
 

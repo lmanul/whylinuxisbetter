@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Čuvajte energiju: neka Vaš kompjuter miruje ili hibernira.
 ---
-
-
-
-
-<h2>Čuvajte energiju: neka Vaš kompjuter miruje ili hibernira.</h2>
 
 <ul>
 <li>Windows dozvoljava "mirovanje" i "hibernaciju" (čisto da se zna: držite shift dugme kada vidite dijalog za gašenje)

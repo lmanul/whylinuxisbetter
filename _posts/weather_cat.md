@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Dóna una ullada al temps que fa.
 ---
-
-
-
-
-<h2>Dóna una ullada al temps que fa.</h2>
 
 Estàs cansat de tenir un termòmetre a l'altra part de la finestra i anar a comprovar-lo fora? Pega una mirada a la teva pantalla del Linux i mira el temps que fa :
 

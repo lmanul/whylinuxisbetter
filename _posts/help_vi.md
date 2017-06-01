@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Trợ giúp mọi lúc mọi nơi và miễn phí
 ---
-
-
-
-
-<h2>Trợ giúp mọi lúc mọi nơi và miễn phí</h2>
 
 Một trong những tính chất tuyệt vời của cộng đồng Mã Nguồn Mở (ở đây là Linux) là 
 sự đoàn kết. Người sư dụng và lập trình viên thường tham gia rất tích cực trên các 

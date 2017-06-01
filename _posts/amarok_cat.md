@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Aconsegueix un genial reproductor musical.
 ---
-
-
-
-
-<h2>Aconsegueix un genial reproductor musical.</h2>
 
 Linux té molts reproductors musicals (inclosos AmaroK, Rhythmbox, 
 Banshee, etc.), i alguns d'ells són <b>genials</b>. Pega una ullada a 

@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Quá nhiều cửa sổ trên màn hình ? Hãy dùng nhiều không gian làm việc (workspace)
 ---
-
-
-
-
-<h2>Quá nhiều cửa sổ trên màn hình ? Hãy dùng nhiều không gian làm việc (workspace)</h2>
 
 Tôi chưa sử dụng Windows bao giờ và hoàn toàn không hiểu điều này: khi bạn mở trình 
 soạn thảo văn bản, trình duyệt Web, quản lý thư điện tử, chat và vài cửa sổ khác để duyệt 

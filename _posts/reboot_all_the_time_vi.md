@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Bạn có mệt khi phải khởi động lại máy tính suốt ngày không ?
 ---
-
-
-
-
-<h2>Bạn có mệt khi phải khởi động lại máy tính suốt ngày không ?</h2>
 
 Bạn vừa cài đặt các bản cập nhật với "Windows Update" ? Làm ơn khởi động lại. Bạn vừa 
 càt đặt một phần mềm mới ? Làm ơn khởi động lại. Hệ thống của bạn không ổn định ? Hãy thử 

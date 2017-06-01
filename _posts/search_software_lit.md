@@ -1,12 +1,12 @@
 ---
 lang: lit
+
+
+
+
+title: Reikia naujos programos? Neieškokite jos internete, Linux'ai ją suras už jus.
+
 ---
-
-
-
-
-<h2>Reikia naujos programos? Neieškokite jos internete, Linux'ai ją suras už jus.
-</h2>
 
 Jeigu norite išbandyti naują programą ant Windows'ų, reikia atlikti šiuos veiksmus:
 

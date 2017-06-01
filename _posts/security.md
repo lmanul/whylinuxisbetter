@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Linux protects your computer
 ---
-
-
-
-
-<h2>Linux protects your computer</h2>
 
 Viruses, trojans, adware, spyware... Windows lets all these enter your 
 computer pretty easily. The average period of time before a Windows PC (connected 

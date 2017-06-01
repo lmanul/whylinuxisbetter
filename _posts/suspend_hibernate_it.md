@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Risparmia energia: puoi ibernare o mandare in sleep il tuo computer
 ---
-
-
-
-
-<h2>Risparmia energia: puoi ibernare o mandare in sleep il tuo computer</h2>
 
 <ul>
 <li>Windows permette le modalità "sleep" e "hibernate" (per l'ultima tieni premuto Shift quando vedi il 

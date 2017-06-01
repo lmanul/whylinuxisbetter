@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: La tua vita digitale sembra frammentata?
 ---
-
-
-
-
-<h2>La tua vita digitale sembra frammentata?</h2>
 
 Se sai già cos'è una frammentazione e sei già abituato a deframmentare 
 il tuo disco ogni mese, arriviamo al sodo: Linux non ha bisogno di essere 

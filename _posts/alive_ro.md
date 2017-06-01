@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Permite-i computerului să învie
 ---
-
-
-
-
-<h2>Permite-i computerului să învie</h2>
 
 Cerinţele hardware ale Windows-ului sunt direct proporţionale cu numărul versiunii. Deci dacă doriţi
 să aveţi un computer cu Windows, trebuie să cumpăraţi constant hardware

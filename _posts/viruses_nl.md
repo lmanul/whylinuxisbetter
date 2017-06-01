@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Geen virussen meer.
 ---
-
-
-
-
-<h2>Geen virussen meer.</h2>
 
 Als uw computer zichzelf afsluit zonder u iets te vragen, als vreemde vensters tevoorschijn komen met tekst die u niet verstaat en alle soorten advertenties verschijnen wanneer u er niet om gevraagd had en er e-mails worden verzonden naar uw contacten zonder dat u daar weet van heeft, dan heeft uw computer waarschijnlijk een virus. De hoofdreden hiervoor is dat het Windows draait.
 

@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Få en fantastisk musikspelare
 ---
-
-
-
-
-<h2>Få en fantastisk musikspelare</h2>
 
 Linux har otroligt många musikspelare (AmaroK, Rhythmbok, 
 Banshee, etc.), och några är <b>fantastiska</b>. Ta en titt på 

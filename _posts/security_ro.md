@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Linux vă protejează computerul
 ---
-
-
-
-
-<h2>Linux vă protejează computerul</h2>
 
 Viruşi, troieni, adware, spyware... Windows permite acestora să intre în
 computerul dvs. uşor. Perioada medie de infectare a unui computer cu Windows

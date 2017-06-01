@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Fără găuri de securitate în software.
 ---
-
-
-
-
-<h2>Fără găuri de securitate în software.</h2>
 Diferenţa dintre software-ul "closed source" (comercial) şi "open source"
 este (cum aţi ghicit?) că "sursa" lor e deschisă. Huh, bine, de ce mi-ar păsa?
 "Sursa" sau "codul sursă", e un <b>ingredient</b> secret al oricărui software,

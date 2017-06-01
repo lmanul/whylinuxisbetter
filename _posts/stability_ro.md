@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Sistemul dumneavoastră e instabil?
 ---
-
-
-
-
-<h2>Sistemul dumneavoastră e instabil?</h2>
 
 Aţi pierdut vreodată muncă preţioasă deoarece Windows s-a blocat? Vă închideţi
 mereu computerul cum trebuie, sau câteodată îl închideţi din cauză că Windows

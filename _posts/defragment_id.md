@@ -1,11 +1,11 @@
 ---
 lang: id
----
  
 
 
 
-<h2>Apakah kehidupan dijitalmu terasa terfragmentasi?</h2>
+title: Apakah kehidupan dijitalmu terasa terfragmentasi?
+---
 
 Kalau kamu sudah tahu apa itu fragmentasi, dan sudah sering men-defrag <i>harddisk</i>mu setiap bulannya atau dalam jangka waktu tertentu, inilah versi singkatnya : Linux tidak memerlukan defragmentasi.
 

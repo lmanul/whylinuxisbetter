@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Liberté !
 ---
-
-
-
-
-<h2>Liberté !</h2>
 
 Linux et les logiciels dits « Open Source » sont « libres ». Cela 
 signifie qu'ils sont sous une « licence libre », la plus répandue étant 

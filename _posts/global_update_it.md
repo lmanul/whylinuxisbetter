@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Aggiorna tutto il tuo software con un unico clic
 ---
-
-
-
-
-<h2>Aggiorna tutto il tuo software con un unico clic</h2>
 
 Windows ha uno strumento molto conveniente chiamato "Windows Update", che 
 ti permette di aggiornare il tuo sistema con gli ultimi aggiornamenti disponibili.

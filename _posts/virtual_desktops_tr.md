@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Çok fazla mı pencere var? Çoklu masaüstü kullanın.
 ---
-
-
-
-
-<h2>Çok fazla mı pencere var? Çoklu masaüstü kullanın.</h2>
 
 Ben hiç Windows kullanmadım ve hiç anlamadığım bazı alışkanlıklarınız var. Ekranınızda kelime işlemciler, web tarayıcılar, e-posta programları, sohbet programları kullanırken, dosyalarınızı bulmak için ilave pencereler de açarken bu karmaşada nasıl <b>kaybolmuyorsunuz</b>?
 

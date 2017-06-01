@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Update all your software with a single click.
 ---
-
-
-
-
-<h2>Update all your software with a single click.</h2>
 
 Windows has a pretty convenient tool called "Windows update", which 
 allows you to update your system with the latest updates available.

@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Ĉu tro da fenestroj? Uzu laborspacojn.
 ---
-
-
-
-
-<h2>Ĉu tro da fenestroj? Uzu laborspacojn.</h2>
 
 Mi neniam estis uzanto de Windows kaj ekzistas io kion mi ne povas kompreni: tuj kiam oni malfermas la dokumentoredaktilon, foliumilon, retpoŝtilon, tujmesaĝilon kaj kelkajn fenestrojn por esplori oniajn dosierojn, kiel faras la uzantoj de Windows por ne <b>perdiĝi</b> en ĉi tiu malordo?
 

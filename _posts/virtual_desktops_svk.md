@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Príliš veľa okien? Použite pracovné plochy</h2>
+title: Príliš veľa okien? Použite pracovné plochy
+---
 
 Nikdy som nebol používateľ Windows-u. A je tu niečo, čomu nerozumiem: ak máte otvorený program na písanie textu, prehliadač internetu, emailového klienta, komunikačný program a pár okien na prehliadanie súborov, ako sa v tom všetkom neporiadku užívatelia Windows-u dokážu <b>nestratiť</b>?
 

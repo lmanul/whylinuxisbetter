@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: No backdoors in your software.
 ---
-
-
-
-
-<h2>No backdoors in your software.</h2>
 
 The difference between "closed source" (proprietary) and "open 
 source" software is (how did you guess?) that their "source" is open. 

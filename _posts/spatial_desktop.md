@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Jump into the next generation of desktops.
 ---
-
-
-
-
-<h2>Jump into the next generation of desktops.</h2>
 
 You have been impressed by the 3D and transparency possibilities 
 first introduced in Windows Vista, and decided that these unique 

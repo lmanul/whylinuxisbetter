@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Szabadság!
 ---
-
-
-
-
-<h2>Szabadság!</h2>
 
 A Linux és a nyílt forráskódú szoftverek többnyire „szabadok”. Ez azt jelenti, hogy ún. „szabad licenccel” rendelkeznek, és ezen belül is a GPL (General Public License, magyarul: Általános Nyilvános Licenc) a legelterjedtebb . A licenc szerint mindenki másolhatja a szoftvert, láthatja a forráskódját (a „receptjét”), módosíthatja és terjesztheti is azt, amennyiben a módosított és továbbadott szoftver licence is GPL marad.
 

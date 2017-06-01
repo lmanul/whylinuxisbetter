@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Salvaţi energie: lăsaţi-vă computerul să hiberneze.
 ---
-
-
-
-
-<h2>Salvaţi energie: lăsaţi-vă computerul să hiberneze.</h2>
 
 <ul>
 <li>Windows permite "somnul" şi "hibernarea" (pentru ultima opţiune apăsaţi Shift unde vedeţi dialogul de shutdown).</li>

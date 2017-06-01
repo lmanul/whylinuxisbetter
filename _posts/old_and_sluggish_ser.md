@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Zašto Windows postaje sporiji svakim danom?
 ---
-
-
-
-
-<h2>Zašto Windows postaje sporiji svakim danom?</h2>
 
 Windows ima dosta dizajnerskih grešaka koje uzrokuju da postaje
 sporiji i sporiji i da ne traje veoma dugo. Sigurno ste već više puta 

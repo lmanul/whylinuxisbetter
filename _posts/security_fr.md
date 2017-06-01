@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Linux protège votre ordinateur
 ---
-
-
-
-
-<h2>Linux protège votre ordinateur</h2>
 
 Virus, troyens, logiciels espions, <i>adwares</i>... Windows laisse tout cela 
 entrer dans votre ordinateur plutôt facilement. Le temps moyen 

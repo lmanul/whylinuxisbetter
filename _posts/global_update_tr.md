@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Yazılımınızı tek bir tık ile güncelleyin.
 ---
-
-
-
-
-<h2>Yazılımınızı tek bir tık ile güncelleyin.</h2>
 
 Windows "Windows Update" adı verilen ve sisteminize uygun olan en son 
 güncellemeleri sağlayan pek kullanışlı, güzel bir araca sahiptir.

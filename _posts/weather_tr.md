@@ -1,11 +1,11 @@
 ---
 lang: tr
----
 ﻿
 
 
 
-<h2>Havadan sudan haberiniz olsun</h2>
+title: Havadan sudan haberiniz olsun
+---
 
 Pencerenizin dışına bir termometre yerleştirmeyi ve dışarıya çıkmadan önce kontrol etmeyi denediniz mi? Sadece Linux ekranınıza bakın ve sıcaklığı görün.
 

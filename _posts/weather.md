@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Keep an eye on the weather.
 ---
-
-
-
-
-<h2>Keep an eye on the weather.</h2>
 
 Are you tired of having a thermometer outside your window and go 
 check it before getting out? Just take a look at your Linux screen and 

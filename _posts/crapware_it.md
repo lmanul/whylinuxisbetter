@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Mai più software spazzatura.
 ---
-
-
-
-
-<h2>Mai più software spazzatura.</h2>
 
 Se hai mai comprato un computer nuovo con Windows, forse sai già quanto possa essere un'esperienza frustrante.
 

@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Such dir aus, wie dein Desktop aussehen soll.
 ---
-
-
-
-
-<h2>Such dir aus, wie dein Desktop aussehen soll.</h2>
 
 Wenn du ein Windowsnutzer bist, wird dein Desktop wahrscheinlich diesem Bildschirmfoto ähneln:
 

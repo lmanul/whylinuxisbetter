@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Per què el teu Windows cada dia que passa va més lent?
 ---
-
-
-
-
-<h2>Per què el teu Windows cada dia que passa va més lent?</h2>
 
 Windows té un nombre d'errades de disseny, i la conseqüència d'això 
 és que no dura gaire temps. Probablement hauràs escoltat més d'una 

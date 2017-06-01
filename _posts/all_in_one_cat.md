@@ -1,12 +1,12 @@
 ---
 lang: cat
+
+
+
+
+title: Quan el teu sistema està instal·lat, per què necessites instal·lar 
+<i>encara</i> més coses?
 ---
-
-
-
-
-<h2>Quan el teu sistema està instal·lat, per què necessites instal·lar 
-<i>encara</i> més coses?</h2>
 
 La instal·lació de Windows és tan sols el principi. Imagina't que 
 acabes d'instal·lar la teva nova còpia de Windows 7 i estàs preparat 

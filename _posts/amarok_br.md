@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: Tenha um ótimo tocador de músicas
 ---
-
-
-
-
-<h2>Tenha um ótimo tocador de músicas</h2>
 
 Linux tem várias tocadores de mídia (incluindo Amarok, Rhythmbox, 
 Banshee, etc.),  e alguns deles são <b>melhores</b>. Olhe o 

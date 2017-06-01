@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Aiuta gli altri Paesi, ed il tuo
 ---
-
-
-
-
-<h2>Aiuta gli altri Paesi, ed il tuo</h2>
 
 <center>(Grazie a Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 per l'idea e la prima versione del testo) </center>

@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Používajte MSN, AIM, ICQ, Jabber jedným programom</h2>
+title: Používajte MSN, AIM, ICQ, Jabber jedným programom
+---
 
 Môžete mať kontá pre viacero komunikačných služieb, ako je 
 MSN, Yahoo, ICQ, Jabber, AIM, atď. Pokiaľ používate Windows alebo Mac OS X, pravdepodobne potrebujete pre každý komunikačný protokol samostatný program: MSN 

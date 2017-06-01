@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Nieuwe software nodig? Verspil uw tijd niet met het zoeken op internet, Linux heeft het voor u.
 ---
-
-
-
-
-<h2>Nieuwe software nodig? Verspil uw tijd niet met het zoeken op internet, Linux heeft het voor u.</h2>
 
 Als u nieuwe software wilt proberen in Windows, moet u volgende stappen doorlopen:
 

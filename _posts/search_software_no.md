@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Trenger du ny programvare? Ikke søk på Internett, Linux skaffer det for deg.
 ---
-
-
-
-
-<h2>Trenger du ny programvare? Ikke søk på Internett, Linux skaffer det for deg.</h2>
 
 Hvis du vil prøve et nytt program i Windows, må du gjøre følgende:
 

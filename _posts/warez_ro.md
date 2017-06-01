@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: De ce să copiaţi ilegal programe, când le puteţi obţine gratis?
 ---
-
-
-
-
-<h2>De ce să copiaţi ilegal programe, când le puteţi obţine gratis?</h2>
 
 Sunteţi perfect curat(ă), aţi cumpărat o licenţă pentru toate programele ce le folosiţi, şi nimeni
 nu vă poate deranja în privinţa asta? Dacă e aşa, felicitări :)

@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Jouez à des centaines de jeux gratuitement
 ---
-
-
-
-
-<h2>Jouez à des centaines de jeux gratuitement</h2>
 
 Des centaines de jeux sont disponible gratuitement, publiés sous une licence libre: 2D, 3D, puzzles, jeux de stratégie en temps réel, jeux multijoueurs en ligne, et bien d'autres 
 ! Voici quelques exemples (la liste exhaustive serait bien trop longue) :

@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Estalvia un poc d'energia: bloca o hiverna el teu ordinador.
 ---
-
-
-
-
-<h2>Estalvia un poc d'energia: bloca o hiverna el teu ordinador.</h2>
 
 <ul>
 <li>Windows permet “blocar” i “hivernar” (per a aquesta última, prem la tecla Majúscula quan vegis la finestra per a apagar).</li>

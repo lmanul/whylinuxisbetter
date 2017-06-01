@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Update deine komplette Software mit einem einzigen Klick.
 ---
-
-
-
-
-<h2>Update deine komplette Software mit einem einzigen Klick.</h2>
 
 Windows hat ein n&uuml;tzliches Tool namens „Windows Update“, das es dir erm&ouml;glicht, dein System mit dem neusten verf&uuml;gbaren Update zu aktualisieren.
 

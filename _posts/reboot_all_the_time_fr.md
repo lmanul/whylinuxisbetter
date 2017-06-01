@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Êtes-vous fatigué de redémarrer votre PC sans arrêt ?
 ---
-
-
-
-
-<h2>Êtes-vous fatigué de redémarrer votre PC sans arrêt ?</h2>
 
 Avez-vous mis à jour une ou deux petites choses dans votre système 
 avec « Windows update » ? Redémarrez, s'il vous plaît. Venez-vous 

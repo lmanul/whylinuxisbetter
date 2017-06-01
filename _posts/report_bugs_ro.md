@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Raportarea defectelor
 ---
-
-
-
-
-<h2>Raportarea defectelor</h2>
 
 Dacă găsiţi un defect în Windows, puteţi doar să aşteptaţi şi să vă
 rugaţi că Microsoft îl va corecta repede (şi dacă vă compromite securitatea

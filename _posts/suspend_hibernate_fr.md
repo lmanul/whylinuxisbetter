@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Économisez de l'énergie: faites dormir ou hiberner votre ordinateur.
 ---
-
-
-
-
-<h2>Économisez de l'énergie: faites dormir ou hiberner votre ordinateur.</h2>
 
 <ul>
 <li>Windows propose la « veille » et l'« hibernation » (pour 

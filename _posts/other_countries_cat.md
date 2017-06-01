@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Ajuda altres païssos i al teu també
 ---
-
-
-
-
-<h2>Ajuda altres païssos i al teu també</h2>
 
 <center>(Gràcies a Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 per la idea de la primera versió del text)</center>

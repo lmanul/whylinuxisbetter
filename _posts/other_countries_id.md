@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Membantu Negara Lain, dan juga Negara Anda
 ---
-
-
-
-
-<h2>Membantu Negara Lain, dan juga Negara Anda</h2>
 
 <center>(Terima kasih kepada Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 untuk ide dan versi pertama dari tulisan ini) </center>

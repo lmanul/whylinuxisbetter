@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Linuks chroni Twój komputer</h2>
+title: Linuks chroni Twój komputer
+---
 
 Wirusy, trojany, robaki internetowe, spyware... system Windows jest podatny
 na wszystkie tego typu zagrożenia. Średni czas, jaki musi upłynąć od

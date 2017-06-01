@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Czy Twój system jest niestabilny?</h2>
+title: Czy Twój system jest niestabilny?
+---
 
 Czy kiedykolwiek Twoje dane zniknęły z komputera na skutek "wybuchu"
 systemu Windows? Czy zawsze zamykasz swój system we właściwy sposób, czy też

@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Ušetrite energiu: nechajte váš počítač spať alebo hibernovať</h2>
+title: Ušetrite energiu: nechajte váš počítač spať alebo hibernovať
+---
 
 <ul>
 <li>Windows umožňuje prejsť počítaču do režimu "spánku" a "hibernácie" (pre hibernáciu podržte Shift keď uvidíte okno s ponukou vypnutia).</li>

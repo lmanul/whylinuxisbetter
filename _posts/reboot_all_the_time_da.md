@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Er du træt af at genstarte din computer hele tiden?
 ---
-
-
-
-
-<h2>Er du træt af at genstarte din computer hele tiden?</h2>
 
 Har du opgraderet én eller to småting med "Windows update"? Genstart venligst. Har du lige installeret noget nyt software? Genstart venligst. Syntes dit system ustabilt? Prøv at genstarte, alting vil nok virke bedre efter en genstart.
 

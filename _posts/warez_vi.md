@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Đừng vi phạm bản quyền khi bạn có thể dùng phần mềm miễn phí
 ---
-
-
-
-
-<h2>Đừng vi phạm bản quyền khi bạn có thể dùng phần mềm miễn phí</h2>
 
 Bạn là người dùng hoàn toàn trong sạch, bạn *e hèm* mua mọi chương trình bạn từng sử dụng, 
 không ai sờ gáy bạn được ? Nếu vậy thì, xin chúc mừng :)

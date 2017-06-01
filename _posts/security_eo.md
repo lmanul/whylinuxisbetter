@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Linux protektas vian komputilon
 ---
-
-
-
-
-<h2>Linux protektas vian komputilon</h2>
 
 Virusoj, trojaj ĉevaloj, reklamprogramoj, spionaj programoj... Windows lasas ĉi ĉion facile eniri vian komputilon. La averaĝo de tempo, antaŭ ol via komputilo kun Windows (konektita al la reto kaj kun la instalo de "Service Pack 2") estas infektita, estas de<b>40 minutoj</b>. 
 

@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -17,7 +16,8 @@ lang: per
 <body>
 
 <div style="font-family: Tahoma;" id="corps">
-<h2>به كامپيوتر قديمي خود جان تازه&zwnj;اي ببخشيد.</h2>
+title: به كامپيوتر قديمي خود جان تازه&zwnj;اي ببخشيد.
+---
 
 هر نسخه جديدتر ويندوز سخت افزارهاي جديدتر و قويتري رو لازم
 داره.بنابراين اگر شما مي&zwnj;خوايد هميشه از ويندوز

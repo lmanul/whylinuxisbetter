@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Help andere landen, ook uw eigen
 ---
-
-
-
-
-<h2>Help andere landen, ook uw eigen</h2>
 
 <center>(Met dank aan Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 voor het idee en de eerste versie van de tekst) </center>

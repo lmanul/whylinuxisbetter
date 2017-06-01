@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Usa MSN, AIM, ICQ, Jabber, con un singolo programma
 ---
-
-
-
-
-<h2>Usa MSN, AIM, ICQ, Jabber, con un singolo programma</h2>
 
 Puoi avere diversi account a servizi di messaggistica istantanea, come 
 MSN, Yahoo, ICQ, Jabber, AIM, ecc. Su Windows o Mac OS X, avrai probabilmente 

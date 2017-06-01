@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Por que copiar software ilegalmente se o podes ter gratis?
 ---
-
-
-
-
-<h2>Por que copiar software ilegalmente se o podes ter gratis?</h2>
 
 Entón, estás perfectamente limpo, *cof, cof* compraches unha licenza para todo o software que usaches algunha vez *cof, cof, cof* e ninguén pode molestarte por isto?. Se ese é o teu caso, felicitacións :)
 

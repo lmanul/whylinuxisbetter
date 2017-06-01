@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?
 ---
-
-
-
-
-<h2>Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?</h2>
 
 L'installation de Windows, ce n'est que le début de l'aventure. 
 Imaginez vous venez d'installer votre Windows 7 flambant neuf et 

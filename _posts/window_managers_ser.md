@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Izaberite kako će Vaš desktop izgledati.
 ---
-
-
-
-
-<h2>Izaberite kako će Vaš desktop izgledati.</h2>
 
 Ako ste korisnik Windows-a onda Vaš desktop izgleda otprilike ovako:
 

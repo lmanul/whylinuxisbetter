@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Környezetvédelem
 ---
-
-
-
-
-<h2>Környezetvédelem</h2>
 
 <p align="center">Köszönet Franz Bourlet-nek az ötletért!
 

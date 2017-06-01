@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Chọn giao diện nào bạn muốn
 ---
-
-
-
-
-<h2>Chọn giao diện nào bạn muốn</h2>
 
 Nếu bạn dùng Windows, giao diện của bạn có lẽ gần giống thế này:
 

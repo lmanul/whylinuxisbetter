@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Gaudeix de suport lliure i il·limitat
 ---
-
-
-
-
-<h2>Gaudeix de suport lliure i il·limitat</h2>
 
 Un dels principals avantatges de la comunitat del programari lliure 
 (i Linux en particular), és que és una comunitat de debò. Els usuaris i 

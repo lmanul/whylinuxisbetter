@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Zašto kopirati softver ilegalno kada možete da ga dobijete besplatno?
 ---
-
-
-
-
-<h2>Zašto kopirati softver ilegalno kada možete da ga dobijete besplatno?</h2>
 
 Dakle, Vi ste savršeno čisti, Vi ste *kašljuc* kupili licencu za sav softver koji ste ikada koristili *kašljuc*, 
 i niko Vam ne može prigovoriti? Pa, ako je tako, čestitamo :)

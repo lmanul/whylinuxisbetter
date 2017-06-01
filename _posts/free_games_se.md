@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Spela hundratals av spel gratis
 ---
-
-
-
-
-<h2>Spela hundratals av spel gratis</h2>
 
 Hundratals av spel släpps fria, (som i"gratis öl" och som i "fritt 
 tal") i kategorier 

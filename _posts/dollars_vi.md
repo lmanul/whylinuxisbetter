@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Đừng trả 100$ cho hệ diều hành
 ---
-
-
-
-
-<h2>Đừng trả 100$ cho hệ diều hành</h2>
 
 <h3>(và đừng vi phạm bản quyền)</h3>
 

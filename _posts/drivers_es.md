@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Olvídate de los controladores
 ---
-
-
-
-
-<h2>Olvídate de los controladores</h2>
 
 Las nuevas piezas de hardware, incluidas las del tipo más sencillo, usualmente vienen con un CD. En el CD hay una pequeña pieza de software llamada “controlador”. Si lees el manual de instrucciones, sabrás que el hardware no funcionará en un ordenador con Windows, hasta que instales el controlador. Si eres como la mayoría de las personas que no lee el manual, imagínate a ti mismo cuando probablemente veas como tu nuevo dispositivo de alta tecnología, no funcione siendo nuevo.
 

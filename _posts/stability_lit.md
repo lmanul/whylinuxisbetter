@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Ar j&#363;s&#371; sistema nestabili?
 ---
-
-
-
-
-<h2>Ar j&#363;s&#371; sistema nestabili?</h2>
 
 Ar kada nors teko prarasti savo verting&#261; darb&#261; d&#279;l Windows'&#371; „nul&#363;&#382;imo“? Ar visada 
 i&#353;jungiate kompiuter&#303; tinkamai, o gal kartais j&#303; tiesiog i&#353;jungiate paspausdami mygtuk&#261;, nes 

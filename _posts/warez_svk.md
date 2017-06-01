@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Prečo kopírovať softvér ilegálne ak ho môžete získať zadarmo?</h2>
+title: Prečo kopírovať softvér ilegálne ak ho môžete získať zadarmo?
+---
 
 Takže vy ste úplne čistý, ehm "kúpili" ste si licencie na všetky programy, ktoré ste kedy používali, a nikto vám ohľadne toho nemôže nič vyčítať? Tak potom v tom prípade vám gratulujeme :)
 

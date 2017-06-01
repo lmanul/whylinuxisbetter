@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title:  Pratite vreme.
 ---
-
-
-
-
-<h2> Pratite vreme.</h2>
 
 Jeste li umorni od stalnog izvirivanja napolje da bi videli kakvo je
 vreme, pre nego izađete? Samo bacite pogled na Vaš Linux i saznajte sve

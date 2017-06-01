@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Teveel vensters? Gebruik werkbladen.
 ---
-
-
-
-
-<h2>Teveel vensters? Gebruik werkbladen.</h2>
 
 Ik was nooit een Windows-gebruiker en er is iets dat ik niet kan 
 begrijpen: met een tekstverwerker, webbrowser, e-mailprogramma, chatprogramma

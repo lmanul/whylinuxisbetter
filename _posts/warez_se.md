@@ -1,11 +1,11 @@
 ---
 lang: se
----
 ﻿
 
 
 
-<h2>Varför piratkopiera när du kan få program gratis?</h2>
+title: Varför piratkopiera när du kan få program gratis?
+---
 
 Så, du är helt ren, du har *host* köpt en licens för all mjukvara du någonsin använt*host*, och ingen kan anklaga dig för något annat? Om så är fallet; grattis! :)
 

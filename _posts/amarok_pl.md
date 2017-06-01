@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Poznaj wspaniały odtwarzacz muzyczny</h2>
+title: Poznaj wspaniały odtwarzacz muzyczny
+---
 
 Dla Linuksa powstało wiele odtwarzaczy (w tym AmaroK, Rhythmbox, Banshee,
 itd.) i niektóre z nich są po prostu <b>świetne</b>. Przykładowo program AmaroK

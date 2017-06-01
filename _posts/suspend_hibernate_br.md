@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+﻿title: Economize energia: deixe seu computador dormir ou hibernar.
 ---
-
-
-
-
-﻿<h2>Economize energia: deixe seu computador dormir ou hibernar.</h2>
 
 <ul>
 <li>Windows permite pôr seu computador para "dormir" our "hibernar" (para o último, segure a tecla Shift quando ver a janela de desligar o computador).</li>

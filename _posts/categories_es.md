@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Sin desastres en tu menú principal
 ---
-
-
-
-
-<h2>Sin desastres en tu menú principal</h2>
 
 Si usas Windows y has instalado algunas piezas de software, es probable que tu menú principal se vea así:
 

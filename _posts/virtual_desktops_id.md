@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Terlalu banyak membuka window/jendela? Gunakanlah Workspace.
 ---
-
-
-
-
-<h2>Terlalu banyak membuka window/jendela? Gunakanlah Workspace.</h2>
 
 Saya bukanlah seorang pengguna Windows dan ada sesuatu yang saya tak pernah mengerti dari mereka: ketika kamu membuka jendela word processor, web browser, aplikasi email, perangkat lunak instant mesaging, dan beberapa jendela lagi yang terbuka untuk mengeksplor file-file yang ada di komputermu, bagaimana mungkin para pengguna Windows bertahan untuk tidak <b>tersesat</b> pada kekacauan ini?
 

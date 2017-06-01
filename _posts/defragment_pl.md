@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Czy Twoje życie wydaje się pofragmentowane?</h2>
+title: Czy Twoje życie wydaje się pofragmentowane?
+---
 
 Jeśli wiesz już, co to takiego fragmentacja dysku, to w skrócie
 sprawa wygląda tak: Linuks jej nie potrzebuje.

@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Control complet asupra aspectelor desktop-ului.
 ---
-
-
-
-
-<h2>Control complet asupra aspectelor desktop-ului.</h2>
 Dacă sunteţi un utilizator de Windows, desktop-ul dumneavoastră
 probabil nu e prea departe de asta:
 

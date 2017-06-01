@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Ayuda a otros países y al tuyo propio
 ---
-
-
-
-
-<h2>Ayuda a otros países y al tuyo propio</h2>
 
 <center>(Gracias a Gabriel E. Patiño -- gepatino {arroba}gmail {punto} com -- por la idea y primera versión del texto)</center>
 

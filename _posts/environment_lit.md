@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Saugok aplinką
 ---
-
-
-
-
-<h2>Saugok aplinką</h2>
 
 <p align="center">Šią idėją sugalvojo Franz Bourlet. Dėkui jam už tai.
 

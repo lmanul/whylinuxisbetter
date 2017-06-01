@@ -1,13 +1,14 @@
 ---
 lang: tr
+
+
+
+
+title: Çevre için de bir şeyler yapın
 ---
 
-
-
-
-<h2>Çevre için de bir şeyler yapın</h2>
-
-<p align="center">Bu fikir için Franz Bourlet'e teşekkür ederim.</h2>
+<p align="center">Bu fikir için Franz Bourlet'e teşekkür ederim.
+---
 
 Konu çevreye gelirse Linux'ün Windows'tan ne farkı olabilir ki, diye sorabilirsiniz. Ne de olsa, ikisi de çevre kirliliği ya da iklim değişikliği ile pek alakalı görünmeyen yazılım dünyasında sadece birer üründen ibaret. Yine de, Linux'ü seçmekle çevre sağlığına hiç de azımsanmayacak katkılarda bulunabilirsiniz.
 

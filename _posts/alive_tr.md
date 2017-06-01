@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Eski bilgisayarınız ikinci baharını yaşasın
 ---
-
-
-
-
-<h2>Eski bilgisayarınız ikinci baharını yaşasın</h2>
 
 Windows, sürüm numarası yükseldikçe (95, 98, 2000, Me, XP, Vista vb...), 
 daha fazla donanıma ihtiyaç duyar. Yani düzgün çalışan bir Windows işletim 

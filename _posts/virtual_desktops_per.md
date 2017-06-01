@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -23,7 +22,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>پنجره&zwnj;ها زيادند؟از فضاهاي كاري استفاده كنيد.</h2>
+title: پنجره&zwnj;ها زيادند؟از فضاهاي كاري استفاده كنيد.
+---
 
 من تا كنون كاربر ويندوز نبوده&zwnj;ام و يك چيز هست كه من اون رو
 نمي&zwnj;فهمم:كاربران ويندوز چطور هنگامي كه برنامه ويرايش متن،مروگر

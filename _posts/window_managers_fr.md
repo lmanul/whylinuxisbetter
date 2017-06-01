@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Choisissez l'allure de votre bureau.
 ---
-
-
-
-
-<h2>Choisissez l'allure de votre bureau.</h2>
 
 Si vous utilisez Windows, votre bureau ressemble sans doute à
 peu près à ceci :

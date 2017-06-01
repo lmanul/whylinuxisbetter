@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;">
 <head>
@@ -23,7 +22,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>همه نرم افزارهاتون رو با يك كليك به روز كنيد.</h2>
+title: همه نرم افزارهاتون رو با يك كليك به روز كنيد.
+---
 
 
 ويندوز داراي يك سرويس واقعاً خوب به نام Windows Update هست كه سيستم شما رو با آخرين به روز رساني ها هماهنگ ميكنه.<br />

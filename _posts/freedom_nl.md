@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Vrijheid!
 ---
-
-
-
-
-<h2>Vrijheid!</h2>
 
 Linux en opensourcesoftware zijn "vrij" (Engels free). Dit betekent
 dat hun licentie een "vrije licentie" is, en de meest gebruikelijke

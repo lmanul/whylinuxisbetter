@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Prea multe ferestre? Folosiţi spaţiile de lucru.
 ---
-
-
-
-
-<h2>Prea multe ferestre? Folosiţi spaţiile de lucru.</h2>
 
 Nu am fost niciodată un utilizator fidel de Windows şi e ceva ce chiar
 nu pot înţelege: odată ce aveţi Word-ul, browser-ul, aplicaţia de e-mail,

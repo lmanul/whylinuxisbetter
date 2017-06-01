@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Spravte niečo pre životné prostredie</h2>
+title: Spravte niečo pre životné prostredie
+---
 
 <p align="center">Vďaka Franzovi Bourletovi za nápad
 

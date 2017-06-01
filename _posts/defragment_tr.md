@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Dijital hayatınızda parçalanmalar mı var ?
 ---
-
-
-
-
-<h2>Dijital hayatınızda parçalanmalar mı var ?</h2>
 
 Eğer halihazırda parçalanmanın ne olduğunu biliyorsanız ve her ay ya da
 daha sık disk birleştirme işlemine aşikarsanız, işte size kısa sürümü: 

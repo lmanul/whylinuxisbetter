@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Fes servir MSN, AIM, ICQ, Jabber en una mateixa aplicació.
 ---
-
-
-
-
-<h2>Fes servir MSN, AIM, ICQ, Jabber en una mateixa aplicació.</h2>
 
 Pots tenir comptes de diversos serveis de missatgeria instantània, 
 com ara MSN, Yahoo, ICQ, Jabber, AIM, etc. Mentre executis Windows o Mac 

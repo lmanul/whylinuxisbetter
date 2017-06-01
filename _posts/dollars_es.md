@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: No pagues 100 euros por tu sistema operativo
 ---
-
-
-
-
-<h2>No pagues 100 euros por tu sistema operativo</h2>
 
 <h3>(Y no lo copies ilegalmente)</h3>
 

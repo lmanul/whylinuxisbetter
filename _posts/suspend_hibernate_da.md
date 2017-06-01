@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Spar på strømmen : lad din computer sove eller gå i dvale.
 ---
-
-
-
-
-<h2>Spar på strømmen : lad din computer sove eller gå i dvale.</h2>
 
 <ul>
 <li>Windows tillader "sleep" (sove-funktion) og "hibernate" (dvale-funktion).</li>

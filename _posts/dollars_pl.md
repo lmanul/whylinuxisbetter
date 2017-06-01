@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Nie płać za system operacyjny</h2>
+title: Nie płać za system operacyjny
+---
 
 <h3>(i nie używaj pirackiej jego kopii)</h3>
 

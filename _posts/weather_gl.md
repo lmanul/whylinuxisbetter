@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Non perdas de vista o clima
 ---
-
-
-
-
-<h2>Non perdas de vista o clima</h2>
 
 Estás cansado de ter un termómetro fóra da túa fiestra e comprobalo antes de saír? Dálle unha mirada á túa pantalla de Linux e non perdas de vista o clima:
 

@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Hold øye med været.
 ---
-
-
-
-
-<h2>Hold øye med været.</h2>
 
 Er du lei av å måtte ha en termometer på utsiden av vinduet ditt for å sjekke den hver gang du går ut? Med Linux trenger du bare å ta en titt på skjermen din for å holde øye med været:
 

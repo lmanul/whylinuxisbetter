@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Pad&#279;k kitoms &#353;alis, taip pat ir savo.
 ---
-
-
-
-
-<h2>Pad&#279;k kitoms &#353;alis, taip pat ir savo.</h2>
 
 <center>(D&#279;koju Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 u&#382; id&#279;j&#261; ir pirmin&#281; teksto versij&#261;) </center>

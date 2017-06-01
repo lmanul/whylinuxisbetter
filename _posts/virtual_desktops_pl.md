@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Zbyt wiele okien? Użyj wirtualnych pulpitów</h2>
+title: Zbyt wiele okien? Użyj wirtualnych pulpitów
+---
 
 Nigdy nie byłem użytkownikiem systemu Windows i jest jedna rzecz,
 której wciąż nie mogę pojąć: jakim cudem po otwarciu kolejno edytora

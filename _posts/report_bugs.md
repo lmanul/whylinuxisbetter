@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Reporting bugs
 ---
-
-
-
-
-<h2>Reporting bugs</h2>
 
 If you find a bug in Windows, you can basically wait and pray that 
 Microsoft will fix it fast (and if it compromises your system's 

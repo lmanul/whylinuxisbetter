@@ -1,11 +1,11 @@
 ---
 lang: eu
+
+
+
+
+title: Ez dituzu 200€ zure sistema eragilearengatik ordainduko.
 ---
-
-
-
-
-<h2>Ez dituzu 200€ zure sistema eragilearengatik ordainduko.</h2>
 
 <h3>(Eta ez duzu ilegalki kopiatuko)</h3>
 

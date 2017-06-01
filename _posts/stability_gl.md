@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: É inestable o teu sistema ?
 ---
-
-
-
-
-<h2>É inestable o teu sistema ?</h2>
 
 Algunha vez perdiches o teu precioso traballo porque Windows se colgou ? Sempre apagas a túa computadora do xeito apropiado ou algunhas veces simplemente apágala porque Windows volveuse tolo e non te deixa facer nada máis ? Algunha vez apareceuche a "pantalla azul da morte" ou mensaxes de erro dicíndote que a túa computadora necesita ser apagada por razóns pouco claras ?
 

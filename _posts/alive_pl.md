@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Podaruj staruszkowi nowe życie</h2>
+title: Podaruj staruszkowi nowe życie
+---
 
 System Windows wymaga coraz droższego i mocniejszego sprzętu w miarę
 powstawania kolejnych jego wersji (95, 98, 2000, Me, XP, itd.). Jeśli więc

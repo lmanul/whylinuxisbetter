@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Geen achterpoortjes in uw software.
 ---
-
-
-
-
-<h2>Geen achterpoortjes in uw software.</h2>
 
 Het verschil tussen "closed source" (propriëtaire software) en
 opensourcesoftware (hoe kon u dit raden) dat de broncode (source)

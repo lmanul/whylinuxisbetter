@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Per daug lang&#371;? Naudokit&#279;s virtualiais darbastaliais.
 ---
-
-
-
-
-<h2>Per daug lang&#371;? Naudokit&#279;s virtualiais darbastaliais.</h2>
 
 Niekad nebuvau Windows'&#371; naudotojas ir kai ko negaliu suprasti: kai atveriama tekst&#371; rengykl&#279;, interneto nar&#353;ykl&#279;, elektroninio pa&#353;to sistema, tiesioginio susira&#353;in&#279;jimo programa ir dar keli langai byl&#371; paie&#353;kai, kaip Windows'&#371; naudotojai sugeba <b>nepasimesti</b> &#353;ioje makalyn&#279;je?
 

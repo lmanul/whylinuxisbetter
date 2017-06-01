@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Sciigu erarojn
 ---
-
-
-
-
-<h2>Sciigu erarojn</h2>
 
 Se vi trovas eraron en Windows, vi povas esence atendi kaj preĝi ke Microsoft riparu ĝin rapide (kaj se ĝi riskas la sekurecon de via operaciumo, vi devas preĝi duoble). Vi povas pensi ke sciigi tiun eraron al Microsoft (por ke ili riparu ĝin pli rapide) devas esti facila. Nu, pripensu la aferon denove. <a 
 href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Jen</a> interesa artikolo pri ĉi tio. Kio se Microsoft eĉ ne rimarkas pri la eraroj? Nu, do, ni esperu ke en la venonta versio de Windows ne estu la eraro (sed vi bezonas pagi aliajn centojn da dolaroj).

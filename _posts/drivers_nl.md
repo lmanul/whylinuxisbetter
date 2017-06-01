@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Vergeet stuurprogramma's
 ---
-
-
-
-
-<h2>Vergeet stuurprogramma's</h2>
 
 Nieuwe hardware, zelfs eenvoudige hardware, levert meestal een cd mee. Op die cd staat een klein stuk software, een stuurprogramma of driver genoemd. Als u de handleiding leest, weet u dat deze hardware niet zal werken op een Windows-computer totdat u het stuurprogramma installeert. Als u zoals de meeste mensen de handleiding niet leest, dan zult u waarschijnlijk zelf doorhebben wanneer uw nieuwe, moderne hardware niet standaard werkt.
 

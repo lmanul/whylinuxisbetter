@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Nincs több sz*rware.
 ---
-
-
-
-
-<h2>Nincs több sz*rware.</h2>
 
 Ha valaha is vettél egy új gépet, amin Windows futott, akkor tudhatod, hogy igen idegesítő tud lenni.
 

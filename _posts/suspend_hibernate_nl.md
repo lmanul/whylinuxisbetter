@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Bespaar energie: zet uw computer in slaapstand of pauzestand
 ---
-
-
-
-
-<h2>Bespaar energie: zet uw computer in slaapstand of pauzestand</h2>
 
 <ul>
 <li>Windows ondersteunt "slaap" (stand-by) en "hibernate" (diepe slaap) (voor het laatste, hou de Shift-toets ingedrukt wanneer u het afsluiten-venster ziet).</li>

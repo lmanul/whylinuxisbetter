@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title:  Neka Vaš stari kompjuter dobije drugi život.
 ---
-
-
-
-
-<h2> Neka Vaš stari kompjuter dobije drugi život.</h2>
 
 Windows zahteva sve jači i jači hardver kako mu raste broj verzije 
 (95, 98, 2000, Me, XP, itd.). Pa ako želite da nastavite da ga koristite,

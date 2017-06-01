@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Er du lei av å måtte restarte datamaskinen din hele tiden?
 ---
-
-
-
-
-<h2>Er du lei av å måtte restarte datamaskinen din hele tiden?</h2>
 
 Har du nettopp oppgradert en eller to småting på ditt Windows-system med «Windows update»? Vennligst restart. Har du nettopp installert ny programvare? Vennligst restart. Er systemet ditt ustabilt? Vennligst restart. Forhåpentligvis vil det fungere bedre etter det.
 

@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Hvorfor kopiere software ulovligt når du kan få det gratis?
 ---
-
-
-
-
-<h2>Hvorfor kopiere software ulovligt når du kan få det gratis?</h2>
 
 Ok, du er helt ren i filten, du har *host* købt en licens til hvert eneste program du nogensinde har brugt *host*, 
 og ingen kan pege fingre ad dig? Ok, hvis det er tilfældet, tillykke :)

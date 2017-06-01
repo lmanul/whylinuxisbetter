@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Escolle como queres que se vexa o teu escritorio.
 ---
-
-
-
-
-<h2>Escolle como queres que se vexa o teu escritorio.</h2>
 
 Si eres un usuario de Windows, probablemente tu escritorio no está muy lejos de esto:
 

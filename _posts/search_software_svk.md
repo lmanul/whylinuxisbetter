@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Potrebujete nové programy? Neobťažujte sa hľadaním na internete, Linux ich nájde pre vás</h2>
+title: Potrebujete nové programy? Neobťažujte sa hľadaním na internete, Linux ich nájde pre vás
+---
 
 Ak chcete vyskúšať nový program vo Windows-e, budete potrebovať:
 

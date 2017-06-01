@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Ottieni supporto gratuito e illimitato
 ---
-
-
-
-
-<h2>Ottieni supporto gratuito e illimitato</h2>
 
 Uno dei più grandi vantaggi della comunità Open Source (e di Linux 
 in particolare), è che è una vera comunità. Utenti e sviluppatori ci 

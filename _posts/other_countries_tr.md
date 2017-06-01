@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Kendi ülkenize ve diğer ülkelere yardım edin
 ---
-
-
-
-
-<h2>Kendi ülkenize ve diğer ülkelere yardım edin</h2>
 
 <center>(Gabriel E. Patiño'ya (gepatino {at}gmail {dot} com) fikir ve yazının ilk taslağı için teşekkürler)</center>
 

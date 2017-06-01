@@ -1,11 +1,11 @@
 ---
 lang: se
----
 ﻿
 
 
 
-<h2>Rapportera buggar</h2>
+title: Rapportera buggar
+---
 
 Om du hittar en bugg i Windows kan du i princip sitta och be om att Microsoft fixar den snart (och om den är en fara för systemet får du be extra hårt). Du förväntar dig säkert att det är enkelt att rapportera en bugg till Microsoft (så att de kan fixa den snabbare). Isåfall, tänk om. <a 
 href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Here</a> 

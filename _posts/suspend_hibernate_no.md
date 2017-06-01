@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Spar på strømmen: La datamaskinen din «sove» eller «gå i dvale».
 ---
-
-
-
-
-<h2>Spar på strømmen: La datamaskinen din «sove» eller «gå i dvale».</h2>
 
 <ul>
 <li>Windows tillater «soving» og «gå i dvale» (for den sistnevnte, holdt ned Shift-tasten når du ser avslutningsdialogen.)</li>

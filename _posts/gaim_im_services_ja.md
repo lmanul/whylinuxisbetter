@@ -1,11 +1,11 @@
 ---
 lang: ja
+
+
+
+
+title: MSNにAIMにICQにGoogle Talkに。ああ、どれを使ったらいいのさ？
 ---
-
-
-
-
-<h2>MSNにAIMにICQにGoogle Talkに。ああ、どれを使ったらいいのさ？</h2>
 
 インスタントメッセンジャーに片っ端から登録して、MSN、Yahoo!、ICQ、Google Talk、AIM、……チャット用のアカウントが散らばっていません？　WindowsやMac OSXでは、たぶんひとつひとつのアカウントにそれぞれ専用のソフトが必要。MSNにはMSNメッセンジャー、ICQにはICQって。
 

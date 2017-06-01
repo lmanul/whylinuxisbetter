@@ -1,11 +1,11 @@
 ---
 lang: se
----
 ﻿
 
 
 
-<h2>Glöm virus.</h2>
+title: Glöm virus.
+---
 
 Om din dator stängs av utan att du vet om det; om konstiga fönster dyker upp med all möjlig reklam utan att du efterfrågar det, om email skickas till dina kontakter utan att du vet om det, då är din dator antagligen infekterad av virus. Huvudorsaken heter Windows.
 

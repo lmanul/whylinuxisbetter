@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Játssz játékok százaival ingyen!
 ---
-
-
-
-
-<h2>Játssz játékok százaival ingyen!</h2>
 
 Játékok millióit adják ki ingyen, ráadásul szabad licenccel: 2D, 3D, kirakók, háborús játékok, online többjátékos programok, amit csak akarsz! Íme néhány példa (a teljes lista végtelen lenne):
 

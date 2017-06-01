@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Too many windows? Use workspaces.
 ---
-
-
-
-
-<h2>Too many windows? Use workspaces.</h2>
 
 I never was a Windows user and there is something I just cannot 
 understand: once you have your word processor, your web browser, your 

@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Warte nicht jahrelang darauf, dass Bugs behoben werden; melde sie und bring sie zur Strecke
 ---
-
-
-
-
-<h2>Warte nicht jahrelang darauf, dass Bugs behoben werden; melde sie und bring sie zur Strecke</h2>
 
 Wenn du einen Bug (Fehler) in Windows findest, kannst du eigentlich nur warten und beten, dass Microsoft ihn schnell behebt (und wenn er die Sicherheit deines Systems betrifft, musst du gleich doppelt so viel beten). Du könntest denken, dass das Melden des Fehlers an Microsoft (damit sie ihn schneller beheben können) einfach sein muss. Tja, denk noch einmal nach. <a href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Hier</a> ist ein interessanter Artikel darüber (englisch). Was, wenn Microsoft den Fehler nicht einmal bemerkt? Nun, dann hoffen wir, dass die nächste Version von Windows ihn behebt (aber man muss wieder ein paar hundert Euronen zahlen).
 

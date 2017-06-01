@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Non pagas 100 € polo teu sistema operativo.
 ---
-
-
-
-
-<h2>Non pagas 100 € polo teu sistema operativo.</h2>
 
 <h3>(E non o copias ilegalmente)</h3>
 

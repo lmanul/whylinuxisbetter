@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: Por que seu Windows fica mais lento dia após dia ?
 ---
-
-
-
-
-<h2>Por que seu Windows fica mais lento dia após dia ?</h2>
 
 O Windows tem um bom número de falhas de design, fazendo com que fique cada vez mais lento e que não dure muito tempo. Você provavelmente já escutou mais de uma vez alguém dizendo: "Meu computador está ficando lento, eu vou reinstalar". Reinstalar o Windows resolve o problema... até a próxima vez.
 

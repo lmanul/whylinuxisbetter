@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Apakah sistem komputermu tidak stabil?
 ---
-
-
-
-
-<h2>Apakah sistem komputermu tidak stabil?</h2>
 
 Apakah kamu pernah kehilangan pekerjaan penting akibat Windows mengalami crash? Apakah kamu selalu mematikan komputer dengan baik, atau terkadang kamu mematikannya begitu saja karena Windows pada komputermu sudah "membeku" dan tidak mengijinkanmu melakukan apapun? Apakah kamu pernah mendapatkan <i>"blue screen of death"</i> atau pesan error yang mengatakan bahwa komputermu harus dimatikan karena alasan yang tidak jelas?
 

@@ -1,11 +1,11 @@
 ---
 lang: et
+
+
+
+
+title: 
 ---
-
-
-
-
-<h2></h2>
 
 Kas sul on kunagi Windows-i hangumise tõttu kunagi mõni väärtuslik töö kaotsi läinud? Kui sa oma arvutit välja lülitad, kas sa teed seda alati korrektselt, või tuleb seda mõnikord arvuti hullumise tõttu teha?  Kas sa oled kunagi näinud "sinist surmaekraani" või mõnda teavitust, mis väidab et su arvuti tuleb mingil imelikul põhjusel välja lülitada?
 

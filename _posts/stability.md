@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Is your system unstable?
 ---
-
-
-
-
-<h2>Is your system unstable?</h2>
 
 Have you ever lost your precious work because Windows crashed? Do you 
 always shut down your computer the proper way, or do you sometimes just 

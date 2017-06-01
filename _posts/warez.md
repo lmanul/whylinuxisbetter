@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Why copy software illegally if you can get it for free?
 ---
-
-
-
-
-<h2>Why copy software illegally if you can get it for free?</h2>
 
 So, you're perfectly clean, you have *cough* purchased a license for all the software you've ever used *cough*, 
 and nobody can bother you about this? Well, if that's the case, congratulations :)

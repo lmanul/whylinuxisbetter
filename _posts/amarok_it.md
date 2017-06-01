@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Rilassati con un eccezionale riproduttore musicale.
 ---
-
-
-
-
-<h2>Rilassati con un eccezionale riproduttore musicale.</h2>
 
 Linux ha molti riproduttori musicali (inclusi AmaroK, Rythmbox, Banshee, 
 ecc.), e alcuni di loro sono <b>eccezionali</b>. Prendiamo AmaroK ad esempio 

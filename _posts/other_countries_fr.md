@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Aidez les autres pays, et le vôtre
 ---
-
-
-
-
-<h2>Aidez les autres pays, et le vôtre</h2>
 
 <center>(Merci à Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 pour l'idée et la première version de ce texte) </center>

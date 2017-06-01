@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Warum Software illegal kopieren, wenn du sie umsonst haben kannst?
 ---
-
-
-
-
-<h2>Warum Software illegal kopieren, wenn du sie umsonst haben kannst?</h2>
 
 Du bist also völlig reinen Gewissens, du hast alle Lizenzen erworben *räusper* für jede Software, die du je benutzt hast *hust*? Nun, wenn das der Fall ist, herzlichen Glückwunsch :)
 

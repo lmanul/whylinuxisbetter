@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Découvrez un lecteur de musique d'exception
 ---
-
-
-
-
-<h2>Découvrez un lecteur de musique d'exception</h2>
 
 Linux dispose de nombreux lecteurs de musique (AmaroK, Rhythmbox, 
 Banshee, etc.) et certains d'entre eux sont <b>excellents</b>. Voyez par 

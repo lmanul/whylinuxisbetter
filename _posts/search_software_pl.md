@@ -1,12 +1,12 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci!<br />
-<small>Linuks zrobi to za Ciebie</small></h2>
+title: Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci!<br />
+<small>Linuks zrobi to za Ciebie</small>
+---
 
 Jeśli potrzebujesz nowej aplikacji pod system Windows, będzie to wymagało:
 

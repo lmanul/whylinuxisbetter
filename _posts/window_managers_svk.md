@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Vyberte si štýl vašej pracovnej plochy</h2>
+title: Vyberte si štýl vašej pracovnej plochy
+---
 
 Ak ste používateľom Windows, prostredie vašej pracovnej plochy pravdepodobne vyzerá nejak takto:
 

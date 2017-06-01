@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Pas de "portes dérobées".
 ---
-
-
-
-
-<h2>Pas de "portes dérobées".</h2>
 
 La différence entre les logiciels "propriétaires" et "open source" sont que leur code source est ouvert (comment, vous avez deviné?). Pourquoi est-ce important? Le "code source" est comme la <b>recette</b> secrète de chaque logiciel, comme la recette d'un gâteau. Quand on achète un gâteau, il n'y a pas de moyen de deviner la recette exacte (même si vous pouvez deviner des parties, comme "il contient de la noix de coco"). Si une boulangerie donnait la recette de son célèbre gâteau au chocolat, elle ferait bientôt faillite car les gens le feraient chez eux et arrêteraient de l'acheter. De la même manière, Microsoft ne donne pas la recette, c'est à dire le "code source", de leurs logiciels (comme Windows), et ils ont raison car c'est la source de leurs profits.
 

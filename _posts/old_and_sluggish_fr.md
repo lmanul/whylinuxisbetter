@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Pourquoi votre Windows est-il de plus en plus lent ?
 ---
-
-
-
-
-<h2>Pourquoi votre Windows est-il de plus en plus lent ?</h2>
 
 Windows comporte un certain nombre de défauts de fabrication,
 le rendant de plus en plus lent à mesure que vous l'utilisez,

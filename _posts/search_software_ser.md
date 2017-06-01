@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Treba Vam nov softver? Ne tražite po mreži, Linux će Vam nabaviti.
 ---
-
-
-
-
-<h2>Treba Vam nov softver? Ne tražite po mreži, Linux će Vam nabaviti.</h2>
 
 Ako želite da probate novo parče softvera u Windows-u, moraćete da:
 

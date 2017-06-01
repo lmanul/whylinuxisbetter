@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Sin puertas traseras en tu software.
 ---
-
-
-
-
-<h2>Sin puertas traseras en tu software.</h2>
 
 La diferencia entre el software de “código cerrado” (propietario) y el de “código abierto” (¿cómo adivinar?) es que su “código” está abierto. Eh, bueno, ¿por qué me importa? Bien, el “código” o “código fuente” es como la <b>receta</b> secreta de cada software, como la receta de un pastel. Cuando compras un pastel, no hay manera de que tú puedas averiguar la receta exacta (aunque puedes adivinar un poquito, “tiene un poco de coco rallado aquí”). Sí la pastelería proporcionara la receta de su super exitoso pastel de queso, pronto quebraría por que la gente lo hornearía por si mismos en su casa y dejaría de comprarlo. Así mismo, Microsoft no proporciona la receta, o “código fuente” de su software como Windows y con razón, por que es con lo que hacen su dinero.
 

@@ -1,12 +1,12 @@
 ---
 lang: fr
+
+
+
+
+title: Besoin de nouveaux logiciels ? Ne cherchez pas, Linux les 
+télécharge pour vous.
 ---
-
-
-
-
-<h2>Besoin de nouveaux logiciels ? Ne cherchez pas, Linux les 
-télécharge pour vous.</h2>
 
 Si vous voulez essayer un nouveau logiciel sous Windows, il vous faut :
 

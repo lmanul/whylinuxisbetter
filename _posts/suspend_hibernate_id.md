@@ -1,6 +1,5 @@
 ---
 lang: id
----
 
 
 
@@ -8,7 +7,8 @@ While your computer is sleeping, you can't use it, but it's consuming
 very little power, and you can wake it up by pressing a key or clicking 
 the mouse.
 
-<h2>Berhematlah sedikit energi : biarkan komputermu "tidur" (sleep) atau "hibernasi" (hybernate).</h2>
+title: Berhematlah sedikit energi : biarkan komputermu "tidur" (sleep) atau "hibernasi" (hybernate).
+---
 
 <ul>
 <li>Windows memiliki "sleep" dan "hybernate" (untuk mengaktifkannya, tekan tombol Shift pada saat muncul kotak dialog shutdown).</li>

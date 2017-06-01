@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Jangan lupa selalu mengamati cuaca.
 ---
-
-
-
-
-<h2>Jangan lupa selalu mengamati cuaca.</h2>
 
 Apakah kamu merasa lelah mengamati termometer di luar jendela dan harus mengeceknya setiap kali kamu akan pergi dari rumah? Sekarang, kamu cukup melihat monitor Linux dan mengamati cuaca:
 

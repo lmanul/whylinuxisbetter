@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Bạn cần chương trình mới ? Không cần tìm trên mạng, Linux sẽ tải về cho bạn.
 ---
-
-
-
-
-<h2>Bạn cần chương trình mới ? Không cần tìm trên mạng, Linux sẽ tải về cho bạn.</h2>
 
 Nếu bạn muốn biết các chương trình mới trên Windows, bạn cần phải:
 

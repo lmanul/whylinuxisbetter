@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Llibertat!
 ---
-
-
-
-
-<h2>Llibertat!</h2>
 
 Linux i el programari de “Codi Obert” són lliures. Això significa que 
 la seva llicència és una “llicència lliure”, i la més comuna d'elles és 

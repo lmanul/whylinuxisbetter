@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: Seu sistema é instável ?
 ---
-
-
-
-
-<h2>Seu sistema é instável ?</h2>
 
 Você alguma vez perdeu seu precioso trabalho porque o Windows travou? 
 Você sempre desliga seu computador da forma apropriada, ou você às vezes 

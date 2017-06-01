@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Salta a la nova generació d'escriptoris.
 ---
-
-
-
-
-<h2>Salta a la nova generació d'escriptoris.</h2>
 
 
 T'han impressionat els efectes 3D i les transparències que acaben de ser presentades al Windows Vista, i has decidit que aquestes ben 

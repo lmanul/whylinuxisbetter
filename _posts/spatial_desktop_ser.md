@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Uskočite u novu generaciju radne površine
 ---
-
-
-
-
-<h2>Uskočite u novu generaciju radne površine</h2>
 
 Zadivljeni ste 3D i efektima providnosti koje je predstavila Windows 
 Vista pa ste odlučili da ove unikatne mogućnosti vrede nekoliko stotina 

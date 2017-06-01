@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Ne pagu 100 dolarojn por via operaciumo
 ---
-
-
-
-
-<h2>Ne pagu 100 dolarojn por via operaciumo</h2>
 
 <h3>(Kaj ne kopiu ĝin neleĝe)</h3>
 

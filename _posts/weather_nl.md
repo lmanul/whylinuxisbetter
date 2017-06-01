@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Hou het weer in de gaten
 ---
-
-
-
-
-<h2>Hou het weer in de gaten</h2>
 
 Bent u het moe om een thermometer buiten te hebben en deze te bekijken 
 voordat u naar buiten gaat? Bekijk uw Linux-scherm en hou het weer in de gaten:

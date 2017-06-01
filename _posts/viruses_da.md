@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Glem alt om virusser.
 ---
-
-
-
-
-<h2>Glem alt om virusser.</h2>
 
 Hvis din computer pludselig lukker ned uden at have advaret dig om det, hvis mærkelige vinduer med tekst du ikke forstår og alle mulige reklamer dukker op uden du har bedt om det, eller hvis emails bliver sendt til alledine kontakter uden at du ved det, så har din computer sandsynligvis fået en virus. Hovedårsagen til dette er som regel at du kører Windows.
 

@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Does your digital life seem fragmented?
 ---
-
-
-
-
-<h2>Does your digital life seem fragmented?</h2>
 
 If you already know what fragmentation is, and are already used to 
 defragmenting your disk every month or so, here is the short version : 

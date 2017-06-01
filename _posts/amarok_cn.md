@@ -1,11 +1,11 @@
 ---
 lang: cn
+
+
+
+
+title: 获得一个绝佳的音乐播放器
 ---
-
-
-
-
-<h2>获得一个绝佳的音乐播放器</h2>
 
 
 Linux 操作系统中有很多音乐播放器（包括 AmeroK， Rhythmbox，Banshee，等），

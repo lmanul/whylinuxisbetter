@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: İşletim sisteminize neden 100$ ödeyesiniz ki?
 ---
-
-
-
-
-<h2>İşletim sisteminize neden 100$ ödeyesiniz ki?</h2>
 
 <h3>(Veya yasadışı kopyalamaya çalışasınız)</h3>
 

@@ -1,11 +1,11 @@
 ---
 lang: se
----
 ﻿
 
 
 
-<h2>Spara energi: Låt datorn sova.</h2>
+title: Spara energi: Låt datorn sova.
+---
 
 <ul>
 <li>Windwos tillåter datorn att ”vänteläge” och ”viloläge” (för det senare, håll nere Shift när du ser ”stänga av” dialogrutan).</li>

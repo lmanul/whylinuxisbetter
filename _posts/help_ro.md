@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Bucuraţi-vă de ajutor gratuit şi nelimitat!
 ---
-
-
-
-
-<h2>Bucuraţi-vă de ajutor gratuit şi nelimitat!</h2>
 
 Unul din marile avantaje ale comunităţii Open Source (şi a Linux-ului
 în particular), este acela că e o comunitate reală. Utilizatorii şi

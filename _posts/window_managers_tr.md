@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Masaüstünüzün nasıl olması gerektiğini siz seçin.
 ---
-
-
-
-
-<h2>Masaüstünüzün nasıl olması gerektiğini siz seçin.</h2>
 
 Eğer bir windows kullanıcısıysanız Masaüsütünüz herhalde bundan 
 pek te farklı değildir:

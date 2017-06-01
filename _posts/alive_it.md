@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Regala una seconda vita al tuo vecchio computer
 ---
-
-
-
-
-<h2>Regala una seconda vita al tuo vecchio computer</h2>
 
 Windows richiede hardware sempre più potente all'aumentare del suo numero di 
 versione (95, 98, 2000, Me, XP, ecc.). Quindi, se vuoi che Windows continui a 

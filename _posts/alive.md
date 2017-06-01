@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Let your old computer have a second life
 ---
-
-
-
-
-<h2>Let your old computer have a second life</h2>
 
 Windows requires more and more hardware power as its version number 
 increases (95, 98, 2000, Me, XP, etc.). So if you want to keep running 

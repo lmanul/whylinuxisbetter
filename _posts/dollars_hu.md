@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Ne fizess 50-100.000 Ft-ot egy operációs rendszerért!
 ---
-
-
-
-
-<h2>Ne fizess 50-100.000 Ft-ot egy operációs rendszerért!</h2>
 
 <h3>(És ne is másold őket illegálisan!)</h3>
 

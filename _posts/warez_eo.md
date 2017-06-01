@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Kial kopii programaron neleĝe se vi povas akiri ĝin senkoste?
 ---
-
-
-
-
-<h2>Kial kopii programaron neleĝe se vi povas akiri ĝin senkoste?</h2>
 
 Do, vi estas tute libera, ĉu vi *cough* aĉetis permeson por la tuta programaro kiun vi iam uzis *cough*, kaj neniu povas ĝeni vin pri tio? Do, se jes, gratulon :)
 

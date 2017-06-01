@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Speel honderden gratis spellen
 ---
-
-
-
-
-<h2>Speel honderden gratis spellen</h2>
 
 Honderden spellen zijn gratis en vrijelijk beschikbaar: 2D- en 3D-spellen, puzzels, gevechtsspellenbeer", online multiplayer games, u kiest maar! Hier zijn enkele voorbeelden (de volledige lijst zou oneindig zijn):
 

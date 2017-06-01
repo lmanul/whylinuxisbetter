@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: ﻿Não pague $100 pelo seu sistema operacional
 ---
-
-
-
-
-<h2>﻿Não pague $100 pelo seu sistema operacional</h2>
 
 <h3>(E não os copie ilegalmente)</h3>
 

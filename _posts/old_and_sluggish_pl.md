@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Czemu Twój Windows spowalnia z każdym dniem?</h2>
+title: Czemu Twój Windows spowalnia z każdym dniem?
+---
 
 W system Windows wbudowanych jest wiele przestarzałych i źle
 zaprojektowanych podsystemów, co sprawia, że działa on coraz wolniej

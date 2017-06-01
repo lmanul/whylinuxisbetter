@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Xem dự báo thời tiết
 ---
-
-
-
-
-<h2>Xem dự báo thời tiết</h2>
 
 Bạn có phiền vì phải để ý đến cái nhiệt kế ngoài cửa sổ và phải chạy ra xem mỗi 
 khi định đi đâu đó không ? Chỉ cần liếc vào màn hình bạn sẽ biết thời tiết như thế nào:

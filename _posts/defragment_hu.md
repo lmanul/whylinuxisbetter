@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Töredékekként látod a világot?
 ---
-
-
-
-
-<h2>Töredékekként látod a világot?</h2>
 
 Ha már tudod, mi az a töredezettség, és kb. minden hónapban töredezettségmentesíted a géped, itt egy rövidebb verzió: a Linuxot nem kell töredezettségmentesíteni.
 

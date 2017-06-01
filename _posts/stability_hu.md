@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Instabil a rendszered?
 ---
-
-
-
-
-<h2>Instabil a rendszered?</h2>
 
 Veszett már el valaha munkád, melyen oly sokat fáradoztál, csak mert a Windows lefagyott? Mindig a megfelelő módon állítod le a számítógéped, vagy néha csak egyszerűen kinyomod, mert a Windows megbolondul és nem engedi, hogy bármit is tegyél? „Elkékhalálozott” már valaha a géped vagy kaptál már olyan hibaüzenetet, mely szerint a számítógéped ismeretlen okokból le kell állítani?
 

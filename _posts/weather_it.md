@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Dà un occhiata al tempo
 ---
-
-
-
-
-<h2>Dà un occhiata al tempo</h2>
 
 Sei stufo di avere un termometro fuori alla finestra e andare a 
 controllarlo prima di sapere la temperatura esterna? Dai semplicemente 

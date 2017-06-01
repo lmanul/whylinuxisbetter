@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Lascia i pirati come dei pesci a brodo
 ---
-
-
-
-
-<h2>Lascia i pirati come dei pesci a brodo</h2>
 
 Windows ha <i>molti</i> problemi di sicurezza. Molti di questi possono 
 avere brutte conseguenze se sei connesso a Internet. Se un pirata è a 

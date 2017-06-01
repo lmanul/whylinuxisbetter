@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Używaj równocześnie Gadu-Gadu, MSN, ICQ i Jabbera z pomocą jednego programu</h2>
+title: Używaj równocześnie Gadu-Gadu, MSN, ICQ i Jabbera z pomocą jednego programu
+---
 
 Możesz posiadać jednocześnie wiele kont w różnych komunikatorach, takich
 jak Gadu-Gadu, MSN, Yahoo, ICQ, Jabber, AIM itp. Pod systemem Windows czy

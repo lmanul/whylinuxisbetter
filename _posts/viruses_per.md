@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -21,7 +20,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>ويروسها رو فراموش كنيد.</h2>
+title: ويروسها رو فراموش كنيد.
+---
 
 اگه كامپيوترتون بدون اجازه شما خاموش ميشه،اگه پنجره&zwnj;هاي تبليغاتي
 عجيب و غريب بدون اطلاع شما روي صفحه ظاهر ميشن،اگه بدون اطلاع شما،به همه

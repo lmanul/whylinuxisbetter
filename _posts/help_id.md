@@ -1,11 +1,11 @@
 ---
 lang: id
----
  
 
 
 
-<h2>Nikmati dukungan bebas dan tanpa batas</h2>
+title: Nikmati dukungan bebas dan tanpa batas
+---
 
 Salah satu aset terbesar dalam komunitas Open Source (khususnya Linux), bahwa mereka adalah komunitas yang riil. Para pengguna dan pengembang benar-benar ada di luar sana, dalam situs-situs forum, mailing list, kanal-kanal IRC, membantu para pengguna baru. Mereka bangga dapat melihat banyak orang menggunakan Linux, dan mereka bangga dapat membantu mereka merasa nyaman dengan sistem baru yang mereka pilih. 
 

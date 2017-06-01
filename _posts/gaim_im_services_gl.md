@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Usa MSN, AIM, ICQ, Jabber, cun só programa
 ---
-
-
-
-
-<h2>Usa MSN, AIM, ICQ, Jabber, cun só programa</h2>
 
 Talvez teñas contas en varios servizos de mensaxería instantánea, como MSN, Yahoo, ICQ, Jabber, etc. pero mentres estás usando Windows ou Mac OS x, probablemente necesites usar un programa para conectarte a cada un: MSN Messenger para MSN, ICQ para ICQ, etc.
 

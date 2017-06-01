@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: Liberdade!
 ---
-
-
-
-
-<h2>Liberdade!</h2>
 
 O Linux e os programas "Open Source" são "livres". Isso significa que 
 sua licença é uma "licença livre", e a mais comum é a GPL (Licença 

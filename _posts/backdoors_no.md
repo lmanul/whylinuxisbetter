@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Programvaren din er fri for bakdører.
 ---
-
-
-
-
-<h2>Programvaren din er fri for bakdører.</h2>
 
 Forskjellen på «closed source»- (proprietær) og «open source»-programvare er at «kilden» er åpen. Vel, OK, men hvorfor skal jeg bry meg? spør du kanskje. «Kilden», eller «kildekoden», er som den hemmelige <b>oppskriften</b> for all programvare, akkurat som oppskriften for en kake. Når du kjøper en kake, er det ingen måte du kan finne den riktige originaloppskriften på (men du kan gjette deg frem; som «det er kokosnøtt i denne»). Hvis en baker hadde gitt ut oppskriften på sin meget suksessfulle ostekake, ville han straks gå konkurs siden folk ikke ville kjøpt den lengre. De ville isteden ha bakt kaken hjemme. På samme måte gir ikke Microsoft ut kildekoden, eller «oppskriften» på deres programvare (som Windows), da de tjener penger på proprietær programvare.
 

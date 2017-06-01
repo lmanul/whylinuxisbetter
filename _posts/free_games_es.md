@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Juega gratis a cientos de juegos
 ---
-
-
-
-
-<h2>Juega gratis a cientos de juegos</h2>
 
 Cientos de juegos están liberados bajo la licencia libre: 2D, 3D, crucigramas, juegos de guerra, multijugadores en línea, ¡el que quieras! Aquí hay algunos ejemplos (la lista completa sería infinita):
 

@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Laisv&#279;!
 ---
-
-
-
-
-<h2>Laisv&#279;!</h2>
 
 Linux'ai ir "Atvirojo kodo" programos yra „laisvos“. Tai rei&#353;kia, kad j&#371; licencija yra "laisva 
 licencija", ir labiausiai paplitusi yra GPL (General Public License - Bendroji Vie&#353;oji Licencija). Ji teigia, kad 

@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -23,7 +22,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>آزادي!</h2>
+title: آزادي!
+---
 
 
 لينوكس و نرم افزارهاي اوپن سورس مجاني و آزادن.به اين معنا كه اونها تحت

@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Låt din gamla dator få ett nytt liv
 ---
-
-
-
-
-<h2>Låt din gamla dator få ett nytt liv</h2>
 
 Windows kräver mer och mer hårdvarukraft i takt med att nya 
 versioner släpps (95, 98, 2000, Me, XP, etc.). Det betyder att om du 

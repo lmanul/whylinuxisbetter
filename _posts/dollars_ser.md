@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Nemojte platiti 100$ za Vaš Operativni sistem
 ---
-
-
-
-
-<h2>Nemojte platiti 100$ za Vaš Operativni sistem</h2>
 
 <h3>(I nemojte ga nelegalno kopirati)</h3>
 

@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Nincs többé nagy rendetlenség a Start menüdben
 ---
-
-
-
-
-<h2>Nincs többé nagy rendetlenség a Start menüdben</h2>
 
 Ha Windows-t használsz és néhány új programot telepítettél, valahogy így nézhet ki Start menüd:
 

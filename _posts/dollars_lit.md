@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Nemok&#279;k 100 doleri&#371; u&#382; operacin&#281; sistem&#261;
 ---
-
-
-
-
-<h2>Nemok&#279;k 100 doleri&#371; u&#382; operacin&#281; sistem&#261;</h2>
 <h3>(Ir nekopijuok neteis&#279;tai)</h3>
 
 Tikriausiai sakote sau: „O a&#353; ir nemok&#279;jau u&#382; Windows'us“. Ar tikrai? Jei kompiuter&#303; jau 

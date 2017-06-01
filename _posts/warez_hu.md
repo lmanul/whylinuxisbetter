@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Miért másolnál egy szoftvert illegálisan, amikor ingyen is hozzájuthatsz?
 ---
-
-
-
-
-<h2>Miért másolnál egy szoftvert illegálisan, amikor ingyen is hozzájuthatsz?</h2>
 
 Szóval te teljesen tiszta vagy, megvásároltad minden *köhint* szoftver a licencét, amit valaha is használtál *köhint*, és hagyjanak már ezzel békén? Nos, ha ez valóban így van, gratulálok! :)
 

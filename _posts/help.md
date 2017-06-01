@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Enjoy free and unlimited support
 ---
-
-
-
-
-<h2>Enjoy free and unlimited support</h2>
 
 One of the great assets of the Open Source community (and Linux 
 in particular), is that it's a real community. Users and developers 

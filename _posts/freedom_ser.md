@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Sloboda!
 ---
-
-
-
-
-<h2>Sloboda!</h2>
 
 Linux i "Open Source" softver je  "slobodan". To znači da je njihova
 licenca "slobodna licenca", a najčešća je GPL (General 

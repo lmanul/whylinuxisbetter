@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Cập nhật hệ thống bằng một click chuột
 ---
-
-
-
-
-<h2>Cập nhật hệ thống bằng một click chuột</h2>
 
 Windows có một chương trình khá tiện lợi là "Windows update", tự động tải về 
 và cài đặt các bản cập nhật mới nhất.

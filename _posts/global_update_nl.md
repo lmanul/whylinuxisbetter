@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Update uw software met 1 klik
 ---
-
-
-
-
-<h2>Update uw software met 1 klik</h2>
 
 Windows een vrij handig gereedschap genaamd "Windows update", waarmee
 u uw systeem kan bijwerken met de laatste beschikbare updates.

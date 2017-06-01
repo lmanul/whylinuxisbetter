@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Riportare i bug
 ---
-
-
-
-
-<h2>Riportare i bug</h2>
 
 Se trovi un bug in Windows, devi in genere aspettare e pregare 
 che Microsoft lo risolva in fretta (e se questo compromette la 

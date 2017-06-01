@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Lad være med at betale 1000 kr. for dit operativ system!
 ---
-
-
-
-
-<h2>Lad være med at betale 1000 kr. for dit operativ system!</h2>
 
 <h3>(Og lad være med at kopiere det er ulovligt)</h3>
 

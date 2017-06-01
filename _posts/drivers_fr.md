@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Ne vous souciez plus des pilotes
 ---
-
-
-
-
-<h2>Ne vous souciez plus des pilotes</h2>
 
 Un CD est généralement fourni avec le nouveau matériel, même le plus simple. Sur le CD, on trouve 
 un petit logiciel appelé un "pilote". En lisant le manuel d'instructions, on se rend compte que le 

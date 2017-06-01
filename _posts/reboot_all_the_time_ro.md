@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: V-aţi săturat să vă restartaţi computerul tot timpul?
 ---
-
-
-
-
-<h2>V-aţi săturat să vă restartaţi computerul tot timpul?</h2>
 
 Abia ce v-aţi actualizat una sau două lucruri mici în Windows
 folosind "Windows update"? Vă rugăm să restartaţi. Doar ce aţi

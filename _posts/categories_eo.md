@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Sen fuŝoj en via startmenuo
 ---
-
-
-
-
-<h2>Sen fuŝoj en via startmenuo</h2>
 
 Se vi uzas Windows kaj instalis iom da programoj en vian komputilon, eble via startmenuo estas videbla ĉi tiel:
 

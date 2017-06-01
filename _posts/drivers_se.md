@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Glöm drivrutiner
 ---
-
-
-
-
-<h2>Glöm drivrutiner</h2>
 
 Även den enklaste slags hårdvara kommer vanligtvis med en CD. På 
 CD-skivan finns en liten bit av progravara som kallas "drivrutiner". 

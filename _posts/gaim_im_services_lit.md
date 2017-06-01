@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Naudokit&#279;s MSN, AIM, ICQ, Jabber su viena programa
 ---
-
-
-
-
-<h2>Naudokit&#279;s MSN, AIM, ICQ, Jabber su viena programa</h2>
 
 Galite tur&#279;ti kelet&#261; s&#261;skait&#371; tiesioginio susira&#353;in&#279;jimo tarnybose, kaip MSN, Yahoo, ICQ, Jabber, AIM, etc. Naudodamiesi Windows ar Mac OS X, prisijungimui prie tarnyb&#371;, tikriausiai naudojat&#279;s atskiromis programomis: MSN Messenger'is prie MSN, ICQ prie ICQ, ir taip toliau.
 

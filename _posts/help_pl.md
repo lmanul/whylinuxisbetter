@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Ciesz się darmowym i nieograniczonym wsparciem</h2>
+title: Ciesz się darmowym i nieograniczonym wsparciem
+---
 
 Jedną z najważniejszych zalet społeczności Wolnego Oprogramowania
 (w szczególności Linuksa) jest fakt bycia prawdziwą społecznością.

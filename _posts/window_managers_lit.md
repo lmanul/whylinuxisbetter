@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Pasirinkite, kaip atrodys Jūsų darbalaukis.
 ---
-
-
-
-
-<h2>Pasirinkite, kaip atrodys Jūsų darbalaukis.</h2>
 
 Jei Jūs naudojatės Windows'ais, Jūsų darbalaukio aplinka tikriausiai bus gerokai panaši į šią:
 

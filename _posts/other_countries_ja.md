@@ -1,11 +1,11 @@
 ---
 lang: ja
+
+
+
+
+title: 途上国のため、世界のために
 ---
-
-
-
-
-<h2>途上国のため、世界のために</h2>
 
 <center>（この記事は、Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 のアイデアと原文からつくりました）</center>

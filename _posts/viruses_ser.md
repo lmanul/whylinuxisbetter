@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Forget about viruses.
 ---
-
-
-
-
-<h2>Forget about viruses.</h2>
 
 Ako se vaš kompjuter gasi. a da Vas ne pita, ako se čudni prozori
 sa tekstom koji ne razumete i svakakve reklame pojavljuju

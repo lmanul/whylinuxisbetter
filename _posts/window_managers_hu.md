@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Válaszd ki, milyen legyen az asztalod!
 ---
-
-
-
-
-<h2>Válaszd ki, milyen legyen az asztalod!</h2>
 
 Ha Windows-felhasználó vagy, az asztali környezeted valószínűleg nem nagyon tér el ettől:
 

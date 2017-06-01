@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Choose what your desktop looks like.
 ---
-
-
-
-
-<h2>Choose what your desktop looks like.</h2>
 
 If you're a Windows user, your desktop environment probably isn't 
 very far from this:

@@ -1,11 +1,11 @@
 ---
 lang: cn
+
+
+
+
+title: 只用一个程序就可以同时使用 MSN, AIM, ICQ, Jabber等
 ---
-
-
-
-
-<h2>只用一个程序就可以同时使用 MSN, AIM, ICQ, Jabber等</h2>
 
 您也许拥有很多种即时通讯的账号，比如 MSN，Yahoo，ICQ，Jabber，AIM，等
 等（译者注：就比如中国流行的腾讯QQ）。在运行Windows 或者 Mac OS的时候，

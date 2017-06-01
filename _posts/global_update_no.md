@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Oppdater all din programvare med ett enkelt museklikk.
 ---
-
-
-
-
-<h2>Oppdater all din programvare med ett enkelt museklikk.</h2>
 
 Windows har et verktøy kalt «Windows Update», som gjør det mulig for deg å oppdatere ditt system med de nyeste oppdateringene.
 

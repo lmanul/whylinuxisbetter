@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Mediu
 ---
-
-
-
-
-<h2>Mediu</h2>
 
 <p align="center">Mulţumiri lui Franz Bourlet pentru idee
 

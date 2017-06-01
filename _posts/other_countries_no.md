@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Hjelp andre land og ditt eget!
 ---
-
-
-
-
-<h2>Hjelp andre land og ditt eget!</h2>
 
 <center>(Takk til Gabriel E. Patiño – gepatino {at} gmail {dot} com – for idéen og den første versjonen av denne teksten)</center>
 

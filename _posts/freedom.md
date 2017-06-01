@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Freedom!
 ---
-
-
-
-
-<h2>Freedom!</h2>
 
 Linux and "Open Source" software are "free". This means their 
 license is a "free license", and the most common is the GPL (General 

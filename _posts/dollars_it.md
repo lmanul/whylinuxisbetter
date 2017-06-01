@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Non pagare 250 € per il tuo sistema operativo
 ---
-
-
-
-
-<h2>Non pagare 250 € per il tuo sistema operativo</h2>
 
 <h3>(E non copiarlo illegalmente)</h3>
 

@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Uitaţi de viruşi.
 ---
-
-
-
-
-<h2>Uitaţi de viruşi.</h2>
 
 Dacă PC-ul dumneavoastră se închide singur fără să vă întrebe,
 dacă apar ferestre ciudate cu text pe care nu-l înţelegeţi sau toate

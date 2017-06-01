@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Actualizaţi-vă tot software-ul cu un singur click.
 ---
-
-
-
-
-<h2>Actualizaţi-vă tot software-ul cu un singur click.</h2>
 
 Windows are un instrument destul de bun, numit "Windows update", ce
 vă permite să vă actualizaţi sistemul cu ultimele noutăţi.

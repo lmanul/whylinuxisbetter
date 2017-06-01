@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Découvrez la nouvelle génération de bureaux.
 ---
-
-
-
-
-<h2>Découvrez la nouvelle génération de bureaux.</h2>
 
 Vous avez été impressionné par les capacités de 3D et de transparence 
 introduites pour la première fois par Windows Vista, et vous avez décidé 

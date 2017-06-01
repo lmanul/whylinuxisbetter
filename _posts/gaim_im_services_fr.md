@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Connectez-vous à MSN, AIM, ICQ, Jabber, avec un  seul programme
 ---
-
-
-
-
-<h2>Connectez-vous à MSN, AIM, ICQ, Jabber, avec un  seul programme</h2>
 
 Vous avez peut-être des comptes sur plusieurs services de messagerie 
 instantanée comme MSN, Yahoo, ICQ, Jabber, AIM, etc. Sous Windows ou Mac 

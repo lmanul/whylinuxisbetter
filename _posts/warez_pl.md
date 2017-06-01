@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Po co piracić, jeśli to samo można mieć legalnie i za darmo?</h2>
+title: Po co piracić, jeśli to samo można mieć legalnie i za darmo?
+---
 
 A więc... uczciwość to Twoje drugie imię, na biurku obok piętrzą się
 stosy zakupionych licencji na wszystkie programy kiedykolwiek potrzebne

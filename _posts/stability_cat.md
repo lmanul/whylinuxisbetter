@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: És el teu sistema inestable?
 ---
-
-
-
-
-<h2>És el teu sistema inestable?</h2>
 
 Alguna vegada has perdut el teu preciós treball perquè Windows s'ha 
 penjat? Sempre has apagat l'ordinador de manera adequada, o a vegades ho 

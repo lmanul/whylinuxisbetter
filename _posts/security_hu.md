@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: A Linux védelmet nyújt számítógéped számára
 ---
-
-
-
-
-<h2>A Linux védelmet nyújt számítógéped számára</h2>
 
 Vírusok, trójaik, adware-ek (reklámprogramok), kémprogramok… A Windows roppant könnyen beengedi ezeket a számítógépedbe. Átlagosan <b>40 perc</b> telik el, míg egy Windows (az internethez kapcsolódva és az alapértelmezett Service Pack 2 csomaggal) megfertőződik (és olykor ehhez elegendő mindössze 30 másodperc is).
 

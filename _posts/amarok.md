@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Get a great music player
 ---
-
-
-
-
-<h2>Get a great music player</h2>
 
 Linux has many music players (including AmaroK, Rhythmbox, Banshee, 
 etc.), and some of them are <b>great</b>. Check out AmaroK for example 

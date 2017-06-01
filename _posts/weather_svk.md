@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Sledovanie počasia</h2>
+title: Sledovanie počasia
+---
 
 Unavuje vás neustále pozerať na teplomer na vašom okne ak chcete ísť niekam von? Stačí sa pozrieť na obrazovku pod Linux-om a hneď viete, aké je počasie: 
 

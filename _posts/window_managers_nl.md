@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Kies hoe uw bureaubladomgeving eruitziet.
 ---
-
-
-
-
-<h2>Kies hoe uw bureaubladomgeving eruitziet.</h2>
 
 Als u een Windows-gebruiker bent, is uw bureaubladomgeving waarschijnlijk
 niet veel verschillend van dit:

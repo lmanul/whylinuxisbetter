@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Sử dụng môi trường làm việc mới
 ---
-
-
-
-
-<h2>Sử dụng môi trường làm việc mới</h2>
 
 Bạn rất ấn tượng về các hiệu ứng đồ hoạ của Windows Vista và quyết định bỏ vài trăm 
 đô-la cho những tính năng đó ?. Bạn còn sắm một bộ máy tính mới vì Vista yêu cầu cấu 

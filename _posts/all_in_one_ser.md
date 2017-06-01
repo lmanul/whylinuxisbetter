@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?
 ---
-
-
-
-
-<h2>Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?</h2>
 
 Instalacija Windows-a je samo početak. Zamislite da ste upravo instalirali
 Vašu novu kopiju Windows-a XP i spremate se da oslobodite Vaše kompjutersko 

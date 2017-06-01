@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Felejtsd el a vírusokat!
 ---
-
-
-
-
-<h2>Felejtsd el a vírusokat!</h2>
 
 Ha a számítógéped kérdés nélkül kikapcsol, ha furcsa ablakok jelennek meg olyan szöveggel, amit nem értesz és mindenféle reklám bukkan fel, melyeket egyáltalán nem kértél, valamint ha ismerőseid e-maileket kapnak tőled a tudtod nélkül, valószínűleg vírusos a géped. Ennek legfőbb oka az, hogy Windows-t használsz.
 

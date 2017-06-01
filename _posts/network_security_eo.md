@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Ni lasu ke la piratoj leku polvon
 ---
-
-
-
-
-<h2>Ni lasu ke la piratoj leku polvon</h2>
 
 Windows havas <i>multajn</i> sekurecajn problemojn. Multaj el ili povas havi malbonajn konsekvencojn se vi estas konektita al la reto. Se pirato konas difinan atakeblecon en Windows (ian "sekurigan truon"), ĝi povas konektiĝi al via komputilo kaj, en la plejmultaj okazoj, kontroli la komputilon.
 

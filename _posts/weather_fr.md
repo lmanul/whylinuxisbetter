@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Gardez un oeil sur la météo
 ---
-
-
-
-
-<h2>Gardez un oeil sur la météo</h2>
 
 Vous en avez marre d'avoir un thermomètre de l'autre côté de la 
 fenêtre et d'aller le consulter avant de sortir ? Un coup d'oeil à 

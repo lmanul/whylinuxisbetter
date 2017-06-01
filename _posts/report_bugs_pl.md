@@ -1,12 +1,12 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Zgłaszanie problemów<br />
-<small>(nie musisz czekać latami na ich rozwiązanie!)</small></h2>
+title: Zgłaszanie problemów<br />
+<small>(nie musisz czekać latami na ich rozwiązanie!)</small>
+---
 
 Jeśli znajdziesz błąd w systemie Windows, możesz jedynie czekać
 i zmówić modlitwę w intencji Microsoftu, mając nadzieję, że ten szybko

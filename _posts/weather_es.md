@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Mantente al tanto del tiempo
 ---
-
-
-
-
-<h2>Mantente al tanto del tiempo</h2>
 
 ¿Estás cansado de tener un termómetro fuera de tu ventana y mirarlo antes de salir? Sólo échale una mirada a tu pantalla de Linux y no pierdas de vista el clima:
 

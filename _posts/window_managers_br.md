@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: Escolha o visual de sua área de trabalho.
 ---
-
-
-
-
-<h2>Escolha o visual de sua área de trabalho.</h2>
 
 Se você é um usuário do Windows, provavelmente sua área de trabalho 
 não está muito longe disto:

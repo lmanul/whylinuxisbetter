@@ -1,12 +1,12 @@
 ---
 lang: tr
+
+
+
+
+
+title: Sistemi kurduktan sonra neden <i>hala</i> daha fazla araç kurasınız ki?
 ---
-
-
-
-
-
-<h2>Sistemi kurduktan sonra neden <i>hala</i> daha fazla araç kurasınız ki?</h2>
 
 Windows kurmak sadece bir başlangıçtır. Hayal edin, yeni Windows 7 
 kopyanızı kurdunuz, ve bilgisayar becerilerinizi kullanmaya hazırsınız. 

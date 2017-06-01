@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -13,7 +12,8 @@ lang: per
 <body>
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>گزارش كردن خطاها</h2>
+title: گزارش كردن خطاها
+---
 اگه شما خطايي رو در ويندوز پيدا كنين بايد منتظر بشين و دعا كنين تا
 مايكروسافت اون رو سريع رفع كنه.(و اگه اين يه مشكل امنيتي باشه بايد سخت
 تر دعا كنيد.)شما ممكنه فكر كنين گزارش&nbsp; اون خطا&nbsp; به

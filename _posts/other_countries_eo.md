@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Helpu aliajn landojn, kaj vian propran
 ---
-
-
-
-
-<h2>Helpu aliajn landojn, kaj vian propran</h2>
 
 <center>(Dankon al Gabriel E. Patiño -- gepatino {ĉe}gmail {punkto} com -- pro la ideo kaj unua versio de la teksto)</center>
 

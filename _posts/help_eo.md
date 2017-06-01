@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Plezuriĝu per senfina kaj senkosta helpo
 ---
-
-
-
-
-<h2>Plezuriĝu per senfina kaj senkosta helpo</h2>
 
 Unu el la grandaj valoroj de la malfermit-koda komunumo (kaj speciale de Linux) estas tiu ke ĝi estas reala komunumo. Uzantoj kaj programistoj vere estas tie, en la retaj forumoj, en la dissendolistoj, en la IRC-aj kanaloj, helpante novajn uzantojn. Ili ĉiuj estas feliĉaj vidi ke pli kaj pli da homoj ŝanĝas al Linux kaj ili estas feliĉaj helpi ilin helpi sin en la nova operaciumo.
 

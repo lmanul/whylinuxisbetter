@@ -1,13 +1,12 @@
 ---
 lang: da
+
+
+
+
+title: Hjælp andre lande, og dit eget!
 ---
 
-
-
-
-<h2>Hjælp andre lande, og dit eget!</h2>
-
-<center>(Tak til Gabriel E. Patiño -- gepatino {at}gmail {dot} com --- for idéen og den første version af teksten) </center>
 
 Microsoft er et USA-baseret firma, og dets succes er godt for den amerikanske økonomi.
 

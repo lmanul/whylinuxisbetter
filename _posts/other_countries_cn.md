@@ -1,11 +1,11 @@
 ---
 lang: cn
+
+
+
+
+title: 帮助其他国家和您的祖国
 ---
-
-
-
-
-<h2>帮助其他国家和您的祖国</h2>
 
 <center>（感谢 Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 为这篇文章提供的第一个版本） </center>

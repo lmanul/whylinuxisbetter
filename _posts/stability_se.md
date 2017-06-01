@@ -1,11 +1,11 @@
 ---
 lang: se
----
 ﻿
 
 
 
-<h2>Är ditt system instabilt?</h2>
+title: Är ditt system instabilt?
+---
 
 Har du någonsin förlorat ditt värdefulla arbete för att Windows har kraschat? Stänger du alltid av datorn den riktiga vägen, eller bryter du ibland bara strömmen för att Windows har blivit helt galet och inte låter dig göra någonting längre? Har du någonsin fått BsoD (Blue Screen of Death) , eller ett fel som säger att du måste starta om datorn av de underligaste anledningarna?
 

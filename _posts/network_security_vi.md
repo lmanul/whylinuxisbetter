@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Hãy khiến những kẻ quấy rầy tránh xa máy tính của bạn
 ---
-
-
-
-
-<h2>Hãy khiến những kẻ quấy rầy tránh xa máy tính của bạn</h2>
 
 Windows có <i>rất nhiều</i> lỗ hổng bảo mật. Nhiều trong số đó có hậu quả nghiêm trọng 
 nếu máy tính của bạn kết nối Internet. Nếu một kẻ khác biết lỗ hổng bảo mật nào đó của 

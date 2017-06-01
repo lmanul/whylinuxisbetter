@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -13,7 +12,8 @@ lang: per
 <body>
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>چرا وقتي نرم&zwnj;افزار رو مجاني ميشه گرفت كپي غير قانوني كنيم؟</h2>
+title: چرا وقتي نرم&zwnj;افزار رو مجاني ميشه گرفت كپي غير قانوني كنيم؟
+---
 شما واقعاً انسان خوبي هستين.*اهم*شما همه نرم افزارهاتون رو خودتون
 خريدين*اهم*و كسي نميتونه به شما گير بده،خوب اگه اينجوريه عاليه.به شما
 تبريك ميگم.<br />

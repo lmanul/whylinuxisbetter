@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Ikke noe rot i Start-menyen din.
 ---
-
-
-
-
-<h2>Ikke noe rot i Start-menyen din.</h2>
 
 Hvis du anvender Windows og har installert en del programvare på din datamaskin, er det stor sjanse for at Start-menyen din ser noe ut som dette:
 

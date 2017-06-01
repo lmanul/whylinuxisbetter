@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Czy nie męczą Cię ciągłe restarty?</h2>
+title: Czy nie męczą Cię ciągłe restarty?
+---
 
 Czy właśnie skończyły się instalować "Aktualizacje automatyczne"?.
 Proszę zrestartować komputer. Zainstalowano jakiś nowy program?

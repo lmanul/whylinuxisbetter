@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Prane&#353;imai apie riktus (klaidas)
 ---
-
-
-
-
-<h2>Prane&#353;imai apie riktus (klaidas)</h2>
 
 Jei (<i>tinklalapio autorius panaudojo &#382;odel&#303; if - jeigu, bet i&#353; savo patirties galiu pasakyti, kad reik&#279;t&#371; naudoti ne "jeigu", bet "kai". vert.past.</i>) randate
 riktą (programos klaidą - angl. "bug") Windows'uose, viskas, k&#261; galite padaryti yra melstis ir laukti, kol Microsoft'as j&#303; i&#353;taisys (jei tai saugumo spraga - melstis dvigubai kar&#353;&#269;iau). Galite pagalvoti, kad prane&#353;ti apie riktus Microsoft'ui  (tam, kad jie gal&#279;t&#371; rikt&#261; i&#353;taisyti kuo grei&#269;iau) tur&#279;t&#371; b&#363;ti lengva. Kagi, pagalvokite i&#353; naujo. <a 

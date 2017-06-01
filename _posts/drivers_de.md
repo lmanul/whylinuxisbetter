@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Denk nicht über Treiber nach
 ---
-
-
-
-
-<h2>Denk nicht über Treiber nach</h2>
 
 Neue Hardware, selbst die der einfachsten Art, kommt normalerweise mit einer CD. Auf der CD befindet sich eine kleine Software, der sogenannte „Treiber“. Wenn du die Anleitung liest, wirst du sehen, dass die Hardware ohne diesen Treiber nicht auf einem Windows-Computer laufen wird. Wenn du wie die meisten Leute bist und die Anleitung nicht liest, wirst du einfach ausprobieren und sehen, dass die neue High-End Gizmo nicht von vornherein läuft.
 

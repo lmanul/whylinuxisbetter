@@ -1,11 +1,11 @@
 ---
 lang: he
----
 ﻿
 
 <div id="corps" class="rtl" dir='rtl'>
 
-<h2> עזרו לארצות זרות, ולשלכם</h2>
+title:  עזרו לארצות זרות, ולשלכם
+---
 
 
 <center>  (תודה לגבריאל ק פטיניו  -- gepatino {at}gmail {dot} com --   על הרעיון והגרסה הראשונית של הטקסט)</center>

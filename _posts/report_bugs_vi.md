@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Báo lỗi
 ---
-
-
-
-
-<h2>Báo lỗi</h2>
 
 Nếu bạn phát hiện một lỗi của Windows, bạn chỉ có thể đợi và cầu nguyện Microsoft sẽ 
 sửa (nếu đó là một lỗ hổng bảo mật, bạn phải cầu nguyện nhiều gấp đôi). Bạn có thể nghĩ rằng 

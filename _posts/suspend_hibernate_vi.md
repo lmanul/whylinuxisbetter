@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Hãy để máy tính ở chế độ tiết kiệm điện (sleep) hoặc "ngủ đông" (hibernate)
 ---
-
-
-
-
-<h2>Hãy để máy tính ở chế độ tiết kiệm điện (sleep) hoặc "ngủ đông" (hibernate)</h2>
 
 <ul>
 <li>Windows cho phép bạn để máy tính ở chế độ "sleep" và "hibernate" (giữ Shift để vào chế 

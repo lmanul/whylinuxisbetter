@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Cuộc sống số của bạn có bị "phân mảnh" không ?
 ---
-
-
-
-
-<h2>Cuộc sống số của bạn có bị "phân mảnh" không ?</h2>
 
 Nếu bạn đã biết hiện tương phân mảnh là gì, và chay chương trình chống phân mảnh 
 mỗi tháng một lần: Linux không cần những chương trình như vậy.

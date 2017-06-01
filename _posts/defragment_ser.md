@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Da li Vaš digitalni život izgleda fragmentiran?
 ---
-
-
-
-
-<h2>Da li Vaš digitalni život izgleda fragmentiran?</h2>
 
 Ako već znate šta je fragmentacija, i već ste navikli da defragmentirate
 svoj disk svaki mesec ili više, evo kratke verzije: 

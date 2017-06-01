@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Geef uw oude computer een tweede leven
 ---
-
-
-
-
-<h2>Geef uw oude computer een tweede leven</h2>
 
 Windows vereist steeds krachtigere hardware naarmate de versienummer
 toeneemt (95, 98, 2000, Me, XP, Vista, enz.). Dus om Windows te draaien

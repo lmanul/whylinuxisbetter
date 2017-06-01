@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+﻿title: Esqueça os vírus.
 ---
-
-
-
-
-﻿<h2>Esqueça os vírus.</h2>
 
 Se seu computador desliga sozinho, se janelas estranhas, com textos 
 que você não entende e todo tipo de propaganda, aparecem sem você pedir, 

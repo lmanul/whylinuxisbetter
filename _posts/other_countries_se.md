@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Hjälp andra länder, och ditt eget
 ---
-
-
-
-
-<h2>Hjälp andra länder, och ditt eget</h2>
 
 <center>(Tack till Gabriel E. Patiño -- gepatino {at}gmail{dot} com -- 
 för idén och första texten.) </center>

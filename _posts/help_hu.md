@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Élvezd az ingyenes és korlátlan támogatást!
 ---
-
-
-
-
-<h2>Élvezd az ingyenes és korlátlan támogatást!</h2>
 
 A nyílt forráskódú közösség egyik legnagyobb előnye (és részben a Linuxé is), hogy ez egy valódi közösség. A felhasználók és a fejlesztők tényleg segítik az újabb felhasználókat a webes fórumokon, levelezési listákon, IRC-csatornákon. Mind boldogok, mikor látják, hogy egyre több ember vált Linuxra, és örömmel segítenek nekik, hogy megbirkózzanak új rendszerükkel.
 

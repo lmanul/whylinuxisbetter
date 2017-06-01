@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Are your tired of restarting your computer all the time?
 ---
-
-
-
-
-<h2>Are your tired of restarting your computer all the time?</h2>
 
 Have you just upgraded one or two little things on your Windows 
 system with "Windows update"? Please reboot. Have you just installed 

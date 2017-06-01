@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Lupakan <i>driver</i>
 ---
-
-
-
-
-<h2>Lupakan <i>driver</i></h2>
 
 Perangkat keras terbaru, walaupun yang sederhana, biasanya dijual beserta sebuah CD. Di dalam CD, ada sesuatu yang merupakan bagian dari perangkat keras yang disebut <i>driver</i>. Jika kamu membaca panduan perangkat keras tersebut, maka kamu akan tahu bahwa perangkat keras yang kamu beli tidak akan bekerja pada komputer Windows sampai <i>driver</i>nya terinstal. Jika kamu seperti seseorang yang tidak suka membaca panduan, mungkin kamu akan berusaha seperti kebanyakan orang ketika perangkat berteknologi terbarunya tidak bekerja.
 

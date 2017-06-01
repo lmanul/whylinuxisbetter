@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Wolność!</h2>
+title: Wolność!
+---
 
 Linuks i "Wolne Oprogramowanie" są "wolne". Oznacza to, że licencje,
 którymi są objęte, są "wolne", zwykle jest to GPL (General Public

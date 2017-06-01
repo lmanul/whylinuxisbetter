@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Zu viele Fenster? Benutz Arbeitsflächen.
 ---
-
-
-
-
-<h2>Zu viele Fenster? Benutz Arbeitsflächen.</h2>
 
 Ich war nie ein Windowsbenutzer und es gibt eine Sache, die ich einfach nicht verstehe: Wenn du erstmal dein Schreibprogramm, deinen Webbrowser, dein Emailprogramm, deinen Instant-Messenger und ein paar Fenster, um deine Daten zu überblicken, offen hast, wie schafft man es dann als Windowsbenutzer, sich nicht zwischen all diesen Fenstern auf demselben Bildschirm zu <b>verlieren</b>?
 

@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Oszczędź nieco prądu: wprowadź komputer w stan uśpienia lub hibernacji</h2>
+title: Oszczędź nieco prądu: wprowadź komputer w stan uśpienia lub hibernacji
+---
 
 <ul>
 <li>W system Windows możliwe jest "uśpienie" lub "zahibernowanie" komputera (aby

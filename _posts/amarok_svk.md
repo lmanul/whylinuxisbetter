@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Získajte úžasný prehrávač hudby</h2>
+title: Získajte úžasný prehrávač hudby
+---
 
 Linux má mnoho prehrávačov hudby (vrátane AmaroK-u, Rhythmbox, Banshee, 
 atď.), a niektoré z nich sú <b>úžasné</b>. Vyskúšajte napríklad AmaroK 

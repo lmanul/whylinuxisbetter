@@ -1,11 +1,11 @@
 ---
 lang: id
----
  
 
 
 
-<h2>Jangan habiskan Rp. 920.000,- (atau $100) hanya untuk sebuah sistem operasi</h2>
+title: Jangan habiskan Rp. 920.000,- (atau $100) hanya untuk sebuah sistem operasi
+---
 
 <h3>(Dan jangan menduplikatnya secara ilegal)</h3>
 

@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Lupakan tentang virus.
 ---
-
-
-
-
-<h2>Lupakan tentang virus.</h2>
 
 Bila komputermu mati dengan sendirinya tanpa bertanya padamu, jika sebuah jendela dengan teks yang tidak jelas dan segala jenis iklan muncul tanpa kehendakmu, jika email terkirim ke seluruh kontak yang kamu punyai tanpa sepengetahuanmu, maka kemungkinan besar komputermu sedang terinfeksi virus. Alasan utamanya adalah karena sistem Windows berjalan di komputermu.
 

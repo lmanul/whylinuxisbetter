@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Uppdatera all din mjukvara med ett klick.
 ---
-
-
-
-
-<h2>Uppdatera all din mjukvara med ett klick.</h2>
 
 Windows har ett ganska bekvämt verktyg, "Windows Update", 
 vilket låter dig uppdatera systemet med de senaste 

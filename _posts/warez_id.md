@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Mengapa mengkopi perangkat lunak ilegal jika kamu bisa mendapatkannya secara bebas?
 ---
-
-
-
-
-<h2>Mengapa mengkopi perangkat lunak ilegal jika kamu bisa mendapatkannya secara bebas?</h2>
 
 Jadi, kamu benar-benar bersih, kamu sudah *ehm* membeli lisensi untuk semua perangkat lunak yang pernah kamu gunakan *ehm*, dan tidak ada yang bisa menggugatmu tentang hal ini? Yah, jika benar demikian, selamat :)
 

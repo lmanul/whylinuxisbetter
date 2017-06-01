@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: För många fönster? Använd olika skrivbord.
 ---
-
-
-
-
-<h2>För många fönster? Använd olika skrivbord.</h2>
 
 Jag har aldrig varit en Windowsanvänd, men nu är det något jag inte förstår: När man väl har ordhanteraren, webbläsaren, emailklienten, chattklient och några fönster för att undersöka filer
 , hur klarar sig Windowsanvändare från att <b>tappa bort sig</b>?

@@ -1,11 +1,11 @@
 ---
 lang: et
+
+
+
+
+title: &Auml;ra maksa operatsioonis&uuml;steemi eest 4 000.-
 ---
-
-
-
-
-<h2>&Auml;ra maksa operatsioonis&uuml;steemi eest 4 000.-</h2>
 
 <h3>(Ja &auml;ra tee neist piraatkoopiaid)</h3>
 

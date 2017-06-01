@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Medio
 ---
-
-
-
-
-<h2>Medio</h2>
 
 <p align="center">Dankon al Franz Bourlet pro la ideo
 

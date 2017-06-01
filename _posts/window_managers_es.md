@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Escoge la apariencia de tu escritorio.
 ---
-
-
-
-
-<h2>Escoge la apariencia de tu escritorio.</h2>
 
 Si eres un usuario de Windows, probablemente tu escritorio no está muy lejos de esto:
 

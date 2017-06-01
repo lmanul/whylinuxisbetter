@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Supravegheaţi vremea.
 ---
-
-
-
-
-<h2>Supravegheaţi vremea.</h2>
 
 V-aţi săturat să aveţi un termometru afară şi să vă duceţi să-l verificaţi
 de fiecare dată când vreţi să ieşiţi? Doar uitaţi-va la ecranul dvs. cu Linux şi veţi

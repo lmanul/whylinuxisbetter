@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Hataların bildirilmesi
 ---
-
-
-
-
-<h2>Hataların bildirilmesi</h2>
 
 Eğer Windows'ta bir hata bulursanız, temelde yapabileceğiniz şey beklemek ve Microsoft'un hatayı hızlı bir şekilde düzeltmesi için dua etmektir (ve eğer hata sistem güvenliğinizi tehlikeye atıyorsa, iki kat fazla dua etmeniz gerekebilir). Bu hatanın Microsoft'a bildirilmesinin mutlaka kolay olması gerektiğini (ki böylece onu daha hızlı bir şekilde giderebilirler) düşünebilirsiniz. Tekrar düşünün. <a href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Şurada</a> bununla ilgili ilginç bir yazı var. Peki eğer Microsoft hatayı fark bile etmezse ne olur? Öyleyse, Microsoft'un bir sonraki versiyonun hatayı gidereceğini umalım (ancak bunun için fazladan birkaç yüz papel daha ödemeniz gerekiyor).
 

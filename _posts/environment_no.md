@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Hjelp miljøet.
 ---
-
-
-
-
-<h2>Hjelp miljøet.</h2>
 
 <p align="center">Takk til Franz Bourlet for idéen
 

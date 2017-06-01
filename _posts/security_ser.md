@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Linux štiti Vaš kompjuter 
 ---
-
-
-
-
-<h2>Linux štiti Vaš kompjuter </h2>
 
 Virusi, trojanci, adwares, spywares... Windows pušta sve ove da uđu na Vaš
 kopjuter veoma lako. Prosečno vreme pre nego što se Windows PC (povezan na 

@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Windows'unuz neden gün geçtikçe yavaşlar?
 ---
-
-
-
-
-<h2>Windows'unuz neden gün geçtikçe yavaşlar?</h2>
 
 Windows birçok tasarım hatasına sahiptir. Bu da onun gittikçe yavaşlamasına neden olur ve uzun süre kullanılmasını engeller. Şu sözü mutlaka birçok kez duymuşsunuzdur "Bilgisayarım ağırlaşmaya başladı, baştan kuracağım". Windows'u baştan kurmak sorunu çözer... bir dahaki sefere kadar.
 

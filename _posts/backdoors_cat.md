@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Sense portes falses al teu programari.
 ---
-
-
-
-
-<h2>Sense portes falses al teu programari.</h2>
 
 La diferència entre el programari de "codi tancat" (propietari) i el de "codi obert" és (com ho has endevinat?) que el seu "codi" és obert. D'acord, però per què m'ha d'importar això? Bé, el "codi", o "codi font", és com la <b>recepta</b> secreta de cada programari, com ho és la recepta d'un pastís. Quan compres un pastís, no hi ha manera d'esbrinar la recepta exacta (encara que pots endevinar trossos i peces, "en té una mica de coco"). Si una pastisseria ens donara la recepta del seu super exitós pastís de formatge, hauria de tancar perquè la gent el podria fer ella mateixa, a sa casa, i deixaria de comprar-lo. De la mateixa manera, Microsoft tampoc no ens dóna la recepta, o el "codi font", del seu programari, com ara del Windows, i amb tota la raó perquè és d'això mateix d'on fa els seus diners.
 

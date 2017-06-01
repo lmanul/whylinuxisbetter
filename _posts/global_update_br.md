@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+title: ﻿Atualize todos seus programas com um simples clique.
 ---
-
-
-
-
-<h2>﻿Atualize todos seus programas com um simples clique.</h2>
 
 O Windows tem uma ferramenta muito conveniente chamada "Windows Update", que te permite atualizar seu sistema com as últimas atualizações disponíveis.
 

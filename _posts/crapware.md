@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: No more crapware.
 ---
-
-
-
-
-<h2>No more crapware.</h2>
 
 If you've ever purchased a new computer running Windows, you must know that it can be a very
 frustrating experience.

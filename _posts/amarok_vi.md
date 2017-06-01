@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Các chương trình nghe nhạc tuyệt vời
 ---
-
-
-
-
-<h2>Các chương trình nghe nhạc tuyệt vời</h2>
 
 Linux có rất nhiều chương trình chơi nhạc (như AmaroK, Rhythmbox, Banshee...), 
 một vài chương trình <b>rất tuyệt</b>. Hãy xem thử AmaroK trên ảnh: bạn có thể quản lý 

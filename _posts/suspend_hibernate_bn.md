@@ -1,11 +1,11 @@
 ---
 lang: bn
+
+
+
+
+title: "Sleep" এবং "Hibernate" মোড ব্যবহার করুন, শক্তি অপচয় কমান।
 ---
-
-
-
-
-<h2>"Sleep" এবং "Hibernate" মোড ব্যবহার করুন, শক্তি অপচয় কমান।</h2>
 
 <ul>
 <li>Windows এ "sleep" এবং "hibernate" দুটো ফিচারই আছে ("Hibernate" এর জন্য Shutdown ডায়ালগ দেখানোর সময় Shift কী চাপুন)।</li>

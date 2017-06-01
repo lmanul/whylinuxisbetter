@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Ben je moe om de hele tijd te herstarten?
 ---
-
-
-
-
-<h2>Ben je moe om de hele tijd te herstarten?</h2>
 
 Heeft u net twee kleine dingen geüpgraded via "Windows Update"? Herstart.
 Heeft u net nieuwe software geïnstalleerd? Herstart. Is uw systeem

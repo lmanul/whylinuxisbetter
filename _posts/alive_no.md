@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Gi nytt liv til din gamle datamaskin!
 ---
-
-
-
-
-<h2>Gi nytt liv til din gamle datamaskin!</h2>
 
 Windows krever mer og mer hardwarekraft for hver nye versjon (95, 98, 2000, Me, XP, osv.). Så, hvis du ønsker å fortsette å kjøre Windows, må du stadig investere i ny hardware. Men er det virkelig nødvendig med en slik rask utvikling i kravene? Vel, en del mennesker har bruk for mye datakraft, ny hardware og forskjellige teknologier da dette er gunstig for arbeidet deres – men for de fleste brukere, som surfer på Internett, leser og skriver e-post, skriver tekstfiler og lager bildepresentasjoner – hva er grunnen til å kjøpe en ny datamaskin hvert andre, tredje eller hvert fjerde år, annet enn at dataforhandleren tjener penger på det? Hva er det presist som gjør at din datamaskin ikke kan anvendes til det samme som for fem år siden?
 

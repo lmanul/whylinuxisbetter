@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Felejtsd el az eszközillesztőket!
 ---
-
-
-
-
-<h2>Felejtsd el az eszközillesztőket!</h2>
 
 Az új hardverek, még a legegyszerűbbek is, általában egy CD-vel érkeznek. A CD-n egy nagyon kicsi szoftver van, melyet eszközillesztőnek (drivernek) neveznek. Ha elolvastad a használati útmutatót, tudod jól, hogy az eszköz nem fog működni Windows-on, míg az illesztőprogramot nem telepíted. Ha a legtöbb emberhez hasonlóan te sem olvasod el az útmutatót, valószínűleg magadtól is rájössz, mikor látod, hogy az új csúcstechnológiás bigyód nem tud kapcsolódni a gépedhez.
 

@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Geniet van gratis, onbeperkte ondersteuning
 ---
-
-
-
-
-<h2>Geniet van gratis, onbeperkte ondersteuning</h2>
 
 Eén van de voordelen van de opensourcegemeenschap (en Linux in het
 bijzonder), is het feit dat het een echte gemeenschap is. Gebruikers

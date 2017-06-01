@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Stanco di dover riavviare il computer tutte le volte?
 ---
-
-
-
-
-<h2>Stanco di dover riavviare il computer tutte le volte?</h2>
 
 Hai appena aggiornato una o due cosucce su Windows con "Windows 
 Update"? È necessario riavviare. Hai appena installato qualche nuovo 

@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Frihet!
 ---
-
-
-
-
-<h2>Frihet!</h2>
 
 Linux och "open source" mjukvara som är "fri". Detta betyder att licensen är en 
 fri licens, där den vanligaste är GPL (General Public License). Denna licens anger 

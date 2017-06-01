@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Yeni yazılıma mı ihtiyacınız var? İnternet'te aramaya çalışmayın, Linux ayağınıza getirsin.
 ---
-
-
-
-
-<h2>Yeni yazılıma mı ihtiyacınız var? İnternet'te aramaya çalışmayın, Linux ayağınıza getirsin.</h2>
 
 Eğer bir Windows yazılımı kuracaksanız, büyük ihtimalle şu yolu izlersiniz:
 

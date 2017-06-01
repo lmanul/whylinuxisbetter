@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Virüsleri unutun.
 ---
-
-
-
-
-<h2>Virüsleri unutun.</h2>
 
 Eğer bilgisayarınız size sormadan kendini kapatıyorsa, eğer isteğiniz dışında size ilginç ve anlamsız gelen türlü reklam pencereleriyle karşılaşıyorsanız, e-postalarınız sizin haberiniz olmadan tüm listenize yollanıyorsa, o zaman bilgisayarınızda bir virüs olduğundan şüphelenmelisiniz. Bunun ana sebebi de bilgisayarınızda Windows'un kurulu olmasıdır.
 

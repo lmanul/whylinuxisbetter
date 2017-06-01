@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Sisteminiz kararsız mı?
 ---
-
-
-
-
-<h2>Sisteminiz kararsız mı?</h2>
 
 Hiç Windows çöktüğünden dolayı çok uğraştığınız bir işi kaybettiniz mi? Bilgisayarınızı normal yoldan mı kapatırsınız, yoksa bazen Windows başka seçenek bırakmadığı için güç tuşundan kapatmaya mecbur mu kalırsınız? Bilgisayarınızın çeşitli sebeplerden ötürü kapatılması gerektiğini söyleyen "mavi ekran"larla karşılaştınız mı?
 

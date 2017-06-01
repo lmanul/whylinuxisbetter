@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Hệ thống của bạn có chạy ổn định ?
 ---
-
-
-
-
-<h2>Hệ thống của bạn có chạy ổn định ?</h2>
 
 Bạn đã bị mất dữ liệu quý giá vì Windows bi treo bao giờ chưa ? Bạn có luôn tắt máy đúng 
 cách không, hay nhiều khi phải rút nguồn điện vì Windows gặp trục trặc, thậm chí không thể 

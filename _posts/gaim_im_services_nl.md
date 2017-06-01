@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Gebruik AIM, ICQ, IRC, Jabber en Facebook Chat met één programma
 ---
-
-
-
-
-<h2>Gebruik AIM, ICQ, IRC, Jabber en Facebook Chat met één programma</h2>
 
 U heeft wellicht accounts op verschillende chatdiensten, zoals Yahoo, ICQ, IRC, Jabber 
 en Facebook Chat. Op Windows of Mac OS X heeft u waarschijnlijk verschillende programma's nodig voor elk van deze diensten: ICQ voor ICQ, Yahoo! Messenger voor Yahoo, een IRC-programma voor IRC..

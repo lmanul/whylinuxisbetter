@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Când sistemul a fost instalat, de ce <i>ar mai trebui</i> să instalaţi alte lucruri?
 ---
-
-
-
-
-<h2>Când sistemul a fost instalat, de ce <i>ar mai trebui</i> să instalaţi alte lucruri?</h2>
 Instalarea Windows-ului e doar începutul. Imaginaţi-vă că doar aţi instalat
 noua dumneavoastră copie de Windows 7 şi vă pregătiţi să vă dezlănţuiţi 
 abilităţile informatice. Un prieten vă trimite un e-mail ce are un PDF ataşat:

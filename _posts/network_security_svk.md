@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Nedajte šancu internetovým pirátom</h2>
+title: Nedajte šancu internetovým pirátom
+---
 
 Windows má <i>veľa</i> bezpečnostných problémov. A monoho z nich môže mať nepríjemné následky, ak ste pripojení k internetu. Ak internetový pirát vie o nejakej špecifickej chybe Windows-u (istý druh "diery v bezpečnostnom plote"), vie sa cez ňu pripojiť na váš počítač, a vo väčšine prípadov nad ním prevziať kontrolu.
 

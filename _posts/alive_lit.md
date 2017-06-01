@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Prikelk savo sen&#261; kompiuter&#303; naujam gyvenimui
 ---
-
-
-
-
-<h2>Prikelk savo sen&#261; kompiuter&#303; naujam gyvenimui</h2>
 
 Windows'ai reikalauja vis galingesn&#279;s technin&#279;s &#303;rangos sulig kiekviena nauja versija (95, 98, 2000, Me, XP, etc.). Tad, nor&#279;dami naudotis veikian&#269;iais Windows'ais, jums reikia nuolat pirkti nauj&#261; technin&#281; &#303;rang&#261;. Ta&#269;iau a&#353; nematau joki&#371; ger&#371; prie&#382;as&#269;i&#371; tokiam spar&#269;iam vystymuisi. Ai&#353;ku, yra daug &#382;moni&#371;, kuriems reikia daug kompiuterio galios ir kuriems nauja technin&#279; &#303;ranga ir technologijos palengvina ir paspartina darb&#261;. Ta&#269;iau daugeliui, kurie tik nar&#353;o tinkl&#261;, skaito ir ra&#353;o lai&#353;kus bei kuria pristatymus, kokia prasm&#279; pirkti nauj&#261; kompiuter&#303; kas dvejus ar trejus metus, be kompiuteri&#371; prekiautoj&#371; praturtinimo? Kod&#279;l dabar kompiuteris negali atlikti savo u&#382;duo&#269;i&#371;, kurias puikiai atlikdavo prie&#353; penkerius metus?
 

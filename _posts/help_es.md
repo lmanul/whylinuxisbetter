@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Disfruta de soporte gratis e ilimitado
 ---
-
-
-
-
-<h2>Disfruta de soporte gratis e ilimitado</h2>
 
 Uno de los grandes valores de la comunidad de Código Abierto (y Linux en particular) es que es una comunidad real. Los usuarios y diseñadores de software realmente están ahí, en los foros de internet, listas de correo, en los canales IRC, ayudando a nuevos usuarios. Ellos están felices de ver que más y más personas se están cambiando a Linux y están muy contentos de ayudar a estos nuevos usuarios a aprender a moverse en su nuevo sistema operativo.
 

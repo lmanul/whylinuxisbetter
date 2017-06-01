@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Scheint dein digitales Leben fragmentiert zu sein?
 ---
-
-
-
-
-<h2>Scheint dein digitales Leben fragmentiert zu sein?</h2>
 
 Wenn dir bereits bekannt ist, was Fragmentierung ist und es bereits gew&ouml;hnt bist, deine Platte einmal im Monat 
 oder so zu defragmentieren, ist hier die Kurzversion: Linux benötigt keine Defragmentierung.

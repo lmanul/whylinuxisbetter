@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Er dit system ustabilt?
 ---
-
-
-
-
-<h2>Er dit system ustabilt?</h2>
 
 Har du nogensinde mistet vigtigt arbejde fordi at Windows crashede? Slukker du altid for din computer på den korrekte facon, eller slukker du nogengange på kontakten fordi at Windows fryser og ikke vil lade dig gøre noget? Har du nogensinde fået "the blue screen of death" eller nogen fejl-meddelelser der fortæller dig at computeren skal lukkes ned af obskure grunde? 
 

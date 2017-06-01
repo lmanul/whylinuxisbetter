@@ -1,11 +1,11 @@
 ---
 lang: ua
----
 ﻿
 
 
 
-<h2>MSN, AIM, ICQ та Jabber в одній програмі</h2>
+title: MSN, AIM, ICQ та Jabber в одній програмі
+---
 
 <p align="center">Переклад з німецької Ірини Каленської
 

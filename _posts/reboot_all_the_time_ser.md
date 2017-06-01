@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title:  Zar niste umorni od stalnog restartovanja sistema?
 ---
-
-
-
-
-<h2> Zar niste umorni od stalnog restartovanja sistema?</h2>
 
 Jeste li upravo osvežili jednu ili dve sitnice na Vašem Windows 
 sistemu pomoću "Windows update-a"? Molim restartujte. Jeste li upravo instalirali

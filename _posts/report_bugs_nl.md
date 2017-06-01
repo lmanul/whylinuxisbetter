@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Foutmeldingen rapporteren
 ---
-
-
-
-
-<h2>Foutmeldingen rapporteren</h2>
 
 Als u een fout (bug) vindt in Windows, kunt u wachten en bidden dat 
 Microsoft deze snel oplost (en als dit de veiligheid van uw systeem in

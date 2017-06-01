@@ -1,11 +1,11 @@
 ---
 lang: id
----
  
 
 
 
-<h2>Lingkungan</h2>
+title: Lingkungan
+---
 
 <p align="center">Terima kasih kepada Franz Bourlet atas idenya
 

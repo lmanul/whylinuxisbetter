@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Miljö
 ---
-
-
-
-
-<h2>Miljö</h2>
 
 <p align="center">Tack till Franz Bourlet för idén
 

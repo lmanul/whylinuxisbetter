@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: No big mess in your start menu
 ---
-
-
-
-
-<h2>No big mess in your start menu</h2>
 
 If you use Windows and have installed quite a few pieces of software on your computer, chances are your Start menu starts to look something like this:
 

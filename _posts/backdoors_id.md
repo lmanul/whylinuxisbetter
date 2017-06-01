@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Tidak ada backdoor di perangkat lunakmu.
 ---
-
-
-
-
-<h2>Tidak ada backdoor di perangkat lunakmu.</h2>
 
 Perbedaan antara "closed source" (<i>proprietary</i>) dengan perangkat lunak
 "open source" adalah (bagaimana pendapatmu?) keterbukaan dari "source"-nya.

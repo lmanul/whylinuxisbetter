@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Je váš systém nestabilný?</h2>
+title: Je váš systém nestabilný?
+---
 
 Už sa vám stalo, že ste stratili dôležitú prácu pretože vám spadol Windows? Vždy vypínate počítač správne, alebo ho niekedy iba vytiahnete zo zásuvky, lebo Windows sa zbláznil a nedovolí vám nič spraviť? Už ste niekedy zostali pozerať na "modrú obrazovku smrti", alebo ste dostali chybové hlásenia, ktoré vám vraveli, že počítač musí byť vypnutý pre nejaké nejasné dôvody?
 

@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;">
 <head>
@@ -13,7 +12,8 @@ lang: per
 <body>
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>زندگي ديجيتالتون متفرق شده؟</h2>
+title: زندگي ديجيتالتون متفرق شده؟
+---
 اگر ميدونين متنفرق شدن(Fragmentation)چيه،و تا حالا هر ماه ديسكتون رو
 تفرق زدايي(Defrag)كردين بايد مختصراً بگم:لينوكس Defrag لازم نداره!<br />
 <br />

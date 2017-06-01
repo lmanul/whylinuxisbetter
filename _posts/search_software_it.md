@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Bisogno di nuovo software? Non ti preoccupare di cercarlo in rete, Linux lo prende per te
 ---
-
-
-
-
-<h2>Bisogno di nuovo software? Non ti preoccupare di cercarlo in rete, Linux lo prende per te</h2>
 
 Se vuoi dare un'occhiata a qualche nuovo software per Windows,  
 dovrai:

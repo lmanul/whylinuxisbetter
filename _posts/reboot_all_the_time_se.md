@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Är du trött på att starta om datorn hela tiden?
 ---
-
-
-
-
-<h2>Är du trött på att starta om datorn hela tiden?</h2>
 
 Har du precis uppdaterat en eller två saker genom Windwos Update? 
 Var vänlig starta om. Har du precis installerat ett nytt program? Var 

@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Dostosuj wygląd systemu do swoich potrzeb</h2>
+title: Dostosuj wygląd systemu do swoich potrzeb
+---
 
 Jeśli używasz systemu Windows, Twój pulpit najpewniej niewiele
 różni się od poniższego:

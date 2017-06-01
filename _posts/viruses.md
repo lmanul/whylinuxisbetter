@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Forget about viruses.
 ---
-
-
-
-
-<h2>Forget about viruses.</h2>
 
 If your computer shuts itself down without asking you, if strange 
 windows with text you don't understand and all kinds of advertisements 

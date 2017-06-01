@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Goza de soporte técnico gratis e ilimitado
 ---
-
-
-
-
-<h2>Goza de soporte técnico gratis e ilimitado</h2>
 
 Un dos grandes valores da comunidade de Código Aberto (e Linux en particular), é que é unha comunidade real. Usuarios e deseñadores de software realmente están aí, nos forums de internet, listas de correo, nas canles IRC, axudando aos novos usuarios. Eles están felices de ver que máis e máis persoas estanse cambiando a Linux, e moi contentos de axudar a estes novos usuarios a aprender a moverse no seu novo sistema operativo.
 

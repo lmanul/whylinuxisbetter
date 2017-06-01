@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Prijavljivanje grešaka
 ---
-
-
-
-
-<h2>Prijavljivanje grešaka</h2>
 
 Ako nađete grešku u Windows-u, jedino možete da čekate i molite se da će
 Microsoft brzo da je sredi (a ako ona ugrožava Vaš sistem, onda morate

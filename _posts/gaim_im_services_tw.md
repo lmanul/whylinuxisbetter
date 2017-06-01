@@ -1,11 +1,11 @@
 ---
 lang: tw
----
 ﻿
 
 
 
-<h2>只需要一套軟體，就能使用 MSN、AIM、ICQ 和 Jabber 等服務</h2>
+title: 只需要一套軟體，就能使用 MSN、AIM、ICQ 和 Jabber 等服務
+---
 
 也許你有好幾個即時通訊服務的帳號，像是 MSN、Yahoo 即時通、ICQ、Jabber 或 AIM 等。當你執行 Windows 或是 Mac OS X，每一項服務都需要一套軟體：MSN 就要用 MSN Messenger，ICQ 就要用 ICQ，諸如此類。
 

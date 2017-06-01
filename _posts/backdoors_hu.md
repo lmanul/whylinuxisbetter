@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Nincsenek többé backdoorok
 ---
-
-
-
-
-<h2>Nincsenek többé backdoorok</h2>
 
 (A backdoor egy módszer, hogy kikerüljék a normális hitelesítést, távolról hozzáférjenek egy számítógéphez úgy, hogy ezalatt rejtve maradnak. Megjelenhet egy telepített alkalmazás formájában, lehet egy létező program módosítása vagy hardvereszközök. a ford.)
 

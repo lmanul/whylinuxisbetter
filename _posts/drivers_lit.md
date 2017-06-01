@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Pamirškite tvarkykles (draiverius)
 ---
-
-
-
-
-<h2>Pamirškite tvarkykles (draiverius)</h2>
 
 Prie kiekvienos naujos techninės įrangos, netgi pačios paprasčiausios, būna kompaktinis diskas. Tame diske yra labai mažai vietos užimanti programėlė, kuri vadinasi tvarkyklė (draiveris). Jei perskaitysite naudojimosi instrukciją, suprasite, kad Windows'uose techninė įranga neveiks arba veiks blogai kol neįdiegsite tvarkyklės. Jeigu jūs esate kaip daugelis ir neskaitote naudojimosi instrukcijos, tada tikriausiai pats susiprasite, ką reikia daryti, kai pamatysite, kad jūsų naujai pirktas daiktas neveikia:
 

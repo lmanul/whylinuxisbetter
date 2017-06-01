@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Aktualizuj <i>całe</i> swoje oprogramowanie jednym kliknięciem</h2>
+title: Aktualizuj <i>całe</i> swoje oprogramowanie jednym kliknięciem
+---
 
 System Windows posiada całkiem wygodne narzędzie o nazwie
 "Aktualizacja systemu Windows", które pozwala na aktualizacje wszystkich

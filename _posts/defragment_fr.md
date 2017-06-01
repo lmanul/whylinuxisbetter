@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Votre vie digitale est-elle fragmentée ?
 ---
-
-
-
-
-<h2>Votre vie digitale est-elle fragmentée ?</h2>
 
 Si vous savez déjà ce qu'est la fragmentation, et si vous avez déjà 
 l'habitude de défragmenter votre disque régulièrement, voici la version 

@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Nessuna backdoor nel tuo software.
 ---
-
-
-
-
-<h2>Nessuna backdoor nel tuo software.</h2>
 
 La differenza tra software "closed source" (proprietario) e "open 
 source" è (come hai fatto a indovinare?) che il secondo ha "sorgente" aperto.

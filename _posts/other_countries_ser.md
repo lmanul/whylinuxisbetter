@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: a i svojoj.
 ---
-
-
-
-
-<h2>a i svojoj.</h2>
 
 <center>(Hvala Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 za ideju i prvu verziju text-a) </center>

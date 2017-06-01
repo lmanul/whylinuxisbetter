@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: ¿Necesitas software nuevo? No te molestes buscando en la web, Linux lo hace por tí
 ---
-
-
-
-
-<h2>¿Necesitas software nuevo? No te molestes buscando en la web, Linux lo hace por tí</h2>
 
 Si quieres echar una mirada a un nuevo software en Windows, vas a necesitar:
 

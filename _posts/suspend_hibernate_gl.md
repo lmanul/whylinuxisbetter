@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Aforra algo de enerxía: deixa que a túa computadora durma ou hiberne
 ---
-
-
-
-
-<h2>Aforra algo de enerxía: deixa que a túa computadora durma ou hiberne</h2>
 
 <ul>
 <li>Windows permíteche pór a túa computadora a "durmir" ou "hibernar" (para isto último mantén presionada a tecla Shift cando vexas a pantalla de saída).</li>

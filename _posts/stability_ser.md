@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Jel Vap sistem stabilan ?
 ---
-
-
-
-
-<h2>Jel Vap sistem stabilan ?</h2>
 
 Jeste li ikada izgubili važan rad zato što se Windows srušio? Da li uvek
 gasite kompjuter na ispravan način, ili ponekad morate da ga ugasite prekidačem

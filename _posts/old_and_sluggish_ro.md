@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: De ce Windows-ul dvs. merge din ce în ce mai lent în fiecare zi?
 ---
-
-
-
-
-<h2>De ce Windows-ul dvs. merge din ce în ce mai lent în fiecare zi?</h2>
 
 Windows are un număr de defecte în ceea ce priveşte modul în care
 a fost scris, ceea ce rezultă încetinirea treptată. Probabil aţi auzit

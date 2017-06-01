@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Help other countries, and your own
 ---
-
-
-
-
-<h2>Help other countries, and your own</h2>
 
 <center>(Thanks to Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 for the idea and first version of the text) </center>

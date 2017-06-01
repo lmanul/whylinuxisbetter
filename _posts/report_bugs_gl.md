@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Informe de Fallos
 ---
-
-
-
-
-<h2>Informe de Fallos</h2>
 
 Se atopas un erro en Windows, basicamente debes esperar e rezar que Microsoft o arranxe rápido (e se este fallo compromete a seguridade do sistema vas ter que rezar o dobre de forte). Podes pensar que informar dese fallo a Microsoft debe ser fácil (e así eles o arranxarán máis rápido). Bo... pénsao de novo. <a 
 href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Aquí</a> 

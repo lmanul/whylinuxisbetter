@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Vyzerá vaš digitálny život fragmentovane?</h2>
+title: Vyzerá vaš digitálny život fragmentovane?
+---
 
 Ak už viete, čo fragmentácia je a ste zvyknutí pravidelne defragmentovať váš disk každý mesiac alebo tak nejak, tu je krátka verzia: Linux nepotrebuje defragmentovať.
 

@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Waarom zou u na de installatie <i>nog</i> software moeten installeren?
 ---
-
-
-
-
-<h2>Waarom zou u na de installatie <i>nog</i> software moeten installeren?</h2>
 
 Windows installeren is slechts het begin. Stel u voor dat u juist
 nieuwe Windows 7-installatie op uw harde schijf heet geplaatst en u

@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Bist du es leid, deinen Computer st&auml;ndig neustarten zu m&uuml;ssen?
 ---
-
-
-
-
-<h2>Bist du es leid, deinen Computer st&auml;ndig neustarten zu m&uuml;ssen?</h2>
 
 Hast du gerade ein oder zwei Kleinigkeiten auf deinem Windows-System mit dem „Windows-Update“ aktualisiert? Bitte neustarten. Hast du gerade neue Software installiert? Bitte neustarten. Scheint dein System instabil zu sein? Versuch neuzustarten, wahrscheinlich wird danach alles besser funktionieren.
 

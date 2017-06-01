@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Vælg selv hvordan din desktop skal se ud.
 ---
-
-
-
-
-<h2>Vælg selv hvordan din desktop skal se ud.</h2>
 
 Hvis du er Windows-bruger, så ser din desktop sikkert ikke meget anderledes ud end det hér:
 

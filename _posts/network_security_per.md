@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;">
 <head>
@@ -21,7 +20,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>دماغ نفوذگران رو به خاك بماليد!</h2>
+title: دماغ نفوذگران رو به خاك بماليد!
+---
 
 ويندوز داراي مسائل امنيتي زياديه.خيلي از اين مسائل ميتونه عواقب بدي را
 به همراه داشته باشه بويژه وقتي به اينترنت متصليد.اگه يك نفوذگر از يكي

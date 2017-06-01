@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Mengapa semakin hari Windows Anda semakin lambat?
 ---
-
-
-
-
-<h2>Mengapa semakin hari Windows Anda semakin lambat?</h2>
 
 Windows memiliki beberapa kelemahan dalam desain sistemnya, yang menyebabkan ia berjalan semakin lambat seiring berlalunya waktu, dan tidak dapat bertahan dalam waktu lama dengan kinerja yang tetap prima. Mungkin Anda pernah mendengar dari seseorang "Komputer saya semakin lambat, saya akan meng-<i>install</i> ulang".
 Meng-<i>install</i> ulang Windows memang memecahkan masalah tersebut... sampai masalah berikutnya timbul lagi.

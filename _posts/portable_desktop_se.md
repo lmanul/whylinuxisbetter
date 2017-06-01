@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Din arbetsstation i handen.
 ---
-
-
-
-
-<h2>Din arbetsstation i handen.</h2>
 
 <img src="Images/earth.png" />
 

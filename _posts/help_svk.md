@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Využívajte bezplatnú a neobmedzenú podporu</h2>
+title: Využívajte bezplatnú a neobmedzenú podporu
+---
 
 Jedna z kľúčových výhod komunity slobodného softvéru (a Linuxu konkrétne) je, že je to skutočná komunita. Používatelia a vývojári sú na internetových fórach, na kanáloch IRC, odpovedajú na emaily, len aby pomohli novým užívateľom. Každý z nich je rád, ak sa počet ľudí používajúcich Linux zvyšuje a sú šťastní, ak im môžu pomôcť s prechodom na nový systém. 
 

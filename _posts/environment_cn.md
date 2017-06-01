@@ -1,11 +1,11 @@
 ---
 lang: cn
+
+
+
+
+title: 环境保护
 ---
-
-
-
-
-<h2>环境保护</h2>
 
 <p align="center">感谢 Franz Bourlet 提供这个观点
 

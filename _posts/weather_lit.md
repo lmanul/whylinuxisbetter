@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Sek orus.
 ---
-
-
-
-
-<h2>Sek orus.</h2>
 
 Atsibodo tur&#279;ti termometr&#261; u&#382; lango ir kaskart &#303; j&#303; &#382;i&#363;r&#279;ti besiruo&#353;iant &#303; lauk&#261;? Tiesiog &#382;vilgtelk &#303; Linux'&#371; ekran&#261; ir sek orus:
 

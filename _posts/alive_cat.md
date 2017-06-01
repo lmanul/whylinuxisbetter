@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Dóna una segona vida al teu ordinador
 ---
-
-
-
-
-<h2>Dóna una segona vida al teu ordinador</h2>
 
 El Windows exigeix més i més potència de maquinari conforme va 
 augmentant el seu número de versió (95, 98, 2000, Me, XP, etc.). Així 

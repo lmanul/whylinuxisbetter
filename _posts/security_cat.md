@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Linux protegeix el teu ordinador
 ---
-
-
-
-
-<h2>Linux protegeix el teu ordinador</h2>
 
 Virus, troians, propaganda... Windows permet a tots aquests que entrin al teu ordinador massa fàcilment. El temps mitjà que un PC amb Windows (connectat a Internet i amb la instal·lació per defecte del “Service Pack 2”) triga en infectar-se és de 40 minuts.
 

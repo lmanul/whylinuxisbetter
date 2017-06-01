@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Ajutaţi alte ţări, şi a dumneavoastră
 ---
-
-
-
-
-<h2>Ajutaţi alte ţări, şi a dumneavoastră</h2>
 
 <center>(Mulţumiri lui Gabriel E. Patiño -- gepatino {at}gmail {dot} com --
 pentru idee şi pentru prima versiune a textului)</center>

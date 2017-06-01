@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Waarom illegale software gebruiken als het ook gratis kan?
 ---
-
-
-
-
-<h2>Waarom illegale software gebruiken als het ook gratis kan?</h2>
 
 U bent vast onberispelijk, u heeft altijd *kuch* betaald voor een licentie voor alle software die u ooit gebruikt hebt *kuch* en niemand kan u daarmee lastigvallen? Als dat het geval is, gefeliciteerd :)
 

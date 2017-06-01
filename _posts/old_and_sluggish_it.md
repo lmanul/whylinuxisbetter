@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Perché Windows rallenta giorno dopo giorno?
 ---
-
-
-
-
-<h2>Perché Windows rallenta giorno dopo giorno?</h2>
 
 Windows ha delle falle di progettazione alla base che lo 
 rendono più lento giorno dopo giorno e poco longevo. Avrai 

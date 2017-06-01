@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: A hibák jelentése
 ---
-
-
-
-
-<h2>A hibák jelentése</h2>
 
 Ha találsz egy hibát Windows-on, alapvetően várhatsz és imádkozhatsz, hogy a Microsoft gyorsan javítsa ki (és ha ez a hiba a rendszer biztonságát fenyegeti, kétszer olyan erősen kell imádkoznod). Talán azt hiszed, a hibák jelentése a Microsoftnak könnyen megy (hogy gyorsabban kijavíthassák). Nos, gondold át újra! <a href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Itt</a> egy érdekes (angol nyelvű) cikk erről. Mi van, ha a Microsoft tudomást sem vesz a hibáról? Nos, akkor reménykedj benne, hogy a következő Windows-kiadásban már kijavítják (de akkor ismét több tízezret kell fizetned érte).
 

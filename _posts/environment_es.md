@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Medio Ambiente
 ---
-
-
-
-
-<h2>Medio Ambiente</h2>
 
 <p align="center">Gracias a Franz Bourlet por la idea
 

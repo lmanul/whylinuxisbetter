@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Profitez de hotlines gratuites et illimitées
 ---
-
-
-
-
-<h2>Profitez de hotlines gratuites et illimitées</h2>
 
 L'une des grandes qualités de la communauté Open source (et Linux en 
 particulier), c'est qu'il s'agit d'une réelle communauté. Les 

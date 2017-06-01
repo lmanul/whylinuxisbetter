@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Ambiente
 ---
-
-
-
-
-<h2>Ambiente</h2>
 
 <p align="center">Grazie a Franz Bourlet per l'idea
 

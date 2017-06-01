@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Oubliez les virus.
 ---
-
-
-
-
-<h2>Oubliez les virus.</h2>
 
 Si votre ordinateur s'éteint sans vous prévenir, si des fenêtres 
 étranges avec du texte que vous ne comprenez pas et toutes sortes de 

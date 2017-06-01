@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Aktualigu vian tutan programaron per unu klako.
 ---
-
-
-
-
-<h2>Aktualigu vian tutan programaron per unu klako.</h2>
 
 Windows havas tre konvenan ilon nomatan "Windows update", kiu permesas al vi aktualigi vian operaciumon per la lastaj disponeblaj aktualigoj.
 

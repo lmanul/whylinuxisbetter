@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Esquéceche dos virus.
 ---
-
-
-
-
-<h2>Esquéceche dos virus.</h2>
 
 Se a túa computadora apágase soa sen preguntarche, se aparecen estrañas ventás con texto que non entendes e toda clase de anuncios  cando ti non os pediches, se  son mandados correos a todos os teus contactos sen que o saibas, entón a túa computadora probablemente ten un virus e a principal razón para isto é que usas Windows.
 

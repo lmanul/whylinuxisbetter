@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Fini les pourriciels.
 ---
-
-
-
-
-<h2>Fini les pourriciels.</h2>
 
 Si vous avez déjà acheté un ordinateur tout neuf tournant sous Windows, vous savez sans doute que l'expérience peut se révéler très frustrante.
 

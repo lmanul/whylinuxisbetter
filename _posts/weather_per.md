@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -16,7 +15,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>هميشه از وضعيت آب و هوا مطلع باشيد.</h2>
+title: هميشه از وضعيت آب و هوا مطلع باشيد.
+---
 
 آيا از اينكه موقع بيرون رفتن به دما سنجي كه بيرون ا پنجره نصب كردين سر
 بزنيد خسته شدين؟كافيه فقط يه نگاهي به ميزكار لينوكستون بندازين و از

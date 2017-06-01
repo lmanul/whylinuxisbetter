@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -13,7 +12,8 @@ lang: per
 <body>
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>در مصرف انرژي صرفه جويي كنيد:كامپيوترتون رو به خواب زمستاني ببريد.</h2>
+title: در مصرف انرژي صرفه جويي كنيد:كامپيوترتون رو به خواب زمستاني ببريد.
+---
 
 
 <ul>

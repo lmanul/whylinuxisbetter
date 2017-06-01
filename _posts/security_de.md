@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Linux besch&uuml;tzt deinen Computer
 ---
-
-
-
-
-<h2>Linux besch&uuml;tzt deinen Computer</h2>
 
 Viren, Trojaner, Adware, Spyware … Windows l&auml;sst diese alle recht einfach in dein System eindringen. Die durchschnittliche Zeit, bis ein Windows-PC (der mit dem Internet verbunden ist und ein standardm&auml;&szlig;iges „Service Pack 2“ installiert hat) infiziert wird, ist <b>40 Minuten</b> (und manchmal reicht auch eine kleinere Zeitspanne wie 30 Sekunden).
 

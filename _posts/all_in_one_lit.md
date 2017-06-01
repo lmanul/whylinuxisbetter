@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Kai sistema jau įdiegta, kodėl jums vis dar reikia įdiegti visa kita?
 ---
-
-
-
-
-<h2>Kai sistema jau įdiegta, kodėl jums vis dar reikia įdiegti visa kita?</h2>
 
 Windows'&#371; &#303;diegimas yra tik pati prad&#382;ia. Tarkime, &#303;dieg&#279;te naujut&#279;lius Windows 7 ir 
 pasireng&#279;te atskleisti savo kompiuterinius &#303;g&#363;d&#382;ius. Draugas atsiun&#269;ia jums e. 

@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Verkar ditt digitala liv vara fragmenterat?
 ---
-
-
-
-
-<h2>Verkar ditt digitala liv vara fragmenterat?</h2>
 
 Om du redan vet vad fragmentation är, och redan är van vid att 
 defragmentera hårddisken varje månad, så kommer här en kort 

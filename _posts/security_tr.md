@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Linux bilgisayarınızı korur.
 ---
-
-
-
-
-<h2>Linux bilgisayarınızı korur.</h2>
 
 Virüsler, trojanlar, reklam yazılımları, casuslar... Windows bunların 
 hepsinin sisteminize kolayca sızmasına izin verir. Bir Windows sistemi 

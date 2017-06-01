@@ -1,11 +1,11 @@
 ---
 lang: tr
----
 ﻿
 
 
 
-<h2>MSN, AIM, ICQ veya Jabber' a tek bir yazılımla bağlanın</h2>
+title: MSN, AIM, ICQ veya Jabber' a tek bir yazılımla bağlanın
+---
 
 MSN, Yahoo, ICQ, Jabber, AIM vb. bir çok anında mesaj servisinden hesaplarınız olabilir. Windows ya da Mac OS X kullanırken, her servisin hesabı için farklı programlara ihtiyaç duyabilirsiniz.
 

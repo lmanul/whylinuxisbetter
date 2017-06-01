@@ -1,11 +1,11 @@
 ---
 lang: br
+
+
+
+
+﻿title: Ajude outros países, inclusive o seu
 ---
-
-
-
-
-﻿<h2>Ajude outros países, inclusive o seu</h2>
 
 <center>(Obrigado Gabriel E. Patiño -- gepatino {arroba} gmail {ponto} com -- pela idéia e a primeira versão do texto)</center>
 

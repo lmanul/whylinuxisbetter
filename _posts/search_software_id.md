@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Butuh perangkat lunak baru? Tak perlu mencari di internet, Linux akan menyediakannya untukmu.
 ---
-
-
-
-
-<h2>Butuh perangkat lunak baru? Tak perlu mencari di internet, Linux akan menyediakannya untukmu.</h2>
 
 Jika kamu ingin mendapatkan perangkat lunak yang baru di Windows, maka yang akan kamu lakukan adalah:
 

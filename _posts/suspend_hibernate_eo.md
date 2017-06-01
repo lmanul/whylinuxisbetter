@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Ŝparu iom da energio: lasu ke via komputilo dormu aŭ travintru.
 ---
-
-
-
-
-<h2>Ŝparu iom da energio: lasu ke via komputilo dormu aŭ travintru.</h2>
 
 <ul>
 <li>Windows permesas "dormi" aŭ "travintri" (por tio lasta, tenu premata la klavon Ŝovo kiam vi vidas la elŝaltan ekranon).</li>

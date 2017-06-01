@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Intraţi în noua generaţie de desktop-uri.
 ---
-
-
-
-
-<h2>Intraţi în noua generaţie de desktop-uri.</h2>
 
 Aţi fost impresionat de transparenţa şi efectele 3D introduse în Windows
 Vista şi aţi decis că acest abilităţi valorează câteva sute de dolari?

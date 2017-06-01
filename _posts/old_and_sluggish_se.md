@@ -1,11 +1,11 @@
 ---
 lang: se
+
+
+
+
+title: Varför blir Windows långsammare för var dag som går?
 ---
-
-
-
-
-<h2>Varför blir Windows långsammare för var dag som går?</h2>
 
 Windows har flertalet designmisstag vilket resulterar i att 
 systemet blir långsammare och långsammare, och inte klarar sig 

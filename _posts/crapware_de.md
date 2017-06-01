@@ -1,12 +1,12 @@
 ---
 lang: de
+
+
+
+
+
+title: Nie wieder Crapware
 ---
-
-
-
-
-
-<h2>Nie wieder Crapware</h2>
 
 Wenn du jemals einen neuen Computer gekauft hast, dann weißt du, dass es ein ziemlich hartes Experiment mit deine Nerven sein kann.
 

@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Zapomnij o wirusach</h2>
+title: Zapomnij o wirusach
+---
 
 Jeśli Twój komputer nagle zamyka się bez wyraźnej przyczyny i bez
 pytania o "zgodę", jeśli dziwne okna z reklamami lub tekstem którego

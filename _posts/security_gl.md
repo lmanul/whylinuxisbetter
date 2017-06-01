@@ -1,11 +1,11 @@
 ---
 lang: gl
+
+
+
+
+title: Linux protexe a tua computadora.
 ---
-
-
-
-
-<h2>Linux protexe a tua computadora.</h2>
 
 Virus, troianos, adwares, programas espías... Windows deixa que todos estes entren á túa computadora moi doadamente. O tempo medio para que unha PC con Windows (conectada a internet e cun "Service Pack 2" instalado)se infecte é de <b>40 minutos</b>.
 

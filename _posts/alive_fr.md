@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Donnez une seconde jeunesse à votre vieil ordinateur
 ---
-
-
-
-
-<h2>Donnez une seconde jeunesse à votre vieil ordinateur</h2>
 
 Windows a besoin de configurations de plus en plus puissantes à 
 mesure que le numéro de version croît (95, 98, 2000, Me, XP, etc.), de 

@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title:  Nabavite odličan muzički plejer.
 ---
-
-
-
-
-<h2> Nabavite odličan muzički plejer.</h2>
 
 Linux ima mnogo muzičkih plejera (uključujući AmaroK, Rhythmbox, Banshee, 
 itd.), a neki od njih su <b>odlični</b>. Pogledajte, na primer, AmaroK  

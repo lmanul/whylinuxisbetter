@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Sutaupykite energijos: u&#382;migdykite arba hibernuokite kompiuter&#303;.
 ---
-
-
-
-
-<h2>Sutaupykite energijos: u&#382;migdykite arba hibernuokite kompiuter&#303;.</h2>
 
 <ul>
 <li>Windows'ai "u&#382;migdo" ir "hibernuoja" kompiuter&#303; (nor&#279;dami tai atlikti, laikykite nuspaud&#279; Shift klavi&#353;&#261;, kai pasirodus i&#353;jungimo dialogo langas).</li>

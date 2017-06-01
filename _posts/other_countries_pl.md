@@ -1,11 +1,11 @@
 ---
 lang: pl
----
 ﻿
 
 
 
-<h2>Pomóż innym krajom, w tym również Twojemu</h2>
+title: Pomóż innym krajom, w tym również Twojemu
+---
 
 <center>(Podziękowania dla Gabriel E. Patiño -- gepatino {at} gmail {dot} com -- 
 za pomysł i pierwszą wersję tego tekstu)</center>

@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;" lang="fa">
 <head>
@@ -18,7 +17,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>به كشورهاي ديگه و كشور خودتون كمك كنيد.</h2>
+title: به كشورهاي ديگه و كشور خودتون كمك كنيد.
+---
 
 
 

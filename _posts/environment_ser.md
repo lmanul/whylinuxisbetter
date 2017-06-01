@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Okolina
 ---
-
-
-
-
-<h2>Okolina</h2>
 
 <p align="center">Zahvaljujem Frantz Bourlet-u za ideju
 

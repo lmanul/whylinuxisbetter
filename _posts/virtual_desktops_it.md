@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Troppe finestre? Usa gli ambienti di lavoro
 ---
-
-
-
-
-<h2>Troppe finestre? Usa gli ambienti di lavoro</h2>
 
 Non sono mai stato un utente di Windows e c'è qualcosa che proprio non 
 capisco: una volta aperti il word processor, il browser web, il client 

@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Opdatér al din software med et enkelt klik.
 ---
-
-
-
-
-<h2>Opdatér al din software med et enkelt klik.</h2>
 
 Windows har et handy værktøj kaldet "Windows Update", som gør at du kan opdatere dit system med de seneste systemfiler til dit system.
 

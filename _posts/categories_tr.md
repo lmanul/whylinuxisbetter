@@ -1,11 +1,11 @@
 ---
 lang: tr
+
+
+
+
+title: Başlat menünüzde kaybolmayın
 ---
-
-
-
-
-<h2>Başlat menünüzde kaybolmayın</h2>
 
 Eğer Windows kullanıyor ve bilgisayarınıza birkaç parça yazılım yüklediyseniz, Başlat menünüz aşağıdaki gibi görünmeye başlar:
 

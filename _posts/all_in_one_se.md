@@ -1,13 +1,13 @@
 ---
 lang: se
----
 
 
 
 
-<h2>När systemet är installerat, varför skulle du då 
+title: När systemet är installerat, varför skulle du då 
 <i>fortfarande</i> 
-behöva installera saker?</h2>
+behöva installera saker?
+---
 
 Att installera Windows är bara början. Tänkt dig att du precis har 
 installerat en sprillans ny version av Windows 7 och du förbereder dig 

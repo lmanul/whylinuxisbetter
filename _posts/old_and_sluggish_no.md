@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Hvorfor blir din Windows tregere for hver dag som går?
 ---
-
-
-
-
-<h2>Hvorfor blir din Windows tregere for hver dag som går?</h2>
 
 Windows har en mengde designfeil, noe som betyr at datamaskinen blir tregere og tregere for hver dag, helt til den ikke er særlig brukbar. Du har sikkert hørt at noen har sagt: «Min datamaskin er treg, jeg er nødt til å formatere og reinstallere.» Ja, å reinstallere Windows hjelper … kun til neste gang samme problem oppstår.
 

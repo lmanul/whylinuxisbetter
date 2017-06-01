@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Environnement
 ---
-
-
-
-
-<h2>Environnement</h2>
 
 <h3>Traduction de Severn</h3>
 

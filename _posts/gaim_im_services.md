@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Use MSN, AIM, ICQ, Jabber, with a single program
 ---
-
-
-
-
-<h2>Use MSN, AIM, ICQ, Jabber, with a single program</h2>
 
 You may have accounts for several instant messaging services, such as 
 MSN, Yahoo, ICQ, Jabber, AIM, Facebook chat, etc.

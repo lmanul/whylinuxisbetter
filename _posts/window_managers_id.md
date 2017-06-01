@@ -1,11 +1,11 @@
 ---
 lang: id
+
+
+
+
+title: Pilih seperti apa desktop pilihanmu.
 ---
-
-
-
-
-<h2>Pilih seperti apa desktop pilihanmu.</h2>
 
 Jika kamu adalah pengguna Windows, lingkungan desktopmu mungkin tidak jauh dari ini:
 

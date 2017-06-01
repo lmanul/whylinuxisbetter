@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Betaal geen €100 voor uw besturingssysteem
 ---
-
-
-
-
-<h2>Betaal geen €100 voor uw besturingssysteem</h2>
 
 <h3>(En kopieer niet illegaal)</h3>
 

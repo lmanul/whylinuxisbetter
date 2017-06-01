@@ -1,11 +1,11 @@
 ---
 lang: fr
+
+
+
+
+title: Ne payez pas 100 € pour votre système d'exploitation
 ---
-
-
-
-
-<h2>Ne payez pas 100 € pour votre système d'exploitation</h2>
 
 <h3>(Et ne le copiez pas illégalement)</h3>
 

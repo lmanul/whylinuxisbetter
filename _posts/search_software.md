@@ -1,11 +1,11 @@
 ---
 lang: en
+
+
+
+
+title: Need new software? Don't bother searching the web, Linux gets it for you.
 ---
-
-
-
-
-<h2>Need new software? Don't bother searching the web, Linux gets it for you.</h2>
 
 If you want to check out a new piece of software in Windows, you'll 
 need to:

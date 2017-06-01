@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Hvorfor kopiere programvare på ulovlig vis når du kan få det helt gratis?
 ---
-
-
-
-
-<h2>Hvorfor kopiere programvare på ulovlig vis når du kan få det helt gratis?</h2>
 
 Så, du har en helt ren samvittighet, du har jo *host* kjøpt en lisens for all den programvaren du har brukt *host*, og ingen kan vel klandre deg for noe annet? Vel, hvis det er tilfellet, gratulerer så meget. :-)
 

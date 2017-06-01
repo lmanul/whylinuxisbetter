@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: Ahorra algo de energía: deja que tu ordenador duerma o hiberne
 ---
-
-
-
-
-<h2>Ahorra algo de energía: deja que tu ordenador duerma o hiberne</h2>
 
 <ul>
 <li>Windows te permite poner tu ordenador a "dormir" o "hibernar" (para esto último mantén presionada la tecla Mayúsculas cuando veas la pantalla de salida).</li>

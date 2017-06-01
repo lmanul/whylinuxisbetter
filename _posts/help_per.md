@@ -1,6 +1,5 @@
 ---
 lang: per
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html style="direction: rtl;">
 <head>
@@ -18,7 +17,8 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-<h2>از پشتيباني رايگان و نامحدود لذت ببريد.</h2>
+title: از پشتيباني رايگان و نامحدود لذت ببريد.
+---
 
 يكي از ويژگي&zwnj;هاي جامعه اوپ سورس(و طبيعتاً لينوكس)اينه كه واقعاً يك
 جامعه است.كاربران و برنامه نويسان همه جا هستند.روي وب،فارومها،ليستهاي

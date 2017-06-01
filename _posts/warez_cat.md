@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: Per què copiar programari il·legal quan pots tenir-lo de franc?
 ---
-
-
-
-
-<h2>Per què copiar programari il·legal quan pots tenir-lo de franc?</h2>
 
 Així que, si ets completament legal, hauràs *cof-cof* pagat una bona 
 llicència per tot el programari que mai hagis fet servir *cof-cof*, i 

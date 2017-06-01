@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Ikke vent årevis på at feil skal bli fikset – rapporter dem.
 ---
-
-
-
-
-<h2>Ikke vent årevis på at feil skal bli fikset – rapporter dem.</h2>
 
 Hvis du finner en feil i Windows, må du faktisk vente og be om at Microsoft vil fikse det raskt (og hvis feilen viser seg å være farlig for sikkerheten, må du be dobbelt så mye …). Du tenker kanskje at å rapportere en feil til Microsoft (så de kan fikse feilen raskere) er lett. Vel, revurder din oppfatning. <a href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Her</a> er en interessant artikkel som tar for seg akkurat dette. Hva om Microsoft ikke engang legger merke til feilen? Ja, da må du bare håpe at den er fikset i neste versjon av Windows. (Men uansett, det må du betale en del hundrelapper for …)
 

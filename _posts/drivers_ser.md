@@ -1,11 +1,11 @@
 ---
 lang: ser
+
+
+
+
+title: Zaboravite na drajvere
 ---
-
-
-
-
-<h2>Zaboravite na drajvere</h2>
 
 Novo parče hardvera, čak i ono vrlo malo, obično dođe sa nekim CD-om. Na tom CD-u nalazi se softver pod nazivom "drajver". (upravljački program - prim.prev.) Ukoliko pročitate uputstvo saznaćete da uređaj ne može da radi na windows računaru dok se ovaj drajver ne instalira. Ako ste i vi kao i većina pa ne čitate uputstva, onda verovatno kada vidite da nova visokotehnološka igračka ne radi pretpostavljate šta treba da se uradi.
 

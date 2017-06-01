@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Velg hvordan ditt skrivebord skal se ut.
 ---
-
-
-
-
-<h2>Velg hvordan ditt skrivebord skal se ut.</h2>
 
 Hvis du er en Windows-bruker, så er høyst sannsynlig skrivebordmiljøet ditt noe som dette:
 

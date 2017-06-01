@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Gioca a centinaia di videogame gratuitamente
 ---
-
-
-
-
-<h2>Gioca a centinaia di videogame gratuitamente</h2>
 
 Centinaia di giochi sono rilasciati sotto licenza libera (sia come "birra gratis" che come 
 "discorso libero") : 2D, 3D, puzzle, giochi di strategia, giochi multiplayer online, e altri 

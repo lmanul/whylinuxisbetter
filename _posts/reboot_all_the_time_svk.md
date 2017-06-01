@@ -1,11 +1,11 @@
 ---
 lang: svk
----
 ﻿
 
 
 
-<h2>Už vás unavuje neustále reštartovávať váš počítač?</h2>
+title: Už vás unavuje neustále reštartovávať váš počítač?
+---
 
 Práve ste aktualizovali jednu alebo dve drobnosti pomocou "Windows update"? Prosím, reštartujte. Práve ste nainštalovali nejaký nový program? Prosím reštartujte. Je váš systém nestabilný? Skúste reštartovať, pravdepodobne bude potom všetko v poriadku.
 

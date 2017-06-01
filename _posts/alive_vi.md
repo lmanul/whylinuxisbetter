@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Máy tính cũ của bạn vẫn còn rất có ích đấy
 ---
-
-
-
-
-<h2>Máy tính cũ của bạn vẫn còn rất có ích đấy</h2>
 
 Windows ngày càng đòi hỏi nhiều sức mạnh phần cứng sau mỗi phiên bản (95, 98, 2000, Me, XP, etc.). 
 Nếu bạn muốn dùng Windows, bạn cần nâng cấp máy tính thường xuyên. Nhưng tôi thấy 

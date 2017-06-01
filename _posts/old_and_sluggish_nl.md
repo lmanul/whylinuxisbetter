@@ -1,11 +1,11 @@
 ---
 lang: nl
+
+
+
+
+title: Waarom wordt Windows steeds langzamer?
 ---
-
-
-
-
-<h2>Waarom wordt Windows steeds langzamer?</h2>
 
 Windows heeft een aantal ontwerpfouten, waardoor het steeds
 trager wordt en niet lang meegaat. U heeft wellicht meer dan eens

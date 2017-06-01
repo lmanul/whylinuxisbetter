@@ -1,11 +1,11 @@
 ---
 lang: ro
+
+
+
+
+title: Viaţa dvs. virtuală pare fragmentată?
 ---
-
-
-
-
-<h2>Viaţa dvs. virtuală pare fragmentată?</h2>
 
 Dacă ştiţi deja ce e fragmentarea şi sunteţi deja obişnuit(ă) să
 vă defragmentaţi hard disk-ul în fiecare lună, aici e versiunea scurtă:

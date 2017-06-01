@@ -1,11 +1,11 @@
 ---
 lang: eo
+
+
+
+
+title: Elektu la ŝajnon de via labortablo.
 ---
-
-
-
-
-<h2>Elektu la ŝajnon de via labortablo.</h2>
 
 Se vi estas uzanto de Windows, eble via labortablo ne estas tre malproksime de ĉi tio:
 

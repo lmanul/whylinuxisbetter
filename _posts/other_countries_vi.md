@@ -1,11 +1,11 @@
 ---
 lang: vi
+
+
+
+
+title: Giúp đất nước của bạn phát triển
 ---
-
-
-
-
-<h2>Giúp đất nước của bạn phát triển</h2>
 
 <center>(Cảm ơn Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 
 đã cung cấp ý tưởng và bản đầu tiên của bài viết này) </center>

@@ -1,11 +1,11 @@
 ---
 lang: no
+
+
+
+
+title: Ikke betal hundrevis av kroner for ditt operativsystem!
 ---
-
-
-
-
-<h2>Ikke betal hundrevis av kroner for ditt operativsystem!</h2>
 
 <h3>(Og ikke kopier det på ulovlig vis)</h3>
 

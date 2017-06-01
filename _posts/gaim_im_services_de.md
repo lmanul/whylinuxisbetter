@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Benutz MSN, AIM, ICQ und Jabber mit einem einzigen Programm.
 ---
-
-
-
-
-<h2>Benutz MSN, AIM, ICQ und Jabber mit einem einzigen Programm.</h2>
 
 Möglicherweise hast du bei mehreren Instant-Messaging-Diensten wie MSN, Yahoo, ICQ, Jabber, AIM, etc. Accounts. Wenn du Windows oder Mac OS X laufen hast, benötigst du normalerweise für jeden einzelnen Dienst ein eigenes Programm: den MSN-Messenger für MSN, den ICQ-Messenger für ICQ usw.
 

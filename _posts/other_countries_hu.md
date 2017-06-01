@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Segíts más országokon és a sajátodon!
 ---
-
-
-
-
-<h2>Segíts más országokon és a sajátodon!</h2>
 
 <center>(Köszönet Gabriel E. Patiñonak -- gepatino {kukac} gmail {pont} com -- az ötletért és a szöveg eredeti változatáért) </center>
 

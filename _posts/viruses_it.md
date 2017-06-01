@@ -1,11 +1,11 @@
 ---
 lang: it
+
+
+
+
+title: Dimenticati dei virus
 ---
-
-
-
-
-<h2>Dimenticati dei virus</h2>
 
 Se il computer si spegne senza chiederlo, se strane finestre con 
 testo incomprensibile e tutti i tipi di avvertenze appaiono senza che tu 

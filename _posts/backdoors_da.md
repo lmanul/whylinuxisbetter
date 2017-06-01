@@ -1,11 +1,11 @@
 ---
 lang: da
+
+
+
+
+title: Der er ingen bagdøre i dine programmer.
 ---
-
-
-
-
-<h2>Der er ingen bagdøre i dine programmer.</h2>
 
 Forskellen på "closed source" (proprietære) og "open source" software er at deres "kilde" er åben (tilgængelig for ALLE). Okay, men hvad gør det for mig? Ja, "kilden", eller "kildekoden", er den hemmelige <b>opskrift</b> til alt software, ligesom opskriften til en kage. Når du køber en kage, er der ingen måde du kan finde den helt rigtige opskrift(selv om du kan gætte nogle stumper og stykker, "der er noget kokosnød i her"). Hvis en bager gav opskriften ud på sin super-succesfulde ostekage, ville den hurtigt gå fallit, fordi folk ville bage det selv, i hjemmet, og stoppe med at købe den.
 Det er det sammen med Microsoft, de giver heller ikke opskriften, eller "kildekoden", til deres software (som f.eks. Windows, da de ellers ikke ville tjene penge) ud.

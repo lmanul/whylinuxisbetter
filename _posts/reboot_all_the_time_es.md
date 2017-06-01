@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: ¿Estás cansado de reiniciar tu ordenador continuamente?
 ---
-
-
-
-
-<h2>¿Estás cansado de reiniciar tu ordenador continuamente?</h2>
 
 ¿Alguna vez has actualizado una o dos cositas en tu sistema Windows con el "Actualizador de Windows"? Por favor reinicie. ¿Alguna vez haz instalado software nuevo? Por favor reinicie. ¿Parece tu sistema inestable? Intente reiniciando, probablemente todo trabaje mejor después de eso.
 

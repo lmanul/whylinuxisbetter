@@ -1,11 +1,11 @@
 ---
 lang: hu
+
+
+
+
+title: Takaríts meg egy kis energiát: függeszd fel vagy hibernáld számítógéped!
 ---
-
-
-
-
-<h2>Takaríts meg egy kis energiát: függeszd fel vagy hibernáld számítógéped!</h2>
 
 <ul>
 <li>Windows-on felfüggesztheted és hibernálhatod a számítógéped (ez utóbbiért tartsd lenyomva a Shift billentyűt, mikor megjelenik a leállítási párbeszédpanel).</li>

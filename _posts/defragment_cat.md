@@ -1,11 +1,11 @@
 ---
 lang: cat
+
+
+
+
+title: La teva vida digital sembla fragmentada?
 ---
-
-
-
-
-<h2>La teva vida digital sembla fragmentada?</h2>
 
 Si ja saps el que és la fragmentació, i ja sols desfragmentar el teu 
 disc cada mes o així, aquí tens la versió curta: oblida això de 

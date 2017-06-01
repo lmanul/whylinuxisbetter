@@ -1,11 +1,11 @@
 ---
 lang: lit
+
+
+
+
+title: Linux'ai saugo j&#363;s&#371; kompiuter&#303;
 ---
-
-
-
-
-<h2>Linux'ai saugo j&#363;s&#371; kompiuter&#303;</h2>
 
 Virusai, Trojos arkliai (troyans), brukalai (adware), &#353;nipalai (spywares)... Windows'ai &#303;sileid&#382;ia 
 juos gana lengvai. Vidutinis laikas, kol kompiuteris su Windows 7 (prijungtas prie interneto ir su standarti&#353;kai 

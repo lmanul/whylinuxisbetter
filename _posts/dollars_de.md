@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Bezahl keine 200&#x202f;&euro; f&uuml;r dein Betriebssystem
 ---
-
-
-
-
-<h2>Bezahl keine 200&#x202f;&euro; f&uuml;r dein Betriebssystem</h2>
 
 <h3>(Und kopier es nicht illegal)</h3>
 

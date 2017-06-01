@@ -1,11 +1,11 @@
 ---
 lang: de
+
+
+
+
+title: Komm in den Genuss freien und unbegrenzten Supports
 ---
-
-
-
-
-<h2>Komm in den Genuss freien und unbegrenzten Supports</h2>
 
 Eines der Vorteile freier Software (und insbesondere Linux) ist, dass man es mit einer richtigen Gemeinschaft zu tun hat. Anwender und Entwickler sind wirklich da draußen, in Webforen, auf Mailinglisten, in IRC-Chats, immer bereit, Neulingen zu helfen. Sie alle freuen sich, dass mehr und mehr Menschen zu Linux wechseln und helfen ihnen gerne, mit dem neuen System zurechtzukommen.
 

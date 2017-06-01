@@ -1,11 +1,11 @@
 ---
 lang: es
+
+
+
+
+title: ¿Tu vida digital parece fragmentada?
 ---
-
-
-
-
-<h2>¿Tu vida digital parece fragmentada?</h2>
 
 Si ya sabes lo que es fragmentación y estás acostumbrado a desfragmentar tu disco cada cierto tiempo, aquí está la versión corta: Linux no necesita desfragmentación.
 
