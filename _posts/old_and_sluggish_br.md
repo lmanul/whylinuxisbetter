@@ -3,7 +3,6 @@ lang: br
 
 
 
-
 title: Por que seu Windows fica mais lento dia após dia ?
 ---
 

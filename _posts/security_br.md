@@ -3,7 +3,6 @@ lang: br
 
 
 
-
 title: O Linux protege seu computador
 ---
 

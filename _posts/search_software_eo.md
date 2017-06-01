@@ -3,7 +3,6 @@ lang: eo
 
 
 
-
 title: Ĉu necesas nova programo? Ne zorgu serĉi rete, Linux faras tion por vi.
 ---
 

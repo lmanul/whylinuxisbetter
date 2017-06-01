@@ -3,7 +3,6 @@ lang: lit
 
 
 
-
 title: Programinės įrangos durys yra atviros.
 ---
 

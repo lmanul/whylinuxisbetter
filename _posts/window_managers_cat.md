@@ -3,7 +3,6 @@ lang: cat
 
 
 
-
 title: Tria l'aparença del teu escriptori.
 ---
 

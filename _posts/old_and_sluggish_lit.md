@@ -3,7 +3,6 @@ lang: lit
 
 
 
-
 title: Kodėl Jūsų Windows'ai kasdien vis lėtėja?
 ---
 

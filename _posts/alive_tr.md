@@ -3,7 +3,6 @@ lang: tr
 
 
 
-
 title: Eski bilgisayarınız ikinci baharını yaşasın
 ---
 

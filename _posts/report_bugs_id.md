@@ -3,7 +3,6 @@ lang: id
 
 
 
-
 title: Melaporkan <i>bug</i>
 ---
 

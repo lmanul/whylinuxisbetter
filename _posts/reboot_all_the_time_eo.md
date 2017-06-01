@@ -3,7 +3,6 @@ lang: eo
 
 
 
-
 title: Ĉu vi estas laca restartigi la komputilon daŭre?
 ---
 

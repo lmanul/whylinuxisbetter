@@ -3,7 +3,6 @@ lang: br
 
 
 
-
 title: Quando o sistema é instalado, por que você <i>ainda</i> precisa instalar coisas?
 ---
 

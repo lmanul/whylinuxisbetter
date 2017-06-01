@@ -3,7 +3,6 @@ lang: et
 
 
 
-
 title: &Auml;ra maksa operatsioonis&uuml;steemi eest 4 000.-
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: he
 
-
 <div id="corps" class="rtl" dir='rtl'>
 title: חסוך אנרגיה: תן למחשב לישון או לחרופ.
 ---

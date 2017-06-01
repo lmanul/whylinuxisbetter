@@ -1,7 +1,6 @@
 ---
 lang: ku
 
-
 <div id="corps" dir="rtl">
 
 title: چاودیری کەش و هەوا بکە.

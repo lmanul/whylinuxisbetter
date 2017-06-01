@@ -3,7 +3,6 @@ lang: ro
 
 
 
-
 title: De ce să copiaţi ilegal programe, când le puteţi obţine gratis?
 ---
 

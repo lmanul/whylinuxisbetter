@@ -3,7 +3,6 @@ lang: da
 
 
 
-
 title: Lad være med at betale 1000 kr. for dit operativ system!
 ---
 

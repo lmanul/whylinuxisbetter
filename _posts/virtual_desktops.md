@@ -3,7 +3,6 @@ lang: en
 
 
 
-
 title: Too many windows? Use workspaces.
 ---
 

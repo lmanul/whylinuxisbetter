@@ -3,7 +3,6 @@ lang: fr
 
 
 
-
 title: Choisissez l'allure de votre bureau.
 ---
 

@@ -3,7 +3,6 @@ lang: ser
 
 
 
-
 title: Nemojte platiti 100$ za Vaš Operativni sistem
 ---
 

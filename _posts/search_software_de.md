@@ -3,7 +3,6 @@ lang: de
 
 
 
-
 title: Du brauchst neue Software? Durchsuche nicht das Netz, Linux besorgt sie f&uuml;r dich.
 ---
 

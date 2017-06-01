@@ -3,7 +3,6 @@ lang: en
 
 
 
-
 title: Let your old computer have a second life
 ---
 

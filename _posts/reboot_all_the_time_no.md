@@ -3,7 +3,6 @@ lang: no
 
 
 
-
 title: Er du lei av å måtte restarte datamaskinen din hele tiden?
 ---
 

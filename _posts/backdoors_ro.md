@@ -3,7 +3,6 @@ lang: ro
 
 
 
-
 title: Fără găuri de securitate în software.
 ---
 Diferenţa dintre software-ul "closed source" (comercial) şi "open source"

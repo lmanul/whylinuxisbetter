@@ -3,7 +3,6 @@ lang: es
 
 
 
-
 title: Actualiza todo tu software con un sólo clic.
 ---
 

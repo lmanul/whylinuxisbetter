@@ -3,7 +3,6 @@ lang: gl
 
 
 
-
 title: Usa MSN, AIM, ICQ, Jabber, cun só programa
 ---
 

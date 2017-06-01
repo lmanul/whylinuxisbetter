@@ -3,7 +3,6 @@ lang: ro
 
 
 
-
 title: Salvaţi energie: lăsaţi-vă computerul să hiberneze.
 ---
 

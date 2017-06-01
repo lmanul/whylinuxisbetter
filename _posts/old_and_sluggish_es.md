@@ -3,7 +3,6 @@ lang: es
 
 
 
-
 title: ¿Por qué tu Windows es más lento cada día?
 ---
 

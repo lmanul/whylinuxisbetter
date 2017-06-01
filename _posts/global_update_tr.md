@@ -3,7 +3,6 @@ lang: tr
 
 
 
-
 title: Yazılımınızı tek bir tık ile güncelleyin.
 ---
 

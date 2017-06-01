@@ -3,7 +3,6 @@ lang: id
 
 
 
-
 title: Pilih seperti apa desktop pilihanmu.
 ---
 

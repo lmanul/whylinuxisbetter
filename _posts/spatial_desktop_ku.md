@@ -1,7 +1,6 @@
 ---
 lang: ku
 
-
 <div id="corps" dir="rtl">
 
 title: .بڕۆ بۆ نەوەی نوێی ڕوومێزەکان

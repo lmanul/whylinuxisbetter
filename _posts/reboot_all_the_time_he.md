@@ -1,7 +1,6 @@
 ---
 lang: he
 
-
 <div id="corps" class="rtl" dir="rtl">
 
 ‏title: נמאס לכם להפעיל את המחשב מחדש כל הזמן?

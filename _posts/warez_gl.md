@@ -3,7 +3,6 @@ lang: gl
 
 
 
-
 title: Por que copiar software ilegalmente se o podes ter gratis?
 ---
 

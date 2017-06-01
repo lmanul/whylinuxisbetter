@@ -3,7 +3,6 @@ lang: it
 
 
 
-
 title: Scegli l'aspetto del tuo desktop
 ---
 

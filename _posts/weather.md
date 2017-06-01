@@ -3,7 +3,6 @@ lang: en
 
 
 
-
 title: Keep an eye on the weather.
 ---
 

@@ -3,7 +3,6 @@ lang: en
 
 
 
-
 title: Freedom!
 ---
 

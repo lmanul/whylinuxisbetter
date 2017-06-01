@@ -3,7 +3,6 @@ lang: cat
 
 
 
-
 title: Juga a centenars de jocs de franc
 ---
 

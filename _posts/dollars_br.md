@@ -3,7 +3,6 @@ lang: br
 
 
 
-
 title: ﻿Não pague $100 pelo seu sistema operacional
 ---
 

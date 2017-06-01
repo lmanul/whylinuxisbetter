@@ -3,7 +3,6 @@ lang: es
 
 
 
-
 title: ¡Libertad!
 ---
 

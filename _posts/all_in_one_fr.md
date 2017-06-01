@@ -3,7 +3,6 @@ lang: fr
 
 
 
-
 title: Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?
 ---
 

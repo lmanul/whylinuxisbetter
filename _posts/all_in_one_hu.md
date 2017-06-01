@@ -3,7 +3,6 @@ lang: hu
 
 
 
-
 title: Ha egyszer már telepítetted a rendszert, miért kellene <i>még mindig</i> telepítgetned?
 ---
 

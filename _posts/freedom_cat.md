@@ -3,7 +3,6 @@ lang: cat
 
 
 
-
 title: Llibertat!
 ---
 

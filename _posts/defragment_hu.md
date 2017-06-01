@@ -3,7 +3,6 @@ lang: hu
 
 
 
-
 title: Töredékekként látod a világot?
 ---
 

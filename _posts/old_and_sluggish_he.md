@@ -1,7 +1,6 @@
 ---
 lang: he
 
-
 <div id="corps" class="rtl" dir='rtl'>
 title:  מדוע חלונות איטית יותר מיום ליום?
 ---

@@ -3,7 +3,6 @@ lang: da
 
 
 
-
 title: Hvorfor kopiere software ulovligt når du kan få det gratis?
 ---
 

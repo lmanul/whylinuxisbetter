@@ -3,7 +3,6 @@ lang: ro
 
 
 
-
 title: Intraţi în noua generaţie de desktop-uri.
 ---
 

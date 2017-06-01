@@ -3,7 +3,6 @@ lang: de
 
 
 
-
 title: Keine Hintertüren in deiner Software.
 ---
 

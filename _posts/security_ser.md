@@ -3,7 +3,6 @@ lang: ser
 
 
 
-
 title: Linux štiti Vaš kompjuter 
 ---
 

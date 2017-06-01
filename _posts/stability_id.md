@@ -3,7 +3,6 @@ lang: id
 
 
 
-
 title: Apakah sistem komputermu tidak stabil?
 ---
 

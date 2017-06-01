@@ -3,7 +3,6 @@ lang: tr
 
 
 
-
 title: Çok fazla mı pencere var? Çoklu masaüstü kullanın.
 ---
 

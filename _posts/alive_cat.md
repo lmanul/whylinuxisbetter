@@ -3,7 +3,6 @@ lang: cat
 
 
 
-
 title: Dóna una segona vida al teu ordinador
 ---
 

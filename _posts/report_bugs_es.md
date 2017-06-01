@@ -3,7 +3,6 @@ lang: es
 
 
 
-
 title: No esperes años a que se arreglen los fallos, comunícalos y sigue su solución
 ---
 

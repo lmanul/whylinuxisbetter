@@ -3,7 +3,6 @@ lang: eo
 
 
 
-
 title: Ĉu tro da fenestroj? Uzu laborspacojn.
 ---
 

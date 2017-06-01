@@ -3,7 +3,6 @@ lang: br
 
 
 
-
 title: Liberdade!
 ---
 

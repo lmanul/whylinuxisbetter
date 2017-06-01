@@ -3,7 +3,6 @@ lang: id
 
 
 
-
 title: Linux melindungi komputermu
 ---
 

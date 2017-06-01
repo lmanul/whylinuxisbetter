@@ -3,7 +3,6 @@ lang: hu
 
 
 
-
 title: Belefáradtál már abba, hogy folyton újraindítsd a géped?
 ---
 

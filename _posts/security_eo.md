@@ -3,7 +3,6 @@ lang: eo
 
 
 
-
 title: Linux protektas vian komputilon
 ---
 

@@ -3,7 +3,6 @@ lang: lit
 
 
 
-
 title: Linux'ai saugo j&#363;s&#371; kompiuter&#303;
 ---
 
