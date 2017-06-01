@@ -1,7 +1,6 @@
 ---
 lang: pl
-title: "Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci!<br />"
-<small>Linuks zrobi to za Ciebie</small>
+title: "Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci! Linuks zrobi to za Ciebie"
 ---
 
 Jeśli potrzebujesz nowej aplikacji pod system Windows, będzie to wymagało:

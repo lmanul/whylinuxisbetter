@@ -1,7 +1,6 @@
 ---
 lang: cat
-title: "Quan el teu sistema està instal·lat, per què necessites instal·lar "
-<i>encara</i> més coses?
+title: "Quan el teu sistema està instal·lat, per què necessites instal·lar <i>encara</i> més coses?"
 ---
 
 La instal·lació de Windows és tan sols el principi. Imagina't que 

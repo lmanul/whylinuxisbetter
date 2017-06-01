@@ -1,7 +1,6 @@
 ---
 lang: pl
-title: "Zgłaszanie problemów<br />"
-<small>(nie musisz czekać latami na ich rozwiązanie!)</small>
+title: "Zgłaszanie problemów (nie musisz czekać latami na ich rozwiązanie!)"
 ---
 
 Jeśli znajdziesz błąd w systemie Windows, możesz jedynie czekać

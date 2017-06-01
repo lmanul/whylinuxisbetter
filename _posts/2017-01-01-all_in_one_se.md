@@ -1,8 +1,6 @@
 ---
 lang: se
-title: "När systemet är installerat, varför skulle du då "
-<i>fortfarande</i> 
-behöva installera saker?
+title: "När systemet är installerat, varför skulle du då <i>fortfarande</i> behöva installera saker?"
 ---
 
 Att installera Windows är bara början. Tänkt dig att du precis har 

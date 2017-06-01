@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: "Cuộc sống số của bạn có bị "phân mảnh" không ?"
+title: "Cuộc sống số của bạn có bị 'phân mảnh' không ?"
 ---
 
 Nếu bạn đã biết hiện tương phân mảnh là gì, và chay chương trình chống phân mảnh 
