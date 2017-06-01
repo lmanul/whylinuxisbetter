@@ -17,7 +17,6 @@ Linux使ってフリーのソフトをインストールしたら、こんなこ
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 

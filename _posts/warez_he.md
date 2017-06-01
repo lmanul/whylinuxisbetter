@@ -21,7 +21,6 @@ title:   בשביל מה להעתיק תכנה באופן לא חוקי אם א�
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 

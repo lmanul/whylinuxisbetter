@@ -16,7 +16,6 @@ Jeigu Jūs naudosite Linux'us ir naudosite nemokamą programinę įrangą, dėl 
 
 table_parser ("Taip", "Ne", "Komercinės (mokamos)", "Nemokamos (atviro kodo)", "Ar egzistuoja Windows'uose?");
 
-?>
 
 <br /><br>
 

@@ -19,7 +19,6 @@ TRIPS Agreement বলে একটা চুক্তি আছে। এটা
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 

@@ -17,7 +17,6 @@ Jika kamu menjalankan Linux dan menggunakan perangkat lunak <i>free</i>, kamu ti
 table_parser ("Ya", "Tidak", "Komersial", "Source Terbuka", "Ada di
 Windows?");
 
-?>
 
 <br /><br>
 

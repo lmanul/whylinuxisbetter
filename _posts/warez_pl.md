@@ -33,7 +33,6 @@ i otwartymi odpowiednikami:
 
 table_parser ("Tak", "Nie", "Program", "Darmowy odpowiednik", "Czy istnieje dla systemu Windows?");
 
-?>
 
 <br /><br>
 

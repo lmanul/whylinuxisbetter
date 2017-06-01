@@ -17,7 +17,6 @@ title: 공개 소프트웨어라면 불법복제걱정은 없겠죠?
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 

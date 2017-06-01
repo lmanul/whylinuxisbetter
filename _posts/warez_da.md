@@ -18,7 +18,6 @@ Hvis du kører Linux og installerer fri software skal du aldrig bekymre dig om d
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br />
 

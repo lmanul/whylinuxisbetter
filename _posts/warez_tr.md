@@ -16,7 +16,6 @@ Eğer Linux kullanıyorsanız, büyük ihtimalle tüm yazılımlarınız ücrets
 
 table_parser ("Evet", "Hayır", "Ücretli", "Açık kaynak", "Windows da Var mı?");
 
-?>
 
 <br /><br>
 

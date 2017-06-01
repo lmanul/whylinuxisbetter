@@ -34,7 +34,6 @@ seu equivalent lliure:
 table_parser ("Sí", "No", "Comercial", "Programari lliure", "Existeix al 
 Windows ?");
 
-?>
 
 <br /><br>
 

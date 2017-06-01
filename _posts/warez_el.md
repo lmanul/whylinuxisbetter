@@ -35,7 +35,6 @@ title: Γιατί να αντιγράφεται παράνομα λογισμι�
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 

@@ -16,7 +16,6 @@ Ha Linuxot használsz és szabad szoftvereket telepítesz, többé nem kell ezek
 
 table_parser ("Igen", "Nem", "Kereskedelmi", "Nyílt forráskódú", "Fut Windows-on?");
 
-?>
 
 <br /><br>
 

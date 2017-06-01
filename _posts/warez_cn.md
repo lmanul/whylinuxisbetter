@@ -17,7 +17,6 @@ title: 与其非法复制软件，何不使用免费软件？
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 

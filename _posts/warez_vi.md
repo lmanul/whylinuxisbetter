@@ -24,7 +24,6 @@ Dây là danh sách các phần mềm thương mại và phiên bản mã nguồ
 
 table_parser ("Có", "Không", "Thương Mại", "Mã Nguồn Mở", "Chạy trên Windows ?");
 
-?>
 
 <br /><br>
 

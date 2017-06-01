@@ -16,7 +16,6 @@ Hvis du kjører Linux og installerer fri programvare, trenger du ikke å bekymre
 
 table_parser ("Ja", "Nei", "Kommersiell", "Open source", "Tilgjengelig på Windows?");
 
-?>
 
 <br /><br>
 

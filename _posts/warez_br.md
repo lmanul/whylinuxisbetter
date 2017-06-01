@@ -16,7 +16,6 @@ Se você usa Linux e instala programas livres, não precisa se preocupar com iss
 
 table_parser ("Sim", "Não", "Comercial", "Open source", "Existe no Windows?");
 
-?>
 
 <br /><br>
 

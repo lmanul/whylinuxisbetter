@@ -27,7 +27,6 @@ oamenilor. Aici e o listă cu nişte software-uri comerciale şi alternativele l
 
 table_parser ("Da", "Nu", "Comercial", "Open source", "Există pe Windows?");
 
-?>
 
 <br /><br>
 

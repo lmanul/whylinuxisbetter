@@ -35,7 +35,6 @@ logiciels commerciaux et de leurs équivalents libres :
 table_parser ("Oui", "Non", "Commercial", "Libre", "Existe sous Windows 
 ?");
 
-?>
 
 <br /><br>
 

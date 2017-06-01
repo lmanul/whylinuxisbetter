@@ -38,7 +38,6 @@ title: Зачем копировать софт нелегально, если �
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br><br>
 

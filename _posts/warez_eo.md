@@ -17,7 +17,6 @@ Se vi uzas Linux kaj instalas liberan programaron, vi ne havos zorgojn pri tio i
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 

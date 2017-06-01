@@ -31,7 +31,6 @@ Evo liste nekih komercijalnih programa i njihovog open source ekvivalentas :
 table_parser ("Da", "Ne", "Komercijalni", "Open source", "Postoji za
 Windows?");
 
-?>
 
 <br /><br>
 

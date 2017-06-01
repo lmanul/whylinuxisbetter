@@ -16,7 +16,6 @@ Si usas Linux e instalas software libre, no vas a tener que preocuparte por esto
 
 table_parser ("Sí", "No", "Comercial", "Código Abierto", "Existe en Windows?");
 
-?>
 
 <br /><br>
 

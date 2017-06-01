@@ -29,7 +29,6 @@ en hun opensource-equivalenten:
 table_parser ("Ja", "Nee", "Commercieel", "Open source", "Bestaat op 
 Windows?");
 
-?>
 
 <br /><br>
 

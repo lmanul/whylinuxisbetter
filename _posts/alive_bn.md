@@ -1,7 +1,5 @@
 ---
 lang: bn
- require("../../base.php");
-require("../../fonctions.php");?>
 
 
 

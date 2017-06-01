@@ -16,7 +16,6 @@ No ak použijete Linux a nainštalujete si slobodný softvér, o toto sa už nik
 
 table_parser ("Áno", "Nie", "Komerčný", "Slobodný", "Existuje aj na Windows?");
 
-?>
 
 <br /><br>
 

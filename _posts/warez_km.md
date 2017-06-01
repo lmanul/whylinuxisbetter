@@ -29,7 +29,6 @@ title: ហេតុ​អ្វី​​ត្រូវ​ចម្លង​​�
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 

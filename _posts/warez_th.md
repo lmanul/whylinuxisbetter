@@ -17,7 +17,6 @@ title: จะละเมิดใช้ซอฟต์แวร์ผิดก�
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 

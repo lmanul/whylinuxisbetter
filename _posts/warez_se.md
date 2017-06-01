@@ -16,7 +16,6 @@ Om du kör Linux och installerar fri mjukvara kommer du aldig någonsin att beh�
 
 table_parser ("Ja", "Nej", "Kommersiell", "Öppen mjukvara", "Finns på Windows?");
 
-?>
 
 <br /><br>
 

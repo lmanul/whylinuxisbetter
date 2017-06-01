@@ -30,7 +30,6 @@ commerciale e il/i rispettivo/i equivalenti:
 table_parser ("Sì", "No", "Commerciale", "Open source", "Esiste su 
 Windows?");
 
-?>
 
 <br /><br>
 

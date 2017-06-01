@@ -1,7 +1,5 @@
 ---
 lang: cat
-require("../../base.php"); 
-?>
 
 
 

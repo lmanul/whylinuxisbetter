@@ -16,7 +16,6 @@ Wenn du Linux laufen hast und freie Software installierst, wirst du dir darüber
 
 table_parser ("Ja", "Nein", "Kommerziell", "Open Source", "Existiert für Windows?");
 
-?>
 
 <br /><br>
 

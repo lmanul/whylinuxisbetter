@@ -17,7 +17,6 @@ title: Защо незаконно да копирате софтуер, ако 
 table_parser ("Yes", "No", "Commercial", "Open source", "Exists on 
 Windows?");
 
-?>
 
 <br /><br>
 
