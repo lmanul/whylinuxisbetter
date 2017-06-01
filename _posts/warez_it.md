@@ -1,6 +1,5 @@
 ---
 lang: it
-
 title: Perché copiare software illegalmente quando puoi ottenerlo gratuitamente?
 ---
 

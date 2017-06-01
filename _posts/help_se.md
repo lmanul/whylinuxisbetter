@@ -1,6 +1,5 @@
 ---
 lang: se
-
 title: Njut av fri support för evigt
 ---
 

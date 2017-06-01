@@ -1,6 +1,5 @@
 ---
 lang: es
-
 title: Sin puertas traseras en tu software.
 ---
 

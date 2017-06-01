@@ -1,6 +1,5 @@
 ---
 lang: eo
-
 title: Kial via Windows iĝas pli malrapida ĉiutage?
 ---
 

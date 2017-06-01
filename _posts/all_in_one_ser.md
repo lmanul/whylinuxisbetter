@@ -1,6 +1,5 @@
 ---
 lang: ser
-
 title: Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?
 ---
 

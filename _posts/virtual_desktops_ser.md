@@ -1,6 +1,5 @@
 ---
 lang: ser
-
 title: Previše prozora? Koristite radne površine.
 ---
 

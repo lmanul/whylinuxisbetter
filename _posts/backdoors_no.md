@@ -1,6 +1,5 @@
 ---
 lang: no
-
 title: Programvaren din er fri for bakdører.
 ---
 

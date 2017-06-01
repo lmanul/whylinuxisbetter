@@ -1,6 +1,5 @@
 ---
 lang: it
-
 title: Nessuna backdoor nel tuo software.
 ---
 

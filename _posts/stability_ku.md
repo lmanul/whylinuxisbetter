@@ -1,6 +1,5 @@
 ---
 lang: ku
-
 title: <h2><span class="mw-headline" id=".D8.A6.D8.A7.DB.8C.DB.95_.D8.B3.DB.8C.D8.B3.D8.AA.D9.85.DB.95.DA.A9.DB.95.D8.AA_.D9.86.D8.A7.D8.AC.DB.8E.DA.AF.DB.8C.D8.B1.DB.95.D8.9F">ئایە سیستمەکەت ناجێگیرە؟</span>
 ---</h2>
 

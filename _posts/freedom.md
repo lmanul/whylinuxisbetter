@@ -1,6 +1,5 @@
 ---
 lang: en
-
 title: Freedom!
 ---
 

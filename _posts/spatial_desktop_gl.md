@@ -1,6 +1,5 @@
 ---
 lang: gl
-
 title: Salta á próxima xeración de contornas gráficas de escritorio.
 ---
 

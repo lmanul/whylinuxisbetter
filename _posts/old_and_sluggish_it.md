@@ -1,6 +1,5 @@
 ---
 lang: it
-
 title: Perché Windows rallenta giorno dopo giorno?
 ---
 

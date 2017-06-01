@@ -1,6 +1,5 @@
 ---
 lang: lit
-
 title: Prikelk savo sen&#261; kompiuter&#303; naujam gyvenimui
 ---
 

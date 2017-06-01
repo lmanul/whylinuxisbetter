@@ -1,6 +1,5 @@
 ---
 lang: ro
-
 title: Libertate!
 ---
 

@@ -1,6 +1,5 @@
 ---
 lang: da
-
 title: Gør dig klar til den næste generation af desktops.
 ---
 

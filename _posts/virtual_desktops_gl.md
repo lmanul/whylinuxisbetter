@@ -1,6 +1,5 @@
 ---
 lang: gl
-
 title: Moitas ventás? Usa as áreas de traballo
 ---
 

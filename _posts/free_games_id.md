@@ -1,6 +1,5 @@
 ---
 lang: id
-
 title: Mainkan ratusan jenis permainan secara bebas
 ---
 

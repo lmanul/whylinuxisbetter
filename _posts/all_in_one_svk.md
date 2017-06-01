@@ -1,6 +1,5 @@
 ---
 lang: svk
-
 title: Keď je systém nainštalovaný, <i>prečo</i> je potrebné inštalovať ďalšie programy?
 ---
 

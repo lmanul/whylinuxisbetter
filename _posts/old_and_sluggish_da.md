@@ -1,6 +1,5 @@
 ---
 lang: da
-
 title: Hvorfor bliver din Windows-maskine langsommere dag for dag?
 ---
 

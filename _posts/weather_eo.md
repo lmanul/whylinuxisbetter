@@ -1,6 +1,5 @@
 ---
 lang: eo
-
 title: Ĵetu rigardon al la vetero.
 ---
 

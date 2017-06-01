@@ -1,6 +1,5 @@
 ---
 lang: ro
-
 title: Folosiţi MSN, AIM, ICQ, Jabber cu un singur program
 ---
 

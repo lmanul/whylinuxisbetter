@@ -1,6 +1,5 @@
 ---
 lang: ser
-
 title: Bez tajnih vrata u vašem softveru.
 ---
 

@@ -1,6 +1,5 @@
 ---
 lang: es
-
 title: ¿Tu sistema es inestable?
 ---
 

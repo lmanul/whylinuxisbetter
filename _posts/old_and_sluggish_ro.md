@@ -1,6 +1,5 @@
 ---
 lang: ro
-
 title: De ce Windows-ul dvs. merge din ce în ce mai lent în fiecare zi?
 ---
 

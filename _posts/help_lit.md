@@ -1,6 +1,5 @@
 ---
 lang: lit
-
 title: M&#279;gaukit&#279;s nemokamu ir neribotu palaikymu.
 ---
 

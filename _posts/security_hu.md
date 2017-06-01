@@ -1,6 +1,5 @@
 ---
 lang: hu
-
 title: A Linux védelmet nyújt számítógéped számára
 ---
 

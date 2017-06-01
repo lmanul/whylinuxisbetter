@@ -1,6 +1,5 @@
 ---
 lang: es
-
 title: Olvida los virus.
 ---
 

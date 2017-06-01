@@ -1,6 +1,5 @@
 ---
 lang: eu
-
 title: Musika entzuteko aukera on bat izan.
 ---
 

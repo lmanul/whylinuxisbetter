@@ -1,6 +1,5 @@
 ---
 lang: no
-
 title: Frihet!
 ---
 

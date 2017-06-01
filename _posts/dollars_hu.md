@@ -1,6 +1,5 @@
 ---
 lang: hu
-
 title: Ne fizess 50-100.000 Ft-ot egy operációs rendszerért!
 ---
 

@@ -1,6 +1,5 @@
 ---
 lang: lit
-
 title: Naudokit&#279;s MSN, AIM, ICQ, Jabber su viena programa
 ---
 

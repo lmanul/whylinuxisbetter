@@ -1,6 +1,5 @@
 ---
 lang: id
-
 title: Lupakan tentang virus.
 ---
 

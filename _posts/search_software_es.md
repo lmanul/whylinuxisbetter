@@ -1,6 +1,5 @@
 ---
 lang: es
-
 title: ¿Necesitas software nuevo? No te molestes buscando en la web, Linux lo hace por tí
 ---
 

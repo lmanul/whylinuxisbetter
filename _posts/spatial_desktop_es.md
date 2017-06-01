@@ -1,6 +1,5 @@
 ---
 lang: es
-
 title: Entra en la nueva generación de escritorios
 ---
 

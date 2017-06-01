@@ -1,6 +1,5 @@
 ---
 lang: se
-
 title: Är du trött på att starta om datorn hela tiden?
 ---
 

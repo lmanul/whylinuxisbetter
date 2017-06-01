@@ -1,6 +1,5 @@
 ---
 lang: ja
-
 title: Windows使ってるとだんだん遅くならない？
 ---
 

@@ -1,6 +1,5 @@
 ---
 lang: cat
-
 title: Per què copiar programari il·legal quan pots tenir-lo de franc?
 ---
 

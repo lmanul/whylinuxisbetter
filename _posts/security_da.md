@@ -1,6 +1,5 @@
 ---
 lang: da
-
 title: Linux beskytter din computer.
 ---
 

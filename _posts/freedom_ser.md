@@ -1,6 +1,5 @@
 ---
 lang: ser
-
 title: Sloboda!
 ---
 

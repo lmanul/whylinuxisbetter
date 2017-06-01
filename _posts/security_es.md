@@ -1,6 +1,5 @@
 ---
 lang: es
-
 title: Linux protege tu ordenador
 ---
 

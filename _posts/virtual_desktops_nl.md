@@ -1,6 +1,5 @@
 ---
 lang: nl
-
 title: Teveel vensters? Gebruik werkbladen.
 ---
 

@@ -1,6 +1,5 @@
 ---
 lang: pl
-
 title: Nie płać za system operacyjny
 ---
 

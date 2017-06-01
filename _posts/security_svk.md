@@ -1,6 +1,5 @@
 ---
 lang: svk
-
 title: Linux chráni váš počítač
 ---
 

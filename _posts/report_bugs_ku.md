@@ -1,6 +1,5 @@
 ---
 lang: ku
-
 title: Reporting bugs
 ---
 

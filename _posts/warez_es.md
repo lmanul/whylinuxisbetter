@@ -1,6 +1,5 @@
 ---
 lang: es
-
 title: ¿Por qué hacer copias ilegales de software, si puedes tenerlo gratis?
 ---
 

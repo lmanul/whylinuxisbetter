@@ -1,6 +1,5 @@
 ---
 lang: eo
-
 title: Sen post-pordoj en via programaro.
 ---
 

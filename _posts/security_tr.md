@@ -1,6 +1,5 @@
 ---
 lang: tr
-
 title: Linux bilgisayarınızı korur.
 ---
 

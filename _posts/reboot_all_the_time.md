@@ -1,6 +1,5 @@
 ---
 lang: en
-
 title: Are your tired of restarting your computer all the time?
 ---
 

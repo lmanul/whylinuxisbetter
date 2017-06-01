@@ -1,6 +1,5 @@
 ---
 lang: it
-
 title: Usa MSN, AIM, ICQ, Jabber, con un singolo programma
 ---
 

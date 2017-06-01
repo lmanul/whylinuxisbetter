@@ -1,6 +1,5 @@
 ---
 lang: pl
-
 title: Dostosuj wygląd systemu do swoich potrzeb
 ---
 

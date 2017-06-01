@@ -1,6 +1,5 @@
 ---
 lang: se
-
 title: Är ditt system instabilt?
 ---
 

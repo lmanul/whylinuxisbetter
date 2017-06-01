@@ -1,6 +1,5 @@
 ---
 lang: pl
-
 title: Czemu Twój Windows spowalnia z każdym dniem?
 ---
 

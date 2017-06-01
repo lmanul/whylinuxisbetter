@@ -1,6 +1,5 @@
 ---
 lang: vi
-
 title: Bạn cần chương trình mới ? Không cần tìm trên mạng, Linux sẽ tải về cho bạn.
 ---
 

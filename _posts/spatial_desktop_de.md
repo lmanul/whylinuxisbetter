@@ -1,6 +1,5 @@
 ---
 lang: de
-
 title: Erlebe die nächste Desktop-Generation.
 ---
 

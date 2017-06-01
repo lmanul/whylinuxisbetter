@@ -1,6 +1,5 @@
 ---
 lang: es
-
 title: ¿Estás cansado de reiniciar tu ordenador continuamente?
 ---
 

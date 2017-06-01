@@ -1,6 +1,5 @@
 ---
 lang: vi
-
 title: Quá nhiều cửa sổ trên màn hình ? Hãy dùng nhiều không gian làm việc (workspace)
 ---
 

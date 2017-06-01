@@ -1,6 +1,5 @@
 ---
 lang: it
-
 title: Libertà!
 ---
 

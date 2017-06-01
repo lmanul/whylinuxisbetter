@@ -1,6 +1,5 @@
 ---
 lang: hu
-
 title: Szabadság!
 ---
 

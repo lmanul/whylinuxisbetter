@@ -1,6 +1,5 @@
 ---
 lang: cat
-
 title: Salta a la nova generació d'escriptoris.
 ---
 

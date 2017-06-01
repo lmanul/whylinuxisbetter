@@ -1,6 +1,5 @@
 ---
 lang: hu
-
 title: Hadd harapjanak csak fűbe a crackerek!
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: tr
 
-
 title: Sistemi kurduktan sonra neden <i>hala</i> daha fazla araç kurasınız ki?
 ---
 

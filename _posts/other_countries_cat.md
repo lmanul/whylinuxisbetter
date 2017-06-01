@@ -1,6 +1,5 @@
 ---
 lang: cat
-
 title: Ajuda altres païssos i al teu també
 ---
 

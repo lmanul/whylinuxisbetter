@@ -1,6 +1,5 @@
 ---
 lang: tr
-
 title: Masaüstlerinde yeni çağa atlayın
 ---
 

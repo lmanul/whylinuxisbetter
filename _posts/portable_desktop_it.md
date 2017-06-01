@@ -1,6 +1,5 @@
 ---
 lang: it
-
 title: La tua workstation qui, nella tua mano
 ---
 

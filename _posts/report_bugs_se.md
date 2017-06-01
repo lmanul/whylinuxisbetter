@@ -1,6 +1,5 @@
 ---
 lang: se
-
 title: Rapportera buggar
 ---
 

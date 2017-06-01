@@ -1,6 +1,5 @@
 ---
 lang: de
-
 title: Spiel hunderte von freien Spielen
 ---
 

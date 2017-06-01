@@ -1,6 +1,5 @@
 ---
 lang: eo
-
 title: Via laborstacio ĉi tie, en via mano.
 ---
 

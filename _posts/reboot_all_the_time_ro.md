@@ -1,6 +1,5 @@
 ---
 lang: ro
-
 title: V-aţi săturat să vă restartaţi computerul tot timpul?
 ---
 

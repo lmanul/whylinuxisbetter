@@ -1,6 +1,5 @@
 ---
 lang: et
-
 title: Linux kaitseb sinu arvutit
 ---
 

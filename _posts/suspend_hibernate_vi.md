@@ -1,6 +1,5 @@
 ---
 lang: vi
-
 title: Hãy để máy tính ở chế độ tiết kiệm điện (sleep) hoặc "ngủ đông" (hibernate)
 ---
 

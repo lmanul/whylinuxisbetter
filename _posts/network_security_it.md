@@ -1,6 +1,5 @@
 ---
 lang: it
-
 title: Lascia i pirati come dei pesci a brodo
 ---
 

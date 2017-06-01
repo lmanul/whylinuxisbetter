@@ -1,6 +1,5 @@
 ---
 lang: pl
-
 title: Nowa generacja rozwiązań wizualnych czeka na Ciebie
 ---
 

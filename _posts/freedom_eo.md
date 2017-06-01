@@ -1,6 +1,5 @@
 ---
 lang: eo
-
 title: Libereco!
 ---
 

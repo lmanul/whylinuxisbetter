@@ -1,6 +1,5 @@
 ---
 lang: fr
-
 title: Économisez de l'énergie: faites dormir ou hiberner votre ordinateur.
 ---
 

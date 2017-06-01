@@ -1,6 +1,5 @@
 ---
 lang: no
-
 title: Velg hvordan ditt skrivebord skal se ut.
 ---
 

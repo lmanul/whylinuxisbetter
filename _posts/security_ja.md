@@ -1,6 +1,5 @@
 ---
 lang: ja
-
 title: Linuxがパソコンを守ります！
 ---
 

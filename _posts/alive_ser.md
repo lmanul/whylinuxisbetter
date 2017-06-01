@@ -1,6 +1,5 @@
 ---
 lang: ser
-
 title:  Neka Vaš stari kompjuter dobije drugi život.
 ---
 

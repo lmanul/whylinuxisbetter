@@ -1,6 +1,5 @@
 ---
 lang: en
-
 title: Use MSN, AIM, ICQ, Jabber, with a single program
 ---
 

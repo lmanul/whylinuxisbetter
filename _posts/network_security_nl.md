@@ -1,6 +1,5 @@
 ---
 lang: nl
-
 title: Laat piraten in het stof bijten
 ---
 

@@ -1,6 +1,5 @@
 ---
 lang: kor
-
 title: 자유!
 ---
 

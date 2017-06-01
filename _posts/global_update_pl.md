@@ -1,6 +1,5 @@
 ---
 lang: pl
-
 title: Aktualizuj <i>całe</i> swoje oprogramowanie jednym kliknięciem
 ---
 

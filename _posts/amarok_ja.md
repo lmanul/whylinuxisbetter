@@ -1,6 +1,5 @@
 ---
 lang: ja
-
 title: 音楽聞くならLinux！
 ---
 

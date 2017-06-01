@@ -1,6 +1,5 @@
 ---
 lang: gl
-
 title: Liberdade!
 ---
 

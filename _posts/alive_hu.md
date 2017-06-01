@@ -1,6 +1,5 @@
 ---
 lang: hu
-
 title: Adj még egy esélyt veterán számítógépednek!
 ---
 

@@ -1,6 +1,5 @@
 ---
 lang: it
-
 title: Mai più software spazzatura.
 ---
 

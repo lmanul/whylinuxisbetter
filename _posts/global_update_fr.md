@@ -1,6 +1,5 @@
 ---
 lang: fr
-
 title:  Mettez à jour tous vos logiciels d'un seul clic.
 ---
 

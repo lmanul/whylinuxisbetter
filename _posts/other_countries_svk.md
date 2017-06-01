@@ -1,6 +1,5 @@
 ---
 lang: svk
-
 title: Pomôžte ostatným krajinám, a aj tej svojej
 ---
 

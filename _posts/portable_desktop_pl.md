@@ -1,6 +1,5 @@
 ---
 lang: pl
-
 title: Twoja stacja robocza, zawsze tam gdzie Ty.
 ---
 

@@ -1,6 +1,5 @@
 ---
 lang: id
-
 title: Mengapa mengkopi perangkat lunak ilegal jika kamu bisa mendapatkannya secara bebas?
 ---
 

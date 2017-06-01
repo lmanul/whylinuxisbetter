@@ -1,6 +1,5 @@
 ---
 lang: ro
-
 title: Ajutaţi alte ţări, şi a dumneavoastră
 ---
 

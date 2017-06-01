@@ -1,6 +1,5 @@
 ---
 lang: ro
-
 title: Lăsaţi crackerii să eşueze
 ---
 

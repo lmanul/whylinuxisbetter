@@ -1,6 +1,5 @@
 ---
 lang: svk
-
 title: Príliš veľa okien? Použite pracovné plochy
 ---
 

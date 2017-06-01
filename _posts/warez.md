@@ -1,6 +1,5 @@
 ---
 lang: en
-
 title: Why copy software illegally if you can get it for free?
 ---
 

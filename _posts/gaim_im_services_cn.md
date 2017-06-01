@@ -1,6 +1,5 @@
 ---
 lang: cn
-
 title: 只用一个程序就可以同时使用 MSN, AIM, ICQ, Jabber等
 ---
 

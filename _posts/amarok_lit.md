@@ -1,6 +1,5 @@
 ---
 lang: lit
-
 title: Gauk puik&#371; muzikos grotuv&#261;.
 ---
 

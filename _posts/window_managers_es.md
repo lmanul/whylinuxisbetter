@@ -1,6 +1,5 @@
 ---
 lang: es
-
 title: Escoge la apariencia de tu escritorio.
 ---
 

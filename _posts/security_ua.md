@@ -1,6 +1,5 @@
 ---
 lang: ua
-
 title: Linux protects your computer
 ---
 <p align="center">Переклад з німецької Грицюка Володимира

@@ -1,6 +1,5 @@
 ---
 lang: svk
-
 title: Ušetrite energiu: nechajte váš počítač spať alebo hibernovať
 ---
 

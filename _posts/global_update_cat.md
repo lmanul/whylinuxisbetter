@@ -1,6 +1,5 @@
 ---
 lang: cat
-
 title: Actualitza el teu programari amb un sol clic.
 ---
 

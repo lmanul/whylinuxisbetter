@@ -1,6 +1,5 @@
 ---
 lang: ja
-
 title: OSに3万円？
 ---
 

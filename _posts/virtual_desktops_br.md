@@ -1,6 +1,5 @@
 ---
 lang: br
-
 ﻿title: Muitas janelas? Use desktops virtuais.
 ---
 
