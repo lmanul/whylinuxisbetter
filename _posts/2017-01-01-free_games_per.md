@@ -1,13 +1,5 @@
 ---
 lang: per
-
-  
-
-
-<body>
-
-<div style="font-family: Tahoma;" id="corps">
-
 title: صدها بازي رو رايگان انجام بدين
 ---
 
