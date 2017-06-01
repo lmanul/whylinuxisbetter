@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Bog og forlags-industrien.</h2>
 

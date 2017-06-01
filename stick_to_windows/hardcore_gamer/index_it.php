@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Sei un hardcore gamer</h2>
 

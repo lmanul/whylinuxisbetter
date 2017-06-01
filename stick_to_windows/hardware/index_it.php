@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Il tuo hardware non è ancora supportato</h2>
 

@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Les logiciels propriétaires</h2>
 

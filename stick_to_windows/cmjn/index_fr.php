@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Industrie du livre et de l'impression</h2>
 

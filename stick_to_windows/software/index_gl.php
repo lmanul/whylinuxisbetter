@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Aplicacións ou programas privativos (Software privativo)</h2>
 

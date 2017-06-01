@@ -1,5 +1,4 @@
 
-<div id="corps" class="rtl" dir="rtl">
 
 <h2>התנסות באמצעות "Live CD"</h2>
 

@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Wypróbuj Linuksa, czyli więcej o "Live CD"</h2>
 

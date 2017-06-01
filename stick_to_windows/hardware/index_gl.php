@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Compoñentes e Periféricos (Hardware)</h2>
 

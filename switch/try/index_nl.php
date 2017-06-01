@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Probeer een "live-cd"</h2>
 

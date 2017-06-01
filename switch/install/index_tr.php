@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Linux'u kurun</h2>
 

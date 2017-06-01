@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2> Встанови Linux (не видаляючи Windows)</h2>
 

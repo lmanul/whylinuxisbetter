@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Tipografia</h2>
 <p>Software-ul Linux încă are abilitaţi foarte experimentale CMYK. Acest lucru e îmbunătăţit, dar

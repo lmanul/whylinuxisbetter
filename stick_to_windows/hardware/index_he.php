@@ -1,5 +1,4 @@
 
-<div id="corps" class="rtl" dir="rtl">
 
 
 <h2>חומרה</h2>

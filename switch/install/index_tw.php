@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>安裝 Linux（並且仍然保留 Windows）</h2>
 

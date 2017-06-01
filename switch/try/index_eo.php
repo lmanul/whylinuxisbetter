@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Provu "Senperan KD-n"</h2>
 

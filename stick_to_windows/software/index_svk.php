@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Autorizovaný (zákonom chránený) softvér</h2>
 

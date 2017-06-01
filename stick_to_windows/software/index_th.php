@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>ซอฟต์แวร์ปิด-Proprietary</h2>
 

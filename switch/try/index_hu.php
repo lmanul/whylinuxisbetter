@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Próbálj ki egy „élő CD-t”!</h2>
 

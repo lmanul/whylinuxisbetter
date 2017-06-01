@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Installa Linux</h2>
 

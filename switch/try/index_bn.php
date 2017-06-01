@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>"Live CD" চালিয়ে দেখুন</h2>
 

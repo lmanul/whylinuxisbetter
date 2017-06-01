@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>DTP業界は厳しいよ。</h2>
 

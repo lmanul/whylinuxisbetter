@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Les jeux</h2>
 

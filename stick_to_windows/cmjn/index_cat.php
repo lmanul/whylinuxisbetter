@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Els llibres i la indústria de la impressió</h2>
 

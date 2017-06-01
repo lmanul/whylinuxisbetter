@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>C'è del software proprietario di cui non puoi fare a meno</h2>
 

@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>尝试一下 "Live CD"</h2>
 

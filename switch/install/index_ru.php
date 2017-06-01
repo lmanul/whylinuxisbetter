@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Устанавливаем Linux</h2>
 

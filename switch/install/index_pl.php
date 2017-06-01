@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Instalacja systemu Linuks<br />
 <small>(system Windows zostaje na swoim miejscu!)</small></h2>

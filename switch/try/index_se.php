@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Testa med en ”Live CD”</h2>
 

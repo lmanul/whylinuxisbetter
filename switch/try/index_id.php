@@ -1,5 +1,4 @@
 
-<div id="corps">
 
 <h2>Mencoba "Live CD" Linux</h2>
 
