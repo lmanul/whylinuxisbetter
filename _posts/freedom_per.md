@@ -1,19 +1,14 @@
 ---
 lang: per
-<html style="direction: rtl;" lang="fa">
-<head>
 
 
   
   
-  <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
 
 
 
   
   
-  <title></title>
-</head>
 
 
 <body>
