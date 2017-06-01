@@ -1,6 +1,5 @@
 ---
 lang: per
-<body>
 <div style="font-family: Tahoma;" id="corps">
 
 title: "در مصرف انرژي صرفه جويي كنيد:كامپيوترتون رو به خواب زمستاني ببريد."

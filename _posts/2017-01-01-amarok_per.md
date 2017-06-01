@@ -1,6 +1,5 @@
 ---
 lang: per
-<body>
 
 
 <h2 style="font-family: Tahoma;">يك پخش كننده موسيقي قوي داشته باشيد!

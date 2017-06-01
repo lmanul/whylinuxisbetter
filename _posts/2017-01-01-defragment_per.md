@@ -1,6 +1,5 @@
 ---
 lang: per
-<body>
 <div style="font-family: Tahoma;" id="corps">
 
 title: "زندگي ديجيتالتون متفرق شده؟"
