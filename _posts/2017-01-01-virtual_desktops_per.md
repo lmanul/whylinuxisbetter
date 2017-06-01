@@ -10,7 +10,6 @@ lang: per
 
 
 
-<div style="font-family: Tahoma;" id="corps">
 
 title: "پنجره&zwnj;ها زيادند؟از فضاهاي كاري استفاده كنيد."
 ---

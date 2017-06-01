@@ -3,7 +3,6 @@ lang: per
 
 
 
-<div style="font-family: Tahoma;" id="corps">
 
 title: "چرا ويندوز روز به روز كندتر ميشه؟"
 ---

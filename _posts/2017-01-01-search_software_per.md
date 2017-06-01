@@ -5,7 +5,6 @@ lang: per
 
 
 
-<div style="font-family: Tahoma;" id="corps">
 
 title: "به نرم&zwnj;افزار جديدي نياز داريد؟خودتون رو با جستجو توي اينترنت اذيت نكنيد!لينوكس براي شما مي&zwnj;گيرتش."
 ---

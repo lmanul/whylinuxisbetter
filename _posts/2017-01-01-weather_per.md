@@ -3,7 +3,6 @@ lang: per
 
 
 
-<div style="font-family: Tahoma;" id="corps">
 
 title: "هميشه از وضعيت آب و هوا مطلع باشيد."
 ---

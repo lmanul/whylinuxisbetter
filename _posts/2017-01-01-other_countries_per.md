@@ -5,7 +5,6 @@ lang: per
 
 
 
-<div style="font-family: Tahoma;" id="corps">
 
 title: "به كشورهاي ديگه و كشور خودتون كمك كنيد."
 ---

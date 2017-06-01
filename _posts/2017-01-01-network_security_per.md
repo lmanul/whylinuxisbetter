@@ -8,7 +8,6 @@ lang: per
 
 
 
-<div style="font-family: Tahoma;" id="corps">
 
 title: "دماغ نفوذگران رو به خاك بماليد!"
 ---

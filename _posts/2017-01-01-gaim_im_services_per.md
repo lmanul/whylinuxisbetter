@@ -13,7 +13,6 @@ lang: per
 
 
 
-<div style="font-family: Tahoma;" id="corps">
 
 title: "استفاده از سرويسهاي&nbsp;MSN, AIM, ICQ, Jabberهمگي در يك برنامه"
 ---

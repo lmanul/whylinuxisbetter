@@ -5,7 +5,6 @@ lang: per
 
 
 
-<div style="font-family: Tahoma;" id="corps">
 
 title: "براي سيستم عاملتون 100 دلار نپردازيد"
 ---

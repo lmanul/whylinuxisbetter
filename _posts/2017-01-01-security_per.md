@@ -1,6 +1,5 @@
 ---
 lang: per
-<div style="font-family: Tahoma;" id="corps">
 
 title: "لينوكس از كامپيوتر شما محافظت مي&zwnj;كنه"
 ---
