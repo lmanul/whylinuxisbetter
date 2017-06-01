@@ -2,7 +2,6 @@
 lang: no
 
 
-
 title: Trenger du ny programvare? Ikke søk på Internett, Linux skaffer det for deg.
 ---
 

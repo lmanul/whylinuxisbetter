@@ -1,7 +1,6 @@
 ---
 lang: he
 
-<div id="corps" class="rtl" dir="rtl">
 
 title:   יותר מדי חלונות?  סביבות עבודה כבר ניסית?
 ---

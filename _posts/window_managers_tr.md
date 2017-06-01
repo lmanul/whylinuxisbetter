@@ -2,7 +2,6 @@
 lang: tr
 
 
-
 title: Masaüstünüzün nasıl olması gerektiğini siz seçin.
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: he
 
-<div id="corps" class="rtl" dir="rtl">
 
 title:    צריכים תכנה חדשה?  אל תטרחו לחפש ברשת, לינוקס תדאג לכם. 
 ---

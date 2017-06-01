@@ -2,7 +2,6 @@
 lang: kor
 
 
-
 title: 버그 신고하기
 ---
 

@@ -2,7 +2,6 @@
 lang: se
 
 
-
 title: Inga bakdörrar i mjukvaran.
 ---
 

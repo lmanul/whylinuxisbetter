@@ -2,7 +2,6 @@
 lang: en
 
 
-
 title: Update all your software with a single click.
 ---
 

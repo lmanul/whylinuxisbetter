@@ -2,7 +2,6 @@
 lang: cat
 
 
-
 title: Massa finestres? Fes servir els espais de treball.
 ---
 

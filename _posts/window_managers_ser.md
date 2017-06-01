@@ -2,7 +2,6 @@
 lang: ser
 
 
-
 title: Izaberite kako će Vaš desktop izgledati.
 ---
 

@@ -2,7 +2,6 @@
 lang: tr
 
 
-
 title: Yazılımda kapalı kapılara hayır!
 ---
 

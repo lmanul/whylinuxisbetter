@@ -2,7 +2,6 @@
 lang: tr
 
 
-
 title: MSN, AIM, ICQ veya Jabber' a tek bir yazılımla bağlanın
 ---
 

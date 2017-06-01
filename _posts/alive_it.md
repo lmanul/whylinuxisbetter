@@ -2,7 +2,6 @@
 lang: it
 
 
-
 title: Regala una seconda vita al tuo vecchio computer
 ---
 

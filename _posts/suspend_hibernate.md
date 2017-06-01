@@ -2,7 +2,6 @@
 lang: en
 
 
-
 title: Save some energy : let your computer sleep or hibernate.
 ---
 

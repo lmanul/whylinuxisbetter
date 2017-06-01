@@ -2,7 +2,6 @@
 lang: id
 
 
-
 title: Apakah kamu sudah lelah me-<i>restart</i> komputer setiap waktu?
 ---
 

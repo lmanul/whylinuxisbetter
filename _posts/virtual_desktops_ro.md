@@ -2,7 +2,6 @@
 lang: ro
 
 
-
 title: Prea multe ferestre? Folosiţi spaţiile de lucru.
 ---
 

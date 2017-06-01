@@ -2,7 +2,6 @@
 lang: pl
 
 
-
 title: Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci!<br />
 <small>Linuks zrobi to za Ciebie</small>
 ---

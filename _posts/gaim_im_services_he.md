@@ -1,7 +1,6 @@
 ---
 lang: he
 
-<div id="corps" class="rtl" dir="rtl">
 
 title:  השתמשו במסנג'ר, AIM, אייסיקיו וג'אבר בתוכנה אחת 
 ---

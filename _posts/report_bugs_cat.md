@@ -2,7 +2,6 @@
 lang: cat
 
 
-
 title: Informa d'errades
 ---
 

@@ -2,7 +2,6 @@
 lang: eo
 
 
-
 title: Kiam la operaciumo estas instalita, kial vi<i>ankoraŭ</i> bezonas instali pli?
 ---
 

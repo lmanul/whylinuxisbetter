@@ -2,7 +2,6 @@
 lang: no
 
 
-
 title: Ikke betal hundrevis av kroner for ditt operativsystem!
 ---
 

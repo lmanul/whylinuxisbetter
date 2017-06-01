@@ -2,7 +2,6 @@
 lang: gl
 
 
-
 title: A túa vida dixital parece fragmentada?
 ---
 

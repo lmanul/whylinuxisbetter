@@ -2,7 +2,6 @@
 lang: it
 
 
-
 title: Risparmia energia: puoi ibernare o mandare in sleep il tuo computer
 ---
 

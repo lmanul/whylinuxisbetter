@@ -2,7 +2,6 @@
 lang: tr
 
 
-
 title: Yazılımı ücretsiz alabiliyorken, niçin yasal olmayan şekilde kopyalama yapalım?
 ---
 

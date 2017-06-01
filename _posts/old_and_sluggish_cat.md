@@ -2,7 +2,6 @@
 lang: cat
 
 
-
 title: Per què el teu Windows cada dia que passa va més lent?
 ---
 

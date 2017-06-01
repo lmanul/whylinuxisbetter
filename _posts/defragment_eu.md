@@ -2,7 +2,6 @@
 lang: eu
 
 
-
 title: Zure bizitza digitala zatituta dirudi?
 ---
 

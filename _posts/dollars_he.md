@@ -1,7 +1,6 @@
 ---
 lang: he
 
-<div id="corps" class="rtl" dir="rtl">
 
 title:   למה לשלם 900 שקל על מערכת הפעלה
 ---

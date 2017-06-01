@@ -2,7 +2,6 @@
 lang: de
 
 
-
 title: Behalt das Wetter im Auge.
 ---
 

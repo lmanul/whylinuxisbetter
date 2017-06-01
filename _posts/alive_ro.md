@@ -2,7 +2,6 @@
 lang: ro
 
 
-
 title: Permite-i computerului să învie
 ---
 

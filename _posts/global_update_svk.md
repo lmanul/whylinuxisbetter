@@ -2,7 +2,6 @@
 lang: svk
 
 
-
 title: Aktualizujte všetky svoje programy jedným kliknutím
 ---
 

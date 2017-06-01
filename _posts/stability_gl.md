@@ -2,7 +2,6 @@
 lang: gl
 
 
-
 title: É inestable o teu sistema ?
 ---
 

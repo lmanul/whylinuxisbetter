@@ -2,7 +2,6 @@
 lang: svk
 
 
-
 title: Vyberte si štýl vašej pracovnej plochy
 ---
 

@@ -2,7 +2,6 @@
 lang: it
 
 
-
 title: Bisogno di nuovo software? Non ti preoccupare di cercarlo in rete, Linux lo prende per te
 ---
 

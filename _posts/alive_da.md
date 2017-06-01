@@ -2,7 +2,6 @@
 lang: da
 
 
-
 title: Giv din gamle computer nyt liv.
 ---
 

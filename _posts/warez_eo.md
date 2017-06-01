@@ -2,7 +2,6 @@
 lang: eo
 
 
-
 title: Kial kopii programaron neleĝe se vi povas akiri ĝin senkoste?
 ---
 

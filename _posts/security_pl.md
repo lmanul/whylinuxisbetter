@@ -2,7 +2,6 @@
 lang: pl
 
 
-
 title: Linuks chroni Twój komputer
 ---
 

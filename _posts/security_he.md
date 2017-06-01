@@ -1,7 +1,6 @@
 ---
 lang: he
 
-<div id="corps" class="rtl" dir="rtl">
 
 title: לינוקס מגינה על המחשב שלך
 ---

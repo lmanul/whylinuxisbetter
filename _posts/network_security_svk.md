@@ -2,7 +2,6 @@
 lang: svk
 
 
-
 title: Nedajte šancu internetovým pirátom
 ---
 

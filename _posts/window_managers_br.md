@@ -2,7 +2,6 @@
 lang: br
 
 
-
 title: Escolha o visual de sua área de trabalho.
 ---
 

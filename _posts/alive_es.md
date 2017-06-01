@@ -2,7 +2,6 @@
 lang: es
 
 
-
 title: Deja que tu viejo ordenador tenga una segunda vida
 ---
 

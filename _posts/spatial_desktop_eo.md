@@ -2,7 +2,6 @@
 lang: eo
 
 
-
 title: Eniru en la novan generacion de labortabloj.
 ---
 

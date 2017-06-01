@@ -2,7 +2,6 @@
 lang: tr
 
 
-
 title: Çöp yazılımlara son.
 ---
 

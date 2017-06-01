@@ -2,7 +2,6 @@
 lang: cat
 
 
-
 title: Estalvia un poc d'energia: bloca o hiverna el teu ordinador.
 ---
 

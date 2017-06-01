@@ -2,7 +2,6 @@
 lang: id
 
 
-
 title: Kebebasan!
 ---
 

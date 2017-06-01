@@ -1,7 +1,6 @@
 ---
 lang: he
 
-<div id="corps" class="rtl" dir="rtl">
 
 title: קפצו אל הדור הבא של שולחנות העבודה.
 ---

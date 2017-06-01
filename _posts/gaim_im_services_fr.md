@@ -2,7 +2,6 @@
 lang: fr
 
 
-
 title: Connectez-vous à MSN, AIM, ICQ, Jabber, avec un  seul programme
 ---
 

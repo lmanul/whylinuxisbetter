@@ -2,7 +2,6 @@
 lang: es
 
 
-
 title: Ahorra algo de energía: deja que tu ordenador duerma o hiberne
 ---
 

@@ -2,7 +2,6 @@
 lang: nl
 
 
-
 title: Gebruik AIM, ICQ, IRC, Jabber en Facebook Chat met één programma
 ---
 

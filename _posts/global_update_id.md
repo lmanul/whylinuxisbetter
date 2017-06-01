@@ -2,7 +2,6 @@
 lang: id
 
 
-
 title: <i>Update</i> semua perangkat lunakmu dengan satu klik.
 ---
 

@@ -2,7 +2,6 @@
 lang: da
 
 
-
 title: Der er ingen bagdøre i dine programmer.
 ---
 

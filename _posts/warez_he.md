@@ -1,7 +1,6 @@
 ---
 lang: he
 
-<div id="corps" class="rtl" dir='rtl'>
 
 title:   בשביל מה להעתיק תכנה באופן לא חוקי אם אפשר לקבל אותה בחינם?
 ---

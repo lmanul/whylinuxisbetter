@@ -1,7 +1,6 @@
 ---
 lang: ku
 
-<div id="corps" dir="rtl">
 
 title:  .هتد بەکار بەرە بە تەنها یەک نەرمەکاڵا MSN , ICQ , YAHOO , JABBER , AIM 
 ---

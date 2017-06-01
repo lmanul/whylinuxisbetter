@@ -2,7 +2,6 @@
 lang: ser
 
 
-
 title: Zašto kopirati softver ilegalno kada možete da ga dobijete besplatno?
 ---
 

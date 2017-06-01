@@ -2,7 +2,6 @@
 lang: ru
 
 
-
 title: Пользуйтесь ICQ, Jabber, MSN, AIM - в одной программе!
 ---
 

@@ -2,7 +2,6 @@
 lang: id
 
 
-
 title: Ketika sistem sudah terinstal, kenapa <i>repot-repot</i> menginstal yang lain ?
 ---
 

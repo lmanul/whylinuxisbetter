@@ -2,7 +2,6 @@
 lang: gl
 
 
-
 title: Actualiza todo i que tes no teu PC cun só click.
 ---
 

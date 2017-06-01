@@ -2,7 +2,6 @@
 lang: lit
 
 
-
 title: Pavargote nuolat perkraudin&#279;ti kompiuter&#303;?
 ---
 

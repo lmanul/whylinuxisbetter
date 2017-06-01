@@ -2,7 +2,6 @@
 lang: gl
 
 
-
 title: Informe de Fallos
 ---
 

@@ -2,7 +2,6 @@
 lang: ser
 
 
-
 title: Okolina
 ---
 

@@ -2,7 +2,6 @@
 lang: cat
 
 
-
 title: Gaudeix de suport lliure i il·limitat
 ---
 

@@ -2,7 +2,6 @@
 lang: ja
 
 
-
 title: MSNにAIMにICQにGoogle Talkに。ああ、どれを使ったらいいのさ？
 ---
 

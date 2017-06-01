@@ -2,7 +2,6 @@
 lang: lit
 
 
-
 title: Kam nelegaliai kopijuoti programas jeigu galima gauti nemokamas?
 ---
 

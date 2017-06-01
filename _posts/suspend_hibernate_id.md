@@ -1,7 +1,6 @@
 ---
 lang: id
 
-
 While your computer is sleeping, you can't use it, but it's consuming 
 very little power, and you can wake it up by pressing a key or clicking 
 the mouse.

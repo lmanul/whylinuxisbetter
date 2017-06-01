@@ -2,7 +2,6 @@
 lang: eo
 
 
-
 title: Ĉu via cifereca vivo ŝajnas fragmentigita?
 ---
 

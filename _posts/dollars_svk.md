@@ -2,7 +2,6 @@
 lang: svk
 
 
-
 title: Neplaťte €150 za váš operačný systém
 ---
 

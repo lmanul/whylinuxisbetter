@@ -2,7 +2,6 @@
 lang: fr
 
 
-
 title: Liberté !
 ---
 

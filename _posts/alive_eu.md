@@ -2,7 +2,6 @@
 lang: eu
 
 
-
 title: Emaiozu zure ordenagailuari bigarren bizitza bat
 ---
 

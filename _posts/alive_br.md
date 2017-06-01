@@ -2,7 +2,6 @@
 lang: br
 
 
-
 ﻿title: Deixe seu computador velho ter uma segunda vida
 ---
 

@@ -2,7 +2,6 @@
 lang: tr
 
 
-
 title: Windows'unuz neden gün geçtikçe yavaşlar?
 ---
 

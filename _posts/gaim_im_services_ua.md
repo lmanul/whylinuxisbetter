@@ -2,7 +2,6 @@
 lang: ua
 
 
-
 title: MSN, AIM, ICQ та Jabber в одній програмі
 ---
 

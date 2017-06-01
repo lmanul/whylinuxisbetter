@@ -2,7 +2,6 @@
 lang: svk
 
 
-
 title: Už vás unavuje neustále reštartovávať váš počítač?
 ---
 

@@ -2,7 +2,6 @@
 lang: vi
 
 
-
 title: Máy tính cũ của bạn vẫn còn rất có ích đấy
 ---
 

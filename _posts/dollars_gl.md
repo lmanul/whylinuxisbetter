@@ -2,7 +2,6 @@
 lang: gl
 
 
-
 title: Non pagas 100 € polo teu sistema operativo.
 ---
 

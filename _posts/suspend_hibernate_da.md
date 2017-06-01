@@ -2,7 +2,6 @@
 lang: da
 
 
-
 title: Spar på strømmen : lad din computer sove eller gå i dvale.
 ---
 

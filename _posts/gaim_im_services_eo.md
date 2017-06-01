@@ -2,7 +2,6 @@
 lang: eo
 
 
-
 title: Uzu MSN, AIM, ICQ, Jabber, per nur unu programo
 ---
 

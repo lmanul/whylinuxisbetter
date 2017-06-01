@@ -2,7 +2,6 @@
 lang: id
 
 
-
 title: Terlalu banyak membuka window/jendela? Gunakanlah Workspace.
 ---
 

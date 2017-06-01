@@ -2,7 +2,6 @@
 lang: pl
 
 
-
 title: Po co piracić, jeśli to samo można mieć legalnie i za darmo?
 ---
 

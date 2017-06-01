@@ -2,7 +2,6 @@
 lang: br
 
 
-
 title: Esqueça os “crapwares”
 ---
 

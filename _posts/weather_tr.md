@@ -2,7 +2,6 @@
 lang: tr
 
 
-
 title: Havadan sudan haberiniz olsun
 ---
 

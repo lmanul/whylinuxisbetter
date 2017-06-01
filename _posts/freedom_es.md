@@ -2,7 +2,6 @@
 lang: es
 
 
-
 title: ¡Libertad!
 ---
 

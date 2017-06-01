@@ -2,7 +2,6 @@
 lang: id
 
 
-
 title: Beralih ke desktop generasi selanjutnya.
 ---
 

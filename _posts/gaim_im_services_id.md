@@ -2,7 +2,6 @@
 lang: id
 
 
-
 title: Gunakan MSN, AIM, ICQ, Jabber, dengan hanya satu program
 ---
 

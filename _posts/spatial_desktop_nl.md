@@ -2,7 +2,6 @@
 lang: nl
 
 
-
 title: Probeer de laatste generatie van bureaubladomgevingen
 ---
 

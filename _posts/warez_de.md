@@ -2,7 +2,6 @@
 lang: de
 
 
-
 title: Warum Software illegal kopieren, wenn du sie umsonst haben kannst?
 ---
 

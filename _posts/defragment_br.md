@@ -1,7 +1,6 @@
 ---
 lang: br
 
-
                                              
 title: Sua vida digital parece fragmentada ?
 ---

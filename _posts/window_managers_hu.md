@@ -2,7 +2,6 @@
 lang: hu
 
 
-
 title: Válaszd ki, milyen legyen az asztalod!
 ---
 

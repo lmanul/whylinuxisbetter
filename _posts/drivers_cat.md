@@ -2,7 +2,6 @@
 lang: cat
 
 
-
 title: Oblida't dels controladors
 ---
 
