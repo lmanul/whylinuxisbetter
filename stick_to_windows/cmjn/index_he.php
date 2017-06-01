@@ -1,4 +1,3 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?> <?php require("../../fonctions.php"); ?>
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -14,6 +13,5 @@
 שתומך בCMYK, אך אני עדיין סבור שמקומה של לינוקס אינה בחזית תעשיית ההוצאה לאור.</p>
 
 </div>
-<?php require("../../license_he.php");?>
 </body>
 </html>

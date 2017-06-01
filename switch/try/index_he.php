@@ -1,4 +1,3 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?> <?php require("../../fonctions.php"); ?>
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -57,6 +56,5 @@ href="http://www.knoppix.net/get.php">http://www.knoppix.net/get.php</a></td>
 </table>
 
 </div>
-<?php require("../../license_he.php");?>
 </body>
 </html>

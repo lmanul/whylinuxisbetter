@@ -1,4 +1,3 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?> <?php require("../../fonctions.php"); ?>
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -13,6 +12,5 @@
 תוכל לראות זאת באזור "נסה את לינוקס ללא נגיעה בחלונות" .</p>
 
 </div>
-<?php require("../../license_he.php");?>
 </body>
 </html>

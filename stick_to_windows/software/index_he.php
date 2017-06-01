@@ -1,4 +1,3 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?> <?php require("../../fonctions.php"); ?>
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -23,6 +22,5 @@
 אפשרות אחרת היא להתקין מחשב וירטואלי של חלונות על גבי מערכת הלינוקס! מערך שכזה, אגב,לרוב לא מותאם להרצת תוכנות בעלות ביצועים מיוחדים.</p>
 
 </div>
-<?php require("../../license_he.php");?>
 </body>
 </html>

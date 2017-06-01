@@ -1,4 +1,3 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?>
 
 <div id="corps">
 

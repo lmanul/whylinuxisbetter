@@ -1,4 +1,3 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?> <?php require("../../fonctions.php"); ?>
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -15,6 +14,5 @@
 Cedega שיכולות לעזור להריץ משחקים לא כל-כך חדשים של חלונות תחת לינוקס ללא בעיות.</p>
 
 </div>
-<?php require("../../license_he.php");?>
 </body>
 </html>

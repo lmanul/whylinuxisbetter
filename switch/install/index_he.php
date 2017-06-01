@@ -1,4 +1,3 @@
-<?php require("../../entete.php"); ?> <?php require("../../base.php"); ?> <?php require("../../fonctions.php"); ?>
 
 <div id="corps" class="rtl" dir="rtl">
 
@@ -37,6 +36,5 @@ href="http://www.distrowatch.com">distrowatch.com</a> :</p>
 <p><b>תיהנה מהלינוקס שלך!</b></p>
 
 </div>
-<?php require("../../license_he.php");?>
 </body>
 </html>
