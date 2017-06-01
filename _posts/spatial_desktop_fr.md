@@ -1,7 +1,6 @@
 ---
 lang: fr
 
-
 title: Découvrez la nouvelle génération de bureaux.
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: vi
 
-
 title: Báo lỗi
 ---
 

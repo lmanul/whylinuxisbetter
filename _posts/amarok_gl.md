@@ -1,7 +1,6 @@
 ---
 lang: gl
 
-
 title: Ten un gran reprodutor de música
 ---
 

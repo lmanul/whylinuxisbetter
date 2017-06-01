@@ -1,7 +1,6 @@
 ---
 lang: es
 
-
 title: No más mierdaware.
 ---
 

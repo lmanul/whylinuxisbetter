@@ -1,7 +1,6 @@
 ---
 lang: id
 
-
 title: Membantu Negara Lain, dan juga Negara Anda
 ---
 

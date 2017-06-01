@@ -1,7 +1,6 @@
 ---
 lang: se
 
-
 title: Linux skyddar din dator
 ---
 

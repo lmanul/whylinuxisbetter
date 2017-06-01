@@ -1,7 +1,6 @@
 ---
 lang: id
 
-
 title: Dapatkan pemutar musik yang luar biasa!
 ---
 

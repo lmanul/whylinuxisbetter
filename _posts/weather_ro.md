@@ -1,7 +1,6 @@
 ---
 lang: ro
 
-
 title: Supravegheaţi vremea.
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: de
 
-
 title: Wenn dein System installiert ist, warum solltest du dann <i>immer noch</i> Software nachinstallieren müssen?
 ---
 

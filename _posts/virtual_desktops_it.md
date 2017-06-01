@@ -1,7 +1,6 @@
 ---
 lang: it
 
-
 title: Troppe finestre? Usa gli ambienti di lavoro
 ---
 

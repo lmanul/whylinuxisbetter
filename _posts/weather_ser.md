@@ -1,7 +1,6 @@
 ---
 lang: ser
 
-
 title:  Pratite vreme.
 ---
 

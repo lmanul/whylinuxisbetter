@@ -1,7 +1,6 @@
 ---
 lang: svk
 
-
 title: Žiadne zadné vrátka vo vašom softvéri
 ---
 

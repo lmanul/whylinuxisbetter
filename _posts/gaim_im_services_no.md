@@ -1,7 +1,6 @@
 ---
 lang: no
 
-
 title: Bruk MSN, AIM, ICQ, Jabber, alt med ett enkelt program.
 ---
 

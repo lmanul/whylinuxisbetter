@@ -1,7 +1,6 @@
 ---
 lang: nl
 
-
 title: Nieuwe software nodig? Verspil uw tijd niet met het zoeken op internet, Linux heeft het voor u.
 ---
 

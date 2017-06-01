@@ -1,7 +1,6 @@
 ---
 lang: it
 
-
 title: Non pagare 250 € per il tuo sistema operativo
 ---
 

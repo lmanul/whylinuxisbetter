@@ -1,7 +1,6 @@
 ---
 lang: br
 
-
 ﻿title: Cansou de reiniciar seu computador toda hora?
 ---
 

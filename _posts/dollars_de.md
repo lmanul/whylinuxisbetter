@@ -1,7 +1,6 @@
 ---
 lang: de
 
-
 title: Bezahl keine 200&#x202f;&euro; f&uuml;r dein Betriebssystem
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: cat
 
-
 title: Sense portes falses al teu programari.
 ---
 

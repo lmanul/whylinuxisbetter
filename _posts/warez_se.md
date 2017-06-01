@@ -1,7 +1,6 @@
 ---
 lang: se
 
-
 title: Varför piratkopiera när du kan få program gratis?
 ---
 

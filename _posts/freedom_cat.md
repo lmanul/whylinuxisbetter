@@ -1,7 +1,6 @@
 ---
 lang: cat
 
-
 title: Llibertat!
 ---
 

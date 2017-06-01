@@ -1,7 +1,6 @@
 ---
 lang: pl
 
-
 title: Zbyt wiele okien? Użyj wirtualnych pulpitów
 ---
 

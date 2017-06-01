@@ -1,7 +1,6 @@
 ---
 lang: pl
 
-
 title: Pomóż innym krajom, w tym również Twojemu
 ---
 

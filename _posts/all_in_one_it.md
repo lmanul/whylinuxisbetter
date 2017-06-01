@@ -1,7 +1,6 @@
 ---
 lang: it
 
-
 title: Quando il sistema è installato, perché hai <i>ancora</i> bisogno di installare roba?
 ---
 

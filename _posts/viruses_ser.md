@@ -1,7 +1,6 @@
 ---
 lang: ser
 
-
 title: Forget about viruses.
 ---
 

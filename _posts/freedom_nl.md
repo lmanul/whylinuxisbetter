@@ -1,7 +1,6 @@
 ---
 lang: nl
 
-
 title: Vrijheid!
 ---
 

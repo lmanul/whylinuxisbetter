@@ -1,7 +1,6 @@
 ---
 lang: se
 
-
 title: Spara energi: Låt datorn sova.
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: hu
 
-
 title: Miért lesz a Windows napról napra lassabb?
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: hu
 
-
 title: A munkaállomásod egyenesen itt, a kezedben.
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: id
 
-
 title: Jangan lupa selalu mengamati cuaca.
 ---
 

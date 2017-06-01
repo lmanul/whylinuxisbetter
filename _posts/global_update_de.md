@@ -1,7 +1,6 @@
 ---
 lang: de
 
-
 title: Update deine komplette Software mit einem einzigen Klick.
 ---
 

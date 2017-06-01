@@ -1,7 +1,6 @@
 ---
 lang: cat
 
-
 title: Fes servir MSN, AIM, ICQ, Jabber en una mateixa aplicació.
 ---
 

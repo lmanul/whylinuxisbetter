@@ -1,7 +1,6 @@
 ---
 lang: en
 
-
 title: Reporting bugs
 ---
 

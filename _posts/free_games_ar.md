@@ -1,7 +1,6 @@
 ---
 lang: ar
 
-
 title: Play hundreds of games for free
 ---
 

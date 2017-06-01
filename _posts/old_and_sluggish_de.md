@@ -1,7 +1,6 @@
 ---
 lang: de
 
-
 title: Warum wird dein Windows Tag f&uuml;r Tag langsamer?
 ---
 

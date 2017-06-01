@@ -1,7 +1,6 @@
 ---
 lang: de
 
-
 title: Komm in den Genuss freien und unbegrenzten Supports
 ---
 

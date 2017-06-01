@@ -1,7 +1,6 @@
 ---
 lang: svk
 
-
 title: Prečo kopírovať softvér ilegálne ak ho môžete získať zadarmo?
 ---
 

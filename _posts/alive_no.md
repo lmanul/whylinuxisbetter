@@ -1,7 +1,6 @@
 ---
 lang: no
 
-
 title: Gi nytt liv til din gamle datamaskin!
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: en
 
-
 title: No more crapware.
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: da
 
-
 title: Opdatér al din software med et enkelt klik.
 ---
 

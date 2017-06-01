@@ -1,7 +1,6 @@
 ---
 lang: eu
 
-
 title: Ez dituzu 200€ zure sistema eragilearengatik ordainduko.
 ---
 

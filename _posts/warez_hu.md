@@ -1,7 +1,6 @@
 ---
 lang: hu
 
-
 title: Miért másolnál egy szoftvert illegálisan, amikor ingyen is hozzájuthatsz?
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: de
 
-
 title: Umweltschutz
 ---
 

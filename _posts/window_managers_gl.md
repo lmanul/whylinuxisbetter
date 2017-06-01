@@ -1,7 +1,6 @@
 ---
 lang: gl
 
-
 title: Escolle como queres que se vexa o teu escritorio.
 ---
 

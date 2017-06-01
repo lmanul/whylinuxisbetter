@@ -1,7 +1,6 @@
 ---
 lang: svk
 
-
 title: Vyzerá vaš digitálny život fragmentovane?
 ---
 

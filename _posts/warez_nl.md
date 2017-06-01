@@ -1,7 +1,6 @@
 ---
 lang: nl
 
-
 title: Waarom illegale software gebruiken als het ook gratis kan?
 ---
 

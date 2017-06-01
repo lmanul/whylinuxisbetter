@@ -1,7 +1,6 @@
 ---
 lang: de
 
-
 title: Ist dein System instabil?
 ---
 

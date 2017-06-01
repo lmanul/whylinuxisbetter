@@ -1,7 +1,6 @@
 ---
 lang: it
 
-
 title: Aiuta gli altri Paesi, ed il tuo
 ---
 

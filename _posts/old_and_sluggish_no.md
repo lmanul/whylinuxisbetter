@@ -1,7 +1,6 @@
 ---
 lang: no
 
-
 title: Hvorfor blir din Windows tregere for hver dag som går?
 ---
 

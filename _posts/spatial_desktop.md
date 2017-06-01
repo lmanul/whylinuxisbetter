@@ -1,7 +1,6 @@
 ---
 lang: en
 
-
 title: Jump into the next generation of desktops.
 ---
 

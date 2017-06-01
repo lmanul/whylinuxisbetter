@@ -1,7 +1,6 @@
 ---
 lang: gl
 
-
 title: Goza de soporte técnico gratis e ilimitado
 ---
 

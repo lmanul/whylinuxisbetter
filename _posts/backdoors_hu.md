@@ -1,7 +1,6 @@
 ---
 lang: hu
 
-
 title: Nincsenek többé backdoorok
 ---
 

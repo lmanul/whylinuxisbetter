@@ -1,7 +1,6 @@
 ---
 lang: tr
 
-
 title: Özgürlük için!
 ---
 

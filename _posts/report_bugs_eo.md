@@ -1,7 +1,6 @@
 ---
 lang: eo
 
-
 title: Sciigu erarojn
 ---
 

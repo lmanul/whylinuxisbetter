@@ -1,7 +1,6 @@
 ---
 lang: no
 
-
 title: Hjelp andre land og ditt eget!
 ---
 

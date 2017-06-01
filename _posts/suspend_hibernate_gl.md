@@ -1,7 +1,6 @@
 ---
 lang: gl
 
-
 title: Aforra algo de enerxía: deixa que a túa computadora durma ou hiberne
 ---
 

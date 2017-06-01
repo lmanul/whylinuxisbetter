@@ -1,7 +1,6 @@
 ---
 lang: svk
 
-
 title: Naskočte na novú vlnu desktopov
 ---
 

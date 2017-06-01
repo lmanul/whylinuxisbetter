@@ -1,7 +1,6 @@
 ---
 lang: ser
 
-
 title: Uskočite u novu generaciju radne površine
 ---
 

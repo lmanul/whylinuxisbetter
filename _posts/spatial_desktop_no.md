@@ -1,7 +1,6 @@
 ---
 lang: no
 
-
 title: Gjør deg klar for neste generasjons skrivebord.
 ---
 

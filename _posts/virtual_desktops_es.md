@@ -1,7 +1,6 @@
 ---
 lang: es
 
-
 title: ¿Demasiadas ventanas? Usa las distintas áreas de trabajo.
 ---
 

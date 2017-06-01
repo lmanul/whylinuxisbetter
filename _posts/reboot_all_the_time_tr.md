@@ -1,7 +1,6 @@
 ---
 lang: tr
 
-
 title: Bilgisayarınızı sürekli baştan başlatmaktan sıkıldınız mı?
 ---
 

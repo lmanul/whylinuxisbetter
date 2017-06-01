@@ -1,7 +1,6 @@
 ---
 lang: svk
 
-
 title: Dajte svojmu starému počítaču nový život
 ---
 

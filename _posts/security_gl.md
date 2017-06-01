@@ -1,7 +1,6 @@
 ---
 lang: gl
 
-
 title: Linux protexe a tua computadora.
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: no
 
-
 title: Hvorfor kopiere programvare på ulovlig vis når du kan få det helt gratis?
 ---
 

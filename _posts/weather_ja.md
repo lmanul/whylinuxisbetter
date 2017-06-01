@@ -1,7 +1,6 @@
 ---
 lang: ja
 
-
 title: 天気予報もLinux！
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: no
 
-
 title: Spar på strømmen: La datamaskinen din «sove» eller «gå i dvale».
 ---
 

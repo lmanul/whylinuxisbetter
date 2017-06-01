@@ -1,7 +1,6 @@
 ---
 lang: fr
 
-
 title: Trop de fenêtres ? Adoptez les espaces de travail.
 ---
 

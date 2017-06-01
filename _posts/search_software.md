@@ -1,7 +1,6 @@
 ---
 lang: en
 
-
 title: Need new software? Don't bother searching the web, Linux gets it for you.
 ---
 

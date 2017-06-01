@@ -1,7 +1,6 @@
 ---
 lang: id
 
-
 title: Mengapa semakin hari Windows Anda semakin lambat?
 ---
 

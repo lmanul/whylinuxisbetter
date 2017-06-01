@@ -1,7 +1,6 @@
 ---
 lang: en
 
-
 title: Let pirates bite the dust
 ---
 

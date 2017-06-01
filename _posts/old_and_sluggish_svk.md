@@ -1,7 +1,6 @@
 ---
 lang: svk
 
-
 title: Prečo je Windows každým dňom pomalší?
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: cat
 
-
 title: N'estàs ben tip de reiniciar el teu ordinador a sovint?
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: no
 
-
 title: Ikke vent årevis på at feil skal bli fikset – rapporter dem.
 ---
 

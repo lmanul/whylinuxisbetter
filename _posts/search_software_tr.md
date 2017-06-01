@@ -1,7 +1,6 @@
 ---
 lang: tr
 
-
 title: Yeni yazılıma mı ihtiyacınız var? İnternet'te aramaya çalışmayın, Linux ayağınıza getirsin.
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: en
 
-
 title: Play hundreds of games for free
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: id
 
-
 title: Apakah kehidupan dijitalmu terasa terfragmentasi?
 ---
 

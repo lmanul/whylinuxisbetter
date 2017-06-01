@@ -1,7 +1,6 @@
 ---
 lang: it
 
-
 title: Nessuna confusione nel tuo menu di avvio
 ---
 

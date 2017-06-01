@@ -1,7 +1,6 @@
 ---
 lang: da
 
-
 title: Giv hackerne baghjul!
 ---
 

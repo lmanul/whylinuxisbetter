@@ -1,7 +1,6 @@
 ---
 lang: gl
 
-
 title: Non perdas de vista o clima
 ---
 

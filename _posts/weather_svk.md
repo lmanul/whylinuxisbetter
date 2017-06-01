@@ -1,7 +1,6 @@
 ---
 lang: svk
 
-
 title: Sledovanie počasia
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: eo
 
-
 title: Sen fuŝoj en via startmenuo
 ---
 

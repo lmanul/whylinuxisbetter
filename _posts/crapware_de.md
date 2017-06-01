@@ -2,7 +2,6 @@
 lang: de
 
 
-
 title: Nie wieder Crapware
 ---
 

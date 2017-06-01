@@ -1,7 +1,6 @@
 ---
 lang: da
 
-
 title: Rapportering af bugs
 ---
 

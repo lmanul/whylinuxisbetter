@@ -1,7 +1,6 @@
 ---
 lang: eo
 
-
 title: Aktualigu vian tutan programaron per unu klako.
 ---
 

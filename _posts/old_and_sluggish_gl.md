@@ -1,7 +1,6 @@
 ---
 lang: gl
 
-
 title: Por que Windows se fai máis lento cada día?
 ---
 

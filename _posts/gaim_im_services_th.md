@@ -1,7 +1,6 @@
 ---
 lang: th
 
-
 title: ใช้ MSN, AIM, ICQ, Jabber ด้วยโปรแกรมเพียงหนึ่งเดียว
 ---
 

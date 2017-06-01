@@ -1,7 +1,6 @@
 ---
 lang: pl
 
-
 title: Podaruj staruszkowi nowe życie
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: lit
 
-
 title: Laisv&#279;!
 ---
 

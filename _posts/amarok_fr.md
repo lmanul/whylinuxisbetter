@@ -1,7 +1,6 @@
 ---
 lang: fr
 
-
 title: Découvrez un lecteur de musique d'exception
 ---
 

@@ -1,7 +1,6 @@
 ---
 lang: pl
 
-
 title: Wolność!
 ---
 

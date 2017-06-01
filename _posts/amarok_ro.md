@@ -1,7 +1,6 @@
 ---
 lang: ro
 
-
 title: Obţineţi un mp3 player minunat
 ---
 

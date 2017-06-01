@@ -1,7 +1,6 @@
 ---
 lang: es
 
-
 title: Olvídate de los controladores
 ---
 
