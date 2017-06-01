@@ -1,6 +1,6 @@
 ---
 lang: da
-title: Lad være med at betale 1000 kr. for dit operativ system!
+title: "Lad være med at betale 1000 kr. for dit operativ system!"
 ---
 
 <h3>(Og lad være med at kopiere det er ulovligt)</h3>

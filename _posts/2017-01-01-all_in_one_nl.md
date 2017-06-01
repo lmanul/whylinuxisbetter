@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Waarom zou u na de installatie <i>nog</i> software moeten installeren?
+title: "Waarom zou u na de installatie <i>nog</i> software moeten installeren?"
 ---
 
 Windows installeren is slechts het begin. Stel u voor dat u juist

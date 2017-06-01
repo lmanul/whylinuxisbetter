@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Fără găuri de securitate în software.
+title: "Fără găuri de securitate în software."
 ---
 Diferenţa dintre software-ul "closed source" (comercial) şi "open source"
 este (cum aţi ghicit?) că "sursa" lor e deschisă. Huh, bine, de ce mi-ar păsa?

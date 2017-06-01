@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Spara energi: Låt datorn sova.
+title: "Spara energi: Låt datorn sova."
 ---
 
 <ul>

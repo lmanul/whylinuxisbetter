@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Gebruik AIM, ICQ, IRC, Jabber en Facebook Chat met één programma
+title: "Gebruik AIM, ICQ, IRC, Jabber en Facebook Chat met één programma"
 ---
 
 U heeft wellicht accounts op verschillende chatdiensten, zoals Yahoo, ICQ, IRC, Jabber 

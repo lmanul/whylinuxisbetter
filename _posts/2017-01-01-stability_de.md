@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Ist dein System instabil?
+title: "Ist dein System instabil?"
 ---
 
 Hast du jemals wertvolle Arbeit verloren, weil Windows abgest&uuml;rzt ist? F&auml;hrst du deinen Computer immer ordentlich herunter oder schaltest du ihn manchmal einfach aus, weil Windows ausflippt und dich nichts mehr machen l&auml;sst? Hattest du jemals den „Bluescreen of Death“ oder Fehlermeldungen, die dir erz&auml;hlen, dass dein Computer aufgrund obskurer Ursachen heruntergefahren werden muss?

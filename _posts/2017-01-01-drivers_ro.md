@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Uitaţi de drivere
+title: "Uitaţi de drivere"
 ---
 
 Piesele noi de hardware, chiar şi cele mai simple, de obicei vin împreună cu un CD. Pe CD se află o piesă foarte mică de software numită "driver". Dacă citiţi manualul cu instrucţiuni, veţi ştii că acest hardware nu va merge pe un computer cu Windows până când nu instalaţi driverul. Dacă sunteţi ca majoritatea oamenilor şi nu citiţi manualul, probabil veţi observa singuri atunci când noul dumneavoastră gizmo nu merge.

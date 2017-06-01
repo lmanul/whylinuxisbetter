@@ -1,6 +1,6 @@
 ---
 lang: da
-title: Vælg selv hvordan din desktop skal se ud.
+title: "Vælg selv hvordan din desktop skal se ud."
 ---
 
 Hvis du er Windows-bruger, så ser din desktop sikkert ikke meget anderledes ud end det hér:

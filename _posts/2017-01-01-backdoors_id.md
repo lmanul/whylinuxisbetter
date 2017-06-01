@@ -1,6 +1,6 @@
 ---
 lang: id
-title: Tidak ada backdoor di perangkat lunakmu.
+title: "Tidak ada backdoor di perangkat lunakmu."
 ---
 
 Perbedaan antara "closed source" (<i>proprietary</i>) dengan perangkat lunak

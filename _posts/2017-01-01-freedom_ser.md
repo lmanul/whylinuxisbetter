@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Sloboda!
+title: "Sloboda!"
 ---
 
 Linux i "Open Source" softver je  "slobodan". To znači da je njihova

@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Spravte niečo pre životné prostredie
+title: "Spravte niečo pre životné prostredie"
 ---
 
 <p align="center">Vďaka Franzovi Bourletovi za nápad

@@ -1,6 +1,6 @@
 ---
 lang: cn
-title: 环境保护
+title: "环境保护"
 ---
 
 <p align="center">感谢 Franz Bourlet 提供这个观点

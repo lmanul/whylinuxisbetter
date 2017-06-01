@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Kein Riesendurcheinander in deinem Startmenü
+title: "Kein Riesendurcheinander in deinem Startmenü"
 ---
 
 Wenn du Windows benutzt und einige wenige Programme auf deinem Computer installiert hast, könnte dein Startmenu anfangen, so auszusehen:

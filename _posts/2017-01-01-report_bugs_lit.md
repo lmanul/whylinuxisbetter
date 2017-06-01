@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Prane&#353;imai apie riktus (klaidas)
+title: "Prane&#353;imai apie riktus (klaidas)"
 ---
 
 Jei (<i>tinklalapio autorius panaudojo &#382;odel&#303; if - jeigu, bet i&#353; savo patirties galiu pasakyti, kad reik&#279;t&#371; naudoti ne "jeigu", bet "kai". vert.past.</i>) randate

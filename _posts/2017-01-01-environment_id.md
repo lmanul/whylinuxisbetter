@@ -1,6 +1,6 @@
 ---
 lang: id
-title: Lingkungan
+title: "Lingkungan"
 ---
 
 <p align="center">Terima kasih kepada Franz Bourlet atas idenya

@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Wolność!
+title: "Wolność!"
 ---
 
 Linuks i "Wolne Oprogramowanie" są "wolne". Oznacza to, że licencje,

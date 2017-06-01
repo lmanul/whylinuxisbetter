@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Ušetrite energiu: nechajte váš počítač spať alebo hibernovať
+title: "Ušetrite energiu: nechajte váš počítač spať alebo hibernovať"
 ---
 
 <ul>

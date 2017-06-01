@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Salvaţi energie: lăsaţi-vă computerul să hiberneze.
+title: "Salvaţi energie: lăsaţi-vă computerul să hiberneze."
 ---
 
 <ul>

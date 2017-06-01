@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Estás cansado de reiniciar a túa computadora todo o tempo?
+title: "Estás cansado de reiniciar a túa computadora todo o tempo?"
 ---
 
 Algunha vez actualizaches unha ou dúas cousiñas no teu sistema Windows co "Actualizador de Windows"? Por favor reinicie. Algunha vez instalaches software novo? Por favor reinicie. Parece o teu sistema inestable? Intenta reinicialo, probablemente todo traballe mellor logo diso.

@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Freiheit!
+title: "Freiheit!"
 ---
 
 Linux und „Open-Source“-Software ist frei. Damit ist gemeint, dass ihre Lizenz eine „freie Lizenz“ ist. Die am meisten verwendete Lizenz für Open Source ist die GPL (General Public License). Diese Lizenz erlaubt es jedem, die Software zu kopieren, den Quellcode (das „Rezept“) einzusehen, zu verändern und weiterzuverwenden, solange die Software dann immer noch unter der GPL veröffentlicht wird.

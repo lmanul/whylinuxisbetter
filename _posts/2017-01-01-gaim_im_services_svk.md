@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Používajte MSN, AIM, ICQ, Jabber jedným programom
+title: "Používajte MSN, AIM, ICQ, Jabber jedným programom"
 ---
 
 Môžete mať kontá pre viacero komunikačných služieb, ako je 

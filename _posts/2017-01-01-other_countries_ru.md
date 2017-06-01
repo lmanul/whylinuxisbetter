@@ -1,6 +1,6 @@
 ---
 lang: ru
-title: Помоги своей стране и многим другим!
+title: "Помоги своей стране и многим другим!"
 ---
 
 <center>(Спасибо Gabriel E. Patiño - gepatino{собачка}gmail{точка}com  

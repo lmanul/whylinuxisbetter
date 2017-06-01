@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: A túa vida dixital parece fragmentada?
+title: "A túa vida dixital parece fragmentada?"
 ---
 
 Se xa sabes o que é fragmentación e estás afeito a desfragmentar o teu disco cada certo tempo, aquí está a versión curta: Linux non necesita desfragmentación.

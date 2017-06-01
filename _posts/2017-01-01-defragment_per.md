@@ -3,7 +3,7 @@ lang: per
 <body>
 <div style="font-family: Tahoma;" id="corps">
 
-title: زندگي ديجيتالتون متفرق شده؟
+title: "زندگي ديجيتالتون متفرق شده؟"
 ---
 اگر ميدونين متنفرق شدن(Fragmentation)چيه،و تا حالا هر ماه ديسكتون رو
 تفرق زدايي(Defrag)كردين بايد مختصراً بگم:لينوكس Defrag لازم نداره!<br />

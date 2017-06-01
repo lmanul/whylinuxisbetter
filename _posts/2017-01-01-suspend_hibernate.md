@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Save some energy : let your computer sleep or hibernate.
+title: "Save some energy : let your computer sleep or hibernate."
 ---
 
 <ul>

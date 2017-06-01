@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Quando il sistema è installato, perché hai <i>ancora</i> bisogno di installare roba?
+title: "Quando il sistema è installato, perché hai <i>ancora</i> bisogno di installare roba?"
 ---
 
 Installare Windows è solo l'inizio. Immagina di aver appena installato 

@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Quá nhiều cửa sổ trên màn hình ? Hãy dùng nhiều không gian làm việc (workspace)
+title: "Quá nhiều cửa sổ trên màn hình ? Hãy dùng nhiều không gian làm việc (workspace)"
 ---
 
 Tôi chưa sử dụng Windows bao giờ và hoàn toàn không hiểu điều này: khi bạn mở trình 

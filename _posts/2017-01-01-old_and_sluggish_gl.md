@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Por que Windows se fai máis lento cada día?
+title: "Por que Windows se fai máis lento cada día?"
 ---
 
 Windows ten un bo número de fallos de deseño, e como resultado se volve cada vez máis e máis lento e que non dura moito tempo. Probablemente escoitarías máis dunha vez dicir a alguén "a miña computadora estase pondo pregizosa, vou a reinstalar". Reinstalar Windows resolve o problema... ata a próxima vez.

@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Sen post-pordoj en via programaro.
+title: "Sen post-pordoj en via programaro."
 ---
 
 La malsameco inter programaro de "fermita kodo" (proprieta) kaj "malfermita kodo" estas (kiel vi divenis?) tio ke la "kodo" estas malfermita. Mmm, bone, kial mi zorgas? Nu, la "kodo", aŭ "fontkodo", estas kiel la sekreta <b>recepto</b> de ĉiu programo, kiel la recepto de kuko. Kiam vi aĉetas kukon, ne ekzistas maniero per kiu vi povas rimarki la ĝustan recepton (kvankam vi povas diveni ion, "estas iom da kokosnukso ĉi tie"). Se kukvendejo donus la recepton de sia plej sukcesa fromaĝo-kuko, ĝi baldaŭ bankrotus pro tio ke la homoj bakus ĝin hejme, kaj ĉesus aĉeti ĝin. Same, Microsoft ne donas la recepton, aŭ "fontkodon", de sia programaro, kiel Windows, kaj prave, ĉar tio estas per kio ili ricevas la monon.

@@ -1,6 +1,6 @@
 ---
 lang: br
-title: Faça algo pelo meio ambiente
+title: "Faça algo pelo meio ambiente"
 ---
 
 <p align="center">Obrigado à Franz Bourlet pela ideia

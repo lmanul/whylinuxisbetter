@@ -1,6 +1,6 @@
 ---
 lang: br
-title: Esqueça os drivers
+title: "Esqueça os drivers"
 ---
 
 Novas peças de hardware, mesmo as mais simples, geralmente vem com um CD. No CD, uma   peça muito pequena de software chamada “driver”. Se você ler o manual de instruções, você saberá que seu hardware não funcionará num computador com Windows se você não instalar o “driver”. Se você é como a maioria das pessoas que não leem manuais, então você provavelmente fará isso por si mesmo até ver que a sua nova super-peça high-tech não funciona fora da caixa.

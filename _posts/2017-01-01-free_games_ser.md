@@ -1,6 +1,6 @@
 ---
 lang: ser
-title:  Igrajte stotine igara besplatno.
+title: " Igrajte stotine igara besplatno."
 ---
 
 Stotine igara se izdaju pod besplatnom/slobodnom (kao "besplatno pivo" i kao "slobodan govor") licencom: 2D, 3D, puzle, ratne igre, online multiplejer igre, šta god želite! Evo nekoliko primera (cela lista bi bila predugačka):

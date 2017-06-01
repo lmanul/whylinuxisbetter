@@ -1,6 +1,6 @@
 ---
 lang: no
-title: Bruk MSN, AIM, ICQ, Jabber, alt med ett enkelt program.
+title: "Bruk MSN, AIM, ICQ, Jabber, alt med ett enkelt program."
 ---
 
 Du har sikkert brukerkontoer for forskjellige IM-tjenester, som MSN, Yahoo, ICQ, Jabber, AIM, osv. Hvis du kjører Windows eller Mac OS X, så trenger du høyst sannsynlig mer enn ett program for å bruke disse: MSN Messenger (for MSN), ICQ for ICQ, osv.

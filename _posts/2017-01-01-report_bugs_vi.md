@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Báo lỗi
+title: "Báo lỗi"
 ---
 
 Nếu bạn phát hiện một lỗi của Windows, bạn chỉ có thể đợi và cầu nguyện Microsoft sẽ 

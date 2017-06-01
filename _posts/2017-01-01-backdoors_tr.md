@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Yazılımda kapalı kapılara hayır!
+title: "Yazılımda kapalı kapılara hayır!"
 ---
 
 Kapalı kaynaklı yazılımlarla açık kaynaklı yazılımların arasındaki fark, yazılım kaynaklarının insanların erişimine açık olup olmamasıdır. İyi, fakat bu beni neden ilgilendirsin ki? Aslında "kaynak", veya "kaynak kodu", bir yazılımı oluşturan gizli tariftir, tıpkı bir kek tarifi gibi. Dışarıdan bir kek aldığınız zaman, kekin asıl tarifini çözebilmeniz mümkün değildir (tahminleriniz ise çoğu zaman "hmm, sanırım bunun içinde hindistan cevizi var" dan öteye gitmez). Öyle ya, pastacı size süper nefis kakaolu kekinin tarifini verseydi, yakında iflas etmek zorunda kalırdı. Çünkü insanlar aynı keki kendileri evlerinde yapabilirlerdi, ve pastacının kekini almak zorunda kalmazlardı. Benzer bir şekilde, Microsoft şirketi de yazılımlarının gizli tarifini, veya "kaynak kodlarını", kimseyle paylaşmak istemez ve bunda da haklılar; çünkü altın yumurtlayan tavuğu kimse kesmek istemez.

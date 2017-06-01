@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Kial via Windows iĝas pli malrapida ĉiutage?
+title: "Kial via Windows iĝas pli malrapida ĉiutage?"
 ---
 
 Windows havas grandan nombron da dezajnaj eraroj, kio igas ĝin esti pli malrapida kaj ĝi ne daŭras multe da tempo. Eble vi aŭdis kelkfoje iun diri "mia komputilo iĝas malvigla, mi tuj reinstalos". Reinstali Windows solvas la problemon... ĝis la venonta fojo.

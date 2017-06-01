@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Nie daj szansy oszustom i internetowym włamywaczom
+title: "Nie daj szansy oszustom i internetowym włamywaczom"
 ---
 
 System Windows ma <i>wiele</i> problemów z bezpieczeństwem. Wiele z nich może

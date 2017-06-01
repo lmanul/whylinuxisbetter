@@ -1,6 +1,6 @@
 ---
 lang: br
-title: Precisa de programas novos? Não se aborreça procurando na internet, o Linux pega para você.
+title: "Precisa de programas novos? Não se aborreça procurando na internet, o Linux pega para você."
 ---
 
 Se você quer dar uma olhada num novo programa no Windows, você precisará:

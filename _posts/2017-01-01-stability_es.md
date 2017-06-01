@@ -1,6 +1,6 @@
 ---
 lang: es
-title: ¿Tu sistema es inestable?
+title: "¿Tu sistema es inestable?"
 ---
 
 ¿Alguna vez perdiste tu precioso trabajo porque Windows se colgó? ¿Siempre apagas tu ordenador de la manera apropiada o algunas veces simplemente lo apagas porque Windows se volvió loco y no te deja hacer nada más? ¿Alguna vez te apareció la "pantalla azul de la muerte" o mensajes de error diciéndote que tu ordenador necesita ser apagada por razones poco claras? 

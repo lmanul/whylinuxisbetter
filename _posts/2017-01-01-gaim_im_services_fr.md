@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Connectez-vous à MSN, AIM, ICQ, Jabber, avec un  seul programme
+title: "Connectez-vous à MSN, AIM, ICQ, Jabber, avec un  seul programme"
 ---
 
 Vous avez peut-être des comptes sur plusieurs services de messagerie 

@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Linux protege tu ordenador
+title: "Linux protege tu ordenador"
 ---
 
 Virus, troyanos, adware, programas espías... Windows deja que todos estos entren a tu ordenador muy fácilmente. El tiempo promedio para que un PC con Windows (conectada a Internet y con un "Service Pack 2" instalado) se infecte es de <b>40 minutos</b>.

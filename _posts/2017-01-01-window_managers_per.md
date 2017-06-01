@@ -8,7 +8,7 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-title: خودتون شكل ميزكارتون رو انتخاب كنيد.
+title: "خودتون شكل ميزكارتون رو انتخاب كنيد."
 ---
 
 

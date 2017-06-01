@@ -1,6 +1,6 @@
 ---
 lang: br
-title: Esqueça os “crapwares”
+title: "Esqueça os “crapwares”"
 ---
 
 Se você já comprou um computador com Windows, você sabe que isso pode ser uma experiência bem frustrante.

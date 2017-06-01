@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Aconsegueix un genial reproductor musical.
+title: "Aconsegueix un genial reproductor musical."
 ---
 
 Linux té molts reproductors musicals (inclosos AmaroK, Rhythmbox, 

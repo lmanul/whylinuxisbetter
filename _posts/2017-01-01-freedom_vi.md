@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Tự do muôn năm!
+title: "Tự do muôn năm!"
 ---
 
 Linux và phần mềm mã nguồn mở "miễn phí". Có nghĩa bản quyền sản phẩm của phần 

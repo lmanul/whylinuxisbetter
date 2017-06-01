@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Vergiss Viren.
+title: "Vergiss Viren."
 ---
 
 Wenn dein Computer sich selber ungefragt herunterf&auml;hrt, wenn komische Fenster mit Text, den du nicht verstehst, und jegliche Art von Werbung erscheinen, ohne dass du danach verlangt h&auml;ttest, wenn Emails ohne dein Wissen zu all deinen Kontakten verschickt werden, dann hat dein Computer wahrscheinlich einen Virus. Und der Hauptgrund dafür ist, dass er unter Windows läuft.

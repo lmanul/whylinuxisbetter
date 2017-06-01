@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Sciigu erarojn
+title: "Sciigu erarojn"
 ---
 
 Se vi trovas eraron en Windows, vi povas esence atendi kaj preĝi ke Microsoft riparu ĝin rapide (kaj se ĝi riskas la sekurecon de via operaciumo, vi devas preĝi duoble). Vi povas pensi ke sciigi tiun eraron al Microsoft (por ke ili riparu ĝin pli rapide) devas esti facila. Nu, pripensu la aferon denove. <a 

@@ -13,7 +13,7 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-title: آزادي!
+title: "آزادي!"
 ---
 
 

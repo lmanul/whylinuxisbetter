@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Programinės įrangos durys yra atviros.
+title: "Programinės įrangos durys yra atviros."
 ---
 
 Skirtumas tarp "uždaro kodo" (kam nors priklausančios) bei "atviro kodo" programinės įrangos yra tas, kad jų "kodas" yra atviras. Hm, gerai, o kas man iš to? "Kodas", arba "programos kodas", yra kaip slaptas receptas kiekvienai programai, panašiai kaip pyrago receptas. Kai perkame pyragą, niekuomet neatspėsime tikslaus jo recepto (nors ir galime atspėti kai kurias sudedamąsias dalis, pvz. "čia yra įdėta riešutų"). Jei kepykla išduotų super populiaraus sūrio pyrago receptą, to pyrago beveik niekas nebepirktų, nes žmonės jį keptųsi pas save namie. Taigi parduotuvė prarastų pelną. Panašiai Microsoft'as neišduoda savo sukurtų programų (pvz., Windows'ų) recepto, kitaip tariant, "programos kodo", nes jie iš to uždirba pinigus.

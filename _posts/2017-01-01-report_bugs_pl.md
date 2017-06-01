@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Zgłaszanie problemów<br />
+title: "Zgłaszanie problemów<br />"
 <small>(nie musisz czekać latami na ich rozwiązanie!)</small>
 ---
 

@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Sutaupykite energijos: u&#382;migdykite arba hibernuokite kompiuter&#303;.
+title: "Sutaupykite energijos: u&#382;migdykite arba hibernuokite kompiuter&#303;."
 ---
 
 <ul>

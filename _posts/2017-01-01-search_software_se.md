@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Behöver du nya program? Strunta i att söka på nätet – Linux ordnar det åt dig.
+title: "Behöver du nya program? Strunta i att söka på nätet – Linux ordnar det åt dig."
 ---
 
 Om du vill hitta ny mjukvara till Windows måste du:

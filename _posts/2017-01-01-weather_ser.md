@@ -1,6 +1,6 @@
 ---
 lang: ser
-title:  Pratite vreme.
+title: " Pratite vreme."
 ---
 
 Jeste li umorni od stalnog izvirivanja napolje da bi videli kakvo je

@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Milieu
+title: "Milieu"
 ---
 
 <p align="center">Met dank aan Franz Bourlet voor het idee

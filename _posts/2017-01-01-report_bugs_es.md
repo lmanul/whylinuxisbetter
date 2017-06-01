@@ -1,6 +1,6 @@
 ---
 lang: es
-title: No esperes años a que se arreglen los fallos, comunícalos y sigue su solución
+title: "No esperes años a que se arreglen los fallos, comunícalos y sigue su solución"
 ---
 
 Si encuentras un error en Windows, básicamente debes esperar y rezar para que Microsoft lo arregle rápido (y si este fallo compromete la seguridad del sistema vas a tener que rezar el doble de fuerte). Puedes pensar que comunicar ese fallo a Microsoft (y así ellos lo arreglarán más rápido) debe ser fácil. Bueno... piénsalo de nuevo. <a 

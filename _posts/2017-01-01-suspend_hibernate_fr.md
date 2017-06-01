@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Économisez de l'énergie: faites dormir ou hiberner votre ordinateur.
+title: "Économisez de l'énergie: faites dormir ou hiberner votre ordinateur."
 ---
 
 <ul>

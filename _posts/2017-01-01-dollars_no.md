@@ -1,6 +1,6 @@
 ---
 lang: no
-title: Ikke betal hundrevis av kroner for ditt operativsystem!
+title: "Ikke betal hundrevis av kroner for ditt operativsystem!"
 ---
 
 <h3>(Og ikke kopier det på ulovlig vis)</h3>

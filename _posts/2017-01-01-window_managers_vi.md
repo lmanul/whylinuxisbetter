@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Chọn giao diện nào bạn muốn
+title: "Chọn giao diện nào bạn muốn"
 ---
 
 Nếu bạn dùng Windows, giao diện của bạn có lẽ gần giống thế này:

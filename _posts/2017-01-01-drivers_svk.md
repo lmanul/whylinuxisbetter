@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Zabudnite na ovládače
+title: "Zabudnite na ovládače"
 ---
 
 Nové kúsky hardvéru, dokonca aj ten najjednoduchší typ, väčšinou dostanete aj s CD. Na CD je veľmi malý program, ktorý sa nazýva "ovládač". Ak si prečítate manuál, zistíte, že tento nový hardvér nebude vo Windowse fungovať, pokým nenainštalujete ovládač. Ak ste ako väčšina ľudí a nečítate manuály, potom pravdepodobne prídete na to, prečo váš nový kúsok špičkovej techniky nefunguje jedným pohľadom na krabičku.

@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Informe de Fallos
+title: "Informe de Fallos"
 ---
 
 Se atopas un erro en Windows, basicamente debes esperar e rezar que Microsoft o arranxe rápido (e se este fallo compromete a seguridade do sistema vas ter que rezar o dobre de forte). Podes pensar que informar dese fallo a Microsoft debe ser fácil (e así eles o arranxarán máis rápido). Bo... pénsao de novo. <a 

@@ -1,6 +1,6 @@
 ---
 lang: da
-title: Spil hundredevis af spil, helt gratis
+title: "Spil hundredevis af spil, helt gratis"
 ---
 
 Hundredevis af spil er udgivet under en fri ("fri" som i "gratis øl" og som i "ytringsfrihed") licens: 2D, 3D, puzzles, krigs-spil, online multiplayer spil, nævn selv flere ! Her er et par eksempler (den fulde liste ville være uendelig lang) :

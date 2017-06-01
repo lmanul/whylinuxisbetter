@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Inga bakdörrar i mjukvaran.
+title: "Inga bakdörrar i mjukvaran."
 ---
 
 Skillnaden mellan "stängd mjukvara"(skyddad) och "öppen mjukvara" är 

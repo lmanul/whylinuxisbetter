@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Pomóż innym krajom, w tym również Twojemu
+title: "Pomóż innym krajom, w tym również Twojemu"
 ---
 
 <center>(Podziękowania dla Gabriel E. Patiño -- gepatino {at} gmail {dot} com -- 

@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Découvrez la nouvelle génération de bureaux.
+title: "Découvrez la nouvelle génération de bureaux."
 ---
 
 Vous avez été impressionné par les capacités de 3D et de transparence 

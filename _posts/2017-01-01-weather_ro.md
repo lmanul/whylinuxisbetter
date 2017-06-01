@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Supravegheaţi vremea.
+title: "Supravegheaţi vremea."
 ---
 
 V-aţi săturat să aveţi un termometru afară şi să vă duceţi să-l verificaţi

@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Vì sao Windows càng ngày càng chạy chậm ?
+title: "Vì sao Windows càng ngày càng chạy chậm ?"
 ---
 
 Thiết kế của Windows có nhiều vấn đề, kết quả là hệ thống ngày càng trở nên lộn 

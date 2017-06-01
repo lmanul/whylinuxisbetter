@@ -3,7 +3,7 @@ lang: per
 <body>
 <div style="font-family: Tahoma;" id="corps">
 
-title: وقتي سيستم نصب شد چرا شما بايد هنوز نصب كنيد؟
+title: "وقتي سيستم نصب شد چرا شما بايد هنوز نصب كنيد؟"
 ---
 
 

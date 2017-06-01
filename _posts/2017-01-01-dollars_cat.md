@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: No paguis 100€ pel teu sistema operatiu
+title: "No paguis 100€ pel teu sistema operatiu"
 ---
 
 <h3>(i no el copies de manera il·legal)</h3>

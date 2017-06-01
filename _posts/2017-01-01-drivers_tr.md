@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Sürücüleri unutun
+title: "Sürücüleri unutun"
 ---
 
 Yeni donanım parçaları, en basiti bile, genelde CD ile birlikte gelir. Bu CD'de, "sürücü" adı verilen çok ufak bir parça yazılım bulunur. Eğer yönergeleri okuduysanız, donanımınızın sürücüleri yüklenmedikçe Windows bilgisayarınızda çalışmayacağını biliyorsunuzdur. Eğer siz de bir çok insan gibi el kitaplarını okumadıysanız, yeni yüksek teknolojili oyuncağınızın çalışmadığını gördüğünüzde kendiniz öğrenirsiniz.

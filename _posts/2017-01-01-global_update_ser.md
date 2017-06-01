@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Osvežite Vaš softver jednim klikom miša.
+title: "Osvežite Vaš softver jednim klikom miša."
 ---
 
 Windows ima zgodan alat koji se zove "Windows update", i koji Vam

@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Forgesu la virusojn.
+title: "Forgesu la virusojn."
 ---
 
 Se via komputilo elŝaltas per si mem sen demandi al vi, se strangaj fenestroj kun nekomprenebla teksto kaj ĉiaj reklamoj aperas kiam vi ne petis ilin, se retpoŝtoj estas sendataj al viaj kontaktoj sen via sciado, do via komputilo eble havas viruson. La ĉefa kaŭzo por ĉi tio estas ĉar vi uzas Windows.

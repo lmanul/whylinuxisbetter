@@ -1,6 +1,6 @@
 ---
 lang: da
-title: Rapportering af bugs
+title: "Rapportering af bugs"
 ---
 
 Hvis du finder en bug i Windows, så kan du i bund og grund blot vente og bede til at Microsoft beslutter sig for at fikse den hurtigt (og hvis det kompromitterer sikkerheden på dit system kan du bede dobbelt så meget). Du tænker sikkert at det er nemt at rapportere en bug til Microsoft (så de kan fikse den hurtigere). Tænk om igen.<a href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Her</a> er en interessant artikel omkring dette. Hvad hvis Microsoft ikke engang opdager buggen? Tjah, så lad os håbe den næste version af Windows retter op på det (men det skal du jo selvfølgelig betale for).

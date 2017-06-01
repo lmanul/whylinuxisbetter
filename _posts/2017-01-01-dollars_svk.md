@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Neplaťte €150 za váš operačný systém
+title: "Neplaťte €150 za váš operačný systém"
 ---
 
 <h3>(A nekopírujte ho ilegálne)</h3>

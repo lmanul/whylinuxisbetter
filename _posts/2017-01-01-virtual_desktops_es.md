@@ -1,6 +1,6 @@
 ---
 lang: es
-title: ¿Demasiadas ventanas? Usa las distintas áreas de trabajo.
+title: "¿Demasiadas ventanas? Usa las distintas áreas de trabajo."
 ---
 
 Nunca fuí un usuario de Windows y hay algo que no puedo entender: una vez que abren el procesador de textos, navegador web, cliente de correo, cliente de mensajería instantánea y algunas ventanas para explorar sus archivos, ¿como hacen los usuarios de Windows para no <b>perderse</b> en este desorden?

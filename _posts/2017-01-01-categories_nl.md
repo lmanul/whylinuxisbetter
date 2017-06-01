@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Geen grote rommel in uw startmenu
+title: "Geen grote rommel in uw startmenu"
 ---
 
 Als u Windows gebruikt en u installeerde een flink aantal programma's op uw computer, is de kans groot dat uw startmenu er zo uitziet:

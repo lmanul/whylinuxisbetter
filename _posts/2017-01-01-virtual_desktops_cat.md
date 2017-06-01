@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Massa finestres? Fes servir els espais de treball.
+title: "Massa finestres? Fes servir els espais de treball."
 ---
 
 Jo mai no vaig ser un usuari de Windows i hi ha una cosa que no puc 

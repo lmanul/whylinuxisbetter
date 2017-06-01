@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Informa d'errades
+title: "Informa d'errades"
 ---
 
 Si trobes una errada al Windows, pots bàsicament esperar i pregar perquè Microsoft vulgui arreglar-la ràpidament (i si l'errada compromet la seguretat del teu sistema, hauries de pregar dues vegades). Pots pensar que informar de l'errada a Microsoft (per a així solucionar-la més ràpid) deu ser fàcil. Bé, pensa-ho altra vegada. <a href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Aquí</a> hi ha un article interessant sobre això. Què passa si Microsoft no ha detectat encara l'errada? Bé aleshores, esperes que la propera versió del Windows la solucioni (però necessites pagar altres pocs centenars d'euros).

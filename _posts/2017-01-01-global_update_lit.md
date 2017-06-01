@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Atnaujinkite visą savo programinę įrangą vienu paspaudimu.
+title: "Atnaujinkite visą savo programinę įrangą vienu paspaudimu."
 ---
 
 Windows'ai turi gana patogų įrankį, kuris vadinasi "Windows update" (Windows'ų atnaujinimas), kuris leidžia jums atnaujinti operacinę sistemą, kai tik išeina atnaujinimai.

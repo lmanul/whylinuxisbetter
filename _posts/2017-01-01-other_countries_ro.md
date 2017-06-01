@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Ajutaţi alte ţări, şi a dumneavoastră
+title: "Ajutaţi alte ţări, şi a dumneavoastră"
 ---
 
 <center>(Mulţumiri lui Gabriel E. Patiño -- gepatino {at}gmail {dot} com --

@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Hrajte stovky hier zadarmo
+title: "Hrajte stovky hier zadarmo"
 ---
 
 Stovky hier sú vydávané pod bezplatnou (ako v "bezplatný servis", alebo "bezplatný vstup" ) licenciou: 2D, 3D, hlavolamy, vojnové hry, online multiplayer hry, len si vyberte! Tu je len pár príkladov (kompletný zoznam by bol nekonečný): 

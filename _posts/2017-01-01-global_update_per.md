@@ -13,7 +13,7 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-title: همه نرم افزارهاتون رو با يك كليك به روز كنيد.
+title: "همه نرم افزارهاتون رو با يك كليك به روز كنيد."
 ---
 
 

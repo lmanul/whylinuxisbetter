@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Update all your software with a single click.
+title: "Update all your software with a single click."
 ---
 
 Windows has a pretty convenient tool called "Windows update", which 

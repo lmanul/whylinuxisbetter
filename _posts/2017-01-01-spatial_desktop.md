@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Jump into the next generation of desktops.
+title: "Jump into the next generation of desktops."
 ---
 
 You have been impressed by the 3D and transparency possibilities 

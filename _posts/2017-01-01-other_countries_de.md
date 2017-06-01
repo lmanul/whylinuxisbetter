@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Hilf anderen L&auml;ndern inklusive deinem eigenen
+title: "Hilf anderen L&auml;ndern inklusive deinem eigenen"
 ---
 
 <center>(Danke an Gabriel E. Patiño – gepatino {ät} gmail {punkt} com – für die Idee und die erste Version des Textes)</center>

@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Actualitza el teu programari amb un sol clic.
+title: "Actualitza el teu programari amb un sol clic."
 ---
 
 Windows té una eina bastant convenient anomenada “Windows update”, la qual et permet actualitzar el teu sistema amb les darreres actualitzacions disponibles.

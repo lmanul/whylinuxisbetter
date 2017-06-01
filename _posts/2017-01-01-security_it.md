@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Linux protegge il tuo computer
+title: "Linux protegge il tuo computer"
 ---
 
 Virus, trojan, adware, spyware... Windows lascia entrare tutti questi nel 

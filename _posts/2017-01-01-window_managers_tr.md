@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Masaüstünüzün nasıl olması gerektiğini siz seçin.
+title: "Masaüstünüzün nasıl olması gerektiğini siz seçin."
 ---
 
 Eğer bir windows kullanıcısıysanız Masaüsütünüz herhalde bundan 

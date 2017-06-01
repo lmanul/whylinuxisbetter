@@ -1,6 +1,6 @@
 ---
 lang: hu
-title: Egy új szoftverre lenne szükséged? Ne bajlódj a neten való keresgéléssel, a Linux megteszi helyetted!
+title: "Egy új szoftverre lenne szükséged? Ne bajlódj a neten való keresgéléssel, a Linux megteszi helyetted!"
 ---
 
 Ha egy új programot szeretnél kipróbálni Windows-on:

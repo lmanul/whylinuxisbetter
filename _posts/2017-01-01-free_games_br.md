@@ -1,6 +1,6 @@
 ---
 lang: br
-﻿title: Jogue centenas de jogos de graça
+﻿title: "Jogue centenas de jogos de graça"
 ---
 
 Centenas de jogos são lançados sob licença livre: 2D, 3D, puzzles, jogos de guerra, jogos multiplayer online, você escolhe! Aqui estão alguns exemplos (a lista completa seria infinita):

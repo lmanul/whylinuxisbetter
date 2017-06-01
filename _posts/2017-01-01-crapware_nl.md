@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Geen crapware meer.
+title: "Geen crapware meer."
 ---
 
 Wanneer u ooit een nieuwe computer kocht met Windows, weet u vast dat het een frustrerende ervaring kan zijn.

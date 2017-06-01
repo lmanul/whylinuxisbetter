@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Pourquoi votre Windows est-il de plus en plus lent ?
+title: "Pourquoi votre Windows est-il de plus en plus lent ?"
 ---
 
 Windows comporte un certain nombre de défauts de fabrication,

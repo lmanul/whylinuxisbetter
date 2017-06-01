@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: V-aţi săturat să vă restartaţi computerul tot timpul?
+title: "V-aţi săturat să vă restartaţi computerul tot timpul?"
 ---
 
 Abia ce v-aţi actualizat una sau două lucruri mici în Windows

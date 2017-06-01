@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Viaţa dvs. virtuală pare fragmentată?
+title: "Viaţa dvs. virtuală pare fragmentată?"
 ---
 
 Dacă ştiţi deja ce e fragmentarea şi sunteţi deja obişnuit(ă) să

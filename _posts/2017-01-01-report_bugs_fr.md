@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: N'attendez pas des années que les bugs soient résolus, signalez-les et traquez-les.
+title: "N'attendez pas des années que les bugs soient résolus, signalez-les et traquez-les."
 ---
 
 Si vous trouvez un bug dans Windows, attendre et prier pour que 

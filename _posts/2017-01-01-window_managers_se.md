@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Välj hur du ditt skrivbord ska se ut.
+title: "Välj hur du ditt skrivbord ska se ut."
 ---
 
 Om du är en Windowsanvändare ser ditt skrivbord nog ut ungefär såhär:

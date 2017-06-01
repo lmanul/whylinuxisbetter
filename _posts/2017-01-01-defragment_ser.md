@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Da li Vaš digitalni život izgleda fragmentiran?
+title: "Da li Vaš digitalni život izgleda fragmentiran?"
 ---
 
 Ako već znate šta je fragmentacija, i već ste navikli da defragmentirate

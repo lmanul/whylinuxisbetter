@@ -1,6 +1,6 @@
 ---
 lang: br
-title: Escolha o visual de sua área de trabalho.
+title: "Escolha o visual de sua área de trabalho."
 ---
 
 Se você é um usuário do Windows, provavelmente sua área de trabalho 

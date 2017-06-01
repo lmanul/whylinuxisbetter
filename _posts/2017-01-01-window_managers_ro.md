@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Control complet asupra aspectelor desktop-ului.
+title: "Control complet asupra aspectelor desktop-ului."
 ---
 Dacă sunteţi un utilizator de Windows, desktop-ul dumneavoastră
 probabil nu e prea departe de asta:

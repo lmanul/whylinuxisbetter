@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Gauk puik&#371; muzikos grotuv&#261;.
+title: "Gauk puik&#371; muzikos grotuv&#261;."
 ---
 
 Linux'ai turi daug grotuv&#371; (AmaroK, Rhythmbox, Banshee etc.), ir kai kurie j&#371; yra <b>puik&#363;s</b>. Imkime pavyzd&#382;iu AmaroK (&#382;r. pav.):

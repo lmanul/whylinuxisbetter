@@ -1,6 +1,6 @@
 ---
 lang: hu
-title: Túl sok az ablak? Használj munkaterületeket!
+title: "Túl sok az ablak? Használj munkaterületeket!"
 ---
 
 Sosem voltam Windows-felhasználó és volt egy dolog, amit sose tudtam megérteni: ha egyszer nyitva van egy szövegszerkesztő, egy webböngésző, egy levelezőprogram, azonnaliüzenet-küldő program és esetleg a fájlkezelő ablakai, hogy nem <b>kavarodak bele</b> a Windows-felhasználók ebbe a nagy zűrzavarba?

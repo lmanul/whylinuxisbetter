@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Is uw digitale leven een beetje gefragmenteerd?
+title: "Is uw digitale leven een beetje gefragmenteerd?"
 ---
 
 Als u reeds weet wat fragmentatie is, en u reeds gewoon bent aan het

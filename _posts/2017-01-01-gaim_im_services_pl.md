@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Używaj równocześnie Gadu-Gadu, MSN, ICQ i Jabbera z pomocą jednego programu
+title: "Używaj równocześnie Gadu-Gadu, MSN, ICQ i Jabbera z pomocą jednego programu"
 ---
 
 Możesz posiadać jednocześnie wiele kont w różnych komunikatorach, takich

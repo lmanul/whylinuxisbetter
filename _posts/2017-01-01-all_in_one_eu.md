@@ -1,7 +1,7 @@
 ---
 lang: eu
 
-title: Sistema instalatu duzunea, zergaitik <i>ondino</i> gauza gehiago instalatu behar dituzu?
+title: "Sistema instalatu duzunea, zergaitik <i>ondino</i> gauza gehiago instalatu behar dituzu?"
 ---
 
 Windows instalatzea soilik hasiera da. Windows Xp-ren kopia berri bat instalatu duzula imajinatu, eta zure trebetasuna informatikan erabiltzeko prest zaude. Lagun batek PDF fitxategi bat daukan posta elektroniko bat bidali dizu: kontxo... ez daukazu hori irakurtzeko programa. Internetera joan beharko zara, Adobe Reader (edo beste PDF irakurtzaile bat) deskargatzeko orrialde bat bilatu beharko duzu, programa deskargatu, instalatu, eta beharbada, ordenagailua berpiztu behar izango duzu. Beno, ados, orain prest zaude. Email berberean sartuta .doc fitxategi bat topatzen duzu. Zure Windows horrek ezin du hau irakurri oraingoan ere: kaka!! Microsoft Office-ren kopia bat erostera joan zaitezke, edota OpenOffice dohainik deskargatu, baina berriro ere bilatu beharko duzu, deskargatu (banda zabaleko konexioa daukazula espero dugu), instalatu, etab. Gainera, zure lagunak argazki bat bidali dizu posta berdinean, baina kontaste txarra du, argitasuna ez da oso ona eta txikipen baten beharrekoan dago. Orduan, orain ere edo Photoshop erostera zoaz (zenbat ehundaka euro gehiago dira hori?) edo bestela GIMP ( Photoshop-en bertsio librea, gauza berdinak egiteko ahalmena daukana) deskargatu ahal duzu, baina berriro ere bilatu, jaitsi, instalatu ...behar izango duzu. Aski da: ondorio batera ailegatu zara, Windows sistema oso bat izatetik nahiko urrun dago, eta instalatzea problemen hasiera da bakarrik.

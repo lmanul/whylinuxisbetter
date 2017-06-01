@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Gràcies a Franz Bourlet per la idea
+title: "Gràcies a Franz Bourlet per la idea"
 ---
 
 Com pot ser Linux diferent de Windows quan es tracta del medi ambient, et pots preguntar?. Després de tot, ambdós són solament peces de programari amb un petit impacte en la pol·lució o el canvi climàtic:

@@ -1,6 +1,6 @@
 ---
 lang: kor
-title: MSN, AIM, ICQ, Jabber를 한꺼번에 사용하기
+title: "MSN, AIM, ICQ, Jabber를 한꺼번에 사용하기"
 ---
 
 아마 당신은 MSN, Yahoo, ICQ, Jabber, AIM 등등의 메신저 서비스를 여러 개 사용하고 있을 것입니다. 윈도우즈나 맥 OS를 사용한다면, 각각의 메신저마다 따로 프로그램을 구동하여야 합니다: MSN에는 MSN메신저를, ICQ에는 ICQ메신저를..

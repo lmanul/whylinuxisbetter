@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Ĉu necesas nova programo? Ne zorgu serĉi rete, Linux faras tion por vi.
+title: "Ĉu necesas nova programo? Ne zorgu serĉi rete, Linux faras tion por vi."
 ---
 
 Se vi volas vidi novan programon en Windows, vi bezonos:

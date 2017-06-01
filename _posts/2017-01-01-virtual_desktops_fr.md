@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Trop de fenêtres ? Adoptez les espaces de travail.
+title: "Trop de fenêtres ? Adoptez les espaces de travail."
 ---
 
 Je n'ai jamais été un réel utilisateur de Windows et il y a quelque 

@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Zabudnite na vírusy
+title: "Zabudnite na vírusy"
 ---
 
 Ak sa váš počítač vypne bez toho, aby sa vás opýtal, ak sa objavia divné okná s textom, ktorému nerozumiete a rôzne druhy reklám, o ktoré ste nežiadali, ak sa posielajú emaily všetkým vašim kontaktom bez toho, aby ste o tom vedeli, tak váš počítač je pravdepodobne infikovaný vírusom. Hlavným dôvodom je to, že váš počítač používa Windows.

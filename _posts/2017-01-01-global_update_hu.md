@@ -1,6 +1,6 @@
 ---
 lang: hu
-title: Frissítsd minden programod egyetlen kattintással!
+title: "Frissítsd minden programod egyetlen kattintással!"
 ---
 
 A Windows-nak van egy roppant hasznos eszköze, a Windows Update, amivel telepítheted a rendszered számára szükséges legújabb frissítéseket.

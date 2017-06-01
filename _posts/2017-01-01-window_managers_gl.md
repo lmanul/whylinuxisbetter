@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Escolle como queres que se vexa o teu escritorio.
+title: "Escolle como queres que se vexa o teu escritorio."
 ---
 
 Si eres un usuario de Windows, probablemente tu escritorio no está muy lejos de esto:

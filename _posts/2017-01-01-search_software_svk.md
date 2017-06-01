@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Potrebujete nové programy? Neobťažujte sa hľadaním na internete, Linux ich nájde pre vás
+title: "Potrebujete nové programy? Neobťažujte sa hľadaním na internete, Linux ich nájde pre vás"
 ---
 
 Ak chcete vyskúšať nový program vo Windows-e, budete potrebovať:

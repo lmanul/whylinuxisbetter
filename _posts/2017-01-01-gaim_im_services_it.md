@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Usa MSN, AIM, ICQ, Jabber, con un singolo programma
+title: "Usa MSN, AIM, ICQ, Jabber, con un singolo programma"
 ---
 
 Puoi avere diversi account a servizi di messaggistica istantanea, come 

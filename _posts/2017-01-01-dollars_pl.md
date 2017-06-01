@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Nie płać za system operacyjny
+title: "Nie płać za system operacyjny"
 ---
 
 <h3>(i nie używaj pirackiej jego kopii)</h3>

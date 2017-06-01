@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Ŝparu iom da energio: lasu ke via komputilo dormu aŭ travintru.
+title: "Ŝparu iom da energio: lasu ke via komputilo dormu aŭ travintru."
 ---
 
 <ul>

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Use MSN, AIM, ICQ, Jabber, with a single program
+title: "Use MSN, AIM, ICQ, Jabber, with a single program"
 ---
 
 You may have accounts for several instant messaging services, such as 

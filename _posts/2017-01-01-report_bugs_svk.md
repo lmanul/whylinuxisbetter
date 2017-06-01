@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Ohlasovanie chýb
+title: "Ohlasovanie chýb"
 ---
 
 Ak nájdete vo Windows-e nejakú chybu, vlastne môžte len  čakať a modliť sa, že Microsoft ju opraví rýchlo (a ak táto chyba ohrozuje váš systém, budete sa musieť modliť dvakrát tak usilovne). Možno si myslíte, že ohlásenie takejto chyby Microsoft-u (aby ju mohli odstrániť rýchlejšie), musí byť jednoduché. No, porozmýšľajte znova. <a href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Tu</a> nájdete veľmi zaujímavý článok o tejto téme. Čo ak si Microsoft túto chybu ani nevšimne? No tak potom ostáva len dúfať, že v ďalšej verzii Windows-u bude opravená (ale aj tak budete musieť znova zaplatiť).

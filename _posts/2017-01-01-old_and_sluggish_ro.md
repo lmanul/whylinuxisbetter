@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: De ce Windows-ul dvs. merge din ce în ce mai lent în fiecare zi?
+title: "De ce Windows-ul dvs. merge din ce în ce mai lent în fiecare zi?"
 ---
 
 Windows are un număr de defecte în ceea ce priveşte modul în care

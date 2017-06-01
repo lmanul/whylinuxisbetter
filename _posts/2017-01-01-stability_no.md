@@ -1,6 +1,6 @@
 ---
 lang: no
-title: Er systemet ditt ustabilt?
+title: "Er systemet ditt ustabilt?"
 ---
 
 Har du noen gang mistet viktig arbeid på grunn av at Windows crashet? Slår du av datamaskinen din på den korrekte måten, eller hender det at du bare slår den direkte av på grunn av at Windows ikke responderer ordentlig? Har du noen gang fått en BSoD («Blue Screen of Death») eller en feilmelding som forteller deg at datamaskinen må avsluttes for obskure grunner? 

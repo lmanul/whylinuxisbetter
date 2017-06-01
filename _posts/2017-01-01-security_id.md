@@ -1,6 +1,6 @@
 ---
 lang: id
-title: Linux melindungi komputermu
+title: "Linux melindungi komputermu"
 ---
 
 Virus, trojan, adware, spyware ... Windows mengizinkan semua itu memasuki komputermu dengan mudah. Waktu rata-rata PC dengan OS Windows (terkoneksi ke internet dengan update Service Pack 2) untuk terinfeksi adalah <b>40 menit</b> (bahkan kadang-kadang bisa lebih cepat lagi, sekitar 30 detik).

@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Czemu Twój Windows spowalnia z każdym dniem?
+title: "Czemu Twój Windows spowalnia z każdym dniem?"
 ---
 
 W system Windows wbudowanych jest wiele przestarzałych i źle

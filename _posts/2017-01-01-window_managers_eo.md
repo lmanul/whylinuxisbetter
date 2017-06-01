@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Elektu la ŝajnon de via labortablo.
+title: "Elektu la ŝajnon de via labortablo."
 ---
 
 Se vi estas uzanto de Windows, eble via labortablo ne estas tre malproksime de ĉi tio:

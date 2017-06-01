@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Aveţi nevoie de programe noi? Nu vă pierdeţi timpul căutând, Linux vă face rost.
+title: "Aveţi nevoie de programe noi? Nu vă pierdeţi timpul căutând, Linux vă face rost."
 ---
 
 Dacă vreţi să încercaţi un nou program în Windows, va trebui să:

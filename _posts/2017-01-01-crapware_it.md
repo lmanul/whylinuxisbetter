@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Mai più software spazzatura.
+title: "Mai più software spazzatura."
 ---
 
 Se hai mai comprato un computer nuovo con Windows, forse sai già quanto possa essere un'esperienza frustrante.

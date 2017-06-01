@@ -1,6 +1,6 @@
 ---
 lang: id
-title: Apakah kamu sudah lelah me-<i>restart</i> komputer setiap waktu?
+title: "Apakah kamu sudah lelah me-<i>restart</i> komputer setiap waktu?"
 ---
 
 Apakah kamu baru saja meng-<i>upgrade</i> satu atau dua hal kecil pada sistem Windows menggunakan "Windows Update" ? Silakan <i>reboot</i> komputermu. Apakah kamu baru meng-<i>install</i> beberapa perangkat lunak baru? Silakan <i>reboot</i> komputermu. Apakah sistem komputermu tidak stabil? Cobalah untuk <i>reboot</i>, mungkin setelah itu segalanya akan berjalan lebih baik.

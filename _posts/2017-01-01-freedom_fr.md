@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Liberté !
+title: "Liberté !"
 ---
 
 Linux et les logiciels dits « Open Source » sont « libres ». Cela 

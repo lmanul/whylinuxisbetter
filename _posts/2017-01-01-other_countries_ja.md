@@ -1,6 +1,6 @@
 ---
 lang: ja
-title: 途上国のため、世界のために
+title: "途上国のため、世界のために"
 ---
 
 <center>（この記事は、Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 

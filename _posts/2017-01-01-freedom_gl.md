@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Liberdade!
+title: "Liberdade!"
 ---
 
 Linux e as aplicacións de "Código Aberto" son "libres". Isto significa que a súa licenza é unha "licenza libre" e a máis común é a GPL (Licenza Pública Xeral). Esta licenza establece que calquera está autorizado para copialo, ver o código fonte (a "receita"), modificalo e redistribuílo a condición de que manteña a licenza GPL.

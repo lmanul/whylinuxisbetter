@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Oblida't dels virus
+title: "Oblida't dels virus"
 ---
 
 Si el teu ordinador s'apaga sense demanar-te permís, si unes 

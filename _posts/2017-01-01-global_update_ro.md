@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Actualizaţi-vă tot software-ul cu un singur click.
+title: "Actualizaţi-vă tot software-ul cu un singur click."
 ---
 
 Windows are un instrument destul de bun, numit "Windows update", ce

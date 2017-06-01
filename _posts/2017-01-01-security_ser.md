@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Linux štiti Vaš kompjuter 
+title: "Linux štiti Vaš kompjuter "
 ---
 
 Virusi, trojanci, adwares, spywares... Windows pušta sve ove da uđu na Vaš

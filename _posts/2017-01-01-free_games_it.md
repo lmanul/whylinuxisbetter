@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Gioca a centinaia di videogame gratuitamente
+title: "Gioca a centinaia di videogame gratuitamente"
 ---
 
 Centinaia di giochi sono rilasciati sotto licenza libera (sia come "birra gratis" che come 

@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Nowa generacja rozwiązań wizualnych czeka na Ciebie
+title: "Nowa generacja rozwiązań wizualnych czeka na Ciebie"
 ---
 
 Czy nowe, trójwymiarowe możliwości systemu Windows Vista zrobiły na

@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Betala inte 1000kr för ditt operativsystem
+title: "Betala inte 1000kr för ditt operativsystem"
 ---
 
 <h3>(Och piratkopiera inte heller)</h3>

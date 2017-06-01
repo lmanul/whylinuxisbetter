@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Why does your Windows get slower day after day?
+title: "Why does your Windows get slower day after day?"
 ---
 
 Windows has a number of design flaws, resulting in it becoming

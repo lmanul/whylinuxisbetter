@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Axuda a outros países, incluído o teu
+title: "Axuda a outros países, incluído o teu"
 ---
 
 <center>(Gracias a Gabriel E. Patiño -- gepatino {en}gmail {punto} com -- pola idea e primeira versión do texto)</center>

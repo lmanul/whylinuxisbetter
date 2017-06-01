@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Linux bilgisayarınızı korur.
+title: "Linux bilgisayarınızı korur."
 ---
 
 Virüsler, trojanlar, reklam yazılımları, casuslar... Windows bunların 

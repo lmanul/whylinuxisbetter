@@ -1,6 +1,6 @@
 ---
 lang: id
-title: Kebebasan!
+title: "Kebebasan!"
 ---
 
 Linux dan perangkat lunak "sumber terbuka" (Open Source) bersifat "bebas". Dengan kata lain, mereka menggunakan "lisensi bebas", dan yang paling umum digunakan adalah GPL (<i>General Public License</i>) atau LBU (Lisensi Bebas Umum). Lisensi ini menyatakan bahwa setiap orang memiliki hak untuk menduplikasi perangkat lunak, melihat kode sumber ("resep"-nya), memodifikasinya, dan mendistribusikannya kembali dengan lisensi yang sama, GPL

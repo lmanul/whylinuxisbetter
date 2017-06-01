@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Chơi hàng trăm game miễn phí
+title: "Chơi hàng trăm game miễn phí"
 ---
 
 Hàng trăm game được viết có bản quyền hoàn toàn miễn phí (GPL): 2D, 3D, giải đố, game chiến thuật, 

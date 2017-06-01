@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Havadan sudan haberiniz olsun
+title: "Havadan sudan haberiniz olsun"
 ---
 
 Pencerenizin dışına bir termometre yerleştirmeyi ve dışarıya çıkmadan önce kontrol etmeyi denediniz mi? Sadece Linux ekranınıza bakın ve sıcaklığı görün.

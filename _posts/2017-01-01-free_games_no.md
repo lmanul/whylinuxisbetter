@@ -1,6 +1,6 @@
 ---
 lang: no
-title: Spill hundrevis av spill helt gratis.
+title: "Spill hundrevis av spill helt gratis."
 ---
 
 Hundrevis av spill er utgitt under en fri lisens (som i en «gratis øl» og som i «ytringsfrihet»): 2D, 3D, puzzles, krigsspill, online multiplayerspill, og så videre! Her er noen eksempler (den virkelige listen ville vært alt for stor):

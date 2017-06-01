@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Okolina
+title: "Okolina"
 ---
 
 <p align="center">Zahvaljujem Frantz Bourlet-u za ideju

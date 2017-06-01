@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: La teva vida digital sembla fragmentada?
+title: "La teva vida digital sembla fragmentada?"
 ---
 
 Si ja saps el que és la fragmentació, i ja sols desfragmentar el teu 

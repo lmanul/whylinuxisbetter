@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Lascia i pirati come dei pesci a brodo
+title: "Lascia i pirati come dei pesci a brodo"
 ---
 
 Windows ha <i>molti</i> problemi di sicurezza. Molti di questi possono 

@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Riportare i bug
+title: "Riportare i bug"
 ---
 
 Se trovi un bug in Windows, devi in genere aspettare e pregare 

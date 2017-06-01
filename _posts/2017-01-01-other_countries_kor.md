@@ -1,6 +1,6 @@
 ---
 lang: kor
-title: ﻿다른 나라를 도와주세요, 당신의 나라도요
+title: "﻿다른 나라를 도와주세요, 당신의 나라도요"
 ---
 
 <center>(아이디어와 첫 버전의 글을 제공해 주신 Gabriel E.Patino - gepatino {at} gmail {dot} com - 님께 감사!)</center>

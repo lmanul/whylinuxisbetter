@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Nemojte platiti 100$ za Vaš Operativni sistem
+title: "Nemojte platiti 100$ za Vaš Operativni sistem"
 ---
 
 <h3>(I nemojte ga nelegalno kopirati)</h3>

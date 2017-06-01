@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Získajte úžasný prehrávač hudby
+title: "Získajte úžasný prehrávač hudby"
 ---
 
 Linux má mnoho prehrávačov hudby (vrátane AmaroK-u, Rhythmbox, Banshee, 

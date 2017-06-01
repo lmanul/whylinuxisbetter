@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Teveel vensters? Gebruik werkbladen.
+title: "Teveel vensters? Gebruik werkbladen."
 ---
 
 Ik was nooit een Windows-gebruiker en er is iets dat ik niet kan 

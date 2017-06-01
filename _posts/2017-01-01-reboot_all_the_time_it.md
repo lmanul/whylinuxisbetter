@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Stanco di dover riavviare il computer tutte le volte?
+title: "Stanco di dover riavviare il computer tutte le volte?"
 ---
 
 Hai appena aggiornato una o due cosucce su Windows con "Windows 

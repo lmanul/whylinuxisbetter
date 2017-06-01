@@ -1,6 +1,6 @@
 ---
 lang: ser
-title:  Nabavite odličan muzički plejer.
+title: " Nabavite odličan muzički plejer."
 ---
 
 Linux ima mnogo muzičkih plejera (uključujući AmaroK, Rhythmbox, Banshee, 

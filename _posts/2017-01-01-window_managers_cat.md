@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Tria l'aparença del teu escriptori.
+title: "Tria l'aparença del teu escriptori."
 ---
 
 Si ets un usuari de Windows, el teu escriptori probablement no serà molt distint a aquest:

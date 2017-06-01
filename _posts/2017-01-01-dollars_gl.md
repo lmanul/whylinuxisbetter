@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Non pagas 100 € polo teu sistema operativo.
+title: "Non pagas 100 € polo teu sistema operativo."
 ---
 
 <h3>(E non o copias ilegalmente)</h3>

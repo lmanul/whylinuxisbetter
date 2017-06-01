@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Zagraj w setki darmowych gier
+title: "Zagraj w setki darmowych gier"
 ---
 
 Setki gier wydawanych jest na licencjach umożliwiających ich darmowe rozpowszechnianie i używanie: dwu- i trójwymiarowe gry logiczne, wojenne, wieloosobowe, sieciowe i wiele innych! Kilka przykładów znajduje się poniżej (stworzenie pełnej listy jest rzecz jasna niemożliwe):

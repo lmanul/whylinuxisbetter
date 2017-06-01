@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Çöp yazılımlara son.
+title: "Çöp yazılımlara son."
 ---
 
 Eğer Windows çalıştıran yeni bir bilgisayar aldıysanız, hayal kırıklığı deneyimi yaşatabileceğini bilmelisiniz.

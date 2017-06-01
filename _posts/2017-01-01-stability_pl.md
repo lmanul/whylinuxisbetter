@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Czy Twój system jest niestabilny?
+title: "Czy Twój system jest niestabilny?"
 ---
 
 Czy kiedykolwiek Twoje dane zniknęły z komputera na skutek "wybuchu"

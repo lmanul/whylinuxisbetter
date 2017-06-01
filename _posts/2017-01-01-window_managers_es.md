@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Escoge la apariencia de tu escritorio.
+title: "Escoge la apariencia de tu escritorio."
 ---
 
 Si eres un usuario de Windows, probablemente tu escritorio no está muy lejos de esto:

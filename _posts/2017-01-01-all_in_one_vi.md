@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Sau khi cài xong hệ điều hành, vì sao bạn <i>vẫn phải cài thêm</i> các chương trình khác ?
+title: "Sau khi cài xong hệ điều hành, vì sao bạn <i>vẫn phải cài thêm</i> các chương trình khác ?"
 ---
 
 Cài đặt Windows chỉ là điểm khởi đầu. Hãy tưởng tượng bạn vừa cài xong bản Windows 7 

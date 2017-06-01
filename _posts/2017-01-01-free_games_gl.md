@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Accede gratis por centos de xogos
+title: "Accede gratis por centos de xogos"
 ---
 
 Centos de xogos son liberados baixo a licenza libre: 2D, 3D, crebacabezas, xogos de guerra, multi-xogadores en liña, o que queiras! Aquí hai algúns exemplos (a lista completa sería infinita):

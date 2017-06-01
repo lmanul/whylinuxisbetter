@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Ar Jūsų skaitmeninis gyvenimas atrodo išsibarstęs?
+title: "Ar Jūsų skaitmeninis gyvenimas atrodo išsibarstęs?"
 ---
 
 Jeigu jau žinote, kas yra fragmentacija, ir kas kelis mėnesius defragmentuojate savo kietąjį diską, pasakysiu trumpai (ir galite toliau nebeskaityti): Linux'ų defragmentuoti nereikia.

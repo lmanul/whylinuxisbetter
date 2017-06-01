@@ -1,6 +1,6 @@
 ---
 lang: da
-title: Linux beskytter din computer.
+title: "Linux beskytter din computer."
 ---
 
 Virus, trojanske heste, adware, spyware... Windows lader alle disse få adgang til din computer forholdsvis nemt. Den gennemsnitlige tid det tager for en Windows pc (forbundet til internettet med en standard "Service Pack 2" installation) at blive inficeret er <b>40 minutter</b> (og nogen gange tager det ikke mere end 30 sekunder).

@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Ambiente
+title: "Ambiente"
 ---
 
 <p align="center">Grazie a Franz Bourlet per l'idea

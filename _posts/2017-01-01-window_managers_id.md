@@ -1,6 +1,6 @@
 ---
 lang: id
-title: Pilih seperti apa desktop pilihanmu.
+title: "Pilih seperti apa desktop pilihanmu."
 ---
 
 Jika kamu adalah pengguna Windows, lingkungan desktopmu mungkin tidak jauh dari ini:

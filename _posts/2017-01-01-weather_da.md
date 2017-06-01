@@ -1,6 +1,6 @@
 ---
 lang: da
-title: Hold øje med vejret.
+title: "Hold øje med vejret."
 ---
 
 Er du træt af at have et termometer hængende uden for dit vindue som du skal tjekke hver gang du går udenfor? Kig en gang på dit Linux system, og se hvordan vejret er i dit område :

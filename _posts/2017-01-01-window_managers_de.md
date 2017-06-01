@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Such dir aus, wie dein Desktop aussehen soll.
+title: "Such dir aus, wie dein Desktop aussehen soll."
 ---
 
 Wenn du ein Windowsnutzer bist, wird dein Desktop wahrscheinlich diesem Bildschirmfoto ähneln:

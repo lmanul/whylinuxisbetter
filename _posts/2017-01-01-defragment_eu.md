@@ -1,6 +1,6 @@
 ---
 lang: eu
-title: Zure bizitza digitala zatituta dirudi?
+title: "Zure bizitza digitala zatituta dirudi?"
 ---
 
 Fragmentazioa zer den baldin badakizu, eta zure diskoa deboraldi baten ostean desfragmentatzera ohituta bazaude, hona hemen berstio laburtua: Linuxen ez duzu desfragmentatu behar izango.

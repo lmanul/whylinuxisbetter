@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Uppdatera all din mjukvara med ett klick.
+title: "Uppdatera all din mjukvara med ett klick."
 ---
 
 Windows har ett ganska bekvämt verktyg, "Windows Update", 

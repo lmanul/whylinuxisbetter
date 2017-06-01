@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Foutmeldingen rapporteren
+title: "Foutmeldingen rapporteren"
 ---
 
 Als u een fout (bug) vindt in Windows, kunt u wachten en bidden dat 

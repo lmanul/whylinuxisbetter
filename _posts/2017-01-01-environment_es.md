@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Medio Ambiente
+title: "Medio Ambiente"
 ---
 
 <p align="center">Gracias a Franz Bourlet por la idea

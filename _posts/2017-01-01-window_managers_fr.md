@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Choisissez l'allure de votre bureau.
+title: "Choisissez l'allure de votre bureau."
 ---
 
 Si vous utilisez Windows, votre bureau ressemble sans doute à

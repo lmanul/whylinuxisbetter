@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Ne vous souciez plus des pilotes
+title: "Ne vous souciez plus des pilotes"
 ---
 
 Un CD est généralement fourni avec le nouveau matériel, même le plus simple. Sur le CD, on trouve 

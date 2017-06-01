@@ -1,6 +1,6 @@
 ---
 lang: hu
-title: Válaszd ki, milyen legyen az asztalod!
+title: "Válaszd ki, milyen legyen az asztalod!"
 ---
 
 Ha Windows-felhasználó vagy, az asztali környezeted valószínűleg nem nagyon tér el ettől:

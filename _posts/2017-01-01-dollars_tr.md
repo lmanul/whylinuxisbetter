@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: İşletim sisteminize neden 100$ ödeyesiniz ki?
+title: "İşletim sisteminize neden 100$ ödeyesiniz ki?"
 ---
 
 <h3>(Veya yasadışı kopyalamaya çalışasınız)</h3>

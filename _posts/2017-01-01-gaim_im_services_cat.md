@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Fes servir MSN, AIM, ICQ, Jabber en una mateixa aplicació.
+title: "Fes servir MSN, AIM, ICQ, Jabber en una mateixa aplicació."
 ---
 
 Pots tenir comptes de diversos serveis de missatgeria instantània, 

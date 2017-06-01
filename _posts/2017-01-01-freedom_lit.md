@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Laisv&#279;!
+title: "Laisv&#279;!"
 ---
 
 Linux'ai ir "Atvirojo kodo" programos yra „laisvos“. Tai rei&#353;kia, kad j&#371; licencija yra "laisva 

@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Vrijheid!
+title: "Vrijheid!"
 ---
 
 Linux en opensourcesoftware zijn "vrij" (Engels free). Dit betekent

@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Kies hoe uw bureaubladomgeving eruitziet.
+title: "Kies hoe uw bureaubladomgeving eruitziet."
 ---
 
 Als u een Windows-gebruiker bent, is uw bureaubladomgeving waarschijnlijk

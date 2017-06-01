@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Linux beschermt uw computer
+title: "Linux beschermt uw computer"
 ---
 
 Virussen, trojaanse paarden, adware, spyware... Windows laat deze allemaal eenvoudig uw computer binnendringen. De gemiddelde tijd dat een Windows-computer (verbonden met het internet en met een standaard "Service Pack 2"-installatie besmet wordt is <b>40 minuten</b> (en soms zelfs maar 30 seconds).

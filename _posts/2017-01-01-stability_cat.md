@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: És el teu sistema inestable?
+title: "És el teu sistema inestable?"
 ---
 
 Alguna vegada has perdut el teu preciós treball perquè Windows s'ha 

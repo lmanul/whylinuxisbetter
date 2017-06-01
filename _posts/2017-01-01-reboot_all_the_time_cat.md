@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: N'estàs ben tip de reiniciar el teu ordinador a sovint?
+title: "N'estàs ben tip de reiniciar el teu ordinador a sovint?"
 ---
 
 Acabes d'actualitzar una o dues petites coses al teu sistema Windows amb el “Windows update”? Per favor, reinicia. Acabes d'instal·lar algun programari nou? Per favor, reinicia. El teu sistema sembla inestable? Intenta reiniciar, tot funcionarà probablement millor després d'això.

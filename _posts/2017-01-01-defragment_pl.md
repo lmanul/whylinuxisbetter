@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Czy Twoje życie wydaje się pofragmentowane?
+title: "Czy Twoje życie wydaje się pofragmentowane?"
 ---
 
 Jeśli wiesz już, co to takiego fragmentacja dysku, to w skrócie

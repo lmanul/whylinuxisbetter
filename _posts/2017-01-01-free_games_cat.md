@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Juga a centenars de jocs de franc
+title: "Juga a centenars de jocs de franc"
 ---
 
 Centenars de jocs són publicats sota una llicència lliure: 2D, 3D, trencaclosques, jocs bèl·lics, jocs multijugadors en línia, i molt més! Aquí en teniu uns pocs exemples (la llista sencera podria ser eterna):

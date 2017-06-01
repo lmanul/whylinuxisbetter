@@ -1,6 +1,6 @@
 ---
 lang: no
-title: Glem alt om drivere.
+title: "Glem alt om drivere."
 ---
 
 Ny hardware, selv blant de enkleste former, blir vanligvis solgt med en CD. På CD-en finner man et lite program som blir kalt en «driver». Hvis du leser instruksjonsmanualen, finner du ut at hardwaren ikke vil virke på en datamaskin med Windows hvis du ikke installerer driveren. Hvis du er som de aller fleste, og ikke leser manualen, finner du nok selv ut av det når din høyteknologiske dings ikke virker med det samme.

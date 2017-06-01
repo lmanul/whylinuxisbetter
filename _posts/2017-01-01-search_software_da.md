@@ -1,6 +1,6 @@
 ---
 lang: da
-title: Har du brug for noget nyt software? Lad være med at søge på nettet, Linux finder det for dig.
+title: "Har du brug for noget nyt software? Lad være med at søge på nettet, Linux finder det for dig."
 ---
 
 Hvis du vil prøve noget nyt software under Windows skal du ::

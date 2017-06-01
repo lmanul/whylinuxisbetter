@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Necesitas novos programas? Non busques en internet, Linux os trae por ti.
+title: "Necesitas novos programas? Non busques en internet, Linux os trae por ti."
 ---
 
 Se queres darlle unha ollada a un novo software en Windows, vas necesitar:

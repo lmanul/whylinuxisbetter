@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Uitaţi de viruşi.
+title: "Uitaţi de viruşi."
 ---
 
 Dacă PC-ul dumneavoastră se închide singur fără să vă întrebe,

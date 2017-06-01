@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Too many windows? Use workspaces.
+title: "Too many windows? Use workspaces."
 ---
 
 I never was a Windows user and there is something I just cannot 

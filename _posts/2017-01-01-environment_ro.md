@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Mediu
+title: "Mediu"
 ---
 
 <p align="center">Mulţumiri lui Franz Bourlet pentru idee

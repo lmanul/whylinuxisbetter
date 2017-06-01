@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Intraţi în noua generaţie de desktop-uri.
+title: "Intraţi în noua generaţie de desktop-uri."
 ---
 
 Aţi fost impresionat de transparenţa şi efectele 3D introduse în Windows

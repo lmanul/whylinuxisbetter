@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Non perdas de vista o clima
+title: "Non perdas de vista o clima"
 ---
 
 Estás cansado de ter un termómetro fóra da túa fiestra e comprobalo antes de saír? Dálle unha mirada á túa pantalla de Linux e non perdas de vista o clima:

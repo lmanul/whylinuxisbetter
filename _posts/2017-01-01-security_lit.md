@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Linux'ai saugo j&#363;s&#371; kompiuter&#303;
+title: "Linux'ai saugo j&#363;s&#371; kompiuter&#303;"
 ---
 
 Virusai, Trojos arkliai (troyans), brukalai (adware), &#353;nipalai (spywares)... Windows'ai &#303;sileid&#382;ia 

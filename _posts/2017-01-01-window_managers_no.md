@@ -1,6 +1,6 @@
 ---
 lang: no
-title: Velg hvordan ditt skrivebord skal se ut.
+title: "Velg hvordan ditt skrivebord skal se ut."
 ---
 
 Hvis du er en Windows-bruker, så er høyst sannsynlig skrivebordmiljøet ditt noe som dette:

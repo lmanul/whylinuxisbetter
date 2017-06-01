@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Čuvajte energiju: neka Vaš kompjuter miruje ili hibernira.
+title: "Čuvajte energiju: neka Vaš kompjuter miruje ili hibernira."
 ---
 
 <ul>

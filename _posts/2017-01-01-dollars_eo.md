@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Ne pagu 100 dolarojn por via operaciumo
+title: "Ne pagu 100 dolarojn por via operaciumo"
 ---
 
 <h3>(Kaj ne kopiu ĝin neleĝe)</h3>

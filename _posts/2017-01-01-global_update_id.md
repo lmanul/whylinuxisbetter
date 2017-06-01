@@ -1,6 +1,6 @@
 ---
 lang: id
-title: <i>Update</i> semua perangkat lunakmu dengan satu klik.
+title: "<i>Update</i> semua perangkat lunakmu dengan satu klik."
 ---
 
 Windows punya satu perangkat yang diberi nama "Windows Update", dimana kita bisa melakukan pembaruan <i>(update)</i> sistem kita dengan pembaruan paling akhir.

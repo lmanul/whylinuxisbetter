@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Özgürlük için!
+title: "Özgürlük için!"
 ---
 
 Linux ve "Açık Kaynaklı" yazılımlar "özgür"dür. Bu, lisanslarının "özgür lisans" olduğu ve genellikle de GPL (Genel Kamu Lisansı) olduğu anlamına gelir. Bu lisans herkesin yazılımın kodunu (tarifini) görmesini, kopyalamasını ve GPL lisansının korunması şartıyla yeniden dağıtılmasını mümkün kılar.

@@ -1,6 +1,6 @@
 ---
 lang: br
-title: ﻿Relatando Bugs
+title: "﻿Relatando Bugs"
 ---
 
 Se encontrar um bug (falha) no Windows, você poderá basicamente esperar e rezar que a Microsoft conserte-o rapidamente (e se o bug comprometer a segurança do sistema, terá que rezar o dobro). Você pode pensar que relatar o bug à Microsoft (assim poderão consertá-lo mais rápido) seja fácil. Bem, pense novamente. <a 

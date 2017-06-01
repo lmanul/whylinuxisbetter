@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Dijital hayatınızda parçalanmalar mı var ?
+title: "Dijital hayatınızda parçalanmalar mı var ?"
 ---
 
 Eğer halihazırda parçalanmanın ne olduğunu biliyorsanız ve her ay ya da

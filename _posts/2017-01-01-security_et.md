@@ -1,6 +1,6 @@
 ---
 lang: et
-title: Linux kaitseb sinu arvutit
+title: "Linux kaitseb sinu arvutit"
 ---
 
 Viirused, trooja hobused, reklaamvara, nuhkvara... Windows v&otilde;tab neid k&otilde;iki kerge vaevaga vastu. Et vastpaigaldatud Windowsiga arvuti (mis on internetti &uuml;hendatud ja millele on vaikimisi &#8222;Service Pack 2&#8221; lisatud) endale m&otilde;ne sellise parasiidi leiaks, l&auml;heb keskmiselt <b>40 minutit</b> (ja vahest isegi 30 sekundit).

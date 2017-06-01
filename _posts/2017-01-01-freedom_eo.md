@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Libereco!
+title: "Libereco!"
 ---
 
 Linux kaj la "malfermita" programaro estas "liberaj". Ĉi tio signifas ke sia permesilo estas "libera permesilo", kaj la plej komuna estas la GPL (Ĝenerala Publika Permesilo). Ĉi tiu permesilo starigas ke iu ajn rajtas kopii la programaron, vidi la fontkodon (la "recepton"), modifi ĝin, kaj redisdoni ĝin kondiĉe ke ĝi tenas la permesilon GPL.

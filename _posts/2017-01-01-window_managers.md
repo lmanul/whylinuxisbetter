@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Choose what your desktop looks like.
+title: "Choose what your desktop looks like."
 ---
 
 If you're a Windows user, your desktop environment probably isn't 

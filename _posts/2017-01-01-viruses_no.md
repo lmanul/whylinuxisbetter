@@ -1,6 +1,6 @@
 ---
 lang: no
-title: Glem alt om virus.
+title: "Glem alt om virus."
 ---
 
 Hvis datamaskinen din slår seg av uten at den spør deg først, eller hvis rare vinduer med tekst du ikke forstår og alle mulige former for reklame popper opp når du ikke spør etter det, da har datamaskinen din høyst sannsylig virus. Hovedgrunnen for dette er at den kjører Windows.

@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Dùng MSN, AIM, ICQ, Jabber, chỉ bằng một chương trình
+title: "Dùng MSN, AIM, ICQ, Jabber, chỉ bằng một chương trình"
 ---
 
 Bạn có thể dùng nhiều tài khoản của các dịch vụ nhắn tin khác nhau như MSN, Yahoo, 

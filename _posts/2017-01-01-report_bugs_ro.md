@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Raportarea defectelor
+title: "Raportarea defectelor"
 ---
 
 Dacă găsiţi un defect în Windows, puteţi doar să aşteptaţi şi să vă

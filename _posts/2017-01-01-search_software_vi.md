@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Bạn cần chương trình mới ? Không cần tìm trên mạng, Linux sẽ tải về cho bạn.
+title: "Bạn cần chương trình mới ? Không cần tìm trên mạng, Linux sẽ tải về cho bạn."
 ---
 
 Nếu bạn muốn biết các chương trình mới trên Windows, bạn cần phải:

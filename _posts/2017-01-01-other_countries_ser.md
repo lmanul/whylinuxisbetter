@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: a i svojoj.
+title: "a i svojoj."
 ---
 
 <center>(Hvala Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 

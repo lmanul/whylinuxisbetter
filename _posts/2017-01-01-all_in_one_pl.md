@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?
+title: "System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?"
 ---
 
 Instalacja systemu Windows to dopiero początek. Wyobraź sobie, że

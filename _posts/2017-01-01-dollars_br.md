@@ -1,6 +1,6 @@
 ---
 lang: br
-title: ﻿Não pague $100 pelo seu sistema operacional
+title: "﻿Não pague $100 pelo seu sistema operacional"
 ---
 
 <h3>(E não os copie ilegalmente)</h3>

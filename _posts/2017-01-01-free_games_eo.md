@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Ludu centojn da ludoj senkoste
+title: "Ludu centojn da ludoj senkoste"
 ---
 
 Centoj da ludoj estas eldonataj sub libera permeso: 2D, 3D, puzloj, batal-ludoj, enretaj ludoj, ĉiaj! Jen kelkaj ekzemploj (la tuta listo estus senfina):

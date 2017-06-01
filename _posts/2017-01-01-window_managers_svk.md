@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Vyberte si štýl vašej pracovnej plochy
+title: "Vyberte si štýl vašej pracovnej plochy"
 ---
 
 Ak ste používateľom Windows, prostredie vašej pracovnej plochy pravdepodobne vyzerá nejak takto:

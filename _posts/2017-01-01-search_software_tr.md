@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Yeni yazılıma mı ihtiyacınız var? İnternet'te aramaya çalışmayın, Linux ayağınıza getirsin.
+title: "Yeni yazılıma mı ihtiyacınız var? İnternet'te aramaya çalışmayın, Linux ayağınıza getirsin."
 ---
 
 Eğer bir Windows yazılımı kuracaksanız, büyük ihtimalle şu yolu izlersiniz:

@@ -1,6 +1,6 @@
 ---
 lang: hu
-title: Belefáradtál már abba, hogy folyton újraindítsd a géped?
+title: "Belefáradtál már abba, hogy folyton újraindítsd a géped?"
 ---
 
 Épp csak pár dolgot frissített a windows-os rendszerén a Windows Update-tel? Kérjük, indítsa újra számítógépét! Épp csak néhány új programot telepített? Kérjük, indítsa újra számítógépét! A rendszere instabilnak tűnik? Próbálkozzon egy újraindítással, utána már valószínűleg minden rendben lesz.

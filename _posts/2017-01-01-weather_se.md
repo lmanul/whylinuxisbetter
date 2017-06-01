@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Håll koll på vädret.
+title: "Håll koll på vädret."
 ---
 
 Är du trött på att behöva ha en termometer utanför fönstret, och behöva gå och kolla tempraturen innan du ska gå ut? Kolla bara upp på ditt Linuxskrivbord och håll koll på vädret:

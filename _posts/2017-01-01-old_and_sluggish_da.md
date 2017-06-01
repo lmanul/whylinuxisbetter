@@ -1,6 +1,6 @@
 ---
 lang: da
-title: Hvorfor bliver din Windows-maskine langsommere dag for dag?
+title: "Hvorfor bliver din Windows-maskine langsommere dag for dag?"
 ---
 
 Windows har en mængde design-fejl, der resulterer i at det bliver langsommere og langsommere, og ikke holder særligt længe. Du har sikkert mere end én gang hørt nogen sige "Min computer er ved at blive sløv, jeg bliver nok nød til at geninstallere". 

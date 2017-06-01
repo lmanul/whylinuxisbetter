@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Pomôžte ostatným krajinám, a aj tej svojej
+title: "Pomôžte ostatným krajinám, a aj tej svojej"
 ---
 
 <center>(Vďaka Gabrielovi E. Patiño -- gepatino {at}gmail {dot} com -- za nápad a prvú verziu textu) </center>

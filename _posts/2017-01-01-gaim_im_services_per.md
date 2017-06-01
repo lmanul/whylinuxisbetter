@@ -16,7 +16,7 @@ lang: per
 
 <div style="font-family: Tahoma;" id="corps">
 
-title: استفاده از سرويسهاي&nbsp;MSN, AIM, ICQ, Jabberهمگي در يك برنامه
+title: "استفاده از سرويسهاي&nbsp;MSN, AIM, ICQ, Jabberهمگي در يك برنامه"
 ---
 
 شما ممكنه در سرويسهاي چت مختلف اكانت داشته باشين

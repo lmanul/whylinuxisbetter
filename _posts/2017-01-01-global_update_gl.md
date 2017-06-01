@@ -1,6 +1,6 @@
 ---
 lang: gl
-title: Actualiza todo i que tes no teu PC cun só click.
+title: "Actualiza todo i que tes no teu PC cun só click."
 ---
 
 Windows ten unha ferramenta moi conveniente chamada "Windows Update", que te permite ter ao día o teu sistema coas últimas actualizacións dispoñibles.

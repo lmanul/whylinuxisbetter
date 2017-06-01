@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Yazılımınızı tek bir tık ile güncelleyin.
+title: "Yazılımınızı tek bir tık ile güncelleyin."
 ---
 
 Windows "Windows Update" adı verilen ve sisteminize uygun olan en son 

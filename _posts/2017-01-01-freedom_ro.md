@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Libertate!
+title: "Libertate!"
 ---
 
 Linux și softurile de tip "Open Source" sunt "libere". Asta înseamnă că licența lor este o "licența liberă", cea mai comună fiind cea de tipul GPL (General Public 

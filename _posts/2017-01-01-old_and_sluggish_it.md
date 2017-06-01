@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Perché Windows rallenta giorno dopo giorno?
+title: "Perché Windows rallenta giorno dopo giorno?"
 ---
 
 Windows ha delle falle di progettazione alla base che lo 

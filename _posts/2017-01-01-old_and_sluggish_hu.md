@@ -1,6 +1,6 @@
 ---
 lang: hu
-title: Miért lesz a Windows napról napra lassabb?
+title: "Miért lesz a Windows napról napra lassabb?"
 ---
 
 A Windows-nak rengeteg tervezési hibája van, emiatt egyre lassabbá válik és hamarosan újra kell telepíteni. Biztos többször is hallottad már, hogy valaki azt mondja, „A gépem nagyon belassult, azt hiszem, újratelepítem”. A Windows újratelepítése megoldja a problémákat... a következő alkalomig.

@@ -1,6 +1,6 @@
 ---
 lang: bn
-title: একটি প্রোগ্রামের মাধ্যমেই ব্যবহার করুন MSN, Yahoo, ICQ, AIM, Facebook chat সহ আরো অনেকগুলো IM।
+title: "একটি প্রোগ্রামের মাধ্যমেই ব্যবহার করুন MSN, Yahoo, ICQ, AIM, Facebook chat সহ আরো অনেকগুলো IM।"
 ---
 
 আপনার হয়তো MSN, Yahoo, ICQ, Jabber, AIM, Facebook এরকম কয়েকটি ইন্সট্যান্ট মেসেজিং সার্ভিসে একাউন্ট রয়েছে। Windows বা Mac OS X এ আপনার এক্ষেত্রে প্রতিটার জন্যে আলাদা আলাদা মেসেঞ্জার সফটওয়্যার লাগবে।

@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?
+title: "Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?"
 ---
 
 L'installation de Windows, ce n'est que le début de l'aventure. 

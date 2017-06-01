@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Waarom wordt Windows steeds langzamer?
+title: "Waarom wordt Windows steeds langzamer?"
 ---
 
 Windows heeft een aantal ontwerpfouten, waardoor het steeds

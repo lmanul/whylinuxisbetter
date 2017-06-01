@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Forgesu la pelilojn
+title: "Forgesu la pelilojn"
 ---
 
 Novaj pecoj de aparataro, eĉ la plej simplaj, kutime venas kun KD. En la KD estas tre malgranda peco de programaro nomata "pelilo". Se vi legas la manlibron, vi scios ke la aparataro ne funkcios en komputilo kun Windows ĝis kiam vi instalas la pelilon. Se vi estas kiel la plejmultaj uloj kaj vi ne legas la manlibron, imagu vin kiam vi eble vidas kiel via novega ilo ne funkcias per si mem.

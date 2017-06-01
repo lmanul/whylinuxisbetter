@@ -1,6 +1,6 @@
 ---
 lang: tr
-title: Bilgisayarınızı sürekli baştan başlatmaktan sıkıldınız mı?
+title: "Bilgisayarınızı sürekli baştan başlatmaktan sıkıldınız mı?"
 ---
 
 Windows Update ile Windows sisteminizde bir kaç küçük yükseltme mi yaptınız? Lütfen yeniden başlatın. Bazı yeni yazılımlar mı yüklediniz? Lütfen yeniden başlatın. Sisteminiz stabil çalışmıyor mu? Lütfen yeniden başlatın. Yeniden başlatmayı deneyin, bundan sonra her şey daha iyi çalışacak.

@@ -1,7 +1,7 @@
 ---
 lang: tr
 
-title: Sistemi kurduktan sonra neden <i>hala</i> daha fazla araç kurasınız ki?
+title: "Sistemi kurduktan sonra neden <i>hala</i> daha fazla araç kurasınız ki?"
 ---
 
 Windows kurmak sadece bir başlangıçtır. Hayal edin, yeni Windows 7 

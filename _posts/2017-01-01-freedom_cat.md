@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Llibertat!
+title: "Llibertat!"
 ---
 
 Linux i el programari de “Codi Obert” són lliures. Això significa que 

@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Treba Vam nov softver? Ne tražite po mreži, Linux će Vam nabaviti.
+title: "Treba Vam nov softver? Ne tražite po mreži, Linux će Vam nabaviti."
 ---
 
 Ako želite da probate novo parče softvera u Windows-u, moraćete da:

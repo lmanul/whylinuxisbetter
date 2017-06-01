@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Gardez un oeil sur la météo
+title: "Gardez un oeil sur la météo"
 ---
 
 Vous en avez marre d'avoir un thermomètre de l'autre côté de la 

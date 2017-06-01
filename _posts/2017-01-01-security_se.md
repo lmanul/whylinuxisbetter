@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Linux skyddar din dator
+title: "Linux skyddar din dator"
 ---
 
 Virus, trojaner, adware, spyware... Windows låter alla dessa fulingar gå in i datorn ganska enkelt. all these enter. Generellt kan man säga att en dator med Windows blir infekterad (ansluten till internet och med Service Pack 3) inom <b>40 minuter</b> (och i vissa fall tar det så kort tid som 30 sekunder).

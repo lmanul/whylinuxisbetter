@@ -1,6 +1,6 @@
 ---
 lang: fr
-title:  Mettez à jour tous vos logiciels d'un seul clic.
+title: " Mettez à jour tous vos logiciels d'un seul clic."
 ---
 
 Windows possède ou outil très pratique nommé "Windows Update", 

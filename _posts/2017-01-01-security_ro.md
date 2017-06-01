@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Linux vă protejează computerul
+title: "Linux vă protejează computerul"
 ---
 
 Viruşi, troieni, adware, spyware... Windows permite acestora să intre în

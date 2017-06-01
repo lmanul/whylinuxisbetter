@@ -1,6 +1,6 @@
 ---
 lang: es
-title: No más mierdaware.
+title: "No más mierdaware."
 ---
 
 Si alguna vez ha comprado un ordenador nuevo con Windows, debe saber que puede ser una experiencia muy frustrante.

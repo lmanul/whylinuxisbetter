@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Ben je moe om de hele tijd te herstarten?
+title: "Ben je moe om de hele tijd te herstarten?"
 ---
 
 Heeft u net twee kleine dingen geüpgraded via "Windows Update"? Herstart.

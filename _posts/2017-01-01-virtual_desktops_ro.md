@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Prea multe ferestre? Folosiţi spaţiile de lucru.
+title: "Prea multe ferestre? Folosiţi spaţiile de lucru."
 ---
 
 Nu am fost niciodată un utilizator fidel de Windows şi e ceva ce chiar

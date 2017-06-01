@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Reporting bugs
+title: "Reporting bugs"
 ---
 
 If you find a bug in Windows, you can basically wait and pray that 

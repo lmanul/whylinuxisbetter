@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Actualiza todo tu software con un sólo clic.
+title: "Actualiza todo tu software con un sólo clic."
 ---
 
 Windows tiene una herramienta muy conveniente llamada "Windows Update", el cual te permite tener al día tu sistema con las últimas actualizaciones disponibles.

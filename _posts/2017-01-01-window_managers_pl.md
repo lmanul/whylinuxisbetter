@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Dostosuj wygląd systemu do swoich potrzeb
+title: "Dostosuj wygląd systemu do swoich potrzeb"
 ---
 
 Jeśli używasz systemu Windows, Twój pulpit najpewniej niewiele

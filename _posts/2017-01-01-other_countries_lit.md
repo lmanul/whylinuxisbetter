@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Pad&#279;k kitoms &#353;alis, taip pat ir savo.
+title: "Pad&#279;k kitoms &#353;alis, taip pat ir savo."
 ---
 
 <center>(D&#279;koju Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 

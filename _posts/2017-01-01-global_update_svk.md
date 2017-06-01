@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Aktualizujte všetky svoje programy jedným kliknutím
+title: "Aktualizujte všetky svoje programy jedným kliknutím"
 ---
 
 Windows má celkom pekný užitočný nástroj "Windows update", ktorý vám umožňuje aktualizovať systém najnovšími dostupnými aktualizáciami.

@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Oblida't dels controladors
+title: "Oblida't dels controladors"
 ---
 
 Les noves peces de maquinari, fins i tot les més senzilles, normalment venen amb un CD. Al CD, hi ha una petita peça de programari anomenada "controlador". Si llegeixes el manual d'instruccions, sabràs que el maquinari no funcionarà en un ordinador amb Windows fins que no instal·lis el controlador. Si ets com la majoria de gent i no llegeixes el manual, aleshores ho descobriràs per tu mateix probablement quan el teu nou super dispositiu no funcioni en connectar-lo.

@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Scheint dein digitales Leben fragmentiert zu sein?
+title: "Scheint dein digitales Leben fragmentiert zu sein?"
 ---
 
 Wenn dir bereits bekannt ist, was Fragmentierung ist und es bereits gew&ouml;hnt bist, deine Platte einmal im Monat 

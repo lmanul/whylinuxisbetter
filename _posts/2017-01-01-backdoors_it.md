@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Nessuna backdoor nel tuo software.
+title: "Nessuna backdoor nel tuo software."
 ---
 
 La differenza tra software "closed source" (proprietario) e "open 

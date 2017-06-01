@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom.
+title: "Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom."
 ---
 
 Možda imate naloge na nekoliko servisa za instant poruke, kao što su

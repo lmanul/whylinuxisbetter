@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Ar j&#363;s&#371; sistema nestabili?
+title: "Ar j&#363;s&#371; sistema nestabili?"
 ---
 
 Ar kada nors teko prarasti savo verting&#261; darb&#261; d&#279;l Windows'&#371; „nul&#363;&#382;imo“? Ar visada 

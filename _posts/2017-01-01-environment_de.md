@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Umweltschutz
+title: "Umweltschutz"
 ---
 
 <p align="center">Danke an Franz Bourlet für die Idee

@@ -1,6 +1,6 @@
 ---
 lang: et
-title: J&auml;ta viirustega h&uuml;vasti.
+title: "J&auml;ta viirustega h&uuml;vasti."
 ---
 
 Windowsil on suur pahe endale arvutiviiruseid ligi meelitada. See v&otilde;ib v&auml;ljenduda mitmel erineval moel:

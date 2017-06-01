@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Använd MSN, AIM, ICQ, Jabber - med ett enda program
+title: "Använd MSN, AIM, ICQ, Jabber - med ett enda program"
 ---
 
 Du kanske har flera konton för flera olika chattprogram, som MSN, 

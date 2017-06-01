@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Sin desastres en tu menú principal
+title: "Sin desastres en tu menú principal"
 ---
 
 Si usas Windows y has instalado algunas piezas de software, es probable que tu menú principal se vea así:

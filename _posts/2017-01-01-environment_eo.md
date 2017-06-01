@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Medio
+title: "Medio"
 ---
 
 <p align="center">Dankon al Franz Bourlet pro la ideo

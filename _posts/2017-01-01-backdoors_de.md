@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Keine Hintertüren in deiner Software.
+title: "Keine Hintertüren in deiner Software."
 ---
 
 Der Unterschied zwischen „Closed Source“ (proprietärer) und „Open Source“ Software ist, dass (oh Wunder!) die Quelle offen ist. OK, aber warum sollte mich das kümmern? Nun, die „Source“ oder auch „Quelltext“ ist für ein Programm das, was ein Rezept für einen Kuchen ist. Wenn du einen Kuchen kaufst, gibt es keine Möglichkeit, das genaue Rezept herauszufinden (auch wenn du Teile davon erraten kannst, wird es nie genau das gleiche sein). Gäbe eine Bäckerei ihr Rezept für einen super-leckeren Käsekuchen heraus, würde diese bald darauf Pleite gehen, weil die Leute ihn selbst zu Hause backen würden, anstatt ihn zu kaufen. Ebenso gibt Microsoft nicht ihr Rezept, den Quelltext für ihre Software, z.&#x202f;B. Windows, heraus. Denn das ist genau das, womit sie ihr Geld verdienen.

@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Previše prozora? Koristite radne površine.
+title: "Previše prozora? Koristite radne površine."
 ---
 
 Ja nikad nisam bio korisnik Windows-a i jednu stvar ne mogu da razumem:

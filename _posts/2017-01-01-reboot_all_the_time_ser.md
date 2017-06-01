@@ -1,6 +1,6 @@
 ---
 lang: ser
-title:  Zar niste umorni od stalnog restartovanja sistema?
+title: " Zar niste umorni od stalnog restartovanja sistema?"
 ---
 
 Jeste li upravo osvežili jednu ili dve sitnice na Vašem Windows 

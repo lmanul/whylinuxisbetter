@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Pavargote nuolat perkraudin&#279;ti kompiuter&#303;?
+title: "Pavargote nuolat perkraudin&#279;ti kompiuter&#303;?"
 ---
 
 Atnaujinote vien&#261; ar por&#261; dalyk&#371; Windows'uose su  "Windows update"? Pra&#353;ome perkrauti kompiuter&#303;. &#302;dieg&#279;te nauj&#261; program&#261;? Pra&#353;ome perkrauti kompiuter&#303;. Sistema atrodo nestabili? Pra&#353;ome perkrauti kompiuter&#303;, po to viskas tur&#279;t&#371; veikti geriau.

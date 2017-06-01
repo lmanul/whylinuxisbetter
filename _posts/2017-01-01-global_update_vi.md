@@ -1,6 +1,6 @@
 ---
 lang: vi
-title: Cập nhật hệ thống bằng một click chuột
+title: "Cập nhật hệ thống bằng một click chuột"
 ---
 
 Windows có một chương trình khá tiện lợi là "Windows update", tự động tải về 

@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Aktualizuj <i>całe</i> swoje oprogramowanie jednym kliknięciem
+title: "Aktualizuj <i>całe</i> swoje oprogramowanie jednym kliknięciem"
 ---
 
 System Windows posiada całkiem wygodne narzędzie o nazwie

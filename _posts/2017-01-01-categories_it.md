@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Nessuna confusione nel tuo menu di avvio
+title: "Nessuna confusione nel tuo menu di avvio"
 ---
 
 Se usi Windows e hai installato un certo numero di software sul tuo computer, è probabile che il tuo menu Start cominci a diventare qualcosa come questo:

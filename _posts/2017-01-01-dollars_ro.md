@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Nu plătiţi $100 pentru sistemul de operare
+title: "Nu plătiţi $100 pentru sistemul de operare"
 ---
 <h3>(Şi nu îl copiaţi ilegal)</h3>
 

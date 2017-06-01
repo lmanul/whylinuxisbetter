@@ -1,6 +1,6 @@
 ---
 lang: no
-title: Frihet!
+title: "Frihet!"
 ---
 
 Linux og «Open source»-programvare er «fri». Dette betyr at lisensen er en «fri lisens», og den mest brukte er GPL (General Public License). Denne lisensen tillater at hvem som helst kan fritt kopiere programvaren, lese kildekoden («oppskriften»), endre den, og redistribuere den så lenge lisensen forblir GPL.

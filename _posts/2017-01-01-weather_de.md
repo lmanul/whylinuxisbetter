@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Behalt das Wetter im Auge.
+title: "Behalt das Wetter im Auge."
 ---
 
 Bist du es leid, ein Thermometer drau&szlig;en am Fenster zu haben und es zu &uuml;berpr&uuml;fen, bevor du raus gehst? Wirf einfach nur einen Blick auf den Linux-Bildschirm und behalt das Wetter im Auge:

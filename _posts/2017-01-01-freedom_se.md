@@ -1,6 +1,6 @@
 ---
 lang: se
-title: Frihet!
+title: "Frihet!"
 ---
 
 Linux och "open source" mjukvara som är "fri". Detta betyder att licensen är en 

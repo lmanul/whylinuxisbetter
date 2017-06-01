@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Zbyt wiele okien? Użyj wirtualnych pulpitów
+title: "Zbyt wiele okien? Użyj wirtualnych pulpitów"
 ---
 
 Nigdy nie byłem użytkownikiem systemu Windows i jest jedna rzecz,

@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Folosiţi MSN, AIM, ICQ, Jabber cu un singur program
+title: "Folosiţi MSN, AIM, ICQ, Jabber cu un singur program"
 ---
 
 Poate că aveţi conturi pentru multe servicii de mesagerie instantă,

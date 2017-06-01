@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Does your digital life seem fragmented?
+title: "Does your digital life seem fragmented?"
 ---
 
 If you already know what fragmentation is, and are already used to 

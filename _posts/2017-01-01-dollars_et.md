@@ -1,6 +1,6 @@
 ---
 lang: et
-title: &Auml;ra maksa operatsioonis&uuml;steemi eest 4 000.-
+title: "&Auml;ra maksa operatsioonis&uuml;steemi eest 4 000.-"
 ---
 
 <h3>(Ja &auml;ra tee neist piraatkoopiaid)</h3>

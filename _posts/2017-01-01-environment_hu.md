@@ -1,6 +1,6 @@
 ---
 lang: hu
-title: Környezetvédelem
+title: "Környezetvédelem"
 ---
 
 <p align="center">Köszönet Franz Bourlet-nek az ötletért!

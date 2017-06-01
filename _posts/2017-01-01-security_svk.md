@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Linux chráni váš počítač
+title: "Linux chráni váš počítač"
 ---
 
 Vírusy, trójske kone, adware, spyware... Windows ich nechá dostať sa do vášho počítača pomerne ľahko. Priemerná doba, za ktorú je počítač, na ktorom je naištalovaný Windows (so "Service Pack 2") infikovaný po pripojení na internet je <b>40 minút</b> (a niekedy to trvá iba 30 sekúnd).

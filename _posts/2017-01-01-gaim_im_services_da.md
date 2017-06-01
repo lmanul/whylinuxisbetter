@@ -1,6 +1,6 @@
 ---
 lang: da
-title: Brug MSN, AIM, ICQ, Jabber, med ét enkelt program.
+title: "Brug MSN, AIM, ICQ, Jabber, med ét enkelt program."
 ---
 
 Du har muligvis flere forskellige kontoer fra forskellige IM (instant messenger) tjenester, f.eks. 

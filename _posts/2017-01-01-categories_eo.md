@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Sen fuŝoj en via startmenuo
+title: "Sen fuŝoj en via startmenuo"
 ---
 
 Se vi uzas Windows kaj instalis iom da programoj en vian komputilon, eble via startmenuo estas videbla ĉi tiel:

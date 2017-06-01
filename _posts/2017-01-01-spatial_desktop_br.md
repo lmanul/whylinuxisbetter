@@ -1,6 +1,6 @@
 ---
 lang: br
-title: Salte para a próxima geração de desktops.
+title: "Salte para a próxima geração de desktops."
 ---
 
 Você ficou impressionado pelos efeitos 3D e possibilidades de 

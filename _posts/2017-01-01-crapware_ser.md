@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Bez sranjvera
+title: "Bez sranjvera"
 ---
 
 Ako ste ikada kupili nov računar sa preinstaliranim Windows-om, sigurno znate kako to može da bude frustrirajuće iskustvo

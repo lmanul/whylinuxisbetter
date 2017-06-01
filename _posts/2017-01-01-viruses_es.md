@@ -1,6 +1,6 @@
 ---
 lang: es
-title: Olvida los virus.
+title: "Olvida los virus."
 ---
 
 Si tu ordenador se apaga solo y sin preguntarte, si aparecen ventanas extrañas con texto que no entiendes así como toda clase de anuncios cuando tú no los pediste, si se envían emails a todos tus contactos sin que lo sepas, probablemente tu ordenador tiene un virus y la principal razón para esto es porque usas Windows.

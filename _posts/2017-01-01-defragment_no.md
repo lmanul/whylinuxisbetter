@@ -1,6 +1,6 @@
 ---
 lang: no
-title: Er ditt digitale liv fragmentert?
+title: "Er ditt digitale liv fragmentert?"
 ---
 
 Hvis du allerede vet hva fragmentering er, og er vant med å defragmentere harddisken din hver måned, her er kortversjonen: Linux trenger ikke defragmentering!

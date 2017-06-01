@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Czy nie męczą Cię ciągłe restarty?
+title: "Czy nie męczą Cię ciągłe restarty?"
 ---
 
 Czy właśnie skończyły się instalować "Aktualizacje automatyczne"?.

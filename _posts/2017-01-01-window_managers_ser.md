@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Izaberite kako će Vaš desktop izgledati.
+title: "Izaberite kako će Vaš desktop izgledati."
 ---
 
 Ako ste korisnik Windows-a onda Vaš desktop izgleda otprilike ovako:

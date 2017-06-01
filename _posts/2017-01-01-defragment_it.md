@@ -1,6 +1,6 @@
 ---
 lang: it
-title: La tua vita digitale sembra frammentata?
+title: "La tua vita digitale sembra frammentata?"
 ---
 
 Se sai già cos'è una frammentazione e sei già abituato a deframmentare 

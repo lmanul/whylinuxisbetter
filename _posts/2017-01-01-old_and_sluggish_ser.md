@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Zašto Windows postaje sporiji svakim danom?
+title: "Zašto Windows postaje sporiji svakim danom?"
 ---
 
 Windows ima dosta dizajnerskih grešaka koje uzrokuju da postaje

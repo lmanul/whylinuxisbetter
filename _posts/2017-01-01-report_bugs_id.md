@@ -1,6 +1,6 @@
 ---
 lang: id
-title: Melaporkan <i>bug</i>
+title: "Melaporkan <i>bug</i>"
 ---
 
 Jika kamu menemukan <i>bug</i> pada sistem Windows, kamu hanya dapat menunggu dan berdoa agar Microsoft cepat memperbaikinya (dan jika <i>bug</i> itu mengganggu keamanan sistem, kamu harus berdoa dengan lebih bersungguh-sungguh). Mungkin kamu berpikir bahwa melaporkan <i>bug</i> ke Microsoft (agar mereka bisa memperbaikinya lebih cepat) pasti mudah. Yah, pikirkanlah kembali. <a 

@@ -1,6 +1,6 @@
 ---
 lang: cat
-title: Necessites més programari? No cerques a la web, Linux l'aconsegueix per tu.
+title: "Necessites més programari? No cerques a la web, Linux l'aconsegueix per tu."
 ---
 
 Si vols comprovar una nova peça de programari al Windows, necessitaràs:

@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Sloboda!
+title: "Sloboda!"
 ---
 
 Linux a "slobodný" softvér sú "zadarmo". To znamená, že ich licencia je "bezplatná", a najbežnejšia je GPL (General Public License - Všeobecná verejná licencia). Táto licencia hovorí, že ktokoľvek má povolené kopírovať program, vidieť zdrojový kód ("recept"), modifikovať ho, a redistribuovať ho, pokým zostane licencovaný s GPL.

@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Ĉu vi estas laca restartigi la komputilon daŭre?
+title: "Ĉu vi estas laca restartigi la komputilon daŭre?"
 ---
 
 Ĉu vi aktualigis unu aŭ du malgrandajn aĵojn en via Windows per "Windows update"? Bonvolu restartigi. Ĉu vi nur instalis novan programon? Bonvolu restartigi. Ĉu via operaciumo ŝajnas nestabila? Provu restartigi, ĉio eble funkcios pli bone post tio.

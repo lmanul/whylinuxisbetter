@@ -1,6 +1,6 @@
 ---
 lang: svk
-title: Žiadne zadné vrátka vo vašom softvéri
+title: "Žiadne zadné vrátka vo vašom softvéri"
 ---
 
 Rozdiel medzi "uzavretým" (closed source - proprietary) a "slobodným" (open surce) softvérom je (uhádli ste?), že ich zdrojový kód (source) je otvorený. Huh, oukej, prečo by ma to malo zaujímať? No preto, že zdrojový kód je akokeby tajný "recept" každého softvéru, ako recept na koláč. Ak si kúpite koláč, neexistuje spôsob, ktorým by ste mohli zistiť presný recept (aj keď niektoré veci viete uhádnuť -  "v tomto je kokos"). Ak by pekáreň prezradila recept pre svoj mimoriadne úspešný koláč, veľmi rýchlo by skrachovala, pretože ľudia by si ho upiekli doma a prestali by ho kupovať. Podobne Microsoft nevydáva svoje recepty, alebo "zdrojové kódy" svojich programov, ako napr Windows-u, práve preto, lebo to je spôsob, akým zarábajú.

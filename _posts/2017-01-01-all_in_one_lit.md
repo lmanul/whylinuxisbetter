@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Kai sistema jau įdiegta, kodėl jums vis dar reikia įdiegti visa kita?
+title: "Kai sistema jau įdiegta, kodėl jums vis dar reikia įdiegti visa kita?"
 ---
 
 Windows'&#371; &#303;diegimas yra tik pati prad&#382;ia. Tarkime, &#303;dieg&#279;te naujut&#279;lius Windows 7 ir 

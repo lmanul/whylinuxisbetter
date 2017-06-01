@@ -1,6 +1,6 @@
 ---
 lang: hu
-title: Segíts más országokon és a sajátodon!
+title: "Segíts más országokon és a sajátodon!"
 ---
 
 <center>(Köszönet Gabriel E. Patiñonak -- gepatino {kukac} gmail {pont} com -- az ötletért és a szöveg eredeti változatáért) </center>

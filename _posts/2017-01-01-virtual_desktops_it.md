@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Troppe finestre? Usa gli ambienti di lavoro
+title: "Troppe finestre? Usa gli ambienti di lavoro"
 ---
 
 Non sono mai stato un utente di Windows e c'è qualcosa che proprio non 

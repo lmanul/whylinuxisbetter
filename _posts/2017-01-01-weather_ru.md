@@ -1,6 +1,6 @@
 ---
 lang: ru
-title: Следите за погодой! Кажется дождь начинается... 
+title: "Следите за погодой! Кажется дождь начинается... "
 ---
 
 Are you tired of having a thermometer outside your window and go 

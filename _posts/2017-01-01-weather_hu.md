@@ -1,6 +1,6 @@
 ---
 lang: hu
-title: Tartsd szemmel az időjárást!
+title: "Tartsd szemmel az időjárást!"
 ---
 
 Belefáradtál már, hogy az ablakod előtt tartott hőmérőt nézegesd mindig, mielőtt elmész otthonról? Egy pillantás a Linux képernyőjére és az időjáráson tarthatod a szemed:

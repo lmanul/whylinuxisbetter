@@ -1,6 +1,6 @@
 ---
 lang: id
-title: Gunakan MSN, AIM, ICQ, Jabber, dengan hanya satu program
+title: "Gunakan MSN, AIM, ICQ, Jabber, dengan hanya satu program"
 ---
 
 Kamu mungkin memiliki beberapa akun untuk beberapa layanan pesan instan, seperti MSN, Yahoo, ICQ, Jabber, AIM, dll. Kalau menjalankan Windows atau Mac OS X, kamu mungkin membutuhkan banyak program untuk menjalankan setiap layanan : MSN Messenger untuk MSN, ICQ untuk ICQ, dll.

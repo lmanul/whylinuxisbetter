@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Pasirinkite, kaip atrodys Jūsų darbalaukis.
+title: "Pasirinkite, kaip atrodys Jūsų darbalaukis."
 ---
 
 Jei Jūs naudojatės Windows'ais, Jūsų darbalaukio aplinka tikriausiai bus gerokai panaši į šią:

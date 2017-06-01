@@ -1,6 +1,6 @@
 ---
 lang: lit
-title: Kodėl Jūsų Windows'ai kasdien vis lėtėja?
+title: "Kodėl Jūsų Windows'ai kasdien vis lėtėja?"
 ---
 
 Windows'ai turi keletą klaidų, dėl kurių Jūsų kompiuteris vis lėčiau ir lėčiau dirba. Tikriausiai ne kartą girdėjote žmones taip kalbant: „Mano kompiuteris pasidarė lėtas, perinstaliuosiu Windows'us“. Windows'ų perinstaliavimas problemą išsprendžia... tačiau neilgam.

@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Besoin de nouveaux logiciels ? Ne cherchez pas, Linux les 
+title: "Besoin de nouveaux logiciels ? Ne cherchez pas, Linux les "
 télécharge pour vous.
 ---
 

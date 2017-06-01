@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Non pagare 250 € per il tuo sistema operativo
+title: "Non pagare 250 € per il tuo sistema operativo"
 ---
 
 <h3>(E non copiarlo illegalmente)</h3>

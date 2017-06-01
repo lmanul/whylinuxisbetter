@@ -1,6 +1,6 @@
 ---
 lang: it
-title: Aggiorna tutto il tuo software con un unico clic
+title: "Aggiorna tutto il tuo software con un unico clic"
 ---
 
 Windows ha uno strumento molto conveniente chiamato "Windows Update", che 

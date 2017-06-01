@@ -1,6 +1,6 @@
 ---
 lang: pl
-title: Zapomnij o wirusach
+title: "Zapomnij o wirusach"
 ---
 
 Jeśli Twój komputer nagle zamyka się bez wyraźnej przyczyny i bez

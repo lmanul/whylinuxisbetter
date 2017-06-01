@@ -1,6 +1,6 @@
 ---
 lang: nl
-title: Update uw software met 1 klik
+title: "Update uw software met 1 klik"
 ---
 
 Windows een vrij handig gereedschap genaamd "Windows update", waarmee

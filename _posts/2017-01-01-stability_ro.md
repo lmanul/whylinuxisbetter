@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Sistemul dumneavoastră e instabil?
+title: "Sistemul dumneavoastră e instabil?"
 ---
 
 Aţi pierdut vreodată muncă preţioasă deoarece Windows s-a blocat? Vă închideţi

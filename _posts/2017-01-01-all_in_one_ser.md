@@ -1,6 +1,6 @@
 ---
 lang: ser
-title: Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?
+title: "Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?"
 ---
 
 Instalacija Windows-a je samo početak. Zamislite da ste upravo instalirali

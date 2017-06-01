@@ -1,6 +1,6 @@
 ---
 lang: br
-title: Liberdade!
+title: "Liberdade!"
 ---
 
 O Linux e os programas "Open Source" são "livres". Isso significa que 

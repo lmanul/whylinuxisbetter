@@ -1,6 +1,6 @@
 ---
 lang: eo
-title: Ĉu via operaciumo estas nestabila?
+title: "Ĉu via operaciumo estas nestabila?"
 ---
 
 Ĉu vi iam perdis vian grand-valoran laboron ĉar Windows rompiĝis? Ĉu vi ĉiam elŝaltas la komputilon ĝustmaniere, aŭ ĉu vi kelkfoje elŝaltas ĝin nur ĉar Windows freneziĝis kaj ĝi ne lasas al vi fari ion pli? Ĉu iam aperis la "blua ekrano de la morto" aŭ erarmesaĝoj dirante al vi ke la komputilo bezonas esti elŝaltata pro obskuraj kialoj?

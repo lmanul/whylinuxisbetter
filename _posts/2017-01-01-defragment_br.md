@@ -1,6 +1,6 @@
 ---
 lang: br
-title: Sua vida digital parece fragmentada ?
+title: "Sua vida digital parece fragmentada ?"
 ---
 
 Se você já sabe o que é fragmentação, e tem o costume de 

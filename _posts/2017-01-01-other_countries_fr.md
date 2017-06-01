@@ -1,6 +1,6 @@
 ---
 lang: fr
-title: Aidez les autres pays, et le vôtre
+title: "Aidez les autres pays, et le vôtre"
 ---
 
 <center>(Merci à Gabriel E. Patiño -- gepatino {at}gmail {dot} com -- 

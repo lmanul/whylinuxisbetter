@@ -1,6 +1,6 @@
 ---
 lang: ro
-title: Jucaţi-vă sute de jocuri gratuite!
+title: "Jucaţi-vă sute de jocuri gratuite!"
 ---
 
 Sute de jocuri sunt distribuite sub o licenţă gratuită (ca "berea gratuită" sau "libertatea exprimării"): 2D, 3D, puzzle-uri, jocuri cu războaie, multiplayer, dumneavoastră alegeţi! Aici sunt câteva exemple (lista completă ar fi infinită): 
