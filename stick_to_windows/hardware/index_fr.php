@@ -1,6 +1,7 @@
 
 
-<h2>Le matériel</h2>
+---
+title: Le matériel</h2>
 
 <p>La grande majorité du matériel marche parfaitement sous Linux. 
 Cependant, les composants extrêmement récents (quelques mois) ne 

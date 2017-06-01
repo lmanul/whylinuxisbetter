@@ -1,6 +1,7 @@
 
 
-<h2>Menginstall Linux</h2>
+---
+title: Menginstall Linux</h2>
 
 <p>OK, jadi kamu sudah memutuskan untuk bermigrasi ke Linux. Kamu tidak akan menyesali keputusan ini!</p>
 

@@ -1,6 +1,7 @@
 
 
-<h2>Knjige i štamparska industrija</h2>
+---
+title: Knjige i štamparska industrija</h2>
 
 <p>Linux softver još uvek ima eksperimentalne CMYK mogućnosti. Ovo se poboljšava, ali još  
 nije na nivou kojim bi profesionalci bili zadovoljni.</p>

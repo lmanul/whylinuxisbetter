@@ -1,6 +1,7 @@
 
 
-<h2>Instalacja systemu Linuks<br />
+---
+title: Instalacja systemu Linuks<br />
 <small>(system Windows zostaje na swoim miejscu!)</small></h2>
 
 <p>Decyzja podjęta - przechodzimy na Linuksa. Nie będziesz tego żałować!</p>

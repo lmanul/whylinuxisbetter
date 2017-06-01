@@ -1,6 +1,7 @@
 
 
-<h2>Teste eine „Live-CD“</h2>
+---
+title: Teste eine „Live-CD“</h2>
 
 <p>Tatsächlich kannst du Linux ausprobieren, ohne deine Festplatte anzurühren oder irgendetwas mit deinem Windows anzustellen!</p>
 

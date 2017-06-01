@@ -1,6 +1,7 @@
 
 
-<h2>Vyskúšajte "Live CD"</h2>
+---
+title: Vyskúšajte "Live CD"</h2>
 
 <p>Môžete si vyskúšať Linux bez potreby vôbec sa dotknúť dát na vašom disku, bez potreby robiť niečo s vaším Windows-om!</p>
 

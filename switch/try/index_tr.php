@@ -1,6 +1,7 @@
 
 
-<h2>Bir "Çalışan CD" deneyin</h2>
+---
+title: Bir "Çalışan CD" deneyin</h2>
 
 <p>Linux'u sabit diskinize dokunmadan, varolan Windows'unuza herhangi bir şey yapmadan gerçek anlamda deneyebilirsiniz! 
 Bu "Linux'un Çalışan CD"leri ile mümkündür. Bir çalışan CD kurma süreci şu şekilde işler:</p>

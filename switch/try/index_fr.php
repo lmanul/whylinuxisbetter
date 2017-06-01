@@ -1,6 +1,7 @@
 
 
-<h2>Essayez Linux grâce à un "Live CD"</h2>
+---
+title: Essayez Linux grâce à un "Live CD"</h2>
 
 <p>Il est possible d'essayer Linux en vrai sans même toucher à votre 
 disque dur, sans toucher à votre installation actuelle de Windows ! </p>

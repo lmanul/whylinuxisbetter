@@ -1,6 +1,7 @@
 
 
-<h2>Jocs</h2>
+---
+title: Jocs</h2>
 
 <p>La majoria de jocs són compatibles amb Windows i amb cap més. Alguns d'ells tenen versions per a Mac i alguns d'ells versions per a Linux (Quake 4, Neverwinter Nights, etc.), però la majoria d'ells sols es poden executar en Windows.</p>
 

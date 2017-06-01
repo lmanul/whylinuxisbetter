@@ -1,6 +1,7 @@
 
 
-<h2>Låst mjukvara</h2>
+---
+title: Låst mjukvara</h2>
 
 <p>Förut har många mjukvaruutvecklare ansett att Linuxmarknaden är såpass liten för att man ska orka släppa mjukvara till plattformen. Trots att detta är en vändpunkt, kan den mesta låsta mjukvaran inte köras på Linux.</p>
 

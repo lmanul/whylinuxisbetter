@@ -1,6 +1,7 @@
 
 
-<h2>Installeer Linux</h2>
+---
+title: Installeer Linux</h2>
 
 <p>Ok, u heeft besloten om over te stappen naar Linux. U zult er geen spijt van hebben!</p>
 

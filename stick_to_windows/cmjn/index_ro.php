@@ -1,6 +1,7 @@
 
 
-<h2>Tipografia</h2>
+---
+title: Tipografia</h2>
 <p>Software-ul Linux încă are abilitaţi foarte experimentale CMYK. Acest lucru e îmbunătăţit, dar
 încă nu e gata pentru uz profesional.</p>
 

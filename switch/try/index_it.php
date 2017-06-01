@@ -1,6 +1,7 @@
 
 
-<h2>Prova un "Live CD"</h2>
+---
+title: Prova un "Live CD"</h2>
 
 <p>Puoi provare Linux senza toccare il tuo hard disk, senza far nulla 
 all'esistente Windows!</p>

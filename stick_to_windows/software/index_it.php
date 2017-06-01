@@ -1,6 +1,7 @@
 
 
-<h2>C'è del software proprietario di cui non puoi fare a meno</h2>
+---
+title: C'è del software proprietario di cui non puoi fare a meno</h2>
 
 <p>Fino a poco fa, molti distributori di software consideravano il mercato di software per Linux 
 ancora troppo piccolo per preoccuparsi di fornirgli supporto. Anche se questo sta cambiando, molto 

@@ -1,6 +1,7 @@
 
 
-<h2>Încercaţi un Live CD</h2>
+---
+title: Încercaţi un Live CD</h2>
 
 <p>Puteţi încerca Linux fără să-l instalaţi!</p>
 <p>Acest lucru e posibil cu Live CD-uri. Un live cd lucrează aşa:</p>

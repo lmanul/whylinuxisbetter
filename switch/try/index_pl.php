@@ -1,6 +1,7 @@
 
 
-<h2>Wypróbuj Linuksa, czyli więcej o "Live CD"</h2>
+---
+title: Wypróbuj Linuksa, czyli więcej o "Live CD"</h2>
 
 <p>Aby wypróbować Linuksa, wcale nie musisz pozbywać się swojego
 obecnego systemu. Istnieją bowiem specjalne płyty zwane czasem "Live CD",

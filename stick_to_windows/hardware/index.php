@@ -1,6 +1,7 @@
 
 
-<h2>Hardware</h2>
+---
+title: Hardware</h2>
 
 <p>Most pieces of hardware work just fine with Linux. However, very 
 recent hardware (a few months old) are sometimes not yet supported. Like 

@@ -1,6 +1,7 @@
 
 
-<h2>Dùng thử "Live CD"</h2>
+---
+title: Dùng thử "Live CD"</h2>
 
 <p>Bạn có thể chạy thử Linux mà không đụng gì đến dữ liệu có sẵn bằng các "Live CD":</p>
 

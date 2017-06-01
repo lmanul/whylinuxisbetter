@@ -1,6 +1,7 @@
 
 
-<h2>Spel</h2>
+---
+title: Spel</h2>
 
 <p>De flesta spel är kompatibla med Windows och inget annat. Vissa spel finns också i Mac-versioner, och till och med till Linux, (Quake 4, 
 Neverwinter Nights, etc.), men de flesta kan bara köras på Windows.</p>

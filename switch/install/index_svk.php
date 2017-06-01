@@ -1,6 +1,7 @@
 
 
-<h2>Inštalácia Linux-u</h2>
+---
+title: Inštalácia Linux-u</h2>
 
 <p>Dobre, tak ste sa rozhodli prejsť na Linux. Neoľutujete to!</p>
 

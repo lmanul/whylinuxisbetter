@@ -1,6 +1,7 @@
 
 
-<h2>Installer Linux</h2>
+---
+title: Installer Linux</h2>
 
 <p>Vous avez donc choisi de passer sous Linux. Vous ne le 
 regretterez pas !</p>

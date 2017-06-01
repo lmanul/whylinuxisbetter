@@ -1,6 +1,7 @@
 
 
-<h2>Games</h2>
+---
+title: Games</h2>
 
 <p>Most games are compatible with Windows, and nothing else. Some of 
 them have Mac versions, and some of them have Linux versions (Quake 4, 

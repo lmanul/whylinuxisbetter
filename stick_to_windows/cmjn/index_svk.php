@@ -1,6 +1,7 @@
 
 
-<h2>Tlačiarne a vydavateľstvá</h2>
+---
+title: Tlačiarne a vydavateľstvá</h2>
 
 <p>Linux má ešte stále veľmi experimentálne spracovanie CMYK. Neustále sa zlepšuje, ale ešte nie je dostačujúce pre profesionálne použitie.</p>
 

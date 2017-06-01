@@ -1,6 +1,7 @@
 
 
-<h2>Sprzęt</h2>
+---
+title: Sprzęt</h2>
 
 <p>Większość sprzętu bardzo dobrze współpracuje z systemem Linuks.
 Jednak ten najnowszy, mający jedynie kilka miesięcy - zwykle nie jest

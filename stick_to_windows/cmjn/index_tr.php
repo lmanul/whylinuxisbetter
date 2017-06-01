@@ -1,6 +1,7 @@
 
 
-<h2>Kitap ve basım endüstrisi</h2>
+---
+title: Kitap ve basım endüstrisi</h2>
 
 <p>Linux yazılımlarının hala çok deneysel CMYK özellikleri var. Bu durum daha iyi bir hale geliyor ancak şimdilik profesyonel kullanımı gerçekten tatmin edecek durumda değil.</p>
 

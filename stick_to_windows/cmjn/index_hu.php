@@ -1,6 +1,7 @@
 
 
-<h2>Nyomdaipar</h2>
+---
+title: Nyomdaipar</h2>
 
 <p>Linuxos szoftvereken még mindig nagyon kezdetleges a CMYK színrendszer támogatása. Folyamatos a javulás, de még mindig nem kielégítőek az eredmények a professzionális felhasználók számára.</p>
 

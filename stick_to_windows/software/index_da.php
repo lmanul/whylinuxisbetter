@@ -1,6 +1,7 @@
 
 
-<h2>Proprietær software.</h2>
+---
+title: Proprietær software.</h2>
 
 <p>Indtil for nyligt anså software-producenterne Linux-markedet for at være for lille til at ville lave Linux-versioner af deres software. Selv om dette er begyndt at ændre sig, så er det stadigvæk forholdsvist lidt proprietært software der er produceret til Linux.</p>
 

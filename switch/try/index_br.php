@@ -1,6 +1,7 @@
 
 
-<h2>Teste um "Live CD"</h2>
+---
+title: Teste um "Live CD"</h2>
 
 <p>Você pode testar o Linux na realidade sem precisar mexer no seu disco rígido, sem precisar fazer nada com seu Windows existente! </p>
 

@@ -1,6 +1,7 @@
 
 
-<h2>Proprietary software</h2>
+---
+title: Proprietary software</h2>
 
 <p>Until recently, many software publishers considered the software market for Linux to be too small to bother releasing software for it.  Though this is beginning to change, most proprietary software does not run within Linux.</p>
 

@@ -1,6 +1,7 @@
 
 
-<h2>Sei un hardcore gamer</h2>
+---
+title: Sei un hardcore gamer</h2>
 
 <p>Molti giochi sono compatibili con Windows e nient'altro. Alcuni 
 hanno una versione Mac e altri una versione Linux (Quake 4, Neverwinter 

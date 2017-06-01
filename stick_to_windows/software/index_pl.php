@@ -1,6 +1,7 @@
 
 
-<h2>Oprogramowanie własnościowe</h2>
+---
+title: Oprogramowanie własnościowe</h2>
 
 <p>Do niedawna wielu wydawców komercyjnego oprogramowania nie traktowało Linuksa
 poważnie. Sytuacja zaczyna się poprawiać, ale na razie wiele dużych programów

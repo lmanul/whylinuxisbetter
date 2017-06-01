@@ -1,6 +1,7 @@
 
 
-<h2>Software propietario</h2>
+---
+title: Software propietario</h2>
 
 <p>Hasta ahora, la mayoría de editores de software considera que Linux 
 tiene un mercado muy pequeño como para tener su software funcionando en 

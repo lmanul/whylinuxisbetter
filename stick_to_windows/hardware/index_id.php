@@ -1,6 +1,7 @@
 
 
-<h2>Hardware</h2>
+---
+title: Hardware</h2>
 
 <p>Sebagian besar hardware dapat berjalan dengan baik di Linux. Tetapi, ada beberapa hardware terbaru
 (yang baru diproduksi beberapa bulan yang lampau) belum didukung oleh Linux. Seperti halnya produsen software,

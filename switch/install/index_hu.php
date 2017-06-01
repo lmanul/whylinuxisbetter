@@ -1,6 +1,7 @@
 
 
-<h2>Telepíts Linuxot!</h2>
+---
+title: Telepíts Linuxot!</h2>
 
 <p>Oké, szóval eldöntötted, hogy Linuxra váltasz. Nem fogod megbánni!</p>
 

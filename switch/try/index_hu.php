@@ -1,6 +1,7 @@
 
 
-<h2>Próbálj ki egy „élő CD-t”!</h2>
+---
+title: Próbálj ki egy „élő CD-t”!</h2>
 
 <p>Valóban kipróbálhatod a Linuxot anélkül, hogy meg kéne piszkálnod a merevlemezed,  és hogy bármit is kellene tenned a Windows-oddal!</p>
 

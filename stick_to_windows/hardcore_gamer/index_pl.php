@@ -1,6 +1,7 @@
 
 
-<h2>Gry</h2>
+---
+title: Gry</h2>
 
 <p>Większość gier jest kompatybilna z systemem Windows - i z żadnym
 innym. Niektóre z nich posiadają wersje pod system Mac OS X, niektóre

@@ -1,6 +1,7 @@
 
 
-<h2>Games</h2>
+---
+title: Games</h2>
 
 <p>Hầu hết games chỉ chạy trên Windows. Một vài game có phiên bản dành cho Mac và Linux 
 (Quake 4, Neverwinter Nights...), nhưng đa số chỉ được thiết kế cho Windows.</p>

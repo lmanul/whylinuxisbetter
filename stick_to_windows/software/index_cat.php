@@ -1,6 +1,7 @@
 
 
-<h2>Programari propietari</h2>
+---
+title: Programari propietari</h2>
 
 <p>Fins ara, la major part de fabricants de programari consideraven (i 
 encara ho consideren) que Linux és un mercat massa petit per a fer que 

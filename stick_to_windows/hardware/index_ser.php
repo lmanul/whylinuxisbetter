@@ -1,6 +1,7 @@
 
 
-<h2>Hardver</h2>
+---
+title: Hardver</h2>
 
 <p>Većina hardvera radi odlično sa Linux-om. Ipak, relativno nov hardver
 (star par meseci) ponekad još nije podržan. Kao i proizvođači

@@ -1,6 +1,7 @@
 
 
-<h2>Proba un "CD Vivo" (Live CD)</h2>
+---
+title: Proba un "CD Vivo" (Live CD)</h2>
 
 <p>Podes probar Linux sen necesidade de tocar o teu disco duro nin facerlle nada ao teu Windows!</p>
 

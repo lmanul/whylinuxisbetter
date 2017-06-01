@@ -1,6 +1,7 @@
 
 
-<h2>Les logiciels propriétaires</h2>
+---
+title: Les logiciels propriétaires</h2>
 
 <p>Jusqu'à récemment, de nombreux éditeurs de logiciels jugeaient les 
 utilisateurs Linux trop peu nombreux pour s'embêter à produire des 

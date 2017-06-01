@@ -1,6 +1,7 @@
 
 
-<h2>Instal·la Linux</h2>
+---
+title: Instal·la Linux</h2>
 
 <p>D'acord, així que has decidit canviar-te a Linux. No te'n penediràs.</p>
 

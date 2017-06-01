@@ -1,6 +1,7 @@
 
 
-<h2>Books & printing industry</h2>
+---
+title: Books & printing industry</h2>
 
 <p>Linux software still has very experimental CMYK features. This is getting better, but it's 
 not really satisfying for professional use yet.</p>

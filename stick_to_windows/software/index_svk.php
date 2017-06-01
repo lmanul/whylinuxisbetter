@@ -1,6 +1,7 @@
 
 
-<h2>Autorizovaný (zákonom chránený) softvér</h2>
+---
+title: Autorizovaný (zákonom chránený) softvér</h2>
 
 <p>Ešte donedávna mnohí vydavatelia softvéru považovali programový trh pre Linux za veľmi malý, aby sa zaoberali vydaním softvéru pre Linux. Aj keď sa to mení, väčšina autorizovaného softvéru nefunguje pod Linux-om.</p>
 

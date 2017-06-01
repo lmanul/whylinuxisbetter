@@ -1,6 +1,7 @@
 
 
-<h2>Instala Linux</h2>
+---
+title: Instala Linux</h2>
 
 <p>Vale, entonces has decidido instalar Linux. ¡No lo vas a lamentar!</p>
 

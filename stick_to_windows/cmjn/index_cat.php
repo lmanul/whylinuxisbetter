@@ -1,6 +1,7 @@
 
 
-<h2>Els llibres i la indústria de la impressió</h2>
+---
+title: Els llibres i la indústria de la impressió</h2>
 
 <p>El programari de Linux encara té característiques CMYK molt experimentals. Això està millorant, però no són encara realment satisfactòries per als professionals fer-les servir.</p>
 

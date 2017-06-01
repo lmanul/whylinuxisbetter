@@ -1,6 +1,7 @@
 
 
-<h2>Vlasnički softver</h2>
+---
+title: Vlasnički softver</h2>
 
 <p>Do nedavno, mnogi izdavači softvera smatrali su da je linux tržište malo da bi se trudili da izdaju softver za njega. Ovakvo razmišljanje se menja, ali ipak, većina vlasničkog softvera se ne vrti na Linux-u.</p>
 

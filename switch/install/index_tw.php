@@ -1,6 +1,7 @@
 
 
-<h2>安裝 Linux（並且仍然保留 Windows）</h2>
+---
+title: 安裝 Linux（並且仍然保留 Windows）</h2>
 
 <p>Ok，你已經決定改用 Linux 了。你不會後悔的！</p>
 

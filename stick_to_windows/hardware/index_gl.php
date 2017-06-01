@@ -1,6 +1,7 @@
 
 
-<h2>Compoñentes e Periféricos (Hardware)</h2>
+---
+title: Compoñentes e Periféricos (Hardware)</h2>
 
 <p>A maioría dos compoñentes e periféricos traballan ben en Linux. Con todo, algunhas veces, se son moi recentes (duns poucos meses de antigüidade) non funcionarán, de momento. Moitos vendedores aínda consideran que o mercado de Linux é moi pequeno e non se molestan en crear controladores para Linux. Os programadores de Linux traballan niso e fan un traballo excelente para que todo vaia como a seda, pero isto leva o seu tempo.</p>
 

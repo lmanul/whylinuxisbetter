@@ -1,6 +1,7 @@
 
 
-<h2>Spill</h2>
+---
+title: Spill</h2>
 
 <p>De fleste spill er laget kun for Windows. Noen spill har Mac-versjoner, og noen har Linux-versjoner (Quake 4, Neverwinter Nights, osv.), men de fleste kjører kun på Windows.</p>
 

@@ -1,6 +1,7 @@
 
 
-<h2>Games</h2>
+---
+title: Games</h2>
 
 <p>Kebanyakan games memiliki kompatibilitas dengan Windows, dan tidak selainnya. Beberapa games tersebut ada yang diproduksi dalam versi Mac, ada pula yang memiliki versi Linux seperti Quake 4, Neverwinter Nights, dll. Tetapi hampir semua games yang ada saat ini hanya berjalan pada Windows. </p>
 

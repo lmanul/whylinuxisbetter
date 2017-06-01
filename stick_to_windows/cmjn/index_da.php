@@ -1,6 +1,7 @@
 
 
-<h2>Bog og forlags-industrien.</h2>
+---
+title: Bog og forlags-industrien.</h2>
 
 <p>Linux-software har stadigvæk meget ekrperimentielle CMYK features. De bliver bedre men de er ikke helt nok til at tilfredsstille de professionelle krav, endnu.</p>
 

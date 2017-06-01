@@ -1,6 +1,7 @@
 
 
-<h2>Hardware</h2>
+---
+title: Hardware</h2>
 
 <p>Majoritatea hardware-ului merge bine cu Linux. Oricum, hardware-ul foarte nou
 nu e încă suportat. Opinia oamenilor este că Linux are o gamă foarte mică de utilizatori,

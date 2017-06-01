@@ -1,6 +1,7 @@
 
 
-<h2>Industria de impresión de libros</h2>
+---
+title: Industria de impresión de libros</h2>
 
 <p>Los programas de Linux tienen características CMYK experimentales. Esto está mejorando; pero, realmente, todavía no es satisfactorio para uso profesional.</p>
 

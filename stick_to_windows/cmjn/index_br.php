@@ -1,6 +1,7 @@
 
 
-<h2>Livros & Indústria Gráfica</h2>
+---
+title: Livros & Indústria Gráfica</h2>
 
 <p>O Linux ainda tem muitos recursos CMYK experimentais. Isso está melhorando, mas ainda não está satisfazendo para o uso profissional.</p>
 

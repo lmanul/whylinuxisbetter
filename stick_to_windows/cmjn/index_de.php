@@ -1,6 +1,7 @@
 
 
-<h2>Buch-/Druckindustrie</h2>
+---
+title: Buch-/Druckindustrie</h2>
 
 <p>Linux-Software hat immer noch sehr experimentelle CMYK-Features. Es wird zwar besser, ist aber f&uuml;r den professionellen Gebrauch immer noch nicht wirklich befriedigend.</p>
 

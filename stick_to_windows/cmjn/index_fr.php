@@ -1,6 +1,7 @@
 
 
-<h2>Industrie du livre et de l'impression</h2>
+---
+title: Industrie du livre et de l'impression</h2>
 
 <p>Les logiciels Linux ont des fonctions CMJN expérimentales. Tout 
 ceci s'améliore constamment, mais ce n'est pas encore satisfaisant 

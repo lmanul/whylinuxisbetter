@@ -1,6 +1,7 @@
 
 
-<h2>Phần mềm độc quyền</h2>
+---
+title: Phần mềm độc quyền</h2>
 
 <p>Trước đây rất nhiều nhà xản xuât phần mềm coi thị phần phần mềm Linux quá nhỏ 
 để hỗ trợ. Mặc dù tình hình đang thay đổi, hầu hết phần mềm lớn vẫn không chạy trên Linux.</p>

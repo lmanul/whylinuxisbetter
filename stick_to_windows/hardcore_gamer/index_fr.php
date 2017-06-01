@@ -1,6 +1,7 @@
 
 
-<h2>Les jeux</h2>
+---
+title: Les jeux</h2>
 
 <p>La plupart des jeux sont compatibles avec Windows, et rien 
 d'autre. Certains diposent également de versions Mac (Quake 4, 

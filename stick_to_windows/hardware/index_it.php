@@ -1,6 +1,7 @@
 
 
-<h2>Il tuo hardware non è ancora supportato</h2>
+---
+title: Il tuo hardware non è ancora supportato</h2>
 
 <p>Alcune periferiche funzionano bene su Linux. Comunque, hardware 
 molto recente (di pochi mesi) a volte non sono ancora supportati. 
