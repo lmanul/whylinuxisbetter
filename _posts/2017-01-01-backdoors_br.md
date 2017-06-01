@@ -1,6 +1,6 @@
 ---
 lang: br
-title: "Sem "invasões" no seu software."
+title: "Sem 'invasões' no seu software."
 ---
 
 A diferença entre softwares de "código fechado" (proprietário) e "código aberto" é que (o que você acha?) seu código é aberto. Hã, tá bom, como eu vou dizer? Bem, o "código", ou "código-fonte", é como a receita <b>secreta</b> de qualquer software, como a receita de um bolo. Quando você compra um bolo, não tem jeito de você saber a receita exata dele (Ou você pode indo por partes, por exemplo "hum, tem um pouco de coco aqui"). Se uma padaria desse a receita secreta de um cheese cake que faz muito sucesso, em breve a padaria iriai falir porque as pessoas vão parar de comprar nela para fazer elas mesmas, em suas casas. Acontece o mesmo no mundo do software, a Microsoft não dá a receita, ou "código", de seus softwares, como o Windows, e é por isso que ela ganha muito dinheiro.

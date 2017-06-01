@@ -1,13 +1,5 @@
 ---
 lang: per
-
-  
-
-
-<body>
-
-<div style="font-family: Tahoma;" id="corps">
-
 title: "آيا از راه&zwnj;اندازي مجدد كردن هميشگي كامپيوترتون خسته شديد؟"
 ---
 
