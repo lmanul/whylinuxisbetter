@@ -5,14 +5,12 @@ layout: default
 
 <h1>We are under maintenance, please try again a little later, sorry!</h1>
 
-<p>We have {{ sites.posts | size }} posts.</p>
-
 {% assign posts=site.posts | where:"lang", page.lang %}
 <ul>
 {% for post in posts %}
     <a href="{{ post.url }}">
       <div class="item">
-        {{ post.title }}
+        {{ post.title }} ({{ post.id }})
       </div>
     </a>
 {% endfor %}
