@@ -6,6 +6,7 @@ layout: default
 <h1>We are under maintenance, please try again a little later, sorry!</h1>
 
 {% assign posts=site.posts | where:"lang", page.lang %}
+<div id="items">
 {% for post in posts %}
     <a href="{{ post.url }}">
       <div class="item">
@@ -15,3 +16,4 @@ layout: default
       </div>
     </a>
 {% endfor %}
+</div>
