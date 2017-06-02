@@ -1,5 +1,3 @@
-
-
 ---
 lang: en
 title: Try a "Live CD"
