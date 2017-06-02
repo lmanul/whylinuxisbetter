@@ -1,6 +1,7 @@
 
 
 ---
+lang: gl
 title: Aplicacións ou programas privativos (Software privativo)</h2>
 
 <p>Ata agora, a maioría dos editores de programas ou aplicacións consideraba que Linux tiña un mercado moi pequeno como para interesarse nel. Isto está cambiando, pero de momento gran parte do software privativo non funciona en Linux.</p>

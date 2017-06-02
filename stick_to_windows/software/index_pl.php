@@ -1,6 +1,7 @@
 
 
 ---
+lang: pl
 title: Oprogramowanie własnościowe</h2>
 
 <p>Do niedawna wielu wydawców komercyjnego oprogramowania nie traktowało Linuksa

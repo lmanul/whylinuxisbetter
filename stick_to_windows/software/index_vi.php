@@ -1,6 +1,7 @@
 
 
 ---
+lang: vi
 title: Phần mềm độc quyền</h2>
 
 <p>Trước đây rất nhiều nhà xản xuât phần mềm coi thị phần phần mềm Linux quá nhỏ 

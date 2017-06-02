@@ -1,6 +1,7 @@
 
 
 ---
+lang: no
 title: Proprietær programvare.</h2>
 
 <p>Inntil nylig anså mange programvareutviklere Linux-markedet for smått til å utgi Linux-versjoner av deres programvare. Selv om dette begynner å snu, så kjører ikke det meste av proprietær programvare på Linux.</p>

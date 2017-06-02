@@ -1,6 +1,7 @@
 
 
 ---
+lang: es
 title: Software propietario</h2>
 
 <p>Hasta ahora, la mayoría de editores de software considera que Linux 

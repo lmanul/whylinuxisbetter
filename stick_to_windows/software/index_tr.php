@@ -1,6 +1,7 @@
 
 
 ---
+lang: tr
 title: Sahipli yazılım</h2>
 
 <p>Son zamanlara dek birçok yazılım üreticisi Linux pazarının yazılım üretme zahmetine girilmeyecek kadar küçük olduğunu düşünüyordu. Bu değişmeye başlamış olsa bile çoğu sahipli yazılım Linux üzerinde çalışmaz.</p>

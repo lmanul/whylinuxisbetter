@@ -1,6 +1,7 @@
 
 
 ---
+lang: cat
 title: Programari propietari</h2>
 
 <p>Fins ara, la major part de fabricants de programari consideraven (i 

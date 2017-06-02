@@ -1,6 +1,7 @@
 
 
 ---
+lang: eo
 title: Proprieta programaro</h2>
 
 <p>Ĝis nun, la plejmultaj eldonistoj de programaro konsideras ke Linux havas tre malgrandan merkaton por zorgi eldoni programojn por ĝi. Ĉi tio komencas ŝanĝi, sed, nuntempe, la granda parto de la proprieta programaro ne funkcias en Linux.</p>

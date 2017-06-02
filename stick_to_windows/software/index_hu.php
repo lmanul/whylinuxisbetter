@@ -1,6 +1,7 @@
 
 
 ---
+lang: hu
 title: Kereskedelmi szoftver</h2>
 
 <p>Mostanáig sok szoftver kiadója úgy vélte, a Linux túl kicsi piacot jelentene, így nem érdemes erre is elkészíteni a termékeiket. Noha ez a szemlélet kezd változni, a legtöbb kereskedelmi szoftver még mindig nem fut Linuxon.</p>

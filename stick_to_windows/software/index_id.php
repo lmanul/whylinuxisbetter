@@ -1,6 +1,7 @@
 
 
 ---
+lang: id
 title: Software Proprietary</h2>
 
 <p>Hingga sekarang, kebanyakan produsen software masih menganggap bahwa pasar software untuk Linux masih terlampau kecil, hal inilah yang 

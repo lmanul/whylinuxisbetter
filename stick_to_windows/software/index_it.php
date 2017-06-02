@@ -1,6 +1,7 @@
 
 
 ---
+lang: it
 title: C'è del software proprietario di cui non puoi fare a meno</h2>
 
 <p>Fino a poco fa, molti distributori di software consideravano il mercato di software per Linux 

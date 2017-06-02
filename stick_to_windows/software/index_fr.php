@@ -1,6 +1,7 @@
 
 
 ---
+lang: fr
 title: Les logiciels propriétaires</h2>
 
 <p>Jusqu'à récemment, de nombreux éditeurs de logiciels jugeaient les 
