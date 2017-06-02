@@ -2,7 +2,9 @@
 
 ---
 lang: nl
-title: Probeer een "live-cd"</h2>
+title: Probeer een "live-cd"
+tags: switch
+---
 
 U kunt Linux proberen zonder zelfs uw harde schijf aan te raken,
 zonder dat u iets moet doen met uw bestaande Windows-installatie!

@@ -2,7 +2,9 @@
 
 ---
 lang: ser
-title: Probajte "Live CD"</h2>
+title: Probajte "Live CD"
+tags: switch
+---
 
 Možete da probate Linux, a da uopšte ne dirate Vaš hard disk 
 i bez potrebe da radite bilo šta sa postojećim Windows-om !

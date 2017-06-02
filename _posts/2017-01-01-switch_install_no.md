@@ -2,7 +2,9 @@
 
 ---
 lang: no
-title: Installer Linux</h2>
+title: Installer Linux
+tags: switch
+---
 
 OK, så du har bestemt deg for å bytte til Linux. Du kommer ikke til å angre!
 

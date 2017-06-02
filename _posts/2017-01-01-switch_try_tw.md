@@ -2,7 +2,9 @@
 
 ---
 lang: tw
-title: 在不碰觸 Windows 的情況下試用 Linux</h2>
+title: 在不碰觸 Windows 的情況下試用 Linux
+tags: switch
+---
 
 你不需要碰觸到你的硬碟資料，也不需要在現存的 Windows 做任何事情就能夠試用 Linux！
 

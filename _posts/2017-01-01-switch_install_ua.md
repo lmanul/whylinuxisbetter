@@ -2,7 +2,9 @@
 
 ---
 lang: ua
-title:  Встанови Linux (не видаляючи Windows)</h2>
+title:  Встанови Linux (не видаляючи Windows)
+tags: switch
+---
 
 <p align="center">Переклад з німецької Шевченко Жанни та Загородньої Тетяни
 

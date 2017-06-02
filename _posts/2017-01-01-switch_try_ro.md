@@ -2,7 +2,9 @@
 
 ---
 lang: ro
-title: Încercaţi un Live CD</h2>
+title: Încercaţi un Live CD
+tags: switch
+---
 
 Puteţi încerca Linux fără să-l instalaţi!
 Acest lucru e posibil cu Live CD-uri. Un live cd lucrează aşa:

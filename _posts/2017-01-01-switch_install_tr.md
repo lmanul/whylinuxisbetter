@@ -2,7 +2,9 @@
 
 ---
 lang: tr
-title: Linux'u kurun</h2>
+title: Linux'u kurun
+tags: switch
+---
 
 Tamam, demek ki Linux'e geçmeye karar verdiniz. Buna pişman olmayacaksınız.
 

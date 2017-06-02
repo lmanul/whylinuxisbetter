@@ -2,7 +2,9 @@
 
 ---
 lang: ja
-title: Linuxのインストール</h2>
+title: Linuxのインストール
+tags: switch
+---
 
 おっしゃー、いよいよLinuxに乗り換えますか！　後悔はさせませんぜっ！
 

@@ -2,7 +2,9 @@
 
 ---
 lang: ro
-title: Instalaţi Linux</h2>
+title: Instalaţi Linux
+tags: switch
+---
 
 Okay, deci aţi decis să alegeţi Linux. Nu veţi regreta!
 

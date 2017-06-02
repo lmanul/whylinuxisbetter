@@ -2,7 +2,9 @@
 
 ---
 lang: eo
-title: Provu "Senperan KD-n"</h2>
+title: Provu "Senperan KD-n"
+tags: switch
+---
 
 Vi povas provi Linux sen la neceso tuŝi la durdiskon, sen la neceso fari ion al via Windows!
 

@@ -2,7 +2,9 @@
 
 ---
 lang: id
-title: Menginstall Linux</h2>
+title: Menginstall Linux
+tags: switch
+---
 
 OK, jadi kamu sudah memutuskan untuk bermigrasi ke Linux. Kamu tidak akan menyesali keputusan ini!
 

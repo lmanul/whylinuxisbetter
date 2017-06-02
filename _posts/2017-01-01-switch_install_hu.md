@@ -2,7 +2,9 @@
 
 ---
 lang: hu
-title: Telepíts Linuxot!</h2>
+title: Telepíts Linuxot!
+tags: switch
+---
 
 Oké, szóval eldöntötted, hogy Linuxra váltasz. Nem fogod megbánni!
 

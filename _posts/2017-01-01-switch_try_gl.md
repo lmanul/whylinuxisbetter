@@ -2,7 +2,9 @@
 
 ---
 lang: gl
-title: Proba un "CD Vivo" (Live CD)</h2>
+title: Proba un "CD Vivo" (Live CD)
+tags: switch
+---
 
 Podes probar Linux sen necesidade de tocar o teu disco duro nin facerlle nada ao teu Windows!
 

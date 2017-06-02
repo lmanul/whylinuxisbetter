@@ -2,7 +2,9 @@
 
 ---
 lang: ua
-title: Спробуй "Live-CD"</h2>
+title: Спробуй "Live-CD"
+tags: switch
+---
 
 <p align="center">Переклад з німецької Шевченко Жанни та Загородньої Тетяни
 

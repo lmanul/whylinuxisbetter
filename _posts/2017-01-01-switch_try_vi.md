@@ -2,7 +2,9 @@
 
 ---
 lang: vi
-title: Dùng thử "Live CD"</h2>
+title: Dùng thử "Live CD"
+tags: switch
+---
 
 Bạn có thể chạy thử Linux mà không đụng gì đến dữ liệu có sẵn bằng các "Live CD":
 

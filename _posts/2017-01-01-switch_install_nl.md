@@ -2,7 +2,9 @@
 
 ---
 lang: nl
-title: Installeer Linux</h2>
+title: Installeer Linux
+tags: switch
+---
 
 Ok, u heeft besloten om over te stappen naar Linux. U zult er geen spijt van hebben!
 

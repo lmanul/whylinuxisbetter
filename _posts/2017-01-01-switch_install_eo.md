@@ -2,7 +2,9 @@
 
 ---
 lang: eo
-title: Instalu Linux</h2>
+title: Instalu Linux
+tags: switch
+---
 
 Bone, do ĉu vi decidis instali Linux. Vi ne pentos!
 

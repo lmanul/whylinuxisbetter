@@ -2,7 +2,9 @@
 
 ---
 lang: cn
-title: 尝试一下 "Live CD"</h2>
+title: 尝试一下 "Live CD"
+tags: switch
+---
 
 您可以在不改动任何磁盘数据和不影响Windows的情况下尝试Linux。
 

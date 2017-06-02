@@ -2,7 +2,9 @@
 
 ---
 lang: se
-title: Testa med en ”Live CD”</h2>
+title: Testa med en ”Live CD”
+tags: switch
+---
 
 Du kan testa Linux på riktigt, helt utan att röra hårddisken, utan att röra ditt nuvarande operativsystem!
 

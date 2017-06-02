@@ -2,7 +2,9 @@
 
 ---
 lang: cat
-title: Instal·la Linux</h2>
+title: Instal·la Linux
+tags: switch
+---
 
 D'acord, així que has decidit canviar-te a Linux. No te'n penediràs.
 

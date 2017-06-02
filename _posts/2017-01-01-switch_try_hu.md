@@ -2,7 +2,9 @@
 
 ---
 lang: hu
-title: Próbálj ki egy „élő CD-t”!</h2>
+title: Próbálj ki egy „élő CD-t”!
+tags: switch
+---
 
 Valóban kipróbálhatod a Linuxot anélkül, hogy meg kéne piszkálnod a merevlemezed,  és hogy bármit is kellene tenned a Windows-oddal!
 

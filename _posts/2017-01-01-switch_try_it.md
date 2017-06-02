@@ -2,7 +2,9 @@
 
 ---
 lang: it
-title: Prova un "Live CD"</h2>
+title: Prova un "Live CD"
+tags: switch
+---
 
 Puoi provare Linux senza toccare il tuo hard disk, senza far nulla 
 all'esistente Windows!

@@ -2,7 +2,9 @@
 
 ---
 lang: no
-title: Prøv en «Live CD»</h2>
+title: Prøv en «Live CD»
+tags: switch
+---
 
 Du kan prøve Linux uten permanente forandringer og uten å røre Windows.
 

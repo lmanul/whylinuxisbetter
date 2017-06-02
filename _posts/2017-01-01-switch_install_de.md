@@ -2,7 +2,9 @@
 
 ---
 lang: de
-title: Linux installieren</h2>
+title: Linux installieren
+tags: switch
+---
 
 Okay, du hast dich also entschieden, zu Linux zu wechseln. Du wirst es nicht bereuen!
 

@@ -2,7 +2,9 @@
 
 ---
 lang: svk
-title: Vyskúšajte "Live CD"</h2>
+title: Vyskúšajte "Live CD"
+tags: switch
+---
 
 Môžete si vyskúšať Linux bez potreby vôbec sa dotknúť dát na vašom disku, bez potreby robiť niečo s vaším Windows-om!
 

@@ -2,7 +2,9 @@
 
 ---
 lang: cn
-title: 安装Linux</h2>
+title: 安装Linux
+tags: switch
+---
 
 好的，您已经决定改换Linux最为您的操作系统了。您绝对不会后悔的。
 

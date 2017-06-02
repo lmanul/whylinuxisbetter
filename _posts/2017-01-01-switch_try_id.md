@@ -2,7 +2,9 @@
 
 ---
 lang: id
-title: Mencoba "Live CD" Linux</h2>
+title: Mencoba "Live CD" Linux
+tags: switch
+---
 
 Kamu dapat mencoba merasakan Linux tanpa mengutak-atik harddiskmu, bahkan tanpa harus melakukan apapun pada Windows yang ada pada komputermu!
 

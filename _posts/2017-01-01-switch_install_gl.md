@@ -2,7 +2,9 @@
 
 ---
 lang: gl
-title: Instala Linux</h2>
+title: Instala Linux
+tags: switch
+---
 
 Valeu!, entón decidiche instalar Linux. Non o vas lamentar!
 

@@ -2,7 +2,9 @@
 
 ---
 lang: se
-title: Installera Linux</h2>
+title: Installera Linux
+tags: switch
+---
 
 Okej, så du har bestämt dig för att byta upp dig till Linux. Du kommer inte att ångra det!
 

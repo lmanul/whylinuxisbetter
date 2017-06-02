@@ -2,7 +2,9 @@
 
 ---
 lang: de
-title: Teste eine „Live-CD“</h2>
+title: Teste eine „Live-CD“
+tags: switch
+---
 
 Tatsächlich kannst du Linux ausprobieren, ohne deine Festplatte anzurühren oder irgendetwas mit deinem Windows anzustellen!
 
