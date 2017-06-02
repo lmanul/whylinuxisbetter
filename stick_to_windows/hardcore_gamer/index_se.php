@@ -1,6 +1,7 @@
 
 
 ---
+lang: se
 title: Spel</h2>
 
 <p>De flesta spel är kompatibla med Windows och inget annat. Vissa spel finns också i Mac-versioner, och till och med till Linux, (Quake 4, 

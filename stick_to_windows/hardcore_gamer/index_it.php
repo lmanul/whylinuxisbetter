@@ -1,6 +1,7 @@
 
 
 ---
+lang: it
 title: Sei un hardcore gamer</h2>
 
 <p>Molti giochi sono compatibili con Windows e nient'altro. Alcuni 

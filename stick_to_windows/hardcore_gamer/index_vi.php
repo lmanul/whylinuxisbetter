@@ -1,6 +1,7 @@
 
 
 ---
+lang: vi
 title: Games</h2>
 
 <p>Hầu hết games chỉ chạy trên Windows. Một vài game có phiên bản dành cho Mac và Linux 

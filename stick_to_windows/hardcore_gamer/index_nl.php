@@ -1,6 +1,7 @@
 
 
 ---
+lang: nl
 title: Spelletjes</h2>
 
 <p>De meeste spelletjes werken met Windows en niets anders. Sommige hebben Mac-versies en sommige daarvan hebben Linux-versies (Quake 4, Neverwinter Nights, enz.), maar de meeste werken enkel op Windows.</p>

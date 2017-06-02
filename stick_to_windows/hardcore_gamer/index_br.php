@@ -1,6 +1,7 @@
 
 
 ---
+lang: br
 title: ﻿Jogos</h2>
 
 <p>A maioria dos jogos são compatíveis com o Windows, e com mais nada. Alguns deles têm versão para Mac, e alguns têm versão para Linux (Quake 4, Neverwinter Nights, etc.), mas a maioria deles só rodam no Windows.

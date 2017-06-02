@@ -1,6 +1,7 @@
 
 
 ---
+lang: ser
 title: Igre</h2>
 
 <p>Većina igara je kompatibilna sa Windows-om, i ničim drugim. Neke imaju

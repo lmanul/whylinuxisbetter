@@ -1,6 +1,7 @@
 
 
 ---
+lang: tr
 title: Oyunlar</h2>
 
 <p>Oyunların çoğu Windows ile uyumludur ve başka hiçbir şeyle uyumlu değildir. Bazılarının Mac sürümleri vardır ve bazılarının Linux sürümleri vardır (Quake 4, Neverwinter Nights, vs.), ancak çoğu sadece Windows üzerinde çalışır.</p>

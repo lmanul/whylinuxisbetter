@@ -1,6 +1,7 @@
 
 
 ---
+lang: ja
 title: ゲーマーにゃゲーマーの道がある！</h2>
 
 <p>ほとんどのゲームがWindows用に開発されていて、他のOSには目もくれてません。たまにMac版があるし、たまにLinux版もあるにはあるけど（例えば、Quake 4とかNeverwinter Nightsとか）、たいていはWindows専用。</p>

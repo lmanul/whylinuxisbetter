@@ -1,6 +1,7 @@
 
 
 ---
+lang: en
 title: Games</h2>
 
 <p>Most games are compatible with Windows, and nothing else. Some of 

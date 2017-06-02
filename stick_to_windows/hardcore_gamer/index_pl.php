@@ -1,6 +1,7 @@
 
 
 ---
+lang: pl
 title: Gry</h2>
 
 <p>Większość gier jest kompatybilna z systemem Windows - i z żadnym

@@ -1,6 +1,7 @@
 
 
 ---
+lang: ro
 title: Jocurile</h2>
 
 <p>Majoritatea jocurilor sunt compatibile cu Windows, şi nimic altceva.
