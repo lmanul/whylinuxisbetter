@@ -2,7 +2,9 @@
 
 ---
 lang: nl
-title: Boek- & printsector</h2>
+title: Boek- & printsector
+tags: stick_to_windows
+---
 
 Linux-software heeft nog steeds zeer experimentele CMYK-mogelijkheden. Dit wordt steeds beter, maar het is nog niet voldoende voor professioneel gebruik.
 

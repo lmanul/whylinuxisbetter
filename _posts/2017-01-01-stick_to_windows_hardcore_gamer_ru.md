@@ -2,7 +2,9 @@
 
 ---
 lang: ru
-title: Игры</h2>
+title: Игры
+tags: stick_to_windows
+---
 
 Большинство игр совместимы с Windows, и ничем больше. Некоторые также
 имеют версии для макинтошей, другие - для Linux (Quake, Neverwinter Nights,

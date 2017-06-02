@@ -2,7 +2,9 @@
 
 ---
 lang: ro
-title: Jocurile</h2>
+title: Jocurile
+tags: stick_to_windows
+---
 
 Majoritatea jocurilor sunt compatibile cu Windows, şi nimic altceva.
 Unele au versiuni pentru Mac, iar unele au versiuni pentru Linux (Quake 4,

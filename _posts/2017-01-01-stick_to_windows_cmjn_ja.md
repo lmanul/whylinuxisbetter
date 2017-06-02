@@ -2,7 +2,9 @@
 
 ---
 lang: ja
-title: DTP業界は厳しいよ。</h2>
+title: DTP業界は厳しいよ。
+tags: stick_to_windows
+---
 
 Linuxのソフトでは、CMYKの扱いがまだ実用段階に達していません。進歩はしてるけど、プロの使用にはまだまだ満足いくところまでいっていないのが実状。
 

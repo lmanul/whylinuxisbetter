@@ -2,7 +2,9 @@
 
 ---
 lang: ro
-title: Software comercial</h2>
+title: Software comercial
+tags: stick_to_windows
+---
 
 Recent, mulţi creatori de software consideră că Linux e prea mic pentru a se obosi să scrie software şi pentru el. Chiar dacă această opinie a început să se schimbe, multe
 software-uri comerciale nu rulează pe Linux.

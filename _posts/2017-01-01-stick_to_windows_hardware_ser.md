@@ -2,7 +2,9 @@
 
 ---
 lang: ser
-title: Hardver</h2>
+title: Hardver
+tags: stick_to_windows
+---
 
 Većina hardvera radi odlično sa Linux-om. Ipak, relativno nov hardver
 (star par meseci) ponekad još nije podržan. Kao i proizvođači

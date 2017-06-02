@@ -2,7 +2,9 @@
 
 ---
 lang: es
-title: Juegos</h2>
+title: Juegos
+tags: stick_to_windows
+---
 
 La mayoría de juegos son compatibles, exclusivamente, con Windows. Algunos de ellos tienen versiones para Mac y algunos tienen versiones para Linux (Quake 4, Neverwinter nights, etc.), pero la mayoría funciona sólo en Windows.
 

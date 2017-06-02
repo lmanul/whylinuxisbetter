@@ -2,7 +2,9 @@
 
 ---
 lang: pl
-title: Oprogramowanie własnościowe</h2>
+title: Oprogramowanie własnościowe
+tags: stick_to_windows
+---
 
 Do niedawna wielu wydawców komercyjnego oprogramowania nie traktowało Linuksa
 poważnie. Sytuacja zaczyna się poprawiać, ale na razie wiele dużych programów

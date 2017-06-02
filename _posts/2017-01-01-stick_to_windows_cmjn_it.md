@@ -2,7 +2,9 @@
 
 ---
 lang: it
-title: Lavori nell'industria di libri/stampa</h2>
+title: Lavori nell'industria di libri/stampa
+tags: stick_to_windows
+---
 
 Il software Linux ha ancora caratteristiche CMYK sperimentali. Ciò sta migliorando, 
 ma non è ancora soddisfacente per l'uso professionale.

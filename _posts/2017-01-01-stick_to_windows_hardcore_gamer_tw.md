@@ -2,7 +2,9 @@
 
 ---
 lang: tw
-title: 你是一位重度的電腦遊戲玩家</h2>
+title: 你是一位重度的電腦遊戲玩家
+tags: stick_to_windows
+---
 
 大部分的遊戲都相容於 Windows，而且除此之外也沒有別的了。有些遊戲有 Mac 版本，有些則是有 Linux 版本（Quake 4 和 Neverwinter Nights 等遊戲），但是大部分的遊戲只能在 Windows 上執行。
 

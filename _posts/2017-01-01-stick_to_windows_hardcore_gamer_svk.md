@@ -2,7 +2,9 @@
 
 ---
 lang: svk
-title: Hry</h2>
+title: Hry
+tags: stick_to_windows
+---
 
 Väčšina hier je kompatibilná s Windows-om, a ničím iným. Niektoré z nich majú verzie pre Mac, a niektoré majú verzie pre Linux (Quake 4, Neverwinter Nights, atď), ale väčšina z nich beží len vo Windows.
 

@@ -2,7 +2,9 @@
 
 ---
 lang: br
-title: ﻿Software proprietário</h2>
+title: ﻿Software proprietário
+tags: stick_to_windows
+---
 
 Até recentemente, muitas distribuidoras de software consideravam o mercado de programas para Linux como sendo pequeno para lançarem programas para ele. Isso está começando a mudar, apesar da maioria dos softwares proprietários não rodarem no Linux.
 

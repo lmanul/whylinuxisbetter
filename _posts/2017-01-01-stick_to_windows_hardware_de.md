@@ -2,7 +2,9 @@
 
 ---
 lang: de
-title: Hardware</h2>
+title: Hardware
+tags: stick_to_windows
+---
 
 Die meisten Hardwareteile funktionieren bestens unter Linux. Sehr neue (wenige Monate alte) Hardware jedoch wird manchmal noch nicht unterst&uuml;zt. Wie Software-Anbieter sch&auml;tzen viele Hardware-Anbieter den Linux-Markt sehr gering ein und halten es nicht f&uuml;r n&ouml;tig, Linux-Treiber f&uuml;r ihre Produkte anzubieten. Die Linux-Entwickler arbeiten daran und leisten großartige Arbeit, um jedes Hardwareteil sch&ouml;n funktionieren zu lassen, aber das braucht etwas Zeit.
 

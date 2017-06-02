@@ -2,7 +2,9 @@
 
 ---
 lang: tw
-title: 你在出版業或印刷業工作</h2>
+title: 你在出版業或印刷業工作
+tags: stick_to_windows
+---
 
 Linux 軟體對於 CMYK 的各項特性，仍然處於非常實驗性的階段。它正漸漸地進步，但是目前仍無法滿足專業的需求。
 

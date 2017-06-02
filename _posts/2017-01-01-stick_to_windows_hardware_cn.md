@@ -2,7 +2,9 @@
 
 ---
 lang: cn
-title: 硬件</h2>
+title: 硬件
+tags: stick_to_windows
+---
 
 大部分硬件在Linux下工作良好，但是最新的硬件（一个月内的）有时可能还不能被支持。
 像很多软件经销商一样，很多硬件经销商考虑到Linux市场不够大，他们不提供Linux的硬件驱动

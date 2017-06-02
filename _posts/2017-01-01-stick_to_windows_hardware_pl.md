@@ -2,7 +2,9 @@
 
 ---
 lang: pl
-title: Sprzęt</h2>
+title: Sprzęt
+tags: stick_to_windows
+---
 
 Większość sprzętu bardzo dobrze współpracuje z systemem Linuks.
 Jednak ten najnowszy, mający jedynie kilka miesięcy - zwykle nie jest

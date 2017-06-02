@@ -2,7 +2,9 @@
 
 ---
 lang: bn
-title: হার্ডওয়্যার</h2>
+title: হার্ডওয়্যার
+tags: stick_to_windows
+---
 
 
 

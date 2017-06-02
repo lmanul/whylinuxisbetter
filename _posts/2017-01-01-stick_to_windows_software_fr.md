@@ -2,7 +2,9 @@
 
 ---
 lang: fr
-title: Les logiciels propriétaires</h2>
+title: Les logiciels propriétaires
+tags: stick_to_windows
+---
 
 Jusqu'à récemment, de nombreux éditeurs de logiciels jugeaient les 
 utilisateurs Linux trop peu nombreux pour s'embêter à produire des 

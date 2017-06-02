@@ -2,7 +2,9 @@
 
 ---
 lang: eo
-title: Ludoj</h2>
+title: Ludoj
+tags: stick_to_windows
+---
 
 Multaj ludoj estas kongruaj kun Windows, ekskluzive. Kelkaj el ili havas versiojn por Mac kaj kelkaj havas versiojn por Linux (Quake 4, Neverwinter nights, ktp.), sed la plejmultoj nur funkcias en Windows.
 

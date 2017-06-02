@@ -2,7 +2,9 @@
 
 ---
 lang: vi
-title: Phần cứng</h2>
+title: Phần cứng
+tags: stick_to_windows
+---
 
 Hầu hết các thiết bị chạy tốt trên Linux. Tuy nhiên các thiết bị mới (vài tháng tuổi) 
 có thể chưa được hỗ trợ. Tượng tự với phần mềm, nhiều nhà sản xuất phần cứng vẫn coi 

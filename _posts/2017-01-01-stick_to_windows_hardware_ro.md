@@ -2,7 +2,9 @@
 
 ---
 lang: ro
-title: Hardware</h2>
+title: Hardware
+tags: stick_to_windows
+---
 
 Majoritatea hardware-ului merge bine cu Linux. Oricum, hardware-ul foarte nou
 nu e încă suportat. Opinia oamenilor este că Linux are o gamă foarte mică de utilizatori,

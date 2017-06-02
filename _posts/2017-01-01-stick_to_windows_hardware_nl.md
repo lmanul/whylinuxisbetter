@@ -2,7 +2,9 @@
 
 ---
 lang: nl
-title: Hardware</h2>
+title: Hardware
+tags: stick_to_windows
+---
 
 De meeste hardware werkt prima met Linux. Toch is het zo dat zeer
 recente hardware (enkele maanden oud) soms nog niet ondersteund wordt.

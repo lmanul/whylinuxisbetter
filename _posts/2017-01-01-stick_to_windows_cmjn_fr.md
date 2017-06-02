@@ -2,7 +2,9 @@
 
 ---
 lang: fr
-title: Industrie du livre et de l'impression</h2>
+title: Industrie du livre et de l'impression
+tags: stick_to_windows
+---
 
 Les logiciels Linux ont des fonctions CMJN expérimentales. Tout 
 ceci s'améliore constamment, mais ce n'est pas encore satisfaisant 

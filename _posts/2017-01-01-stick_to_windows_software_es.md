@@ -2,7 +2,9 @@
 
 ---
 lang: es
-title: Software propietario</h2>
+title: Software propietario
+tags: stick_to_windows
+---
 
 Hasta ahora, la mayoría de editores de software considera que Linux 
 tiene un mercado muy pequeño como para tener su software funcionando en 

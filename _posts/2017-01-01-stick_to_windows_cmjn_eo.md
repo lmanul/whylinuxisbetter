@@ -2,7 +2,9 @@
 
 ---
 lang: eo
-title: Industrio de presado de libroj</h2>
+title: Industrio de presado de libroj
+tags: stick_to_windows
+---
 
 La programoj de Linux havas eksperimentajn karakterizaĵojn CMYK. Ĉi tio pliboniĝas, sed, vere, tio ankoraŭ ne estas kontentiga por profesia uzado.
 

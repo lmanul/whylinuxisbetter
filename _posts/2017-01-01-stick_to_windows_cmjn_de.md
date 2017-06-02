@@ -2,7 +2,9 @@
 
 ---
 lang: de
-title: Buch-/Druckindustrie</h2>
+title: Buch-/Druckindustrie
+tags: stick_to_windows
+---
 
 Linux-Software hat immer noch sehr experimentelle CMYK-Features. Es wird zwar besser, ist aber f&uuml;r den professionellen Gebrauch immer noch nicht wirklich befriedigend.
 

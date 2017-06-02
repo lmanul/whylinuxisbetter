@@ -2,7 +2,9 @@
 
 ---
 lang: fr
-title: Les jeux</h2>
+title: Les jeux
+tags: stick_to_windows
+---
 
 La plupart des jeux sont compatibles avec Windows, et rien 
 d'autre. Certains diposent également de versions Mac (Quake 4, 

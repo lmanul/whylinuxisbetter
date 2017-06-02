@@ -2,7 +2,9 @@
 
 ---
 lang: ua
-title: Ти запеклий гравець</h2>
+title: Ти запеклий гравець
+tags: stick_to_windows
+---
 
 <p align="center">Переклад з німецької Грицюка Володимира
 

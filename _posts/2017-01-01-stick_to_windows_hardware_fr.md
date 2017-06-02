@@ -2,7 +2,9 @@
 
 ---
 lang: fr
-title: Le matériel</h2>
+title: Le matériel
+tags: stick_to_windows
+---
 
 La grande majorité du matériel marche parfaitement sous Linux. 
 Cependant, les composants extrêmement récents (quelques mois) ne 

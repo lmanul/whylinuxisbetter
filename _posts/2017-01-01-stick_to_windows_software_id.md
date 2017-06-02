@@ -2,7 +2,9 @@
 
 ---
 lang: id
-title: Software Proprietary</h2>
+title: Software Proprietary
+tags: stick_to_windows
+---
 
 Hingga sekarang, kebanyakan produsen software masih menganggap bahwa pasar software untuk Linux masih terlampau kecil, hal inilah yang 
 menghalangi mereka untuk mengeluarkan software versi Linux. Walaupun saat ini sudah mulai ada perubahan, kebanyakan

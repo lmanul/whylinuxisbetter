@@ -2,7 +2,9 @@
 
 ---
 lang: hu
-title: Játékok</h2>
+title: Játékok
+tags: stick_to_windows
+---
 
 A legtöbb játék csak Windows-on fut, semmi máson. Párnak van Mac-es verziója is, néhánynak linuxos (Quake 4, Neverwinter Nights stb.), de a legtöbb csak Windows-on megy.
 

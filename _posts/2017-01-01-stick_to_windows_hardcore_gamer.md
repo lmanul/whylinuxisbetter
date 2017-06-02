@@ -2,7 +2,9 @@
 
 ---
 lang: en
-title: Games</h2>
+title: Games
+tags: stick_to_windows
+---
 
 Most games are compatible with Windows, and nothing else. Some of 
 them have Mac versions, and some of them have Linux versions (Quake 4, 

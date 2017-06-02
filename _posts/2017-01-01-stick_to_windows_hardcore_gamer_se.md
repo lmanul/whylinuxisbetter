@@ -2,7 +2,9 @@
 
 ---
 lang: se
-title: Spel</h2>
+title: Spel
+tags: stick_to_windows
+---
 
 De flesta spel är kompatibla med Windows och inget annat. Vissa spel finns också i Mac-versioner, och till och med till Linux, (Quake 4, 
 Neverwinter Nights, etc.), men de flesta kan bara köras på Windows.

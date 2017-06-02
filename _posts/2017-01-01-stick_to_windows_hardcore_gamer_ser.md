@@ -2,7 +2,9 @@
 
 ---
 lang: ser
-title: Igre</h2>
+title: Igre
+tags: stick_to_windows
+---
 
 Većina igara je kompatibilna sa Windows-om, i ničim drugim. Neke imaju
 Mac verzije, a neke imaju i Linux verzije (Quake 4, 

@@ -2,7 +2,9 @@
 
 ---
 lang: el
-title: Hardware</h2>
+title: Hardware
+tags: stick_to_windows
+---
 
 Η πλειοψηφία του hardware δουλεύει μια χαρά με το Linux. Όμως, πολύ πρόσφατο 
 hardware (μερικών μηνών) κάποιες φορές δεν υποστηρίζεται. Όπως οι  

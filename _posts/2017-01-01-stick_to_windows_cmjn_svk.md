@@ -2,7 +2,9 @@
 
 ---
 lang: svk
-title: Tlačiarne a vydavateľstvá</h2>
+title: Tlačiarne a vydavateľstvá
+tags: stick_to_windows
+---
 
 Linux má ešte stále veľmi experimentálne spracovanie CMYK. Neustále sa zlepšuje, ale ešte nie je dostačujúce pre profesionálne použitie.
 

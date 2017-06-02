@@ -2,7 +2,9 @@
 
 ---
 lang: ser
-title: Knjige i štamparska industrija</h2>
+title: Knjige i štamparska industrija
+tags: stick_to_windows
+---
 
 Linux softver još uvek ima eksperimentalne CMYK mogućnosti. Ovo se poboljšava, ali još  
 nije na nivou kojim bi profesionalci bili zadovoljni.

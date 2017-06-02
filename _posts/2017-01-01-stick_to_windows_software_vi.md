@@ -2,7 +2,9 @@
 
 ---
 lang: vi
-title: Phần mềm độc quyền</h2>
+title: Phần mềm độc quyền
+tags: stick_to_windows
+---
 
 Trước đây rất nhiều nhà xản xuât phần mềm coi thị phần phần mềm Linux quá nhỏ 
 để hỗ trợ. Mặc dù tình hình đang thay đổi, hầu hết phần mềm lớn vẫn không chạy trên Linux.

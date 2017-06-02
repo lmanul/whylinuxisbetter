@@ -2,7 +2,9 @@
 
 ---
 lang: en
-title: Books & printing industry</h2>
+title: Books & printing industry
+tags: stick_to_windows
+---
 
 Linux software still has very experimental CMYK features. This is getting better, but it's 
 not really satisfying for professional use yet.

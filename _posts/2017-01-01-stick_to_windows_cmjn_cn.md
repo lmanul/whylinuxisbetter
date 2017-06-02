@@ -2,7 +2,9 @@
 
 ---
 lang: cn
-title: 图书及印刷业</h2>
+title: 图书及印刷业
+tags: stick_to_windows
+---
 
 Linux软件很多都有试验的特性。他们正在改进，但是对于专业人员来说可能不能满足他们的需要。
 

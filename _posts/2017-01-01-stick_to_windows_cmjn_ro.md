@@ -2,7 +2,9 @@
 
 ---
 lang: ro
-title: Tipografia</h2>
+title: Tipografia
+tags: stick_to_windows
+---
 Software-ul Linux încă are abilitaţi foarte experimentale CMYK. Acest lucru e îmbunătăţit, dar
 încă nu e gata pentru uz profesional.
 

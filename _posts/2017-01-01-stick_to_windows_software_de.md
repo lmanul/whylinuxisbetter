@@ -2,7 +2,9 @@
 
 ---
 lang: de
-title: Proprietäre Software</h2>
+title: Proprietäre Software
+tags: stick_to_windows
+---
 
 Bis vor kurzem dachten viele Software-Entwickler, dass Linux ein zu kleiner Markt ist, um dafür Software zu entwickeln. Obwohl sich dies langsam ändert, läuft die meiste proprietäre Software nicht unter Linux.
 

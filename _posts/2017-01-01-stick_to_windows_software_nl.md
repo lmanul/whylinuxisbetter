@@ -2,7 +2,9 @@
 
 ---
 lang: nl
-title: Propriëtaire software</h2>
+title: Propriëtaire software
+tags: stick_to_windows
+---
 
 Tot voor kort beschouwden veel software-uitgevers de softwaremarkt voor Linux te klein om er software voor uit te brengen. Hoewel dit aan het veranderen is, draait de meeste propriëtaire software niet op Linux.
 

@@ -2,7 +2,9 @@
 
 ---
 lang: pl
-title: Książki i przemysł wydawniczy</h2>
+title: Książki i przemysł wydawniczy
+tags: stick_to_windows
+---
 
 Oprogramowanie Linuksowe wciąż posiada jedynie eksperymentalne wsparcie
 dla separacji barw CMYK. Sprawy z dnia na dzień mają się coraz lepiej, jednak

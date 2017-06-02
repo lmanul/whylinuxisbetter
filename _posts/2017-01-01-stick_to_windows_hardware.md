@@ -2,7 +2,9 @@
 
 ---
 lang: en
-title: Hardware</h2>
+title: Hardware
+tags: stick_to_windows
+---
 
 Most pieces of hardware work just fine with Linux. However, very 
 recent hardware (a few months old) are sometimes not yet supported. Like 

@@ -2,7 +2,9 @@
 
 ---
 lang: cat
-title: Programari propietari</h2>
+title: Programari propietari
+tags: stick_to_windows
+---
 
 Fins ara, la major part de fabricants de programari consideraven (i 
 encara ho consideren) que Linux és un mercat massa petit per a fer que 

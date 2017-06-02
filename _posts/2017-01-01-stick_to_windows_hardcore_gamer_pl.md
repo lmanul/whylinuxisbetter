@@ -2,7 +2,9 @@
 
 ---
 lang: pl
-title: Gry</h2>
+title: Gry
+tags: stick_to_windows
+---
 
 Większość gier jest kompatybilna z systemem Windows - i z żadnym
 innym. Niektóre z nich posiadają wersje pod system Mac OS X, niektóre

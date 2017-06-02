@@ -2,7 +2,9 @@
 
 ---
 lang: bg
-title: Игри</h2>
+title: Игри
+tags: stick_to_windows
+---
 
 Повечето игри са съвместими единствено с Windows и нищо друго. Някои имат Mac версии, някои Линукс версии (Quake 4, 
 Neverwinter Nights и др.), но повечето вървят само на Windows.

@@ -2,7 +2,9 @@
 
 ---
 lang: en
-title: Proprietary software</h2>
+title: Proprietary software
+tags: stick_to_windows
+---
 
 Until recently, many software publishers considered the software market for Linux to be too small to bother releasing software for it.  Though this is beginning to change, most proprietary software does not run within Linux.
 

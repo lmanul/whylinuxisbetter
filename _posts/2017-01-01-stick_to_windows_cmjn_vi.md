@@ -2,7 +2,9 @@
 
 ---
 lang: vi
-title: In ấn và xuât bản sách</h2>
+title: In ấn và xuât bản sách
+tags: stick_to_windows
+---
 
 Các chương trình trên Linux vẫn còn hỗ trợ CMYK kém. Điều này đang được cải thiện 
 nhưng vẫn chưa đủ tốt cho các nhà thiết kế đồ hoạ chuyên nghiệp.
