@@ -1,6 +1,7 @@
 
 
 ---
+lang: it
 title: Lavori nell'industria di libri/stampa</h2>
 
 <p>Il software Linux ha ancora caratteristiche CMYK sperimentali. Ciò sta migliorando, 

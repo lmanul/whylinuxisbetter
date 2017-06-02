@@ -1,6 +1,7 @@
 
 
 ---
+lang: ser
 title: Knjige i štamparska industrija</h2>
 
 <p>Linux softver još uvek ima eksperimentalne CMYK mogućnosti. Ovo se poboljšava, ali još  

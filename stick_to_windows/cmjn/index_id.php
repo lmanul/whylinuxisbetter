@@ -1,6 +1,7 @@
 
 
 ---
+lang: id
 title: Industri Buku dan Percetakan</h2>
 
 <p>Fitur CMYK pada software Linux masih dalam tahap percobaan. Fitur ini masih terus mengalami perbaikan, meskipun software Linux pada industri ini belum dapat dikatakan memuaskan bagi para pengguna profesional.</p>

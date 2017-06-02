@@ -1,6 +1,7 @@
 
 
 ---
+lang: se
 title: Bok- & Tryckindustrin</h2>
 
 <p>Mjukvara Linux har fortfarande väldigt experimentela CMYK-funktioner. Detta blir bättre, men det är än inte till förnöjdhet för den professionella marknaden.</p>

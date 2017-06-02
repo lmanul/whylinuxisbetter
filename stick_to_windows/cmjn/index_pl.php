@@ -1,6 +1,7 @@
 
 
 ---
+lang: pl
 title: Książki i przemysł wydawniczy</h2>
 
 <p>Oprogramowanie Linuksowe wciąż posiada jedynie eksperymentalne wsparcie

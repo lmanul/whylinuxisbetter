@@ -1,6 +1,7 @@
 
 
 ---
+lang: vi
 title: In ấn và xuât bản sách</h2>
 
 <p>Các chương trình trên Linux vẫn còn hỗ trợ CMYK kém. Điều này đang được cải thiện 

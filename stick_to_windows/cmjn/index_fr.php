@@ -1,6 +1,7 @@
 
 
 ---
+lang: fr
 title: Industrie du livre et de l'impression</h2>
 
 <p>Les logiciels Linux ont des fonctions CMJN expérimentales. Tout 

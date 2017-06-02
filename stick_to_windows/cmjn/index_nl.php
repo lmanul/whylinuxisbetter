@@ -1,6 +1,7 @@
 
 
 ---
+lang: nl
 title: Boek- & printsector</h2>
 
 <p>Linux-software heeft nog steeds zeer experimentele CMYK-mogelijkheden. Dit wordt steeds beter, maar het is nog niet voldoende voor professioneel gebruik.</p>

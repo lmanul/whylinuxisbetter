@@ -1,6 +1,7 @@
 
 
 ---
+lang: gl
 title: Industria de libros e impresión</h2>
 
 <p>Os programas de Linux teñen características CMYK en fase experimental. Isto está mellorando pero aínda non é satisfactorio para uso profesional.</p>

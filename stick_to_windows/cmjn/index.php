@@ -1,6 +1,7 @@
 
 
 ---
+lang: en
 title: Books & printing industry</h2>
 
 <p>Linux software still has very experimental CMYK features. This is getting better, but it's 

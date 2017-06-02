@@ -1,6 +1,7 @@
 
 
 ---
+lang: no
 title: Bok- og trykkeriindustrien.</h2>
 
 <p>CMYK-funksjonene som tilbys i Linux-programvare er fortsatt eksperimentelle. Dette blir stadig bedre, men det er ikke godt nok for profesjonell bruk ennå.</p>
