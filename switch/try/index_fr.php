@@ -1,6 +1,7 @@
 
 
 ---
+lang: fr
 title: Essayez Linux grâce à un "Live CD"</h2>
 
 <p>Il est possible d'essayer Linux en vrai sans même toucher à votre 

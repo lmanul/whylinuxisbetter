@@ -1,6 +1,7 @@
 
 
 ---
+lang: ro
 title: Încercaţi un Live CD</h2>
 
 <p>Puteţi încerca Linux fără să-l instalaţi!</p>

@@ -1,6 +1,7 @@
 
 
 ---
+lang: no
 title: Prøv en «Live CD»</h2>
 
 <p>Du kan prøve Linux uten permanente forandringer og uten å røre Windows.</p>

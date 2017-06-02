@@ -1,6 +1,7 @@
 
 
 ---
+lang: da
 title: Prøv en "Live CD"</h2>
 
 <p>Du kan også prøve Linux uden at pille ved din harddisk, og uden at gøre noget ved din Windows-installation!</p>

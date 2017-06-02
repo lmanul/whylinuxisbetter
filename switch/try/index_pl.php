@@ -1,6 +1,7 @@
 
 
 ---
+lang: pl
 title: Wypróbuj Linuksa, czyli więcej o "Live CD"</h2>
 
 <p>Aby wypróbować Linuksa, wcale nie musisz pozbywać się swojego

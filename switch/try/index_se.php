@@ -1,6 +1,7 @@
 
 
 ---
+lang: se
 title: Testa med en ”Live CD”</h2>
 
 <p>Du kan testa Linux på riktigt, helt utan att röra hårddisken, utan att röra ditt nuvarande operativsystem!</p>

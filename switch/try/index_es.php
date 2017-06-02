@@ -1,6 +1,7 @@
 
 
 ---
+lang: es
 title: Prueba un "Live CD"</h2>
 
 <p>Puedes probar Linux sin necesidad de tocar tu disco duro ¡ni hacerle nada a tu Windows!</p>

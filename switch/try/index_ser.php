@@ -1,6 +1,7 @@
 
 
 ---
+lang: ser
 title: Probajte "Live CD"</h2>
 
 <p>Možete da probate Linux, a da uopšte ne dirate Vaš hard disk 

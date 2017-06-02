@@ -1,6 +1,7 @@
 
 
 ---
+lang: tr
 title: Bir "Çalışan CD" deneyin</h2>
 
 <p>Linux'u sabit diskinize dokunmadan, varolan Windows'unuza herhangi bir şey yapmadan gerçek anlamda deneyebilirsiniz! 

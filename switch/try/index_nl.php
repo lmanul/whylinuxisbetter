@@ -1,6 +1,7 @@
 
 
 ---
+lang: nl
 title: Probeer een "live-cd"</h2>
 
 <p>U kunt Linux proberen zonder zelfs uw harde schijf aan te raken,

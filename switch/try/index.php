@@ -1,6 +1,7 @@
 
 
 ---
+lang: en
 title: Try a "Live CD"</h2>
 
 <p>You can try Linux for real without even needing to touch your 

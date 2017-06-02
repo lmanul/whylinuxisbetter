@@ -1,6 +1,7 @@
 
 
 ---
+lang: eo
 title: Provu "Senperan KD-n"</h2>
 
 <p>Vi povas provi Linux sen la neceso tuŝi la durdiskon, sen la neceso fari ion al via Windows!</p>

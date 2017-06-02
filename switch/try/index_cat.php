@@ -1,6 +1,7 @@
 
 
 ---
+lang: cat
 title: Prova un “Live CD”</h2>
 
 <p>Tu pots provar Linux de veritat sense necessitat de tocar el teu disc dur, sense necessitat de fer res al teu Windows !</p>
