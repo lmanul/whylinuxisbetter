@@ -4,9 +4,9 @@
 lang: de
 title: Teste eine „Live-CD“</h2>
 
-<p>Tatsächlich kannst du Linux ausprobieren, ohne deine Festplatte anzurühren oder irgendetwas mit deinem Windows anzustellen!</p>
+Tatsächlich kannst du Linux ausprobieren, ohne deine Festplatte anzurühren oder irgendetwas mit deinem Windows anzustellen!
 
-<p>Möglich ist dies mit einer sogenannten Linux-Live-CD. Eine Live-CD funktioniert folgendermaßen:</p>
+Möglich ist dies mit einer sogenannten Linux-Live-CD. Eine Live-CD funktioniert folgendermaßen:
 
 <ul>
 <li>Lade ein CD-Image aus dem Internet herunter (das wird eine .iso Datei sein, ungefähr 650&#x202f;MB groß).</li>
@@ -17,7 +17,7 @@ title: Teste eine „Live-CD“</h2>
 <li>Und voilà, Linux läuft auf deinem System, du kannnst es testen und schauen, ob du es magst. Mach dir keine Sorgen, falls das System nun etwas langsam erscheint: Es braucht etwas Zeit, alles von der CD zu laden. Dein Linuxsystem wird viel schneller sein, wenn es erst einmal auf der Festplatte installiert ist.</li>
 </ul>
 
-<p>Also, wo kannst du solche CD-Images herunterladen? Im Internet gibt es viele Linux-Live-CDs! Du kannst zum Beispiel eine von diesen ausprobieren:</p>
+Also, wo kannst du solche CD-Images herunterladen? Im Internet gibt es viele Linux-Live-CDs! Du kannst zum Beispiel eine von diesen ausprobieren:
 
 <table cols="2">
 <tr>

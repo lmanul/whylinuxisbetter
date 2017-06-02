@@ -4,9 +4,9 @@
 lang: id
 title: Mencoba "Live CD" Linux</h2>
 
-<p>Kamu dapat mencoba merasakan Linux tanpa mengutak-atik harddiskmu, bahkan tanpa harus melakukan apapun pada Windows yang ada pada komputermu!</p>
+Kamu dapat mencoba merasakan Linux tanpa mengutak-atik harddiskmu, bahkan tanpa harus melakukan apapun pada Windows yang ada pada komputermu!
 
-<p>Hal ini dapat kamu lakukan dengan menggunakan "Linux live CD". Sebuah "live CD" bekerja sebagai berikut:</p>
+Hal ini dapat kamu lakukan dengan menggunakan "Linux live CD". Sebuah "live CD" bekerja sebagai berikut:
 
 <ul>
 
@@ -24,7 +24,7 @@ title: Mencoba "Live CD" Linux</h2>
 
 </ul>
 
-<p>Jadi, dimana kamu bisa mendapatkan "Linux Live CD"? Ada banyak situs yang menyediakan alamat untuk mengunduh mereka secara bebas. Kamu bisa mencoba salah satu situs di bawah ini:</p>
+Jadi, dimana kamu bisa mendapatkan "Linux Live CD"? Ada banyak situs yang menyediakan alamat untuk mengunduh mereka secara bebas. Kamu bisa mencoba salah satu situs di bawah ini:
 
 <table cols="2">
 <tr>

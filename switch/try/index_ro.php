@@ -4,8 +4,8 @@
 lang: ro
 title: Încercaţi un Live CD</h2>
 
-<p>Puteţi încerca Linux fără să-l instalaţi!</p>
-<p>Acest lucru e posibil cu Live CD-uri. Un live cd lucrează aşa:</p>
+Puteţi încerca Linux fără să-l instalaţi!
+Acest lucru e posibil cu Live CD-uri. Un live cd lucrează aşa:
 
 
 <ul>
@@ -25,8 +25,8 @@ să încarce tot de pe CD. Linux va fi mult mai rapid instalat pe hard disk.</li
 
 
 </ul>
-<p>Deci de unde puteţi descărca acest imagini? Sunt multe Live CD-uri Linux
-pe internet! Exemple:</p>
+Deci de unde puteţi descărca acest imagini? Sunt multe Live CD-uri Linux
+pe internet! Exemple:
 
 
 <table cols="2">

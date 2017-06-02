@@ -4,9 +4,9 @@
 lang: gl
 title: Proba un "CD Vivo" (Live CD)</h2>
 
-<p>Podes probar Linux sen necesidade de tocar o teu disco duro nin facerlle nada ao teu Windows!</p>
+Podes probar Linux sen necesidade de tocar o teu disco duro nin facerlle nada ao teu Windows!
 
-<p>Isto é posible cos "CDs Vivos de Linux". Para usar un CD Vivo hai que seguir os seguintes pasos:</p>
+Isto é posible cos "CDs Vivos de Linux". Para usar un CD Vivo hai que seguir os seguintes pasos:
 
 <ul>
 
@@ -24,7 +24,7 @@ title: Proba un "CD Vivo" (Live CD)</h2>
 
 </ul>
 
-<p>Entón, onde se poden descargar esas imaxes de CD? Hai unha chea de CDs Vivos de Linux dispoñibles en internet! Podes probar un destes por exemplo:</p>
+Entón, onde se poden descargar esas imaxes de CD? Hai unha chea de CDs Vivos de Linux dispoñibles en internet! Podes probar un destes por exemplo:
 
 <table cols="2">
 <tr>

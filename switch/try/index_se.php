@@ -4,9 +4,9 @@
 lang: se
 title: Testa med en ”Live CD”</h2>
 
-<p>Du kan testa Linux på riktigt, helt utan att röra hårddisken, utan att röra ditt nuvarande operativsystem!</p>
+Du kan testa Linux på riktigt, helt utan att röra hårddisken, utan att röra ditt nuvarande operativsystem!
 
-<p>Detta är möjligt med ”Linux Live CD-skivor”. En live CD fungerar såhär:</p>
+Detta är möjligt med ”Linux Live CD-skivor”. En live CD fungerar såhär:
 
 <ul>
 
@@ -27,7 +27,7 @@ Oroa dig inte för din data, den kommer fortfarande att finnas när du startar o
 
 </ul>
 
-<p>Så var kan man ladda ner dessa CD-images? Det finns massor av Linux Live CD:s på nätet! Du kan till exempel testa en av dessa:</p>
+Så var kan man ladda ner dessa CD-images? Det finns massor av Linux Live CD:s på nätet! Du kan till exempel testa en av dessa:
 
 <table cols="2">
 <tr>

@@ -4,9 +4,9 @@
 lang: br
 title: Teste um "Live CD"</h2>
 
-<p>Você pode testar o Linux na realidade sem precisar mexer no seu disco rígido, sem precisar fazer nada com seu Windows existente! </p>
+Você pode testar o Linux na realidade sem precisar mexer no seu disco rígido, sem precisar fazer nada com seu Windows existente! 
 
-<p>Isto é possível com Linux em "Live CD". Um Live CD funciona da seguinte forma:</p>
+Isto é possível com Linux em "Live CD". Um Live CD funciona da seguinte forma:
 
 <ul>
 
@@ -24,7 +24,7 @@ title: Teste um "Live CD"</h2>
 
 </ul>
 
-<p>Então, onde eu posso baixar essas imagens de CD? Há um monte de Live CDs do Linux na Internet! Você pode tentar um desses, por exemplo:</p>
+Então, onde eu posso baixar essas imagens de CD? Há um monte de Live CDs do Linux na Internet! Você pode tentar um desses, por exemplo:
 
 <table cols="3">
 <tbody><tr>

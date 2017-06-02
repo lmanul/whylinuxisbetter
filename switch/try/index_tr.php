@@ -4,8 +4,8 @@
 lang: tr
 title: Bir "Çalışan CD" deneyin</h2>
 
-<p>Linux'u sabit diskinize dokunmadan, varolan Windows'unuza herhangi bir şey yapmadan gerçek anlamda deneyebilirsiniz! 
-Bu "Linux'un Çalışan CD"leri ile mümkündür. Bir çalışan CD kurma süreci şu şekilde işler:</p>
+Linux'u sabit diskinize dokunmadan, varolan Windows'unuza herhangi bir şey yapmadan gerçek anlamda deneyebilirsiniz! 
+Bu "Linux'un Çalışan CD"leri ile mümkündür. Bir çalışan CD kurma süreci şu şekilde işler:
 
 <ul>
 
@@ -23,7 +23,7 @@ Bu "Linux'un Çalışan CD"leri ile mümkündür. Bir çalışan CD kurma sürec
 
 </ul>
 
-<p>Pekala, bu CD görüntülerini nereden indirebilirsiniz? İnternet üzerinde bir çok Linux Çalışan CD vardır! Mesela şunlardan birisini deneyebilirsiniz:</p>
+Pekala, bu CD görüntülerini nereden indirebilirsiniz? İnternet üzerinde bir çok Linux Çalışan CD vardır! Mesela şunlardan birisini deneyebilirsiniz:
 
 <table cols="2">
 <tr>

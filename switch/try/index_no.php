@@ -4,9 +4,9 @@
 lang: no
 title: Prøv en «Live CD»</h2>
 
-<p>Du kan prøve Linux uten permanente forandringer og uten å røre Windows.</p>
+Du kan prøve Linux uten permanente forandringer og uten å røre Windows.
 
-<p>Dette er mulig med Linux «Live CD-er». En «Live CD» virker på denne måten:</p>
+Dette er mulig med Linux «Live CD-er». En «Live CD» virker på denne måten:
 
 <ul>
 
@@ -24,7 +24,7 @@ title: Prøv en «Live CD»</h2>
 
 </ul>
 
-<p>Så, hvor kan du så laste ned disse CD-bildene? Flere Internettsider tilbyr nedlastning av Linux «Live CD-er». Du kan prøve disse, for eksempel:</p>
+Så, hvor kan du så laste ned disse CD-bildene? Flere Internettsider tilbyr nedlastning av Linux «Live CD-er». Du kan prøve disse, for eksempel:
 
 <table cols="2">
 <tr>

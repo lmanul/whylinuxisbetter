@@ -4,9 +4,9 @@
 lang: cn
 title: 尝试一下 "Live CD"</h2>
 
-<p>您可以在不改动任何磁盘数据和不影响Windows的情况下尝试Linux。</p>
+您可以在不改动任何磁盘数据和不影响Windows的情况下尝试Linux。
 
-<p>有了“Linux Live CDs”这一切都能成为可能。一张Live CD是这样工作的：</p>
+有了“Linux Live CDs”这一切都能成为可能。一张Live CD是这样工作的：
 
 <ul>
 
@@ -29,7 +29,7 @@ BIOS设置（如果您不擅长这些，您可以寻求一些帮助）。</li>
 
 </ul>
 
-<p>那么，到哪里下载CD镜像呢？这里有一个网上很多Linux Live CD的列表！您可以尝试他们一下：</p>
+那么，到哪里下载CD镜像呢？这里有一个网上很多Linux Live CD的列表！您可以尝试他们一下：
 
 <table cols="2">
 <tr>

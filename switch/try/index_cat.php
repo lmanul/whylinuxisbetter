@@ -4,9 +4,9 @@
 lang: cat
 title: Prova un “Live CD”</h2>
 
-<p>Tu pots provar Linux de veritat sense necessitat de tocar el teu disc dur, sense necessitat de fer res al teu Windows !</p>
+Tu pots provar Linux de veritat sense necessitat de tocar el teu disc dur, sense necessitat de fer res al teu Windows !
 
-<p>Això és possible amb els “Live Cds de Linux”. Un CD en viu funciona de la següent manera:
+Això és possible amb els “Live Cds de Linux”. Un CD en viu funciona de la següent manera:
 
 <ul>
 
@@ -19,7 +19,7 @@ title: Prova un “Live CD”</h2>
 
 </ul>
 
-<p>Així que, quan vas a baixar-te aquestes imatges de CD ? Hi ha un munt de Live Cds de Linux disponibles a la web ! Podies provar un d'aquestos exemples:</p>
+Així que, quan vas a baixar-te aquestes imatges de CD ? Hi ha un munt de Live Cds de Linux disponibles a la web ! Podies provar un d'aquestos exemples:
 
 <table cols="2">
 <tr>

@@ -4,10 +4,10 @@
 lang: ser
 title: Probajte "Live CD"</h2>
 
-<p>Možete da probate Linux, a da uopšte ne dirate Vaš hard disk 
-i bez potrebe da radite bilo šta sa postojećim Windows-om !</p>
+Možete da probate Linux, a da uopšte ne dirate Vaš hard disk 
+i bez potrebe da radite bilo šta sa postojećim Windows-om !
 
-<p>Ovo je moguće sa "Linux live CD-om". Live CD radi na sledeći način :</p>
+Ovo je moguće sa "Linux live CD-om". Live CD radi na sledeći način :
 
 <ul>
 
@@ -35,9 +35,9 @@ li Vam se sviđa !</li>
 
 </ul>
 
-<p>Pa, gde možete skinuti ove slike linux CD-ova? Postoji mnogo  
+Pa, gde možete skinuti ove slike linux CD-ova? Postoji mnogo  
 Linux Live CD-ova dostupnih na internetu! Možete, na primer, probati neke od
-ovih:</p>
+ovih:
 
 <table cols="2">
 <tr>

@@ -4,9 +4,9 @@
 lang: tw
 title: 在不碰觸 Windows 的情況下試用 Linux</h2>
 
-<p>你不需要碰觸到你的硬碟資料，也不需要在現存的 Windows 做任何事情就能夠試用 Linux！</p>
+你不需要碰觸到你的硬碟資料，也不需要在現存的 Windows 做任何事情就能夠試用 Linux！
 
-<p>「Linux Live CD」讓這件事情變成可能。Live CD 運作的方式如下：</p>
+「Linux Live CD」讓這件事情變成可能。Live CD 運作的方式如下：
 
 <ul>
 
@@ -25,7 +25,7 @@ title: 在不碰觸 Windows 的情況下試用 Linux</h2>
 
 </ul>
 
-<p>那麼，去哪裡才能下載這些 CD 映像檔呢？許多 Linux Live CD 都能夠從網路上取得！比方說，你可以試試這些：</p>
+那麼，去哪裡才能下載這些 CD 映像檔呢？許多 Linux Live CD 都能夠從網路上取得！比方說，你可以試試這些：
 
 <table cols="2">
 <tr>

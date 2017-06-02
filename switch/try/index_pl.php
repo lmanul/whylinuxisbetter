@@ -4,11 +4,11 @@
 lang: pl
 title: Wypróbuj Linuksa, czyli więcej o "Live CD"</h2>
 
-<p>Aby wypróbować Linuksa, wcale nie musisz pozbywać się swojego
+Aby wypróbować Linuksa, wcale nie musisz pozbywać się swojego
 obecnego systemu. Istnieją bowiem specjalne płyty zwane czasem "Live CD",
 które są samowystarczalne - uruchamiają system Linuks bez modyfikowania
 czegokolwiek, nie pozostawiając przy tym żadnego śladu na komputerze.
-Poniżej krótki opis, jak ich używać:</p>
+Poniżej krótki opis, jak ich używać:
 
 <ul>
 
@@ -46,8 +46,8 @@ z pewnością odczuwalne</li>
 
 </ul>
 
-<p>Skąd więc wziąć wspomniane obrazy płyt? Po sieci krąży mnóstwo płyt
-typu Live CD, możesz wypróbować jedną z poniższych:</p>
+Skąd więc wziąć wspomniane obrazy płyt? Po sieci krąży mnóstwo płyt
+typu Live CD, możesz wypróbować jedną z poniższych:
 
 <table cols="2">
 <tr>

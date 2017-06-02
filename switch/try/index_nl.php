@@ -4,11 +4,11 @@
 lang: nl
 title: Probeer een "live-cd"</h2>
 
-<p>U kunt Linux proberen zonder zelfs uw harde schijf aan te raken,
-zonder dat u iets moet doen met uw bestaande Windows-installatie!</p>
+U kunt Linux proberen zonder zelfs uw harde schijf aan te raken,
+zonder dat u iets moet doen met uw bestaande Windows-installatie!
 
-<p>Dit is mogelijk met "Linux live-cd's". Een live-cd werkt op
-volgende manier:</p>
+Dit is mogelijk met "Linux live-cd's". Een live-cd werkt op
+volgende manier:
 
 <ul>
 
@@ -41,8 +41,8 @@ geïnstalleerd.
 
 </ul>
 
-<p>Waar kan ik deze cd/dvd-images dan downloaden? Er zijn veel Linux-live-cd's
-beschikbaar op het internet! U zou één van deze kunnen proberen:</p>
+Waar kan ik deze cd/dvd-images dan downloaden? Er zijn veel Linux-live-cd's
+beschikbaar op het internet! U zou één van deze kunnen proberen:
 
 <table cols="2">
 <tr>

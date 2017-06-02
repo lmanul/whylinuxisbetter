@@ -4,11 +4,11 @@
 lang: fr
 title: Essayez Linux grâce à un "Live CD"</h2>
 
-<p>Il est possible d'essayer Linux en vrai sans même toucher à votre 
-disque dur, sans toucher à votre installation actuelle de Windows ! </p>
+Il est possible d'essayer Linux en vrai sans même toucher à votre 
+disque dur, sans toucher à votre installation actuelle de Windows ! 
 
-<p>C'est possible grâce aux "Live CDs" Linux. Un live CD fonctionne 
-de la façon suivante :</p>
+C'est possible grâce aux "Live CDs" Linux. Un live CD fonctionne 
+de la façon suivante :
 
 <ul>
 
@@ -38,9 +38,9 @@ voir si vous aimez ! </li>
 
 </ul>
 
-<p>Où donc téléchargez ces images de CD ? Il existe de nombreux live CDs 
+Où donc téléchargez ces images de CD ? Il existe de nombreux live CDs 
 disponibles sur le web ! Vous pouvez par exemple essayer l'un de 
-ceux-ci: </p>
+ceux-ci: 
 
 <table cols="2">
 <tr>

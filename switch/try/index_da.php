@@ -4,9 +4,9 @@
 lang: da
 title: Prøv en "Live CD"</h2>
 
-<p>Du kan også prøve Linux uden at pille ved din harddisk, og uden at gøre noget ved din Windows-installation!</p>
+Du kan også prøve Linux uden at pille ved din harddisk, og uden at gøre noget ved din Windows-installation!
 
-<p>Dette er muligt med "Linux live CD'er". En Live-CD virker på følgende måde :</p>
+Dette er muligt med "Linux live CD'er". En Live-CD virker på følgende måde :
 
 <ul>
 
@@ -26,7 +26,7 @@ fil, på omkring 650 megabyte). </li>
 
 </ul>
 
-<p>Hvor kan du downloade Linux-CD-images, spør' du? Der er mange Live-CD'er tilgængelige på nettet og som du kan downloade! Du kunne f.eks. prøve en af disse hér:</p>
+Hvor kan du downloade Linux-CD-images, spør' du? Der er mange Live-CD'er tilgængelige på nettet og som du kan downloade! Du kunne f.eks. prøve en af disse hér:
 
 <table cols="2">
 <tr>

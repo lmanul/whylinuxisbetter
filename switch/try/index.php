@@ -4,11 +4,11 @@
 lang: en
 title: Try a "Live CD"</h2>
 
-<p>You can try Linux for real without even needing to touch your 
-hard disk, without needing to do anything to your existing Windows !</p>
+You can try Linux for real without even needing to touch your 
+hard disk, without needing to do anything to your existing Windows !
 
-<p>This is possible with "Linux live distributions". A live distribution works the 
-following way :</p>
+This is possible with "Linux live distributions". A live distribution works the 
+following way :
 
 <ul>
 
@@ -41,9 +41,9 @@ system will be much quicker once actually installed on your hard disk.
 
 </ul>
 
-<p>So, where can you download those drive images ? There are a lot of 
+So, where can you download those drive images ? There are a lot of 
 Linux Live distributions available on the web ! You could try one of these for 
-example:</p>
+example:
 
 <table cols="2">
 <tr>

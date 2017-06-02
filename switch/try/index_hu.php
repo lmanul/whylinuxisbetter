@@ -4,9 +4,9 @@
 lang: hu
 title: Próbálj ki egy „élő CD-t”!</h2>
 
-<p>Valóban kipróbálhatod a Linuxot anélkül, hogy meg kéne piszkálnod a merevlemezed,  és hogy bármit is kellene tenned a Windows-oddal!</p>
+Valóban kipróbálhatod a Linuxot anélkül, hogy meg kéne piszkálnod a merevlemezed,  és hogy bármit is kellene tenned a Windows-oddal!
 
-<p>Mindez lehetséges egy „Linux élő CD-vel”. Egy élő CD a következő módon működik:</p>
+Mindez lehetséges egy „Linux élő CD-vel”. Egy élő CD a következő módon működik:
 
 <ul>
 
@@ -24,7 +24,7 @@ title: Próbálj ki egy „élő CD-t”!</h2>
 
 </ul>
 
-<p>Szóval, honnan is töltheted le azokat a CD képfájlokat? Rengeteg Linux élő CD érhető el a weben! Kipróbálhatsz például ezek közül egyet:</p>
+Szóval, honnan is töltheted le azokat a CD képfájlokat? Rengeteg Linux élő CD érhető el a weben! Kipróbálhatsz például ezek közül egyet:
 
 <table cols="2">
 <tr>

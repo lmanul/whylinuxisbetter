@@ -4,9 +4,9 @@
 lang: eo
 title: Provu "Senperan KD-n"</h2>
 
-<p>Vi povas provi Linux sen la neceso tuŝi la durdiskon, sen la neceso fari ion al via Windows!</p>
+Vi povas provi Linux sen la neceso tuŝi la durdiskon, sen la neceso fari ion al via Windows!
 
-<p>Ĉi tio estas ebla per "Senperaj KD-j de Linux". Por uzi senperan KD-n vi devas sekvi la jenajn paŝojn:</p>
+Ĉi tio estas ebla per "Senperaj KD-j de Linux". Por uzi senperan KD-n vi devas sekvi la jenajn paŝojn:
 
 <ul>
 
@@ -24,7 +24,7 @@ title: Provu "Senperan KD-n"</h2>
 
 </ul>
 
-<p>Do, kie vi povas elŝuti tiujn ekzaktajn kopiojn de KD? Ekzistas multegaj Senperaj KD-j de Linux disponeblaj en interreto! Vi povas provi unu el ĉi tiuj, ekzemple:</p>
+Do, kie vi povas elŝuti tiujn ekzaktajn kopiojn de KD? Ekzistas multegaj Senperaj KD-j de Linux disponeblaj en interreto! Vi povas provi unu el ĉi tiuj, ekzemple:
 
 <table cols="2">
 <tr>

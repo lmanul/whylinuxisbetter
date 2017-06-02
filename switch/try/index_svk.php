@@ -4,9 +4,9 @@
 lang: svk
 title: Vyskúšajte "Live CD"</h2>
 
-<p>Môžete si vyskúšať Linux bez potreby vôbec sa dotknúť dát na vašom disku, bez potreby robiť niečo s vaším Windows-om!</p>
+Môžete si vyskúšať Linux bez potreby vôbec sa dotknúť dát na vašom disku, bez potreby robiť niečo s vaším Windows-om!
 
-<p>Toto je možné vďaka "Linux live CDs". Live CD funguje takto:</p>
+Toto je možné vďaka "Linux live CDs". Live CD funguje takto:
 
 <ul>
 
@@ -25,7 +25,7 @@ nemusíte sa báť o Windows a o vaše dáta, stále tam budú keď spustíte po
 
 </ul>
 
-<p>Takže, chcete vedieť, odkiaľ si môžete tieto Live CD stiahnuť? Na internete je množstvo Linux Live CD! Môžete napríklad skúsiť niektoré z týchto:</p>
+Takže, chcete vedieť, odkiaľ si môžete tieto Live CD stiahnuť? Na internete je množstvo Linux Live CD! Môžete napríklad skúsiť niektoré z týchto:
 
 <table cols="2">
 <tr>

@@ -4,7 +4,7 @@
 lang: vi
 title: Dùng thử "Live CD"</h2>
 
-<p>Bạn có thể chạy thử Linux mà không đụng gì đến dữ liệu có sẵn bằng các "Live CD":</p>
+Bạn có thể chạy thử Linux mà không đụng gì đến dữ liệu có sẵn bằng các "Live CD":
 
 <ul>
 
@@ -26,8 +26,8 @@ rất nhiều lần.</li>
 
 </ul>
 
-<p>Tôi có thể download các CD đó ở đâu ? Có rất nhiều phiên bản Linux chạy được trên CD!. 
-Bạn có thể dùng thử:</p>
+Tôi có thể download các CD đó ở đâu ? Có rất nhiều phiên bản Linux chạy được trên CD!. 
+Bạn có thể dùng thử:
 
 <table cols="2">
 <tr>

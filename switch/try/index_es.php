@@ -4,9 +4,9 @@
 lang: es
 title: Prueba un "Live CD"</h2>
 
-<p>Puedes probar Linux sin necesidad de tocar tu disco duro ¡ni hacerle nada a tu Windows!</p>
+Puedes probar Linux sin necesidad de tocar tu disco duro ¡ni hacerle nada a tu Windows!
 
-<p>Esto es posible con "Live CDs de Linux". Para usar un CD live hay que seguir los siguientes pasos:</p>
+Esto es posible con "Live CDs de Linux". Para usar un CD live hay que seguir los siguientes pasos:
 
 <ul>
 
@@ -24,7 +24,7 @@ title: Prueba un "Live CD"</h2>
 
 </ul>
 
-<p>Entonces, ¿dónde puedes descargar esas imágenes de CD? ¡Hay un montón de Live CDs de Linux disponibles en internet! Puedes probar uno de estos, por ejemplo:</p>
+Entonces, ¿dónde puedes descargar esas imágenes de CD? ¡Hay un montón de Live CDs de Linux disponibles en internet! Puedes probar uno de estos, por ejemplo:
 
 <table cols="2">
 <tr>

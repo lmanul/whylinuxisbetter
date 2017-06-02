@@ -4,11 +4,11 @@
 lang: it
 title: Prova un "Live CD"</h2>
 
-<p>Puoi provare Linux senza toccare il tuo hard disk, senza far nulla 
-all'esistente Windows!</p>
+Puoi provare Linux senza toccare il tuo hard disk, senza far nulla 
+all'esistente Windows!
 
-<p>Questo è possibile con i "LiveCD Linux". Un CD Live funziona in 
-questo modo:</p>
+Questo è possibile con i "LiveCD Linux". Un CD Live funziona in 
+questo modo:
 
 <ul>
 
@@ -34,8 +34,8 @@ al tuo BIOS solitamente digitando "Canc" o "F2" durante la prima fase di boot
 
 </ul>
 
-<p>Allora, dove puoi scaricare le immagini dei CD? Ci sono molti Live CD 
-Linux disponibili sul web! Puoi provare uno di questi, ad esempio:</p>
+Allora, dove puoi scaricare le immagini dei CD? Ci sono molti Live CD 
+Linux disponibili sul web! Puoi provare uno di questi, ad esempio:
 
 <table cols="2">
 <tr>
