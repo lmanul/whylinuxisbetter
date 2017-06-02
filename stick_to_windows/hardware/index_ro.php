@@ -1,6 +1,7 @@
 
 
 ---
+lang: ro
 title: Hardware</h2>
 
 <p>Majoritatea hardware-ului merge bine cu Linux. Oricum, hardware-ul foarte nou

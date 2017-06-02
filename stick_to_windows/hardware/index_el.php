@@ -1,6 +1,7 @@
 
 
 ---
+lang: el
 title: Hardware</h2>
 
 <p>Η πλειοψηφία του hardware δουλεύει μια χαρά με το Linux. Όμως, πολύ πρόσφατο 

@@ -1,6 +1,7 @@
 
 
 ---
+lang: fr
 title: Le matériel</h2>
 
 <p>La grande majorité du matériel marche parfaitement sous Linux. 

@@ -1,6 +1,7 @@
 
 
 ---
+lang: pl
 title: Sprzęt</h2>
 
 <p>Większość sprzętu bardzo dobrze współpracuje z systemem Linuks.

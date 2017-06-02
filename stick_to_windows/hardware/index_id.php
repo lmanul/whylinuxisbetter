@@ -1,6 +1,7 @@
 
 
 ---
+lang: id
 title: Hardware</h2>
 
 <p>Sebagian besar hardware dapat berjalan dengan baik di Linux. Tetapi, ada beberapa hardware terbaru

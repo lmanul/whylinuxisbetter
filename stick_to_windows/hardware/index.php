@@ -1,6 +1,7 @@
 
 
 ---
+lang: en
 title: Hardware</h2>
 
 <p>Most pieces of hardware work just fine with Linux. However, very 

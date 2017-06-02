@@ -1,6 +1,7 @@
 
 
 ---
+lang: ser
 title: Hardver</h2>
 
 <p>Većina hardvera radi odlično sa Linux-om. Ipak, relativno nov hardver

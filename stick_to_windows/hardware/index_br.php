@@ -1,6 +1,7 @@
 
 
 ---
+lang: br
 title: Hardware</h2>
 
 <p>A maioria das peças de hardware funcionam bem com o Linux. Entretanto, o hardware muito recente (de alguns meses), ás vezes, não é suportado ainda. Como os vendedores de software, a maioria dos vendedores de hardware ainda consideram o mercado para Linux muito pequeno, e não se preocupam em providenciar drivers para o próprio hardware. Os desenvolvedores Linux trabalham nisso, e fazem um ótimo trabalho para deixar cada peça do hardware funcionando harmoniosamente, mas isso leva um tempo.</p>

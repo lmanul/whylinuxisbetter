@@ -1,6 +1,7 @@
 
 
 ---
+lang: it
 title: Il tuo hardware non è ancora supportato</h2>
 
 <p>Alcune periferiche funzionano bene su Linux. Comunque, hardware 

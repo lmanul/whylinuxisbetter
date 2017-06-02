@@ -1,6 +1,7 @@
 
 
 ---
+lang: nl
 title: Hardware</h2>
 
 <p>De meeste hardware werkt prima met Linux. Toch is het zo dat zeer
