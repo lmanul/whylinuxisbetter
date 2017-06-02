@@ -57,4 +57,3 @@ title: نصب لینوکس</h2>
 </div>
 
 </body>
-</html>

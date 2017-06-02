@@ -24,4 +24,3 @@ title: Menginstall Linux</h2>
 
 </div>
 </body>
-</html>

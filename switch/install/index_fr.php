@@ -60,4 +60,3 @@ simples et claires la plupart du temps !</p>
 
 </div>
 </body>
-</html>

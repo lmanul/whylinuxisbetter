@@ -24,4 +24,3 @@ title: Installér Linux</h2>
 
 </div>
 </body>
-</html>

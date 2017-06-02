@@ -25,4 +25,3 @@ href="http://www.distrowatch.com">distrowatch.com</a>によれば、人気のト
 
 </div>
 </body>
-</html>

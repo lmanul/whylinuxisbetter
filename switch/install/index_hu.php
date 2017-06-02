@@ -25,4 +25,3 @@ href="http://www.distrowatch.com">distrowatch.com</a> által rangsorolva:</p>
 
 </div>
 </body>
-</html>

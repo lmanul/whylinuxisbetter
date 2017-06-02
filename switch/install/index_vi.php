@@ -40,4 +40,3 @@ máy tính sẽ khởi động bằng CD đó; nếu không bạn cần cấu h�
 
 </div>
 </body>
-</html>

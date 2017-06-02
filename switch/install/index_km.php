@@ -78,4 +78,3 @@ href="http://fedora.redhat.com/Download/">fedora.redhat.com/Download/</a></td>
 
 </div>
 </body>
-</html>

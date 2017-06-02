@@ -33,4 +33,3 @@ PC usará o CD  para iniciar; se isso não acontecer, sua configuração de BIOS
 
 </div>
 </body>
-</html>

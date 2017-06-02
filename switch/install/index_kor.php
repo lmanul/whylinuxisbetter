@@ -25,4 +25,3 @@ href="http://www.distrowatch.com">distrowatch.com</a>에서 말하는 네 개의
 
 </div>
 </body>
-</html>
