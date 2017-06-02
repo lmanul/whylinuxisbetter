@@ -1,6 +1,6 @@
 ---
 lang: br
-﻿title: "Economize energia: deixe seu computador dormir ou hibernar."
+title: "Economize energia: deixe seu computador dormir ou hibernar."
 ---
 
 <ul>

@@ -1,6 +1,6 @@
 ---
 lang: br
-﻿title: "Cansou de reiniciar seu computador toda hora?"
+title: "Cansou de reiniciar seu computador toda hora?"
 ---
 
 Acabou de atualizar uma ou duas coisas no seu sistema Windows com o "Windows Update"? Por favor reinicie. Acabou de instalar um programa novo? Por favor reinicie. Seu sistema parece instável? Tente reiniciar, provavelmente tudo funcionará melhor depois disso.

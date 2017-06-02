@@ -1,6 +1,6 @@
 ---
 lang: br
-﻿title: "Muitas janelas? Use desktops virtuais."
+title: "Muitas janelas? Use desktops virtuais."
 ---
 
 Nunca fui um usuário de Windows e tem algo que não consigo entender: uma vez que tenha abertos seu pocessador de textos, seu navegador de internet, seu programa de email, seu programa de mensagem instantânea e algumas janelas para explorar seus arquivos, como os usuários de Windows fazem para não se <b>perderem</b> nessa confusão?
