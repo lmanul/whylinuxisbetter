@@ -16,4 +16,3 @@ software-uri comerciale nu rulează pe Linux.</p>
 
 </div>
 </body>
-</html>

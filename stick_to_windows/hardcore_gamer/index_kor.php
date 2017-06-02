@@ -10,4 +10,3 @@ title: 게임들</h2>
 
 </div>
 </body>
-</html>

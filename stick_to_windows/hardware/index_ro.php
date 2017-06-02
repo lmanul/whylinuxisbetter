@@ -17,4 +17,3 @@ să atingeţi Windows").</p>
 
 </div>
 </body>
-</html>

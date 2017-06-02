@@ -10,4 +10,3 @@ title: Donanım</h2>
 
 </div>
 </body>
-</html>

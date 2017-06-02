@@ -14,4 +14,3 @@ một Live CD (xem mục "Thử Linux mà không ảnh hưởng đến Windows).
 
 </div>
 </body>
-</html>

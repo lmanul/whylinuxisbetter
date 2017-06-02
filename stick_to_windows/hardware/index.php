@@ -18,4 +18,3 @@ hardware is well supported is to run Linux from a Live CD (see the
 
 </div>
 </body>
-</html>

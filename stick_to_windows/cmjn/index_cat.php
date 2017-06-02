@@ -10,4 +10,3 @@ title: Els llibres i la indústria de la impressió</h2>
 
 </div>
 </body>
-</html>

@@ -16,4 +16,3 @@ title: Sahipli yazılım</h2>
 
 </div>
 </body>
-</html>

@@ -13,4 +13,3 @@ Neverwinter Nights, etc.), men de flesta kan bara köras på Windows.</p>
 
 </div>
 </body>
-</html>

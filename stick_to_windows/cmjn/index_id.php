@@ -14,4 +14,3 @@ Tetapi kamu masih dapat menginstall Linux, membuat Linux berdampingan dengan Win
 
 </div>
 </body>
-</html>

@@ -12,4 +12,3 @@ title: Spelletjes</h2>
 
 </div>
 </body>
-</html>

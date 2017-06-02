@@ -11,4 +11,3 @@ title: Games</h2>
 <p>Wenn du gerne Games spielst, die nicht mehr allzu aktuell sind, bedenke, dass Software wie Wine oder Cedega dir helfen kann, die nicht-allerneuesten Windowsspiele unter Linux problemlos zum Laufen zu bekommen.</p>
 </div>
 </body>
-</html>

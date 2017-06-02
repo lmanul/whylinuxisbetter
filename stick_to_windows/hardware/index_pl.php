@@ -20,4 +20,3 @@ ruszania systemu Windows").</p>
 
 </div>
 </body>
-</html>

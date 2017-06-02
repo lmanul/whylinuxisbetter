@@ -30,4 +30,3 @@ aplikacji w takim środowisku.</p>
 
 </div>
 </body>
-</html>

@@ -10,4 +10,3 @@ title: Hardver</h2>
 
 </div>
 </body>
-</html>

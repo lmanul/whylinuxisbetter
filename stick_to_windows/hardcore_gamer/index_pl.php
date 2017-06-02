@@ -15,4 +15,3 @@ systemów równocześnie (patrz rozdział "Instalacja"), zależnie od nastroju.<
 
 </div>
 </body>
-</html>

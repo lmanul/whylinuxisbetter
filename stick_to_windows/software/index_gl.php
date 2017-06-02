@@ -14,4 +14,3 @@ title: Aplicacións ou programas privativos (Software privativo)</h2>
 
 </div>
 </body>
-</html>

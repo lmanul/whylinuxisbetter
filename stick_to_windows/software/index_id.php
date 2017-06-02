@@ -21,4 +21,3 @@ Bagaimanapun juga, kamu dapat menginstall kedua sistem operasi tersebut pada kom
 
 </div>
 </body>
-</html>

@@ -10,4 +10,3 @@ title: Bog og forlags-industrien.</h2>
 
 </div>
 </body>
-</html>

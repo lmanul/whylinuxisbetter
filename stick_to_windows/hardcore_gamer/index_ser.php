@@ -14,4 +14,3 @@ na Windows-u. Ali ipak možete instalirati Linux, zadržati Windows
 
 </div>
 </body>
-</html>

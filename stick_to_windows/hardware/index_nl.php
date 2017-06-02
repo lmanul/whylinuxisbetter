@@ -18,4 +18,3 @@ werkt op Linux is het opstarten van Linux via een live-cd (zie de
 
 </div>
 </body>
-</html>

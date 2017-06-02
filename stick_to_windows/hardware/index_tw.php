@@ -10,4 +10,3 @@ title: 你的硬體尚未被支援</h2>
 
 </div>
 </body>
-</html>

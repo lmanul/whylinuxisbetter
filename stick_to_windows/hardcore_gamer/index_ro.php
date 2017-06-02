@@ -15,4 +15,3 @@ Dar puteţi instala Linux, păstra Windows (vedeţi secţiunea de instalare),
 
 </div>
 </body>
-</html>

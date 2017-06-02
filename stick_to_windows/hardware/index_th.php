@@ -10,4 +10,3 @@ title: ฮาร์ดแวร์</h2>
 
 </div>
 </body>
-</html>

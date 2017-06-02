@@ -18,4 +18,3 @@ supportato bene è far partire Linux da un LiveCD (vedi la sezione
 
 </div>
 </body>
-</html>

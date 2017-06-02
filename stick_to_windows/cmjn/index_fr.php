@@ -18,4 +18,3 @@ l'installation) et utiliser les deux, selon vos besoins.</p>
 
 </div>
 </body>
-</html>

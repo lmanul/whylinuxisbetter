@@ -22,4 +22,3 @@ of the company's games (Team Fortress 2, DOTA 2, Half Life, etc.) and upcoming t
 
 </div>
 </body>
-</html>

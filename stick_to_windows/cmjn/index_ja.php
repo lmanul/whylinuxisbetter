@@ -10,4 +10,3 @@ title: DTP業界は厳しいよ。</h2>
 
 </div>
 </body>
-</html>

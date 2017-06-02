@@ -10,4 +10,3 @@ title: Хардуер</h2>
 
 </div>
 </body>
-</html>

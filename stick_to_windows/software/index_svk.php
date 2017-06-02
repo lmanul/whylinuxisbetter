@@ -17,4 +17,3 @@ title: Autorizovaný (zákonom chránený) softvér</h2>
 
 </div>
 </body>
-</html>

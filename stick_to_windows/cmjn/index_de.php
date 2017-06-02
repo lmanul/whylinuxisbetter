@@ -12,4 +12,3 @@ title: Buch-/Druckindustrie</h2>
 
 </div>
 </body>
-</html>

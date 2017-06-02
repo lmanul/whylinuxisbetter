@@ -16,4 +16,3 @@ title: ซอฟต์แวร์ปิด-Proprietary</h2>
 
 </div>
 </body>
-</html>

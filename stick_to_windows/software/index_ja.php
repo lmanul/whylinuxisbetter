@@ -17,4 +17,3 @@ href="/items/warez/index_ja.php">この記事を参照</a>）。</p>
 
 </div>
 </body>
-</html>

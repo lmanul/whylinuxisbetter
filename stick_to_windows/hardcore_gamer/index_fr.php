@@ -16,4 +16,3 @@ l'installation) et utiliser les deux systèmes, selon vos besoins.</p>
 
 </div>
 </body>
-</html>

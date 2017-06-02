@@ -10,4 +10,3 @@ title: Compoñentes e Periféricos (Hardware)</h2>
 
 </div>
 </body>
-</html>

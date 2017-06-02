@@ -13,4 +13,3 @@ bạn có thể thử Linux, giữ lại Windows (xem mục Cài Đặt).</p>
 
 </div>
 </body>
-</html>

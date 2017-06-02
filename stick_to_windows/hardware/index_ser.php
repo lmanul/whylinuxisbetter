@@ -17,4 +17,3 @@ dobro podržan, jeste da pokrenete linux s Live CD-a (pogledajte sekciju
 
 </div>
 </body>
-</html>
