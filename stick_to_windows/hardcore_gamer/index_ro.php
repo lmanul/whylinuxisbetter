@@ -14,4 +14,3 @@ Dar puteţi instala Linux, păstra Windows (vedeţi secţiunea de instalare),
 şi să le folosiţi pe ambele.</p>
 
 </div>
-</body>

@@ -11,4 +11,3 @@ title: Játékok</h2>
 <p>Ha szeretsz játszani, de nem ragaszkodsz hozzá, hogy a legújabb legyen, ne feledd, hogy az olyan szoftverek, mint a Wine vagy a Cedega segíthetnek futtatni a nem-épp-a-legújabb windows-os játékokat Linuxon.</p>
 
 </div>
-</body>

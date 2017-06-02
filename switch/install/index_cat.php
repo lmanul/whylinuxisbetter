@@ -24,4 +24,3 @@ title: Instal·la Linux</h2>
 
 
 </div>
-</body>

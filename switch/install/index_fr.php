@@ -59,4 +59,3 @@ simples et claires la plupart du temps !</p>
 <p><b>Bonne route en compagnie de Linux !</b></p>
 
 </div>
-</body>

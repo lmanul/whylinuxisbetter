@@ -9,4 +9,3 @@ title: Hardware</h2>
 <p>O melhor jeito (e o mais direto) de ver se seu hardware é bem suportado, é rodar o Linux a partir de um Live CD (veja a seção "Experimente o Linux sem tocar no Windows").</p>
 
 </div>
-</body>

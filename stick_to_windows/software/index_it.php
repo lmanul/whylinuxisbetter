@@ -25,4 +25,3 @@ software compatibile su <a href="http://www.winehq.org">www.wineHQ.org</a>. Un'a
 livello.</p>
 
 </div>
-</body>

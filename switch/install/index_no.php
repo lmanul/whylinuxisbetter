@@ -23,4 +23,3 @@ title: Installer Linux</h2>
 <p><b>Håper du liker Linux!</b></p>
 
 </div>
-</body>

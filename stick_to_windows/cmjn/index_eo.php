@@ -12,4 +12,3 @@ title: Industrio de presado de libroj</h2>
 <a href="http://www.kanzelsberger.com/pixel/"></a>, </p>
 
 </div>
-</body>

@@ -25,4 +25,3 @@ muchas maneras (ej. el emulador "Wine") de ejecutar programas Windows bajo
 Linux.</p>
 
 </div>
-</body>

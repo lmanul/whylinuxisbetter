@@ -12,4 +12,3 @@ bạn làm việc in ấn và sử dụng rất nhiều màu CMYK. Bạn nên d�
 bạn có thể thử Linux, giữ lại Windows (xem mục Cài Đặt).</p>
 
 </div>
-</body>

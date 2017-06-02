@@ -15,4 +15,3 @@ title: Propriëtaire software</h2>
 <p>Er is ook een project "Wine" waarmee u, in sommige gevallen, een bepaald Windows-programma mee kunt draaien op Linux. Op hun website staan lijsten met compatibele software: <a href="http://www.winehq.org">www.wineHQ.org</a>. Een andere optie is het virtualiseren van Windows in Linux, hoewel dat doorgaans ongeschikt is voor het draaien van programma's die hoge prestaties vereisen.</p>
 
 </div>
-</body>

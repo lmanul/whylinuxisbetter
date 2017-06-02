@@ -20,4 +20,3 @@ CMYK. However, I still believe that Linux isn't ready for prime time in
 the printing industry just yet.</p>
 
 </div>
-</body>

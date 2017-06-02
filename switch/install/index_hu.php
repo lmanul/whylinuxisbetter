@@ -24,4 +24,3 @@ href="http://www.distrowatch.com">distrowatch.com</a> által rangsorolva:</p>
 <p><b>Jó linuxozást!</b></p>
 
 </div>
-</body>

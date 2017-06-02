@@ -24,4 +24,3 @@ href="http://www.distrowatch.com">distrowatch.com</a>에서 말하는 네 개의
 <p><b>그럼 이제 리눅스를 즐겨보세요!</b></p>
 
 </div>
-</body>

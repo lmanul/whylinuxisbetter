@@ -11,4 +11,3 @@ title: Nyomdaipar</h2>
 <p>És ne feledjük, használhatsz egy <a href="http://www.kanzelsberger.com/pixel/">Pixel</a> nevű képszerkesztőt is, ami támogatja a CMYK színrendszert. Azonban úgy vélem, a Linux még mindig nem áll teljesen készen a nyomdaiparra.</p>
 
 </div>
-</body>

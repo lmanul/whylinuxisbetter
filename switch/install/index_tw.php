@@ -25,4 +25,3 @@ href="http://www.distrowatch.com">distrowatch.com</a> 的排名，以下是最�
 <p><b>盡情享受 Linux 吧！</b></p>
 
 </div>
-</body>

@@ -9,4 +9,3 @@ title: Hardware</h2>
 <p>Den bedste og mest ligetil måde at tjekke om din hardware er supporteret under Linux er, at prøve at køre en Live-CD (se "Prøv Linux uden at røre ved Windows"-sektionen).</p>
 
 </div>
-</body>

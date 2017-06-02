@@ -17,4 +17,3 @@ supportato bene è far partire Linux da un LiveCD (vedi la sezione
 "Prova Linux senza toccare Windows").</p>
 
 </div>
-</body>

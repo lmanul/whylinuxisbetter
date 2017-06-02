@@ -13,4 +13,3 @@ title: Aplicacións ou programas privativos (Software privativo)</h2>
 <p>Se falta polo menos un programa sen o cal non poidas traballar de ningún xeito, entón deberías quedarte con Windows polo de agora. Pero aínda asi podes instalar Linux mantendo Windows (ver a sección de instalación), e usar ambos, dependendo das túas necesidades. Tamén existen moitos xeitos (ex o emulador "Wine") de correr programas Windows baixo Linux.</p>
 
 </div>
-</body>

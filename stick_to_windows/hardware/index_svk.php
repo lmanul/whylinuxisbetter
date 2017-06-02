@@ -9,4 +9,3 @@ title: Hardvér</h2>
 <p>Najlepšia a najpriamočiarejšia cesta, ako zistiť, či je váš hardvér podporovaný, je spustiť Linux z Live CD (pozrite si článok "Skúsiť Linux bez zmien v počítači").</p>
 
 </div>
-</body>

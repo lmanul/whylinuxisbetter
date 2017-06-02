@@ -9,4 +9,3 @@ title: Oyunlar</h2>
 <p>Eğer son çıkan oyunları oynamak için zamanınızın çoğunu kullanıyorsanız Windows'ta kalmanız daha iyi olur. Ancak yine de Windows'u sisteminizde tutmaya devam ederken (Linux'u kurun bölümüne bakın) Linux kurabilirsiniz ve ihtiyaçlarınıza bağlı olarak her ikisini de kullanabilirsiniz.</p>
 
 </div>
-</body>

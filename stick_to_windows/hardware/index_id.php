@@ -16,4 +16,3 @@ dengan menjalankan Linux melalui Live CD. (Lihat topik "Mencoba Linux tanpa meny
 </p>
 
 </div>
-</body>

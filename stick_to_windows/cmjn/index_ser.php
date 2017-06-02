@@ -15,4 +15,3 @@ za sad. Ali ipak možete instalirati Linux, zadržati Windows (pogledajte sekcij
 i koristiti oba sistema, u zavisnosti od potrebe.</p>
 
 </div>
-</body>

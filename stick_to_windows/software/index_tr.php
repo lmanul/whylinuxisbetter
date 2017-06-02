@@ -15,4 +15,3 @@ title: Sahipli yazılım</h2>
 <p>Ayrıca, bazı durumlarda belirli Windows uygulamalarını Linux üzerinde çalıştırabilen "Wine" olarak adlandırılan bir proje vardır. İnternet üzerinde, <a href="http://www.winehq.org">www.wineHQ.org</a> adresinde, kendisi ile uyumlu uygulamaların bir listenin de olduğu anasayfalarını ziyaret edebilirsiniz. Mevcut bir diğer seçenekte Windows'un kendisini Linux üzerinde çalıştırmaktır, ancak bu genellikle yüksek performans gerektiren programlar için uygun değildir.</p>
 
 </div>
-</body>

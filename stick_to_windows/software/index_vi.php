@@ -21,4 +21,3 @@ Một tuỳ chọn nữa là chạy Windows qua máy ảo, nhưng không thích 
 trình yêu cầu cấu hình hệ thống mạnh.</p>
 
 </div>
-</body>

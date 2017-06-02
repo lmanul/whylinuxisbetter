@@ -14,4 +14,3 @@ Linux şi păstra Windows (vedeţi secţiunea de instalare) folosindu-le pe ambe
 
 
 </div>
-</body>

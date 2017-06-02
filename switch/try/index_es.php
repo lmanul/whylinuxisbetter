@@ -45,4 +45,3 @@ title: Prueba un "Live CD"</h2>
 </table>
 
 </div>
-</body>

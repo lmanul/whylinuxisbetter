@@ -49,4 +49,3 @@ krajnje jednostavne i nedvosmislene većinu vremena !</p>
 <p><b>Želim Vam lep dan sa Linux-om!</b></p>
 
 </div>
-</body>

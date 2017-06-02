@@ -12,4 +12,3 @@ Neverwinter Nights, etc.), men de flesta kan bara köras på Windows.</p>
 <p>Om du gillar att spela spel, men samtidigt inte kräver det senaste, kan Wine eller Cedega hjälpa dig med att köra lite äldre Windows-spel under Linux utan problem.</p>
 
 </div>
-</body>

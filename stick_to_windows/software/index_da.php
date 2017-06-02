@@ -16,4 +16,3 @@ title: Proprietær software.</h2>
 <p>Der er også et projekt kaldet "Wine" som, i de fleste tilfælde, er i stand til at køre Windows-applikationer under Linux. Du kan besøge deres hjemmeside, som også inkluderer en liste over kompatible programmer, på <a href="http://www.winehq.org">www.wineHQ.org</a>. En anden mulighed er at emulere Windows under Linux med et virtualisation-program, omend dette nok ikke er hensigtsmæssigt hvis du vil køre visse high-performance programmer.</p>
 
 </div>
-</body>

@@ -77,4 +77,3 @@ href="http://fedora.redhat.com/Download/">fedora.redhat.com/Download/</a></td>
 <p><b> សូម​រីករាយ​​មួយ​លីនុច !</b></p>
 
 </div>
-</body>

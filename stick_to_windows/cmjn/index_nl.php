@@ -11,4 +11,3 @@ title: Boek- & printsector</h2>
 <p>Merk op dat u ook de image editor <a href="http://www.kanzelsberger.com/pixel/">Pixel</a>, kunt gebruiken, die CMYK-kleuren ondersteunt. Desondanks geloof ik dat Linux nog niet klaar is voor de boek- en printsector.</p>
 
 </div>
-</body>

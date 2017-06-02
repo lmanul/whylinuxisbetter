@@ -11,4 +11,3 @@ title: Games</h2>
 thử Linux, giữ lại Windows (xem mục Cài Đặt).</p>
 
 </div>
-</body>

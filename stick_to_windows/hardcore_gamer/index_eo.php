@@ -11,4 +11,3 @@ title: Ludoj</h2>
 <p>Se vi ŝatas ludi ludojn sed vi ne zorgas pri la freŝo, sciu ke programoj kiel Wine aŭ Cedega povas helpi vin ludi ne-tiom-freŝajn ludojn por Windows sub Linux sen ia problemo.</p>
 
 </div>
-</body>

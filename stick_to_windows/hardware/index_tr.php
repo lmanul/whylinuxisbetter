@@ -9,4 +9,3 @@ title: Donanım</h2>
 <p>Bir donanımın desteklenip desteklenmediğini görmenin en iyi ve doğrudan yolu Linux'u bir Çalışan CD ile denemektir ("Windows'a dokunmadan Linux'u deneyin" kısmına göz atın).</p>
 
 </div>
-</body>

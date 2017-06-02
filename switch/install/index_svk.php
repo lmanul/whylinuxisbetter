@@ -24,4 +24,3 @@ href="http://www.distrowatch.com">distrowatch.com</a>:</p>
 <p><b>Užívajte si Linux!</b></p>
 
 </div>
-</body>

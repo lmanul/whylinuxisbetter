@@ -16,4 +16,3 @@ dobro podržan, jeste da pokrenete linux s Live CD-a (pogledajte sekciju
 "Probajte Linux bez diranja Windows-a").</p>
 
 </div>
-</body>

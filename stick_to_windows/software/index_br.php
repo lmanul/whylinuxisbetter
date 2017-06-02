@@ -17,4 +17,3 @@ title: ﻿Software proprietário</h2>
 <p>Existe também um projeto chamado "Wine" que, em alguns casos, é capaz de rodar uma aplicação feita para Windows dentro do Linux. Você pode visitar o site deles, que inclui a lista dos programas compatíveis, em www.wineHQ.org. Outra opção disponível é emular o Windows propriamente dito no Linux, apesar de não ser recomendável para rodar programas de alta performance.</p>
 
 </div>
-</body>

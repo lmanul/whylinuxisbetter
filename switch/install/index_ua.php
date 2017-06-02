@@ -25,4 +25,3 @@ href="http://www.distrowatch.com">distrowatch.com</a> :</p>
 <p><b>Насолоджуйся  роботою на Linux!</b></p>
 
 </div>
-</body>

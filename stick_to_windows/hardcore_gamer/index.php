@@ -21,4 +21,3 @@ CEO of Valve (Gabe Newell) has pledged to support Linux with all
 of the company's games (Team Fortress 2, DOTA 2, Half Life, etc.) and upcoming titles.</p>
 
 </div>
-</body>

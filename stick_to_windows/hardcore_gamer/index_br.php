@@ -10,4 +10,3 @@ title: ﻿Jogos</h2>
 <p>Então se você gasta muito tempo jogando jogos recentes, você deveria permanecer com o Windows. Mas você ainda pode instalar o Linux, manter o Windows (veja a seção de instalação), e usar os dois, dependendo das suas necessidades.</p>
 
 </div>
-</body>

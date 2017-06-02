@@ -41,4 +41,3 @@ BIOS-ul dumneavoastră e configurat incorect (vedeţi secţiunea "Încercaţi Li
 
 
 </div>
-</body>

@@ -33,4 +33,3 @@ d'émuler Windows lui-même à l'intérieur de Linux, mais cela ne
 conduit pas, en général, à de très bonnes performances.</p>
 
 </div>
-</body>

@@ -13,4 +13,3 @@ thị trường Linux quá nhỏ và không đưa ra driver. May mắn là nhữ
 một Live CD (xem mục "Thử Linux mà không ảnh hưởng đến Windows).</p>
 
 </div>
-</body>

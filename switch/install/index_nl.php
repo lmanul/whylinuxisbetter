@@ -54,4 +54,3 @@ eenvoudig!</p>
 <p><b>Geniet van uw tijd met Linux!</b></p>
 
 </div>
-</body>

@@ -26,4 +26,3 @@ teves necessitats. Existeixen també moltes maneres (per exemple
 l'emulador “Wine”) d'executar programes Windows en Linux.</p>
 
 </div>
-</body>

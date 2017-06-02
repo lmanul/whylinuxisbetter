@@ -17,4 +17,3 @@ pouvez toujours installer Linux, garder Windows (voir la section sur
 l'installation) et utiliser les deux, selon vos besoins.</p>
 
 </div>
-</body>

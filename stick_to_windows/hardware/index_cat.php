@@ -9,4 +9,3 @@ title: Maquinari</h2>
 <p>La major i més segura manera de veure si el teu maquinari està suportat és executar Linux des d'un Live CD ( mira la secció “Prova Linux sense tocar el teu Windows”).</p>
 
 </div>
-</body>

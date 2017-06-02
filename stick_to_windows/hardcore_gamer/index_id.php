@@ -11,4 +11,3 @@ buatlah Linux berdampingan dengan Windows (lihat caranya pada bagian instalasi),
 </p>
 
 </div>
-</body>

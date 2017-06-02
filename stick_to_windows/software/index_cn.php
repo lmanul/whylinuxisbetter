@@ -15,4 +15,3 @@ title: 私有软件</h2>
 <p>有一个著名的项目叫做“Wine”，一个能够让Windows程序在Linux上运行。您可以访问他们的首页，那里提供了可以兼容的软件列表：<a href="http://www.winehq.org">www.wineHQ.org</a>。另一个选择是努力让Linux赶上Windows，尽管对于运行超级专业程序并不适合。.</p>
 
 </div>
-</body>

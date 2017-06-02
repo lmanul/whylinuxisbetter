@@ -15,4 +15,3 @@ installer Linux tout en gardant Windows (voir la section sur
 l'installation) et utiliser les deux systèmes, selon vos besoins.</p>
 
 </div>
-</body>

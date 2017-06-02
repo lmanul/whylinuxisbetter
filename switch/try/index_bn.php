@@ -49,4 +49,3 @@ href="http://www.knoppix.net/get.php">Download Knoppix</a></td>
 </table>
 
 </div>
-</body>

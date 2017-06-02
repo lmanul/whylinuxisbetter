@@ -47,4 +47,3 @@ href="http://www.distrowatch.com">distrowatch.com</a> :</p>
 <p><b>Καλή διασκέδαση με το Linux!</b></p>
 
 </div>
-</body>

@@ -37,4 +37,3 @@ href="http://www.distrowatch.com">distrowatch.com</a> :</p>
 <p><b>תיהנה מהלינוקס שלך!</b></p>
 
 </div>
-</body>

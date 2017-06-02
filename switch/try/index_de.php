@@ -40,4 +40,3 @@ href="http://www.knoppix.net/get.php">http://www.knoppix.net/get.php</a></td>
 </table>
 
 </div>
-</body>

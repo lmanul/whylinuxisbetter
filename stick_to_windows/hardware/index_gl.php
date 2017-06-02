@@ -9,4 +9,3 @@ title: Compoñentes e Periféricos (Hardware)</h2>
 <p>O xeito mellor e máis directo de saber se todos os compoñentes do teu PC e os teus periféricos valen para Linux é facer funcionar Linux desde un Live CD (ver a sección "Proba Linux sen tocar Windows").</p>
 
 </div>
-</body>

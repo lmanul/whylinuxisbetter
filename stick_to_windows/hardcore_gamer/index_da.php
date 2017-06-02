@@ -9,4 +9,3 @@ title: Spil</h2>
 <p>Så hvis du bruger meget tid på at spille de nyeste spil, så bør du nok holde dig til Windows. Men du kan stadig installere Linux og beholde Windows på en anden partition (se installations-sektionen), og bruge begge systemer afhængigt af hvad du har brug for.</p>
 
 </div>
-</body>

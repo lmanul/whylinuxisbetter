@@ -17,4 +17,3 @@ doinstalować Linuksa i używać obu tych systemów równocześnie (patrz rozdzi
 o instalacji), zależnie od aktualnych potrzeb.</p>
 
 </div>
-</body>

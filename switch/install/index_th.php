@@ -24,4 +24,3 @@ href="http://www.distrowatch.com">distrowatch.com</a></p>
 <p><b>ขอความสวัสดีจงมีแด่คุณกับลินุกซ์!</b></p>
 
 </div>
-</body>

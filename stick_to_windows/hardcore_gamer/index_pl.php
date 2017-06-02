@@ -14,4 +14,3 @@ to jedyna opcja. Wciąż jednak możesz doinstalować Linuksa i używać obu
 systemów równocześnie (patrz rozdział "Instalacja"), zależnie od nastroju.</p>
 
 </div>
-</body>

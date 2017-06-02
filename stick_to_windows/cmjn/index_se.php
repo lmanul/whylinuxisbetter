@@ -13,4 +13,3 @@ title: Bok- & Tryckindustrin</h2>
 CMYK. Jag tror trots allt att Linux inte är redo för tryckindustrin. Än.</p>
 
 </div>
-</body>

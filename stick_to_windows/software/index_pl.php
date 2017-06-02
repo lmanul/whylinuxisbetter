@@ -29,4 +29,3 @@ komputerów o parametrach "domowych", zwłaszcza gdy chodzi o korzystanie z duż
 aplikacji w takim środowisku.</p>
 
 </div>
-</body>
