@@ -10,7 +10,8 @@ layout: default
 {% for post in posts %}
     <a href="{{ post.url }}">
       <div class="item">
-        {{ post.title }} ({{ post.id }})
+        {{ post.title }}
+        <img src="/img{{ post.id }}_thumb.png" />
       </div>
     </a>
 {% endfor %}
