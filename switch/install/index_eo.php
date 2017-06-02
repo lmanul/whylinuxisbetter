@@ -1,6 +1,7 @@
 
 
 ---
+lang: eo
 title: Instalu Linux</h2>
 
 <p>Bone, do ĉu vi decidis instali Linux. Vi ne pentos!</p>

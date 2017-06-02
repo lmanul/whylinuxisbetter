@@ -1,6 +1,7 @@
 
 
 ---
+lang: se
 title: Installera Linux</h2>
 
 <p>Okej, så du har bestämt dig för att byta upp dig till Linux. Du kommer inte att ångra det!</p>

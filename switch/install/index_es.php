@@ -1,6 +1,7 @@
 
 
 ---
+lang: es
 title: Instala Linux</h2>
 
 <p>Vale, entonces has decidido instalar Linux. ¡No lo vas a lamentar!</p>

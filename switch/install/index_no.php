@@ -1,6 +1,7 @@
 
 
 ---
+lang: no
 title: Installer Linux</h2>
 
 <p>OK, så du har bestemt deg for å bytte til Linux. Du kommer ikke til å angre!</p>

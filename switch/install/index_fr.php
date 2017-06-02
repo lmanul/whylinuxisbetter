@@ -1,6 +1,7 @@
 
 
 ---
+lang: fr
 title: Installer Linux</h2>
 
 <p>Vous avez donc choisi de passer sous Linux. Vous ne le 

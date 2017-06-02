@@ -1,6 +1,7 @@
 
 
 ---
+lang: br
 title: Install Linux</h2>
 
 <p>Tudo bem, então você decidiu trocar pro Linux. Você não vai se arrepender!

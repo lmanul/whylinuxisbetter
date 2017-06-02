@@ -1,6 +1,7 @@
 
 
 ---
+lang: da
 title: Installér Linux</h2>
 
 <p>Okay, så du har besluttet dig for at skifte til Linux? Du vil ikke fortryde det!</p>

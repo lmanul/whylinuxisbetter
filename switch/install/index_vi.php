@@ -1,6 +1,7 @@
 
 
 ---
+lang: vi
 title: Cài Linux</h2>
 
 <p>Vậy là bạn đã định dùng thử Linux. Bạn sẽ không hối tiếc vì điều đó!</p>

@@ -1,6 +1,7 @@
 
 
 ---
+lang: gl
 title: Instala Linux</h2>
 
 <p>Valeu!, entón decidiche instalar Linux. Non o vas lamentar!</p>

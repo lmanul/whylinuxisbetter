@@ -1,6 +1,7 @@
 
 
 ---
+lang: de
 title: Linux installieren</h2>
 
 <p>Okay, du hast dich also entschieden, zu Linux zu wechseln. Du wirst es nicht bereuen!</p>

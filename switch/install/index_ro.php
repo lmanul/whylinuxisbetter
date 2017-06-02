@@ -1,6 +1,7 @@
 
 
 ---
+lang: ro
 title: Instalaţi Linux</h2>
 
 <p>Okay, deci aţi decis să alegeţi Linux. Nu veţi regreta!</p>

@@ -1,6 +1,7 @@
 
 
 ---
+lang: it
 title: Installa Linux</h2>
 
 <p>Ok, hai deciso di passare a Linux. Non te ne pentirai!</p>

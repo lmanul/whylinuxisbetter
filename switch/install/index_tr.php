@@ -1,6 +1,7 @@
 
 
 ---
+lang: tr
 title: Linux'u kurun</h2>
 
 <p>Tamam, demek ki Linux'e geçmeye karar verdiniz. Buna pişman olmayacaksınız.</p>

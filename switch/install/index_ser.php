@@ -1,6 +1,7 @@
 
 
 ---
+lang: ser
 title: Instalacija linux-a</h2>
 
 <p>OK, znači odlučili ste da pređete na Linux. Nećete zažaliti!</p>
