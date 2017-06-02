@@ -23,4 +23,3 @@ title: Instala Linux</h2>
 <p><b>¡Que lo pases bien con Linux!</b></p>
 
 
-</div>

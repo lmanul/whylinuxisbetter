@@ -12,4 +12,3 @@ title: Bok- & Tryckindustrin</h2>
 <a href="http://www.kanzelsberger.com/pixel/">Pixel</a>, som stödjer CMYK.
 CMYK. Jag tror trots allt att Linux inte är redo för tryckindustrin. Än.</p>
 
-</div>

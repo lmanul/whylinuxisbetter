@@ -20,4 +20,3 @@ có thể cài cả hai hệ điều hành (thường gọi là "khởi động 
 Một tuỳ chọn nữa là chạy Windows qua máy ảo, nhưng không thích hợp lắm với những chương 
 trình yêu cầu cấu hình hệ thống mạnh.</p>
 
-</div>

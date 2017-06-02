@@ -8,4 +8,3 @@ title: Hardver</h2>
 
 <p>A legjobb és legegyszerűbb módja annak, hogy lásd, a hardvered támogatott-e, ha élő CD-ről futtatsz Linuxot (lásd a „Próbáld ki a Linuxot – érintetlenül hagyva Windows-od” című részt).</p>
 
-</div>

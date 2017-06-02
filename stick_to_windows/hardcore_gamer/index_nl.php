@@ -10,4 +10,3 @@ title: Spelletjes</h2>
 
 <p>Als u graag spelletjes speelt, maar niet veeleisend bent in hun nieuwheid, bemerk dan dat software zoals Wine, CrossOver en PlayOnLinux u kan helpen bij het draaien van niet-zo-recente Windows-spelletjes onder Linux zonder problemen.</p>
 
-</div>

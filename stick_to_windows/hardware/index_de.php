@@ -9,4 +9,3 @@ title: Hardware</h2>
 <p>Der beste und unkomplizierteste Weg zu erfahren, ob deine Hardware von Linux unterst&uuml;zt wird, ist, Linux von einer Live-CD laufen zu lassen (siehe Abschnitt „Probier Linux aus ohne Windows anzutasten“).</p>
 
 
-</div>

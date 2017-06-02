@@ -9,4 +9,3 @@ title: Games</h2>
 <p>Wenn du also eine Menge Zeit mit dem Spielen neuer Games verbringst, solltest du bei Windows bleiben. Aber du kannst trotzdem Linux installieren und Windows behalten (siehe Installations-Abschnitt) und beide je nach deinen Bed&uuml;rfnissen nutzen.</p>
 
 <p>Wenn du gerne Games spielst, die nicht mehr allzu aktuell sind, bedenke, dass Software wie Wine oder Cedega dir helfen kann, die nicht-allerneuesten Windowsspiele unter Linux problemlos zum Laufen zu bekommen.</p>
-</div>

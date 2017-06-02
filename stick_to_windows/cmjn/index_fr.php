@@ -16,4 +16,3 @@ il vaut sans doute mieux rester sous Windows pour le moment. Mais vous
 pouvez toujours installer Linux, garder Windows (voir la section sur 
 l'installation) et utiliser les deux, selon vos besoins.</p>
 
-</div>

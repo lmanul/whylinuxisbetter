@@ -23,4 +23,3 @@ href="http://www.distrowatch.com">distrowatch.com</a> :</p>
 
 <p><b>Приятно изкарване с Линукс!</b></p>
 
-</div>

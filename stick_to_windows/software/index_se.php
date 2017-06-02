@@ -15,4 +15,3 @@ title: Låst mjukvara</h2>
 
 <p>Det finns också ett projekt som kalls för "Wine", vilket som gör det möjligt att installera Windowsprogram i Linuxmiljö. Du kan besöka deras hemsida för att bland annat se kompatibel programvara, <a href="http://www.winehq.org">www.wineHQ.org</a>. Ett annat alternativ är att emulera Windows inuti Linux, trots att detta vanligtvis ger dålig prestanda, och lämpar sig därför inte till tunga program.</p>
 
-</div>

@@ -12,4 +12,3 @@ thị trường Linux quá nhỏ và không đưa ra driver. May mắn là nhữ
 <p>Cách tốt nhất để biết phần cứng của bạn có chạy tốt trên Linux không là dùng 
 một Live CD (xem mục "Thử Linux mà không ảnh hưởng đến Windows).</p>
 
-</div>

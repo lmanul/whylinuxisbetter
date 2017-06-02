@@ -16,4 +16,3 @@ hardware vlot te laten werken. Dit vraagt echter tijd.</p>
 werkt op Linux is het opstarten van Linux via een live-cd (zie de 
 "Probeer Linux"-pagina).</p>
 
-</div>

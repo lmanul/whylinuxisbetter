@@ -22,4 +22,3 @@ title: Menginstall Linux</h2>
 
 <p><b>Selamat bersenang-senang dengan Linux!</b></p>
 
-</div>

@@ -16,4 +16,3 @@ usare entrambi, dipendentemente da ciò che ti serve.</p>
 
 <p>Ricorda che puoi anche usare un editor di immagini chiamato <a href="http://www.kanzelsberger.com/pixel/">Pixel</a>, che supporta CMYK. Tuttavia, credo che Linux non sia ancora pronto per lavori professionali nell'industria della stampa.</p>
 
-</div>

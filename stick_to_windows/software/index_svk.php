@@ -15,4 +15,3 @@ title: Autorizovaný (zákonom chránený) softvér</h2>
 
 <p>Existuje aj projekt nazývaný "Wine", ktorý dokáže v niektorých prípadoch spustiť aplikáciu určenú pre Windows pod Linux-om. Môžete navštíviť domovskú stránku projektu, na ktorej je aj zoznam kompatibilného softvéru <a href="http://www.winehq.org">www.wineHQ.org</a>. Ďalšia možnosť je emulovať samotný Windows pod Linux-om, avšak nie je to typicky vhodné pre používanie náročných aplikácií.</p>
 
-</div>

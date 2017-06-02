@@ -19,4 +19,3 @@ fonctionne sans aucun problème, mais cela prend un peu de temps.</p>
 depuis un "Live CD" (voir la section "Essayez Linux sans toucher à 
 Windows").</p>
 
-</div>

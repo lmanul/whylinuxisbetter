@@ -15,5 +15,4 @@ title: 如果不能使用某些非自由軟體，簡直會要了你的命</h2>
 
 <p>除此之外，有一個叫做「Wine」的專案，讓 Linux 在某些情況下能夠執行 Windows 的應用程式。你可以參觀它的網站，裡面還包含了相容軟體的列表，網址是 <a href="http://www.winehq.org/">www.wineHQ.org</a>。另外一個選擇，就是在 Linux 上直接模擬 Windows，但是這並不適合執行一些對效能有所要求的程式。</p>
 
-</div>
  

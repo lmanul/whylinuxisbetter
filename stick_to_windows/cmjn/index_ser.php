@@ -14,4 +14,3 @@ specialnim efektima pri štampi itd., verovatno bi trebalo da ostanete na window
 za sad. Ali ipak možete instalirati Linux, zadržati Windows (pogledajte sekciju o instalaciji),
 i koristiti oba sistema, u zavisnosti od potrebe.</p>
 
-</div>

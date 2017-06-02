@@ -8,4 +8,3 @@ title: Hry</h2>
 
 <p>Takže ak trávite veľa času hraním nových hier, mali by ste ostať pri Windows-e. No vždy si môžete nainštalovať Linux, a ponechať Windows (pozrite si článok o inštalácii) a používať oba v závislosti na tom, čo potrebujete.</p>
 
-</div>

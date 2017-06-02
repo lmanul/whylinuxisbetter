@@ -23,4 +23,3 @@ yapacağınızı bilmiyorsanız veya birkaç lira ödemek ve CD'lerin size tesli
 
 <p><b>Linux'le iyi vakit geçirmeniz dileğiyle!</b></p>
 
-</div>

@@ -8,4 +8,3 @@ title: Hardware</h2>
 
 <p>La mejor manera y la más directa de saber si tu hardware está soportado, es hacer funcionar Linux desde un Live CD (ver la sección "Prueba Linux sin tocar Windows").</p>
 
-</div>

@@ -12,4 +12,3 @@ Neverwinter Nights, itd.), ali većina ipak ide samo na Windowsu.</p>
 na Windows-u. Ali ipak možete instalirati Linux, zadržati Windows
 (pogledajte sekciju o instalaciji), i koristiti oba sistema, u zavisnosti od potrebe.</p>
 
-</div>

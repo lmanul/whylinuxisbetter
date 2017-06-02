@@ -13,4 +13,3 @@ pierdeţi mult timp jucându-vă jocuri noi, ar trebui să rămâneţi la Window
 Dar puteţi instala Linux, păstra Windows (vedeţi secţiunea de instalare),
 şi să le folosiţi pe ambele.</p>
 
-</div>

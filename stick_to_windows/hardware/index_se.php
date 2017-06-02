@@ -8,4 +8,3 @@ title: Hårdvara</h2>
 
 <p>Det bästa, enklaste och snabbaste sättet för att ta reda på om din hårdvara stödjs under Linux är att köra en Live-CD (se sektionen ”Testa Linux utan att röra Windows”).</p>
 
-</div>

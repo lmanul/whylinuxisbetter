@@ -11,4 +11,3 @@ nhưng vẫn chưa đủ tốt cho các nhà thiết kế đồ hoạ chuyên ng
 bạn làm việc in ấn và sử dụng rất nhiều màu CMYK. Bạn nên dùng Windows. Tuy nhiên 
 bạn có thể thử Linux, giữ lại Windows (xem mục Cài Đặt).</p>
 
-</div>

@@ -8,4 +8,3 @@ title: 你的硬體尚未被支援</h2>
 
 <p>想要知道 Linux 是否支援你的硬體，最好而且最直接的方式，就是用 Live CD 來執行 Linux 看看。（參見「在不碰觸 Windows 的情況下試用 Linux」。）</p>
 
-</div>

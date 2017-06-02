@@ -46,4 +46,3 @@ starta på CD:n; om den inte gör det är BIOS felinställt. (Se  "Testa Linux"-
 
 <p><b>Ha det så roligt med Linux!</b></p>
 
-</div>

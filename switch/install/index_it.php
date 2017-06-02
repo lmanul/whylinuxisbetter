@@ -46,4 +46,3 @@ e intuitive nella maggior parte dei casi!</p>
 
 <p><b>Divertiti con Linux!</b></p>
 
-</div>

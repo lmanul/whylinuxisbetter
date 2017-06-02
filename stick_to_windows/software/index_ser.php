@@ -16,4 +16,3 @@ title: Vlasnički softver</h2>
 <p>Postoji, takođe, projekat zvani "Wine" koji, u nekim slučajevima, može da pokrene određene Windows aplikacije na Linux-u.  Možete posetiti njihov sajt, koji ima spisak kompatibilnog softvera, na <a href="http://www.winehq.org">www.wineHQ.org</a>. Postoji i opcija emulacije Windows-a unutar samog Linux-a, ali
 ovo nije rešenje pogodno za pokretanje softvera visokih performansi.</p>
 
-</div>

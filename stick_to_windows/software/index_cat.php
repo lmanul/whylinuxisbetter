@@ -25,4 +25,3 @@ la instal·lació), i fer servir els dos a la vegada, depenent de les
 teves necessitats. Existeixen també moltes maneres (per exemple 
 l'emulador “Wine”) d'executar programes Windows en Linux.</p>
 
-</div>

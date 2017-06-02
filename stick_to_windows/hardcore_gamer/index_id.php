@@ -10,4 +10,3 @@ title: Games</h2>
 buatlah Linux berdampingan dengan Windows (lihat caranya pada bagian instalasi), lalu gunakanlah keduanya sesuai dengan kebutuhan.
 </p>
 
-</div>

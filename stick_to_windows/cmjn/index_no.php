@@ -10,4 +10,3 @@ title: Bok- og trykkeriindustrien.</h2>
 
 <p>Vær oppmerksom på at du kan bruke et bilderedigeringsprogram kalt <a href="http://www.kanzelsberger.com/pixel/">Pixel</a>, som støtter CMYK. Uansett mener jeg fortsatt at Linux er ikke helt klar for trykkeriindustrien ennå.</p>
 
-</div>

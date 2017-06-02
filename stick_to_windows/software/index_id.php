@@ -19,4 +19,3 @@ Bagaimanapun juga, kamu dapat menginstall kedua sistem operasi tersebut pada kom
 <p>Ada pula sebuah proyek bernama "Wine", yang dalam beberapa kasus, dapat menjalankan beberapa aplikasi Windows di Linux. Kamu bisa mengunjungi websitenya di <a href="http://www.winehq.org">www.wineHQ.org</a>, pada website tersebut disajikan daftar software Windows yang dapat dijalankan pada Linux menggunakan Wine. Pilihan lain adalah dengan mengemulasikan Windows di dalam Linux, walau cara seperti ini tidak disarankan untuk menjalankan program dengan tuntutan performansi yang tinggi. </p>
 
 
-</div>

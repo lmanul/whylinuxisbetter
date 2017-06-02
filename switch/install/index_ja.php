@@ -23,4 +23,3 @@ href="http://www.distrowatch.com">distrowatch.com</a>によれば、人気のト
 
 <p><b>では、Linuxをお楽しみくださーい！</b></p>
 
-</div>

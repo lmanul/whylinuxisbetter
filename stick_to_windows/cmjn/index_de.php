@@ -10,4 +10,3 @@ title: Buch-/Druckindustrie</h2>
 
 <p>Bedenke, dass du auch einen Bildeditor namens <a href="http://www.kanzelsberger.com/pixel/">Pixel</a> benutzen kannst, der CMYK unterstützt. Jedoch glaube ich trotzdem, dass Linux für die Druckindustrie noch nicht bereit ist.</p>
 
-</div>

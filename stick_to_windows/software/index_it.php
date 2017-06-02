@@ -24,4 +24,3 @@ software compatibile su <a href="http://www.winehq.org">www.wineHQ.org</a>. Un'a
 è quella di emulare Windows in Linux, anche se non sarebbe adatto a far girare programmi di alto 
 livello.</p>
 
-</div>

@@ -18,4 +18,3 @@ Twój sprzęt jest poprawnie obsługiwany przez Linuksa, to uruchomienie
 systemu z płyty typu Live CD (patrz rozdział "Wypróbuj Linuksa bez
 ruszania systemu Windows").</p>
 
-</div>

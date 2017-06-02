@@ -15,4 +15,3 @@ href="/items/warez/index_ja.php">この記事を参照</a>）。</p>
 
 <p>それに、Wineっていうプロジェクトがあって、ひょっとしたらWindowsのアプリケーションがLinuxで動くかもしれません。Wineプロジェクトのホームページ<a href="http://www.winehq.org">www.wineHQ.org</a>には、Wineで動くWindows用ソフトのリストもあるからね。もうひとつの方法は、Linux上のエミュレータでWindowsそのものを走らせること。ただし、重いソフトを動かすにはあんまり奨められないけれど。</p>
 
-</div>

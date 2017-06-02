@@ -8,4 +8,3 @@ title: Jocs</h2>
 
 <p>Així que si passes molt de temps jugant amb jocs moderns, has de continuar en Windows. Però encara pots instal·lar Linux, mantenir Windows (mira la secció de la instal·lació), i usar els dos a la vegada, depenent de les teves necessitats.</p>
 
-</div>

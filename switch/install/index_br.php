@@ -31,4 +31,3 @@ PC usará o CD  para iniciar; se isso não acontecer, sua configuração de BIOS
 
 <p><b>Viva bem com o Linux!</b></p>
 
-</div>

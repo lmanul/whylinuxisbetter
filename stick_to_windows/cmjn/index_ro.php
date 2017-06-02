@@ -13,4 +13,3 @@ etc., probabil ar trebui să rămâneţi la Windows momentan. Dar puteţi totuş
 Linux şi păstra Windows (vedeţi secţiunea de instalare) folosindu-le pe ambele.</p>
 
 
-</div>

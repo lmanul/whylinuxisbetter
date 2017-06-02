@@ -15,4 +15,3 @@ dipendentemente da ciò che ti serve.</p>
 
 <p>Se ti piace giocare a videogiochi e non ti interessa molto che siano recenti, sappi che alcuni software come Wine o Cedega possono aiutarti ad avviare giochi non-così-recenti di Windows su Linux senza alcun problema.</p>
 
-</div>

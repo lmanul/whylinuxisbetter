@@ -15,4 +15,3 @@ title: Proprietary software</h2>
 
 <p>There is also a project called "Wine" which, in some cases, is capable of running a given Windows application in Linux.  You can visit their homepage, which includes listings of compatible software, at <a href="http://www.winehq.org">www.wineHQ.org</a>. Another option available is to emulate Windows itself within Linux, though this is typically not suitable for running high-performance programs.</p>
 
-</div>

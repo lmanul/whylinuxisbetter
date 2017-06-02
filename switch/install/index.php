@@ -48,4 +48,3 @@ pretty simple and straightforward most of the time !</p>
 
 <p><b>Have a nice time with Linux!</b></p>
 
-</div>

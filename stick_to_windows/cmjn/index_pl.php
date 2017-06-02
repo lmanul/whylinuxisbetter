@@ -16,4 +16,3 @@ okazać się niezastąpiony - przynajmniej na razie. Wciąż jednak możesz
 doinstalować Linuksa i używać obu tych systemów równocześnie (patrz rozdział
 o instalacji), zależnie od aktualnych potrzeb.</p>
 
-</div>

@@ -15,4 +15,3 @@ Jalan terbaik dan termudah untuk melihat apakah hardware komputermu didukung den
 dengan menjalankan Linux melalui Live CD. (Lihat topik "Mencoba Linux tanpa menyentuh Windows").
 </p>
 
-</div>

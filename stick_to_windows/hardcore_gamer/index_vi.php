@@ -10,4 +10,3 @@ title: Games</h2>
 <p>Nếu bạn chơi rất nhiều game mới ra lò, bạn nên sử dụng Windows. Nhưng bạn có thể 
 thử Linux, giữ lại Windows (xem mục Cài Đặt).</p>
 
-</div>

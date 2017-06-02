@@ -14,4 +14,3 @@ software-uri comerciale nu rulează pe Linux.</p>
 
 <p>Este de asemenea un proiect numit "Wine" care, în unele cazuri, e capabil să ruleze un software făcut pentru Windows pe Linux. Puteţi vizita pagina lor ce include lista software-ului compatibil, la <a href="http://www.winehq.org">www.wineHQ.org</a>. Altă opţiune e să emulaţi Windows în Linux, deşi această opţiune nu e chiar bună pentru a rula programe mari (3ds Max etc.).</p>
 
-</div>

@@ -38,4 +38,3 @@ máy tính sẽ khởi động bằng CD đó; nếu không bạn cần cấu h�
 
 <p><b>Chúc may mắn với Linux!</b></p>
 
-</div>

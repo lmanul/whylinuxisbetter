@@ -16,4 +16,3 @@ time.</p>
 hardware is well supported is to run Linux from a Live CD (see the 
 "Try Linux without touching Windows" section).</p>
 
-</div>

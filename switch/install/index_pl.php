@@ -55,4 +55,3 @@ wypadków!</p>
 
 <p>Powodzenia !!!</p>
 
-</div>

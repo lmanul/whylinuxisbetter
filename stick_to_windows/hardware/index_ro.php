@@ -15,4 +15,3 @@ e să rulaţi Linux de pe un Live CD (vedeţi secţiunea "Încercaţi Linux făr
 să atingeţi Windows").</p>
 
 
-</div>

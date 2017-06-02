@@ -8,4 +8,3 @@ title: Aparataro</h2>
 
 <p>La plej bona maniero kaj pli rekta scii ĉu via aparataro estas subtenita estas funkciigi Linux el Senpera KD (vidu la sekcion "Provu Linux sen tuŝi Windows").</p>
 
-</div>

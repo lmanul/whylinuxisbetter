@@ -14,4 +14,3 @@ title: Kereskedelmi szoftver</h2>
 
 <p>Van egy program, a Wine, mellyel néhány esetben képes lehetsz bizonyos windows-os alkalmazásokat Linuxon futtatni. Látogasd meg honlapjukat, amelyen megtalálod a kompatibilis szoftverek listáját: <a href="http://www.winehq.org">www.wineHQ.org</a>. Magát a Windows-t is lehet emulálni (futtatni) Linuxon, bár nem ez a legmegfelelőbb mód nagy rendszerigényű programok futtatására.</p>
 
-</div>

@@ -8,4 +8,3 @@ title: Hardware</h2>
 
 <p>Den beste og enkleste måten å sjekke ut som din hardware er støttet av Linux, er å kjøre en Linux Live CD (se «Prøv Linux uten forandringer på din datamaskin»-delen av websiden).</p>
 
-</div>

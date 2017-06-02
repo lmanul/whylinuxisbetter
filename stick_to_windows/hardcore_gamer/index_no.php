@@ -10,4 +10,3 @@ title: Spill</h2>
 
 <p>Hvis du spiller spill som ikke er særlig krevende, så kan programvare som Wine og Cedega hjelpe deg å kjøre ikke-fullt-så-nye spill på Linux uten problemer.</p>
 
-</div>

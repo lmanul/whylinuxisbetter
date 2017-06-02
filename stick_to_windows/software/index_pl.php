@@ -28,4 +28,3 @@ całego systemu Windows, to rozwiązanie jednak kiepsko sprawdza się w przypadk
 komputerów o parametrach "domowych", zwłaszcza gdy chodzi o korzystanie z dużych
 aplikacji w takim środowisku.</p>
 
-</div>

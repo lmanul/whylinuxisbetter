@@ -23,4 +23,3 @@ title: Instal·la Linux</h2>
 <p><b>Que gaudeixis amb Linux!</b></p>
 
 
-</div>

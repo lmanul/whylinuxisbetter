@@ -15,4 +15,3 @@ radilo kao podmazano, ali ovo zahteva malo vremena.</p>
 dobro podržan, jeste da pokrenete linux s Live CD-a (pogledajte sekciju
 "Probajte Linux bez diranja Windows-a").</p>
 
-</div>

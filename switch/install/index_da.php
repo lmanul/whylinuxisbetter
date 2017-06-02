@@ -22,4 +22,3 @@ title: Installér Linux</h2>
 
 <p><b>Ha' det godt med Linux!</b></p>
 
-</div>

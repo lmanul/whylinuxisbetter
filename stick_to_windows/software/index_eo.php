@@ -14,4 +14,3 @@ title: Proprieta programaro</h2>
 
 <p>Ekzistas multaj manieroj (ekz. la imitilo<a href="http://www.winehq.org">Wine</a>) por funkciigi programojn de Windows sub Linux.</p>
 
-</div>
