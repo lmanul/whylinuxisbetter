@@ -1,5 +1,3 @@
-
-
 ---
 lang: en
 title: Books & printing industry
