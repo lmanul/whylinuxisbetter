@@ -1,4 +1,3 @@
-
 ---
 lang: hu
 title: Próbálj ki egy „élő CD-t”!

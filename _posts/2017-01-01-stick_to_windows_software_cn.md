@@ -1,4 +1,3 @@
-
 ---
 lang: cn
 title: 私有软件

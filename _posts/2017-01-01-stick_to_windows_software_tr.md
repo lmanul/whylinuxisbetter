@@ -1,4 +1,3 @@
-
 ---
 lang: tr
 title: Sahipli yazılım

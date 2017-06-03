@@ -1,4 +1,3 @@
-
 ---
 lang: it
 title: Il tuo hardware non è ancora supportato

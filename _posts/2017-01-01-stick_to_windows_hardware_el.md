@@ -1,4 +1,3 @@
-
 ---
 lang: el
 title: Hardware

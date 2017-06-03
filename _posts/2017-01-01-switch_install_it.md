@@ -1,4 +1,3 @@
-
 ---
 lang: it
 title: Installa Linux

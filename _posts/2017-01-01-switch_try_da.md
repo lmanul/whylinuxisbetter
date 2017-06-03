@@ -1,4 +1,3 @@
-
 ---
 lang: da
 title: Prøv en "Live CD"

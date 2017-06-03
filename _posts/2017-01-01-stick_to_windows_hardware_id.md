@@ -1,4 +1,3 @@
-
 ---
 lang: id
 title: Hardware

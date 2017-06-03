@@ -1,4 +1,3 @@
-
 ---
 lang: tr
 title: Linux'u kurun

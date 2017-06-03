@@ -1,4 +1,3 @@
-
 ---
 lang: ro
 title: Încercaţi un Live CD

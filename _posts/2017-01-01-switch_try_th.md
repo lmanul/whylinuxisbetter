@@ -1,4 +1,3 @@
-
 ---
 lang: th
 title: ลอง "ซีดีสด-Live CD"

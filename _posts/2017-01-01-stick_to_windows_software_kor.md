@@ -1,4 +1,3 @@
-
 ---
 lang: kor
 title: 독점 소프트웨어

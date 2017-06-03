@@ -1,4 +1,3 @@
-
 ---
 lang: br
 title: Install Linux

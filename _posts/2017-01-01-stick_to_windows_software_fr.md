@@ -1,4 +1,3 @@
-
 ---
 lang: fr
 title: Les logiciels propriétaires

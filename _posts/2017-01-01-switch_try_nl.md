@@ -1,4 +1,3 @@
-
 ---
 lang: nl
 title: Probeer een "live-cd"

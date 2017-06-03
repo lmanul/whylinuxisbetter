@@ -1,4 +1,3 @@
-
 ---
 lang: fr
 title: Industrie du livre et de l'impression

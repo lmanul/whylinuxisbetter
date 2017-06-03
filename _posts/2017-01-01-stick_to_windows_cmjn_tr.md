@@ -1,4 +1,3 @@
-
 ---
 lang: tr
 title: Kitap ve basım endüstrisi

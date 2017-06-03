@@ -1,4 +1,3 @@
-
 ---
 lang: de
 title: Linux installieren

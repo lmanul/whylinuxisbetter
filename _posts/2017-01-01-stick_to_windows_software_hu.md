@@ -1,4 +1,3 @@
-
 ---
 lang: hu
 title: Kereskedelmi szoftver

@@ -1,4 +1,3 @@
-
 ---
 lang: th
 title: ซอฟต์แวร์ปิด-Proprietary

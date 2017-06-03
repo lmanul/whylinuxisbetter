@@ -1,4 +1,3 @@
-
 ---
 lang: kor
 title: 리눅스 설치하기

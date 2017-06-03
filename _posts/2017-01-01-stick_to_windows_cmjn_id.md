@@ -1,4 +1,3 @@
-
 ---
 lang: id
 title: Industri Buku dan Percetakan

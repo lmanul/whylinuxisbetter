@@ -1,4 +1,3 @@
-<html style="direction: rtl;" lang="fa">
 <head>
   <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
 </head>

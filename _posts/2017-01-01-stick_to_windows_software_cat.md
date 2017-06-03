@@ -1,4 +1,3 @@
-
 ---
 lang: cat
 title: Programari propietari

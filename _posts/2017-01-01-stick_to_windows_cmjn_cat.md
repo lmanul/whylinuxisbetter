@@ -1,4 +1,3 @@
-
 ---
 lang: cat
 title: Els llibres i la indústria de la impressió

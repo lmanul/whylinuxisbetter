@@ -1,4 +1,3 @@
-
 ---
 lang: he
 title: התנסות באמצעות "Live CD"

@@ -1,4 +1,3 @@
-
 ---
 lang: svk
 title: Hry

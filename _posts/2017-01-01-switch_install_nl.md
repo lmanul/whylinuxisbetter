@@ -1,4 +1,3 @@
-
 ---
 lang: nl
 title: Installeer Linux

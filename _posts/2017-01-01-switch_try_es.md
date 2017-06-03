@@ -1,4 +1,3 @@
-
 ---
 lang: es
 title: Prueba un "Live CD"

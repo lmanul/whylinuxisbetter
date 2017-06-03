@@ -1,4 +1,3 @@
-
 ---
 lang: gl
 title: Instala Linux

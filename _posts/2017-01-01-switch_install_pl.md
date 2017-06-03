@@ -1,4 +1,3 @@
-
 ---
 lang: pl
 title: Instalacja systemu Linuks<br />

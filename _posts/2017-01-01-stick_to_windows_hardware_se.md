@@ -1,4 +1,3 @@
-
 ---
 lang: se
 title: Hårdvara

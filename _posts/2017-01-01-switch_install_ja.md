@@ -1,4 +1,3 @@
-
 ---
 lang: ja
 title: Linuxのインストール

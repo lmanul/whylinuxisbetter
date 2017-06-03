@@ -1,4 +1,3 @@
-
 ---
 lang: ru
 title: Устанавливаем Linux

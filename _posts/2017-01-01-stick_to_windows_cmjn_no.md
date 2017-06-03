@@ -1,4 +1,3 @@
-
 ---
 lang: no
 title: Bok- og trykkeriindustrien.

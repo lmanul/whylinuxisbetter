@@ -1,4 +1,3 @@
-
 ---
 lang: it
 title: Sei un hardcore gamer

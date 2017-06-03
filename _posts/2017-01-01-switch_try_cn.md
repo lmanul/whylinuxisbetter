@@ -1,4 +1,3 @@
-
 ---
 lang: cn
 title: 尝试一下 "Live CD"

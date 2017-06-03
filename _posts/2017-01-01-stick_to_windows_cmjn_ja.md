@@ -1,4 +1,3 @@
-
 ---
 lang: ja
 title: DTP業界は厳しいよ。

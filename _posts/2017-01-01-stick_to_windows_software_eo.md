@@ -1,4 +1,3 @@
-
 ---
 lang: eo
 title: Proprieta programaro

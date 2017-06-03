@@ -1,4 +1,3 @@
-
 ---
 lang: id
 title: Menginstall Linux
