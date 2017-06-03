@@ -1,7 +1,3 @@
-<head>
-  <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
-  <title></title>
-</head>
   
 
 <body>
