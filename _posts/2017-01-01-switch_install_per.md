@@ -1,8 +1,3 @@
-  
-
-<body>
-<div style="font-family: Tahoma;" id="corps">
-
 ---
 lang: per
 title: نصب لینوکس
