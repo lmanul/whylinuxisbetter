@@ -1,7 +1,6 @@
 ---
 lang: pl
-title: Instalacja systemu Linuks<br />
-<small>(system Windows zostaje na swoim miejscu!)</small>
+title: Instalacja systemu Linuks (system Windows zostaje na swoim miejscu!)
 tags: switch
 ---
 

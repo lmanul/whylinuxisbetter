@@ -1,0 +1,14 @@
+{% assign posts=site.posts | where:"lang", page.lang %}
+<div id="items">
+{% for post in posts %}
+  {% if post.tags contains 'switch' %}
+    <a href="{{ post.url }}">
+      <div class="item">
+        {{ post.title }}
+        <br /><br />
+        <img src="/img{{ post.id }}_thumb_smaller.png" />
+      </div>
+    </a>
+  {% endif %}
+{% endfor %}
+</div>

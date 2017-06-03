@@ -1,12 +1,16 @@
 {% assign posts=site.posts | where:"lang", page.lang %}
 <div id="items">
 {% for post in posts %}
-    <a href="{{ post.url }}">
-      <div class="item">
-        {{ post.title }}
-        <br /><br />
-        <img src="/img{{ post.id }}_thumb_smaller.png" />
-      </div>
-    </a>
+  {% unless post.tags contains 'switch' %}
+    {% unless post.tags contains 'stick_to_windows' %}
+      <a href="{{ post.url }}">
+        <div class="item">
+          {{ post.title }}
+          <br /><br />
+          <img src="/img{{ post.id }}_thumb_smaller.png" />
+        </div>
+      </a>
+    {% endunless %}
+  {% endunless %}
 {% endfor %}
 </div>

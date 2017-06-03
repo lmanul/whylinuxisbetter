@@ -1,6 +1,6 @@
 ---
 lang: el
-title: "Κλειστό" λογισμικό
+title: "'Κλειστό' λογισμικό"
 tags: stick_to_windows
 ---
 
