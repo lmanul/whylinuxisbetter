@@ -1,5 +1,4 @@
 
-
 ---
 lang: fr
 title: Installer Linux

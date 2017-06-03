@@ -1,5 +1,4 @@
 
-
 ---
 lang: id
 title: Mencoba "Live CD" Linux

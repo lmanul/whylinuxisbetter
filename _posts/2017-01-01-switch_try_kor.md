@@ -1,5 +1,4 @@
 
-
 ---
 lang: kor
 title: 리눅스 라이브CD 사용하기

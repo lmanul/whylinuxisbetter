@@ -1,5 +1,4 @@
 
-
 ---
 lang: ru
 title: Испытайте "живой CD/DVD"

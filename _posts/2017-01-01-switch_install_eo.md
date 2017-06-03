@@ -1,5 +1,4 @@
 
-
 ---
 lang: eo
 title: Instalu Linux

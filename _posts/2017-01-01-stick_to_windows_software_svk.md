@@ -1,5 +1,4 @@
 
-
 ---
 lang: svk
 title: Autorizovaný (zákonom chránený) softvér

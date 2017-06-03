@@ -1,5 +1,4 @@
 
-
 ---
 lang: eo
 title: Industrio de presado de libroj

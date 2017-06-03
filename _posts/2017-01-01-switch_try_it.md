@@ -1,5 +1,4 @@
 
-
 ---
 lang: it
 title: Prova un "Live CD"

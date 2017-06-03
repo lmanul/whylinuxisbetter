@@ -1,5 +1,4 @@
 
-
 ---
 lang: gl
 title: Aplicacións ou programas privativos (Software privativo)

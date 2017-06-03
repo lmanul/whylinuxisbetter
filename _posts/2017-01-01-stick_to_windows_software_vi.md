@@ -1,5 +1,4 @@
 
-
 ---
 lang: vi
 title: Phần mềm độc quyền

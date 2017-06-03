@@ -1,5 +1,4 @@
 
-
 ---
 lang: kor
 title: 게임들

@@ -1,5 +1,4 @@
 
-
 ---
 lang: ro
 title: Software comercial

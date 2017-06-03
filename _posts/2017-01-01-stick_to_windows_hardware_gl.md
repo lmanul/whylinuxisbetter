@@ -1,5 +1,4 @@
 
-
 ---
 lang: gl
 title: Compoñentes e Periféricos (Hardware)

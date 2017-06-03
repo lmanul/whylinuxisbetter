@@ -1,5 +1,4 @@
 
-
 ---
 lang: gl
 title: Proba un "CD Vivo" (Live CD)

@@ -1,5 +1,4 @@
 
-
 ---
 lang: hu
 title: Telepíts Linuxot!

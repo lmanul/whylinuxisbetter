@@ -1,5 +1,4 @@
 
-
 ---
 lang: da
 title: Installér Linux

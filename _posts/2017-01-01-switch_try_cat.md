@@ -1,5 +1,4 @@
 
-
 ---
 lang: cat
 title: Prova un “Live CD”

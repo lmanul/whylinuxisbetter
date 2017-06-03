@@ -1,5 +1,4 @@
 
-
 ---
 lang: de
 title: Proprietäre Software

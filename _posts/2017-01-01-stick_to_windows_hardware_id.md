@@ -1,5 +1,4 @@
 
-
 ---
 lang: id
 title: Hardware

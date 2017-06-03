@@ -1,5 +1,4 @@
 
-
 ---
 lang: svk
 title: Vyskúšajte "Live CD"

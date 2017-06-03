@@ -1,5 +1,4 @@
 
-
 ---
 lang: es
 title: Hardware

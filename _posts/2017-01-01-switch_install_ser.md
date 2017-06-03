@@ -1,5 +1,4 @@
 
-
 ---
 lang: ser
 title: Instalacija linux-a

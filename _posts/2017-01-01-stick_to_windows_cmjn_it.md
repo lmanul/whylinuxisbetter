@@ -1,5 +1,4 @@
 
-
 ---
 lang: it
 title: Lavori nell'industria di libri/stampa

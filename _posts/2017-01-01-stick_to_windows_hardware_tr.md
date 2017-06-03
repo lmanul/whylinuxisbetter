@@ -1,5 +1,4 @@
 
-
 ---
 lang: tr
 title: Donanım

@@ -1,5 +1,4 @@
 
-
 ---
 lang: se
 title: Låst mjukvara

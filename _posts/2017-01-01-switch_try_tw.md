@@ -1,5 +1,4 @@
 
-
 ---
 lang: tw
 title: 在不碰觸 Windows 的情況下試用 Linux

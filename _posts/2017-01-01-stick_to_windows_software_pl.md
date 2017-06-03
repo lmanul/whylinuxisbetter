@@ -1,5 +1,4 @@
 
-
 ---
 lang: pl
 title: Oprogramowanie własnościowe
