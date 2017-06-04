@@ -117,8 +117,7 @@ div.main {float: right; text-align : center; width: 10em;}
   color: black;
   margin: 1em 15px 0 15px;
   /* height: 100%; */
-  font-family: Verdana, Arial, Helvetica, sans-serif; text-align: left;
-  font-size: 90%;}
+  font-family: Verdana, Arial, Helvetica, sans-serif;}
 #corps li {padding: 5px;}
 #corps h1 {font-size: 250%; color: black; text-align: center;}
 #corps h2 {font-size: 150%; 
