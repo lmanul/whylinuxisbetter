@@ -3,6 +3,7 @@
 import os
 
 IDS = [
+  "WARNING",
   "LANG",
   "TITLE",
   "STICK_TO_WINDOWS",
@@ -21,6 +22,7 @@ for intl_file in intl_files:
   translation_lines = open(os.path.join("intl", lang + ".txt")).readlines()
   translations = {}
   translations['LANG'] = lang
+  translations['WARNING'] = 'This file is auto-generated, do not edit!'
   for line in translation_lines:
     if line.strip() == "":
       continue
