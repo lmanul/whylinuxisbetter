@@ -121,9 +121,9 @@ div.main {float: right; text-align : center; width: 10em;}
   font-size: 90%;}
 #corps li {padding: 5px;}
 #corps h1 {font-size: 250%; color: black; text-align: center;}
-#corps h2 {font-size: 125%; 
+#corps h2 {font-size: 150%; 
   font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;
-  color: #990000; text-align: center;}
+  color: #990000;}
 #corps h3 {font-size : 120%;
   font-family : Verdana, Arial, Helvetica, Geneva, sans-serif;
   color : green; text-align: center; clear: both; width: 100%;}
