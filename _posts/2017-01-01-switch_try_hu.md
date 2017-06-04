@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: hu
 title: Próbálj ki egy „élő CD-t”!
 tags: switch

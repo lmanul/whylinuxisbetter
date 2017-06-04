@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: ser
 title: "Forget about viruses."
 ---

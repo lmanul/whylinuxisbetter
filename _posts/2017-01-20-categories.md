@@ -1,4 +1,5 @@
 ---
+permalink: categories
 lang: en
 title: "No big mess in your start menu"
 ---

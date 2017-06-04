@@ -1,4 +1,5 @@
 ---
+permalink: old_and_sluggish
 lang: cn
 title: "为什么Windows 会一天比一天慢"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: he
 title: התקנת לינוקס
 tags: switch

@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: se
 title: Bok- & Tryckindustrin
 tags: stick_to_windows

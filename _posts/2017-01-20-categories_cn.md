@@ -1,4 +1,5 @@
 ---
+permalink: categories
 lang: cn
 title: "开始菜单不再混乱"
 ---

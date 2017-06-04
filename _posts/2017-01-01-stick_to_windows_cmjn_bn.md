@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: bn
 title: প্রকাশনা এবং মুদ্রণশিল্প
 tags: stick_to_windows

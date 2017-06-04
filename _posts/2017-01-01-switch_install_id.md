@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: id
 title: Menginstall Linux
 tags: switch

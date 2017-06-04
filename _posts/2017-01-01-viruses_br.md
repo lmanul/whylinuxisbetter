@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: br
 title: "Esqueça os vírus."
 ---

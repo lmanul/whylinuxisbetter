@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: svk
 title: "Ohlasovanie chýb"
 ---

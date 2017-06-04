@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: cn
 title: "自由！"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: bn
 title: "ড্রাইভার? ভুলে যান"
 ---

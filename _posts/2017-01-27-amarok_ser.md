@@ -1,4 +1,5 @@
 ---
+permalink: amarok
 lang: ser
 title: " Nabavite odličan muzički plejer."
 ---

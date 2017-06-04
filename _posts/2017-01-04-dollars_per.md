@@ -1,4 +1,5 @@
 ---
+permalink: dollars
 lang: per
 
   

@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: tr
 title: Linux'u kurun
 tags: switch

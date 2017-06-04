@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: ser
 title: "Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?"
 ---

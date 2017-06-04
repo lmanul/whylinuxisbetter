@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: th
 title: "ไม่ต้องมองหาไดร์เวอร์อีกต่อไป"
 ---

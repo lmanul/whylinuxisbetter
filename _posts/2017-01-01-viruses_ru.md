@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: ru
 title: "Забудьте о вирусах."
 ---

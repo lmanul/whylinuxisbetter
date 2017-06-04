@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: lit
 title: "Pavargote nuolat perkraudin&#279;ti kompiuter&#303;?"
 ---

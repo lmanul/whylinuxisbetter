@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: bn
 title: "বারবার কম্পিউটার রিস্টার্ট করতে করতে বিরক্ত?"
 ---

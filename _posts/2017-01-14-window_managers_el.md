@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: el
 title: "Αλλάξτε την εμφάνιση της επιφάνειας εργασίας σας."
 ---

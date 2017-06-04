@@ -1,4 +1,5 @@
 ---
+permalink: search_software
 lang: cat
 title: "Necessites més programari? No cerques a la web, Linux l'aconsegueix per tu."
 ---

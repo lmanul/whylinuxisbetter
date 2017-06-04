@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: tr
 title: Sahipli yazılım
 tags: stick_to_windows

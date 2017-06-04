@@ -1,4 +1,5 @@
 ---
+permalink: old_and_sluggish
 lang: kor
 title: "윈도우즈는 왜 날이갈수록 버벅대나요?"
 ---

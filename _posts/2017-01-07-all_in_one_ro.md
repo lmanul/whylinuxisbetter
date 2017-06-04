@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: ro
 title: "Când sistemul a fost instalat, de ce <i>ar mai trebui</i> să instalaţi alte lucruri?"
 ---

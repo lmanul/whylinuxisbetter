@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: ru
 title: "Играй в сотни игр - бесплатно!"
 ---

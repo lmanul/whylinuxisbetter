@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: tw
 title: "只要按一下滑鼠，就可以更新所有軟體"
 ---

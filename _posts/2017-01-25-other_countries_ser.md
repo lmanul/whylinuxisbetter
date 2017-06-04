@@ -1,4 +1,5 @@
 ---
+permalink: other_countries
 lang: ser
 title: "a i svojoj."
 ---

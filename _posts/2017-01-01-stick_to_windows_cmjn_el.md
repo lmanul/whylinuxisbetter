@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: el
 title: Τομέας εκδόσεων
 tags: stick_to_windows

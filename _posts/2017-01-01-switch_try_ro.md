@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: ro
 title: Încercaţi un Live CD
 tags: switch

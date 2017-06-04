@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: el
 title: "Παρακολουθήστε τις καιρικές προβλέψεις."
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: br
 title: "Muitas janelas? Use desktops virtuais."
 ---

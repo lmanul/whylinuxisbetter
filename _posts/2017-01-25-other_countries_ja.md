@@ -1,4 +1,5 @@
 ---
+permalink: other_countries
 lang: ja
 title: "途上国のため、世界のために"
 ---

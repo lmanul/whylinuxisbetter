@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: gl
 title: "Accede gratis por centos de xogos"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: bn
 title: "পরিবেশ রক্ষায় ভূমিকা রাখুন।"
 ---

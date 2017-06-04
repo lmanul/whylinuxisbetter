@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: svk
 title: "Naskočte na novú vlnu desktopov"
 ---

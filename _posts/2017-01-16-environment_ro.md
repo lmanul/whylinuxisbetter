@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: ro
 title: "Mediu"
 ---

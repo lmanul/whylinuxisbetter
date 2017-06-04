@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: tw
 title: "天氣監控"
 ---

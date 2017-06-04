@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: de
 title: "Erlebe die nächste Desktop-Generation."
 ---

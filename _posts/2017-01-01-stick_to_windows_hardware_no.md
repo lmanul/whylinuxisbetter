@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: no
 title: Hardware
 tags: stick_to_windows

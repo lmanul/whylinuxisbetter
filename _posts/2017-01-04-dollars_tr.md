@@ -1,4 +1,5 @@
 ---
+permalink: dollars
 lang: tr
 title: "İşletim sisteminize neden 100$ ödeyesiniz ki?"
 ---

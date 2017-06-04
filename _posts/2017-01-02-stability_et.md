@@ -1,4 +1,5 @@
 ---
+permalink: stability
 lang: et
 title: ""
 ---

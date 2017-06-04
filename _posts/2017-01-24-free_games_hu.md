@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: hu
 title: "Játssz játékok százaival ingyen!"
 ---

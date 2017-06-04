@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: el
 title: "Κάντε κάτι για το περιβάλλον"
 ---

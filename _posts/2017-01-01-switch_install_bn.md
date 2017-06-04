@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: bn
 title: লিনাক্স ইন্সটলেশন
 tags: switch

@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: da
 title: "Frihed!"
 ---

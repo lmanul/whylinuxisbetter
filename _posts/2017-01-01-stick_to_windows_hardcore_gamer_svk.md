@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardcore_gamer
 lang: svk
 title: Hry
 tags: stick_to_windows

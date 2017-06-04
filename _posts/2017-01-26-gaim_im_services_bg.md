@@ -1,4 +1,5 @@
 ---
+permalink: gaim_im_services
 lang: bg
 title: "Използвайте MSN, AIM, ICQ, Jabber с една-единствена програма"
 ---

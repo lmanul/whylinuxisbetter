@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: km
 title: ដំ​ឡើង​​លីនុច
 tags: switch
@@ -57,7 +58,7 @@ href="http://www.ubuntu.com/download">www.ubuntu.com/download</a></td>
 <td><a
 href="http://en.opensuse.org/Download">en.opensuse.org/Download</a></td>
 <td><a
-href="http://www.mandriva.com/en/download/free">www.mandriva.com/en/download/free</a></td>
+href="http://wwwandriva.com/en/download/free">www.mandriva.com/en/download/free</a></td>
 <td><a
 href="http://fedora.redhat.com/Download/">fedora.redhat.com/Download/</a></td>
 </tr>

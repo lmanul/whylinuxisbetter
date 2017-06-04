@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: pl
 title: "Zbyt wiele okien? Użyj wirtualnych pulpitów"
 ---

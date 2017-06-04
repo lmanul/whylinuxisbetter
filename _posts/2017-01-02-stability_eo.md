@@ -1,4 +1,5 @@
 ---
+permalink: stability
 lang: eo
 title: "Ĉu via operaciumo estas nestabila?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: no
 title: "Velg hvordan ditt skrivebord skal se ut."
 ---

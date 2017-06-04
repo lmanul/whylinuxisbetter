@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: bn
 title: "'Live CD' চালিয়ে দেখুন"
 tags: switch

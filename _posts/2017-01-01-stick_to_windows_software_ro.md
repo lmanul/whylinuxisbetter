@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: ro
 title: Software comercial
 tags: stick_to_windows

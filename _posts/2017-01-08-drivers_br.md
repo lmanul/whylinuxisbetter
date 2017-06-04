@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: br
 title: "Esqueça os drivers"
 ---

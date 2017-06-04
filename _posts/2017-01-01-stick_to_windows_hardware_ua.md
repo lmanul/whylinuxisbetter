@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: ua
 title: Дещо з твого апаратного забезпечення поки що не підтримується
 tags: stick_to_windows

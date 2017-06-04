@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: se
 title: "Glöm drivrutiner"
 ---

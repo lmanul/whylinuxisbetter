@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: fr
 title: Les logiciels propriétaires
 tags: stick_to_windows

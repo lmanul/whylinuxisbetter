@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: bg
 title: "Следете прогнозата за времето."
 ---

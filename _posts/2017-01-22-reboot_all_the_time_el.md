@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: el
 title: "Βαρεθήκατε να επανεκκινείτε συνέχεια τον υπολογιστή σας;"
 ---

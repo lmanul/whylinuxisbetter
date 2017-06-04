@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: km
 title: "មិន​ខ្វល់​អំពី​មេរោគ ។"
 ---

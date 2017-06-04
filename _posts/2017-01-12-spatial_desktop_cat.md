@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: cat
 title: "Salta a la nova generació d'escriptoris."
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: ser
 title: Probajte "Live CD"
 tags: switch

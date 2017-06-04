@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: ru
 title: "Свобода!"
 ---

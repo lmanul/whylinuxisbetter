@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: br
 title: "Fique de olho no tempo."
 ---

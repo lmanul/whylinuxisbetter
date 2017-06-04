@@ -1,4 +1,5 @@
 ---
+permalink: other_countries
 lang: se
 title: "Hjälp andra länder, och ditt eget"
 ---

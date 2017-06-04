@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: bg
 title: Собственически софтуер
 tags: stick_to_windows

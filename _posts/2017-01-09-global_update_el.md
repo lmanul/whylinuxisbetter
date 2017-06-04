@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: el
 title: "Αναβαθμίστε όλα σας τα προγράμματα με ένα κλικ"
 ---

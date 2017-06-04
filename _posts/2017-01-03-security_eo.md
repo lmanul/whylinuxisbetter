@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: eo
 title: "Linux protektas vian komputilon"
 ---

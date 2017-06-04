@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: fr
 title: "Jouez à des centaines de jeux gratuitement"
 ---

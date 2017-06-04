@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: ja
 title: "ウィンドウ散らかりっぱなし。ワークスペース使えばいいのに"
 ---

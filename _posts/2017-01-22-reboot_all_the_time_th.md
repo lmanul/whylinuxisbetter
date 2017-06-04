@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: th
 title: "คุณเหนื่อยหน่ายที่จะบู๊ตเครื่องของคุณใหม่ซ้ำๆ ซากๆ ไหม?"
 ---

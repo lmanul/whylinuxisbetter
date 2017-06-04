@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: ru
 title: Проприетарный, закрытый и платный софт
 tags: stick_to_windows

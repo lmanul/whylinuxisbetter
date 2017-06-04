@@ -1,4 +1,5 @@
 ---
+permalink: old_and_sluggish
 lang: hu
 title: "Miért lesz a Windows napról napra lassabb?"
 ---

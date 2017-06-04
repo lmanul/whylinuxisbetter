@@ -1,4 +1,5 @@
 ---
+permalink: other_countries
 lang: gl
 title: "Axuda a outros países, incluído o teu"
 ---

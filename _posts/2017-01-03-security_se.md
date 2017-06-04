@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: se
 title: "Linux skyddar din dator"
 ---

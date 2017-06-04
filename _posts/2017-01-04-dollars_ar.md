@@ -1,4 +1,5 @@
 ---
+permalink: dollars
 lang: ar
 title: "لا تدفع 100$ دولار لتشتري نظام تشغيل"
 ---

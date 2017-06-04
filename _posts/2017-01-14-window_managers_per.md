@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: per
 
   

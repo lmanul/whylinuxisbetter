@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: ja
 title: "クリックひとつで、ぜーんぶアップデート！"
 ---

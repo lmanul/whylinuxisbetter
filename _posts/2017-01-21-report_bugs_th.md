@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: th
 title: "การรายงานบั๊ก"
 ---

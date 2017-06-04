@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: km
 title: "លី​នុច​ការ​ពារ​កុំ​ព្យូទ័រ​របស់​អ្នក​"
 ---

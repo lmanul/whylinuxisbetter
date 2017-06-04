@@ -1,4 +1,5 @@
 ---
+permalink: stability
 lang: de
 title: "Ist dein System instabil?"
 ---

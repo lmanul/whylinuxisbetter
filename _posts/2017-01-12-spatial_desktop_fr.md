@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: fr
 title: "Découvrez la nouvelle génération de bureaux."
 ---

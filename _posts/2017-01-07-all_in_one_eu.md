@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: eu
 
 title: "Sistema instalatu duzunea, zergaitik <i>ondino</i> gauza gehiago instalatu behar dituzu?"

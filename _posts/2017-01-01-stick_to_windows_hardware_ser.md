@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: ser
 title: Hardver
 tags: stick_to_windows

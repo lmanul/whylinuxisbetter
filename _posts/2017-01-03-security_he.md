@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: he
 title: "לינוקס מגינה על המחשב שלך"
 ---

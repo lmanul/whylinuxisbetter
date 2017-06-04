@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: ru
 title: "Обновите весь ваш софт одним кликом!."
 ---

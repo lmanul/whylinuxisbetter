@@ -1,4 +1,5 @@
 ---
+permalink: amarok
 lang: svk
 title: "Získajte úžasný prehrávač hudby"
 ---

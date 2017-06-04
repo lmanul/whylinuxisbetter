@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: cn
 title: "环境保护"
 ---

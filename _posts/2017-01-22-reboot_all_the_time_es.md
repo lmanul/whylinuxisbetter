@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: es
 title: "¿Estás cansado de reiniciar tu ordenador continuamente?"
 ---

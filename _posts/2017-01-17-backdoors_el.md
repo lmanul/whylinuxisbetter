@@ -1,4 +1,5 @@
 ---
+permalink: backdoors
 lang: el
 title: "Λογισμικό χωρίς κερκόπορτες."
 ---

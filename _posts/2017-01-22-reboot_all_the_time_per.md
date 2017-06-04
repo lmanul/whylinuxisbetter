@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: per
 title: "آيا از راه&zwnj;اندازي مجدد كردن هميشگي كامپيوترتون خسته شديد؟"
 ---

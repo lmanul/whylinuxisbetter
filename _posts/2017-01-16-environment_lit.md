@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: lit
 title: "Saugok aplinką"
 ---

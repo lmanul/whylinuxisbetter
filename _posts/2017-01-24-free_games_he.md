@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: he
 title: " ! שחק במאות משחקים, בחינם "
 ---

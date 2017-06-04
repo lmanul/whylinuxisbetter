@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardcore_gamer
 lang: pl
 title: Gry
 tags: stick_to_windows

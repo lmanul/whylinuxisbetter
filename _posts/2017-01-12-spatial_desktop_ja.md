@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: ja
 title: "新世代デスクトップへ飛び出そう！"
 ---

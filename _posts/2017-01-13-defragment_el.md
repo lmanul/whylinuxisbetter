@@ -1,4 +1,5 @@
 ---
+permalink: defragment
 lang: el
 title: "Η ψηφιακή σας ζωή μοιάζει σκόρπια;"
 ---

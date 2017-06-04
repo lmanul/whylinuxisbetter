@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: id
 title: "Melaporkan <i>bug</i>"
 ---

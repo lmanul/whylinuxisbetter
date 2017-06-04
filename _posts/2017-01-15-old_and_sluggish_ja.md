@@ -1,4 +1,5 @@
 ---
+permalink: old_and_sluggish
 lang: ja
 title: "Windows使ってるとだんだん遅くならない？"
 ---

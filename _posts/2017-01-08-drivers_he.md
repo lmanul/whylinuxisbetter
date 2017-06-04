@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: he
 title: "עזבו אתכם ממנהלי התקנים"
 ---

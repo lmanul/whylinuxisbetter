@@ -1,4 +1,5 @@
 ---
+permalink: dollars
 lang: tw
 title: "不用為了你的作業系統而花費上萬元"
 ---

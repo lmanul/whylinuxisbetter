@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: gl
 title: "Liberdade!"
 ---

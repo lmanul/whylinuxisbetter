@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: ar
 title: "حرية الإستخدام!"
 ---

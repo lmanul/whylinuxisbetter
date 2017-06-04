@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: ru
 title: "Linux защищает ваш компьютер"
 ---

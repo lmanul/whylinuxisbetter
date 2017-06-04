@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: cat
 title: "Oblida't dels virus"
 ---

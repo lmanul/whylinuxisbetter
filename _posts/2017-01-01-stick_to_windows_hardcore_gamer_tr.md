@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardcore_gamer
 lang: tr
 title: Oyunlar
 tags: stick_to_windows

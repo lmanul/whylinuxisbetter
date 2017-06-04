@@ -1,4 +1,5 @@
 ---
+permalink: crapware
 lang: tr
 title: "Çöp yazılımlara son."
 ---

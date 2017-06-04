@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: cn
 title: 硬件
 tags: stick_to_windows

@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: ja
 title: "自由バンザイ！"
 ---

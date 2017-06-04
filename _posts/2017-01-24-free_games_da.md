@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: da
 title: "Spil hundredevis af spil, helt gratis"
 ---

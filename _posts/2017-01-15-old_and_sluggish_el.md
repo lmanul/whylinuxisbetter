@@ -1,4 +1,5 @@
 ---
+permalink: old_and_sluggish
 lang: el
 title: "Γιατί τα Windows σας γίνονται κάθε μέρα πιο αργά;"
 ---

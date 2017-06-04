@@ -1,4 +1,5 @@
 ---
+permalink: backdoors
 lang: da
 title: "Der er ingen bagdøre i dine programmer."
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: search_software
 lang: el
 title: "Χρειάζεστε νέο λογισμικό; Μην ψάχνετε στο δίκτυο, το Linux θα σας το φέρει."
 ---

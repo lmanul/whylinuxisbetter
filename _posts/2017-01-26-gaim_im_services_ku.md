@@ -1,4 +1,5 @@
 ---
+permalink: gaim_im_services
 lang: ku
 title: " .هتد بەکار بەرە بە تەنها یەک نەرمەکاڵا MSN , ICQ , YAHOO , JABBER , AIM "
 ---

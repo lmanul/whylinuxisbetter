@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: tw
 title: "自由地享受上百個遊戲"
 ---

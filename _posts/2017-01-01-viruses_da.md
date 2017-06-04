@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: da
 title: "Glem alt om virusser."
 ---

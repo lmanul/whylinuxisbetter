@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: ro
 title: "Control complet asupra aspectelor desktop-ului."
 ---

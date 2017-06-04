@@ -1,4 +1,5 @@
 ---
+permalink: defragment
 lang: bg
 title: "Изглежда ли разхвърлян дигиталният ви живот ?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardcore_gamer
 lang: no
 title: Spill
 tags: stick_to_windows

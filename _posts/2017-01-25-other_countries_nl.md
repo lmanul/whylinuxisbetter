@@ -1,4 +1,5 @@
 ---
+permalink: other_countries
 lang: nl
 title: "Help andere landen, ook uw eigen"
 ---

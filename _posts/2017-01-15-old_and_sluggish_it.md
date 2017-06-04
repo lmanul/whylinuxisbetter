@@ -1,4 +1,5 @@
 ---
+permalink: old_and_sluggish
 lang: it
 title: "Perché Windows rallenta giorno dopo giorno?"
 ---

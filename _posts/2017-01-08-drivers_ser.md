@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: ser
 title: "Zaboravite na drajvere"
 ---

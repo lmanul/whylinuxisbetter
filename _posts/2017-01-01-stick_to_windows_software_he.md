@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: he
 title: תוכנה קניינית
 tags: stick_to_windows

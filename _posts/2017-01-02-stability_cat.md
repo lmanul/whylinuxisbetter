@@ -1,4 +1,5 @@
 ---
+permalink: stability
 lang: cat
 title: "És el teu sistema inestable?"
 ---

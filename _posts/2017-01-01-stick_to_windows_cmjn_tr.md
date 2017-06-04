@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: tr
 title: Kitap ve basım endüstrisi
 tags: stick_to_windows

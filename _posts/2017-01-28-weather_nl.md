@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: nl
 title: "Hou het weer in de gaten"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: gaim_im_services
 lang: fr
 title: "Connectez-vous à MSN, AIM, ICQ, Jabber, avec un  seul programme"
 ---

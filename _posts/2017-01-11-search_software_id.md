@@ -1,4 +1,5 @@
 ---
+permalink: search_software
 lang: id
 title: "Butuh perangkat lunak baru? Tak perlu mencari di internet, Linux akan menyediakannya untukmu."
 ---

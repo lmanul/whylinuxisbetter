@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardcore_gamer
 lang: ja
 title: ゲーマーにゃゲーマーの道がある！
 tags: stick_to_windows

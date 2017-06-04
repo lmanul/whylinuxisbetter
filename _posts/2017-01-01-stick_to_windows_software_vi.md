@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: vi
 title: Phần mềm độc quyền
 tags: stick_to_windows

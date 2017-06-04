@@ -1,4 +1,5 @@
 ---
+permalink: search_software
 lang: per
 
   

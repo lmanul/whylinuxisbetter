@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: per
 title: سخت افزار
 tags: stick_to_windows

@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: kor
 title: "클릭 한번으로 모든 소프트웨어 업데이트하기"
 ---

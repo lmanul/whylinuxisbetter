@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: ja
 title: "いつまでも直らないバグ。バグ退治に協力すれば解決は早いのにぃ"
 ---

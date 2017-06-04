@@ -1,4 +1,5 @@
 ---
+permalink: categories
 lang: se
 title: "Inget kaos i startmenyn"
 ---

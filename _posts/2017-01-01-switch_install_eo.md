@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: eo
 title: Instalu Linux
 tags: switch

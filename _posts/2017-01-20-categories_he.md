@@ -1,4 +1,5 @@
 ---
+permalink: categories
 lang: he
 title: "אין בלגן בתפריט ההתחלה שלך"
 ---

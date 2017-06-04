@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: se
 title: "För många fönster? Använd olika skrivbord."
 ---

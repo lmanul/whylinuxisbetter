@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: nl
 title: "Waarom zou u na de installatie <i>nog</i> software moeten installeren?"
 ---

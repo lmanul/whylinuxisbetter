@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: he
 title: ספרים ותעשיית ההוצאה לאור
 tags: stick_to_windows

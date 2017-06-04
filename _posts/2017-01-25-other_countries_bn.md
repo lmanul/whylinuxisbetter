@@ -1,4 +1,5 @@
 ---
+permalink: other_countries
 lang: bn
 title: "নিজ দেশের উন্নয়নে ভূমিকা রাখুন"
 ---

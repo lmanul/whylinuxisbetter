@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: fr
 title: "Oubliez les virus."
 ---

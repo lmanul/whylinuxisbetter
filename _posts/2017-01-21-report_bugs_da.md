@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: da
 title: "Rapportering af bugs"
 ---

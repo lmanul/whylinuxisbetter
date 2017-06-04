@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: bg
 title: "Свобода!"
 ---

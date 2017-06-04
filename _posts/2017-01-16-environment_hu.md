@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: hu
 title: "Környezetvédelem"
 ---

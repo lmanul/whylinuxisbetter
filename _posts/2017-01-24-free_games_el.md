@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: el
 title: "Παίξτε εκατοντάδες δωρεάν παιχνίδια"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: es
 title: "Actualiza todo tu software con un sólo clic."
 ---

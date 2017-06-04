@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: per
 title: "ويروسها رو فراموش كنيد."
 ---

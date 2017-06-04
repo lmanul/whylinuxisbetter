@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: id
 title: "Terlalu banyak membuka window/jendela? Gunakanlah Workspace."
 ---

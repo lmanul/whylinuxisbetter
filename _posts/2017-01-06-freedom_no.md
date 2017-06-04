@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: no
 title: "Frihet!"
 ---

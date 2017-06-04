@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: ua
 title: "Зазирни у наступне покоління робочих столів"
 ---

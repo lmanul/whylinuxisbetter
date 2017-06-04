@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: se
 title: "Håll koll på vädret."
 ---

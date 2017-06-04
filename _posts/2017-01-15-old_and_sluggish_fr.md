@@ -1,4 +1,5 @@
 ---
+permalink: old_and_sluggish
 lang: fr
 title: "Pourquoi votre Windows est-il de plus en plus lent ?"
 ---

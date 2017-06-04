@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: svk
 title: Tlačiarne a vydavateľstvá
 tags: stick_to_windows

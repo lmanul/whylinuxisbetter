@@ -1,4 +1,5 @@
 ---
+permalink: gaim_im_services
 lang: br
 title: "﻿Use MSN, AIM, ICQ, Yahoo, Google Talk, Jabber, com um único programa"
 ---

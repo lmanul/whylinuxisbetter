@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: pl
 title: Oprogramowanie własnościowe
 tags: stick_to_windows

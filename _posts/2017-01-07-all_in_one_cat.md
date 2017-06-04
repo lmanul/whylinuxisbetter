@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: cat
 title: "Quan el teu sistema està instal·lat, per què necessites instal·lar <i>encara</i> més coses?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: backdoors
 lang: cn
 title: "你的软件中再也没有后门。"
 ---

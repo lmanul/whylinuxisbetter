@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: es
 title: Software propietario
 tags: stick_to_windows

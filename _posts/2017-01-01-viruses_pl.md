@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: pl
 title: "Zapomnij o wirusach"
 ---

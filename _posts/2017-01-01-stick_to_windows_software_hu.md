@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: hu
 title: Kereskedelmi szoftver
 tags: stick_to_windows

@@ -1,4 +1,5 @@
 ---
+permalink: crapware
 lang: ser
 title: "Bez sranjvera"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: crapware
 lang: es
 title: "No más mierdaware."
 ---

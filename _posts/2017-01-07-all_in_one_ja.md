@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: ja
 title: "「OS入れただけじゃ何もできない」なんて、おかしいじゃない？"
 ---

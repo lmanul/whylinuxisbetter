@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: se
 title: Installera Linux
 tags: switch

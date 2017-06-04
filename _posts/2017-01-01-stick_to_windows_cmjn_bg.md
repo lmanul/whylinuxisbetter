@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: bg
 title: Книги и печатна индустрия
 tags: stick_to_windows

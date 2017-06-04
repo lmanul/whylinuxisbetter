@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: pl
 title: Wypróbuj Linuksa, czyli więcej o "Live CD"
 tags: switch

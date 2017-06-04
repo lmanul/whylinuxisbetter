@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: gl
 title: Industria de libros e impresión
 tags: stick_to_windows

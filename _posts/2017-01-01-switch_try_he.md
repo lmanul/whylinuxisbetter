@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: he
 title: התנסות באמצעות "Live CD"
 tags: switch

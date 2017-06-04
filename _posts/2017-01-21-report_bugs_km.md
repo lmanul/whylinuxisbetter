@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: km
 title: "រាយ​ការណ៍​​កំហុស"
 ---

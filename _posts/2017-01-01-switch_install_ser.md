@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: ser
 title: Instalacija linux-a
 tags: switch

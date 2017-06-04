@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: ja
 title: "Linuxがパソコンを守ります！"
 ---

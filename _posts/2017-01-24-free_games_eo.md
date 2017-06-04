@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: eo
 title: "Ludu centojn da ludoj senkoste"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: dollars
 lang: lit
 title: "Nemok&#279;k 100 doleri&#371; u&#382; operacin&#281; sistem&#261;"
 ---

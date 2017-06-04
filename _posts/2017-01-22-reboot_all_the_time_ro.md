@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: ro
 title: "V-aţi săturat să vă restartaţi computerul tot timpul?"
 ---

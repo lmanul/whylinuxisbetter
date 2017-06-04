@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: ro
 title: "Raportarea defectelor"
 ---

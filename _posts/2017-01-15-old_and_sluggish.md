@@ -1,4 +1,5 @@
 ---
+permalink: old_and_sluggish
 lang: en
 title: "Why does your Windows get slower day after day?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: gl
 title: "Informe de Fallos"
 ---

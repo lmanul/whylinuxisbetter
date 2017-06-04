@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: id
 title: Industri Buku dan Percetakan
 tags: stick_to_windows

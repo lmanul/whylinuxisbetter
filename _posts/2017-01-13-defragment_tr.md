@@ -1,4 +1,5 @@
 ---
+permalink: defragment
 lang: tr
 title: "Dijital hayatınızda parçalanmalar mı var ?"
 ---

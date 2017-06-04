@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: se
 title: Hårdvara
 tags: stick_to_windows

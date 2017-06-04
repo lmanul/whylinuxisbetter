@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: hu
 title: "A hibák jelentése"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: en
 title: Books & printing industry
 tags: stick_to_windows

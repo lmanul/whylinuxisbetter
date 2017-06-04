@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: eo
 title: "Aktualigu vian tutan programaron per unu klako."
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: svk
 title: Hardvér
 tags: stick_to_windows

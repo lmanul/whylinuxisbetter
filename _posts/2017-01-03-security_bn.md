@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: bn
 title: "নিরাপদ রাখুন কম্পিউটার।"
 ---

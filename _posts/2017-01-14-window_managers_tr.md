@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: tr
 title: "Masaüstünüzün nasıl olması gerektiğini siz seçin."
 ---

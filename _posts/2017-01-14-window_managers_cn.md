@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: cn
 title: "选择您的桌面主题"
 ---

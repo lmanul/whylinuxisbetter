@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: nl
 title: "Vergeet stuurprogramma's"
 ---

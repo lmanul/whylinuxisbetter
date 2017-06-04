@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: en
 title: Try a "Live CD"
 tags: switch

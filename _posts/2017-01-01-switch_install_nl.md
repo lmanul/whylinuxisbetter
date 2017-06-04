@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: nl
 title: Installeer Linux
 tags: switch

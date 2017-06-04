@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: bn
 title: "স্বাধীনতা!"
 ---

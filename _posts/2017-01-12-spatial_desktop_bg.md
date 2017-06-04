@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: bg
 title: "Елате в следващото поколение на desktop-ите"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: dollars
 lang: ua
 title: "Не плати 100 євро за операційну систему."
 ---

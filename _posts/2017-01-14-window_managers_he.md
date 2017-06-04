@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: he
 title: "בחר כיצד אתה רוצה ששולחן העבודה שלך יראה."
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: no
 title: "Hjelp miljøet."
 ---

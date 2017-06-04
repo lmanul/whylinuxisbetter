@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: vi
 title: "Chọn giao diện nào bạn muốn"
 ---

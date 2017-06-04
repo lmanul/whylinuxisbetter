@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: el
 title: Δοκιμάστε ένα "Live CD"
 tags: switch

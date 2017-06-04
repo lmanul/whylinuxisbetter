@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: da
 title: "Er du træt af at genstarte din computer hele tiden?"
 ---

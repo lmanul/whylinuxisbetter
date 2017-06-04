@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: id
 title: "Apakah kamu sudah lelah me-<i>restart</i> komputer setiap waktu?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: en
 title: "Jump into the next generation of desktops."
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: hu
 title: "Tartsd szemmel az időjárást!"
 ---

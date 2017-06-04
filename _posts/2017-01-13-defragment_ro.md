@@ -1,4 +1,5 @@
 ---
+permalink: defragment
 lang: ro
 title: "Viaţa dvs. virtuală pare fragmentată?"
 ---

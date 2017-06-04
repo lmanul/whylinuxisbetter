@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: hu
 title: "Felejtsd el az eszközillesztőket!"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: gl
 title: "Cando o sistema xa foi instalado, por que <i>aínda</i> necesitas instalar máis cousas?"
 ---

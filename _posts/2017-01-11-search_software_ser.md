@@ -1,4 +1,5 @@
 ---
+permalink: search_software
 lang: ser
 title: "Treba Vam nov softver? Ne tražite po mreži, Linux će Vam nabaviti."
 ---

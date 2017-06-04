@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: et
 title: "Linux kaitseb sinu arvutit"
 ---

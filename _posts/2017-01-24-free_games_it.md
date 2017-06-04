@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: it
 title: "Gioca a centinaia di videogame gratuitamente"
 ---

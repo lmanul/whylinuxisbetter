@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: bg
 title: "Забравете за вирусите."
 ---

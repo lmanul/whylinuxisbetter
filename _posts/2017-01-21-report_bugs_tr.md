@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: tr
 title: "Hataların bildirilmesi"
 ---

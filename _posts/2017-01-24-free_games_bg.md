@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: bg
 title: "Играйте безплатно стотици игри"
 ---

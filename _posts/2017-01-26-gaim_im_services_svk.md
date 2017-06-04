@@ -1,4 +1,5 @@
 ---
+permalink: gaim_im_services
 lang: svk
 title: "Používajte MSN, AIM, ICQ, Jabber jedným programom"
 ---

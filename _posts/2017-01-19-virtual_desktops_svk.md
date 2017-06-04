@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: svk
 title: "Príliš veľa okien? Použite pracovné plochy"
 ---

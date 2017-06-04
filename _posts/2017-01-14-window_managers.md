@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: en
 title: "Choose what your desktop looks like."
 ---

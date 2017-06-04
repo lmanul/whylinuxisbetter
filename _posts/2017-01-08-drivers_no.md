@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: no
 title: "Glem alt om drivere."
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: nl
 title: "Linux beschermt uw computer"
 ---

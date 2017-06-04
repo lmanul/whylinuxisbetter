@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardcore_gamer
 lang: he
 title: משחקים
 tags: stick_to_windows

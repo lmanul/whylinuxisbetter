@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: ru
 title: "Устали постоянно перезагружать ваш компьютер?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: backdoors
 lang: ro
 title: "Fără găuri de securitate în software."
 ---

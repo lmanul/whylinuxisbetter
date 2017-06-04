@@ -1,4 +1,5 @@
 ---
+permalink: search_software
 lang: bn
 title: "নতুন সফটওয়্যার খুজে বের করুন সহজেই।"
 ---

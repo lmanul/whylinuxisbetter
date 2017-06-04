@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: lit
 title: "Pasinerkite į naują darbalaukių kartą."
 ---

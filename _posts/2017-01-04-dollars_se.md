@@ -1,4 +1,5 @@
 ---
+permalink: dollars
 lang: se
 title: "Betala inte 1000kr för ditt operativsystem"
 ---

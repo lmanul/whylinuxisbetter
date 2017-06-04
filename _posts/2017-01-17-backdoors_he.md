@@ -1,4 +1,5 @@
 ---
+permalink: backdoors
 lang: he
 title: "אין פרצות סתרים בתוכנה שלך."
 ---

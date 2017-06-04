@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: no
 title: Proprietær programvare.
 tags: stick_to_windows

@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: eo
 title: "Sciigu erarojn"
 ---

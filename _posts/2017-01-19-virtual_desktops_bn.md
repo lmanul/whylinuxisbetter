@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: bn
 title: "বেশি উইন্ডো নিয়ে ঝামেলা? 'ওয়ার্কস্পেস' ব্যবহার করুন।"
 ---

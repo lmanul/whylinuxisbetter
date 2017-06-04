@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: br
 title: Livros & Indústria Gráfica
 tags: stick_to_windows

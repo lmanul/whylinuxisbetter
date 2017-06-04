@@ -1,4 +1,5 @@
 ---
+permalink: backdoors
 lang: id
 title: "Tidak ada backdoor di perangkat lunakmu."
 ---

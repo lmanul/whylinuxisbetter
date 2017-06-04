@@ -1,4 +1,5 @@
 ---
+permalink: stability
 lang: hu
 title: "Instabil a rendszered?"
 ---

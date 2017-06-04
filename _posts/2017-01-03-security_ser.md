@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: ser
 title: "Linux štiti Vaš kompjuter "
 ---

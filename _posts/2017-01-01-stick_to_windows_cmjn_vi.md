@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: vi
 title: In ấn và xuât bản sách
 tags: stick_to_windows

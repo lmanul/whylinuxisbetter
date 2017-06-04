@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: km
 title: ឧស្សាហ​កម្ម​​បោះពុម្ព និង​​សៀវ​ភៅ
 tags: stick_to_windows

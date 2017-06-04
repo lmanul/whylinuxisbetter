@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: pl
 title: "System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?"
 ---

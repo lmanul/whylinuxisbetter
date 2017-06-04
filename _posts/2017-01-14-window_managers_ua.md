@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: ua
 title: "Обери, як буде виглядати твій екран"
 ---

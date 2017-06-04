@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: th
 title: "อัพเดททุกซอฟต์แวร์ของคุณด้วยคลิกเดียว"
 ---

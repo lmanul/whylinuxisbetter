@@ -1,4 +1,5 @@
 ---
+permalink: gaim_im_services
 lang: ro
 title: "Folosiţi MSN, AIM, ICQ, Jabber cu un singur program"
 ---

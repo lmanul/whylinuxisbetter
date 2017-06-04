@@ -1,4 +1,5 @@
 ---
+permalink: backdoors
 lang: ru
 title: "Никаких ''скрытых ходов'' в вашем ПО."
 ---

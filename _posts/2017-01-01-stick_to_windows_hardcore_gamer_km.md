@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardcore_gamer
 lang: km
 title: ល្បែង​
 tags: stick_to_windows

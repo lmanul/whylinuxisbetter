@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: per
 
 title: "گزارش كردن خطاها"

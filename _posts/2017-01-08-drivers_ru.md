@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: ru
 title: "Забудьте о драйверах."
 ---

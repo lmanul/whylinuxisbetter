@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: he
 title: "קפצו אל הדור הבא של שולחנות העבודה."
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: it
 title: Lavori nell'industria di libri/stampa
 tags: stick_to_windows

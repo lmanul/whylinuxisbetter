@@ -1,4 +1,5 @@
 ---
+permalink: freedom
 lang: km
 title: "សេរី​ភាព!"
 ---

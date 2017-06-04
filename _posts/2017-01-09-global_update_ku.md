@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: ku
 title: "سیستەمەکەت نوێ بکەرەوە بە یەک کرتە "
 ---

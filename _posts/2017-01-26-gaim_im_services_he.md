@@ -1,4 +1,5 @@
 ---
+permalink: gaim_im_services
 lang: he
 title: " השתמשו במסנג'ר, AIM, אייסיקיו וג'אבר בתוכנה אחת "
 ---

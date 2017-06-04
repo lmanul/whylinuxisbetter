@@ -1,4 +1,5 @@
 ---
+permalink: gaim_im_services
 lang: hu
 title: "Használj AIM-et, MSN-t, ICQ-t és Jabbert egyetlen programmal!"
 ---

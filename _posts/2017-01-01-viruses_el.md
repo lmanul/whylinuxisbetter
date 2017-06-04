@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: el
 title: "Ξεχάστε τους ιούς."
 ---

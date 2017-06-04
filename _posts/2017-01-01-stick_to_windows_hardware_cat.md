@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: cat
 title: Maquinari
 tags: stick_to_windows

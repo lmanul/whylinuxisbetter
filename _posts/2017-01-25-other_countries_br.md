@@ -1,4 +1,5 @@
 ---
+permalink: other_countries
 lang: br
 title: "Ajude outros países, inclusive o seu"
 ---

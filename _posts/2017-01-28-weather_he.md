@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: he
 title: "שמירה על קשר עין עם מזג האויר"
 ---

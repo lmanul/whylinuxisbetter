@@ -1,4 +1,5 @@
 ---
+permalink: amarok
 lang: per
 
 

@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardcore_gamer
 lang: bg
 title: Игри
 tags: stick_to_windows

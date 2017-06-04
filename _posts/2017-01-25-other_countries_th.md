@@ -1,4 +1,5 @@
 ---
+permalink: other_countries
 lang: th
 title: "ช่วยเหลือมวลมนุษยชาติ และประเทศไทยของเรา"
 ---

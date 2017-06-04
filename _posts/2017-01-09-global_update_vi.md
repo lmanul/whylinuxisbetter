@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: vi
 title: "Cập nhật hệ thống bằng một click chuột"
 ---

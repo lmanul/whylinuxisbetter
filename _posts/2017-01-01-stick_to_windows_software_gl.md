@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: gl
 title: Aplicacións ou programas privativos (Software privativo)
 tags: stick_to_windows

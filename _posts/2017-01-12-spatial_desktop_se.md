@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: se
 title: "Hoppa in i nästa generations skrivbord."
 ---

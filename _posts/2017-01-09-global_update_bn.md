@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: bn
 title: "এক ক্লিকে আপডেট করুন সবকিছু।"
 ---

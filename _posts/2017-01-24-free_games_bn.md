@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: bn
 title: "অসংখ্য গেম খেলুন, সম্পূর্ণ ফ্রি"
 ---

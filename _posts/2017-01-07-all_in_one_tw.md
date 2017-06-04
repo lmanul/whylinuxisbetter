@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: tw
 title: "當系統安裝完成，為什麼你還需要安裝其他軟體呢？"
 ---

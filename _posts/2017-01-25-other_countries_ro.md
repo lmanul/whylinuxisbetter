@@ -1,4 +1,5 @@
 ---
+permalink: other_countries
 lang: ro
 title: "Ajutaţi alte ţări, şi a dumneavoastră"
 ---

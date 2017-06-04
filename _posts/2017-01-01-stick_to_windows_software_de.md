@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_software
 lang: de
 title: Proprietäre Software
 tags: stick_to_windows

@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: es
 title: "¿Demasiadas ventanas? Usa las distintas áreas de trabajo."
 ---

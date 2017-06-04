@@ -1,4 +1,5 @@
 ---
+permalink: all_in_one
 lang: bn
 title: "শেষ হইয়াও হইলোনা শেষ..."
 ---

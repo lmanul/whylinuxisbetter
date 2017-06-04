@@ -1,4 +1,5 @@
 ---
+permalink: stability
 lang: kor
 title: "시스템이 불안정 하신가요?"
 ---

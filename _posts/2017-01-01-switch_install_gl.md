@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: gl
 title: Instala Linux
 tags: switch

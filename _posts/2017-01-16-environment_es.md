@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: es
 title: "Medio Ambiente"
 ---

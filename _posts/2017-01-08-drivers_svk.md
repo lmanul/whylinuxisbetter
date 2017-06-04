@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: svk
 title: "Zabudnite na ovládače"
 ---

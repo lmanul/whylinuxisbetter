@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: gl
 title: "Escolle como queres que se vexa o teu escritorio."
 ---

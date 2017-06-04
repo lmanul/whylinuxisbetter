@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: ua
 title: "Забудь про віруси!"
 ---

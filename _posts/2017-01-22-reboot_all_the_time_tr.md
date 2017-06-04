@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: tr
 title: "Bilgisayarınızı sürekli baştan başlatmaktan sıkıldınız mı?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: tr
 title: "Masaüstlerinde yeni çağa atlayın"
 ---

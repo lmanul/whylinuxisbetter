@@ -1,4 +1,5 @@
 ---
+permalink: categories
 lang: ru
 title: "Скажите “нет” беспорядку в вашем меню."
 ---

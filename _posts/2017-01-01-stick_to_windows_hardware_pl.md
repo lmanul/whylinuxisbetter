@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: pl
 title: Sprzęt
 tags: stick_to_windows

@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_cmjn
 lang: ua
 title: Ти працюєш в друкарській справі
 tags: stick_to_windows

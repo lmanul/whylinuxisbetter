@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: svk
 title: Vyskúšajte "Live CD"
 tags: switch

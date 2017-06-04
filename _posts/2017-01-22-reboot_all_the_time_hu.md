@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: hu
 title: "Belefáradtál már abba, hogy folyton újraindítsd a géped?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: defragment
 lang: cat
 title: "La teva vida digital sembla fragmentada?"
 ---

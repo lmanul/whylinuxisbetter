@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: ua
 title: "Забагато вікон? Користуйся робочими поверхнями."
 ---

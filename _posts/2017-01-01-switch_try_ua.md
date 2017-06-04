@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: ua
 title: Спробуй "Live-CD"
 tags: switch

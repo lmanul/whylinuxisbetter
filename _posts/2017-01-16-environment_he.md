@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: he
 title: "תרמו את חלקכם למען איכות הסביבה"
 ---

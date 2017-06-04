@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardcore_gamer
 lang: hu
 title: Játékok
 tags: stick_to_windows

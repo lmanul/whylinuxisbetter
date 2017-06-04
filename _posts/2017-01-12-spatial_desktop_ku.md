@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: ku
 title: ".بڕۆ بۆ نەوەی نوێی ڕوومێزەکان"
 ---

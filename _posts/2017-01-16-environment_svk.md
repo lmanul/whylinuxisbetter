@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: svk
 title: "Spravte niečo pre životné prostredie"
 ---

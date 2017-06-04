@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: ku
 title: "چاودیری کەش و هەوا بکە."
 ---

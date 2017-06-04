@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: ru
 title: "Сообщения об ошибках"
 ---

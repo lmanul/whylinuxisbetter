@@ -1,4 +1,5 @@
 ---
+permalink: stability
 lang: bg
 title: "Нестабилна ли е системата ви?"
 ---

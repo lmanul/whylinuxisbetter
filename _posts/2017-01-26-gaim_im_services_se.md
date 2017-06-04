@@ -1,4 +1,5 @@
 ---
+permalink: gaim_im_services
 lang: se
 title: "Använd MSN, AIM, ICQ, Jabber - med ett enda program"
 ---

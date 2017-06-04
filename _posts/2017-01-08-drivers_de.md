@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: de
 title: "Denk nicht über Treiber nach"
 ---

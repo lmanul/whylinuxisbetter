@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: bg
 title: "Осъвременете всичкия си софтуер с едно цъкане."
 ---

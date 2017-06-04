@@ -1,4 +1,5 @@
 ---
+permalink: stability
 lang: ja
 title: "システムが不安定だって？"
 ---

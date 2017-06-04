@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: tr
 title: "Virüsleri unutun."
 ---

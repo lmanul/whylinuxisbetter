@@ -1,4 +1,5 @@
 ---
+permalink: dollars
 lang: nl
 title: "Betaal geen €100 voor uw besturingssysteem"
 ---

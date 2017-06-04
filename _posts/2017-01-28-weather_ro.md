@@ -1,4 +1,5 @@
 ---
+permalink: weather
 lang: ro
 title: "Supravegheaţi vremea."
 ---

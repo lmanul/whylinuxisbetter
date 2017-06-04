@@ -1,4 +1,5 @@
 ---
+permalink: environment
 lang: br
 title: "Faça algo pelo meio ambiente"
 ---

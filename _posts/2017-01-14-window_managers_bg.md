@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: bg
 title: "Изберете как да изглежда работната ви площ."
 ---

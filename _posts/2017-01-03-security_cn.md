@@ -1,4 +1,5 @@
 ---
+permalink: security
 lang: cn
 title: "Linux 完美地保护着您的计算机"
 ---

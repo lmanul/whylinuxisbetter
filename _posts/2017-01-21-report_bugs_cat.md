@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: cat
 title: "Informa d'errades"
 ---

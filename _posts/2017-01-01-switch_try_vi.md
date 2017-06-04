@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: vi
 title: Dùng thử "Live CD"
 tags: switch

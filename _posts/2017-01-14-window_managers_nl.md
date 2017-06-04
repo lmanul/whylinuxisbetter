@@ -1,4 +1,5 @@
 ---
+permalink: window_managers
 lang: nl
 title: "Kies hoe uw bureaubladomgeving eruitziet."
 ---

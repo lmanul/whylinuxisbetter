@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: de
 title: "Zu viele Fenster? Benutz Arbeitsflächen."
 ---

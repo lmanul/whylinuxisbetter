@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: cat
 title: Prova un “Live CD”
 tags: switch

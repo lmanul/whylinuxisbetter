@@ -1,4 +1,5 @@
 ---
+permalink: drivers
 lang: ro
 title: "Uitaţi de drivere"
 ---

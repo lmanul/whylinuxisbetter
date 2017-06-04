@@ -1,4 +1,5 @@
 ---
+permalink: reboot_all_the_time
 lang: svk
 title: "Už vás unavuje neustále reštartovávať váš počítač?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: spatial_desktop
 lang: ru
 title: "Загляни в следующее поколение рабочих столов!"
 ---

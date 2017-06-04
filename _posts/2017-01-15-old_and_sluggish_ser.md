@@ -1,4 +1,5 @@
 ---
+permalink: old_and_sluggish
 lang: ser
 title: "Zašto Windows postaje sporiji svakim danom?"
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: defragment
 lang: fr
 title: "Votre vie digitale est-elle fragmentée ?"
 ---

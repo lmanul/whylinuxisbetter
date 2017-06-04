@@ -1,4 +1,5 @@
 ---
+permalink: virtual_desktops
 lang: he
 title: "  יותר מדי חלונות?  סביבות עבודה כבר ניסית?"
 ---

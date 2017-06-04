@@ -1,4 +1,5 @@
 ---
+permalink: free_games
 lang: svk
 title: "Hrajte stovky hier zadarmo"
 ---

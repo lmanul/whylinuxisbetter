@@ -1,4 +1,5 @@
 ---
+permalink: global_update
 lang: no
 title: "Oppdater all din programvare med ett enkelt museklikk."
 ---

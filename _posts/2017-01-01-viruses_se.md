@@ -1,4 +1,5 @@
 ---
+permalink: viruses
 lang: se
 title: "Glöm virus."
 ---

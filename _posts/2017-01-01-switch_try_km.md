@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: km
 title: សាក​ល្បង"ស៊ីឌី​បន្ត​ផ្ទាល់"
 tags: switch

@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: ro
 title: Instalaţi Linux
 tags: switch

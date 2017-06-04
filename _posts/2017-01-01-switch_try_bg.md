@@ -1,4 +1,5 @@
 ---
+permalink: switch_try
 lang: bg
 title: Опитайте "Жив CD"
 tags: switch

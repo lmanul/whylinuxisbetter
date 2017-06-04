@@ -1,4 +1,5 @@
 ---
+permalink: crapware
 lang: el
 title: "Όχι άλλο crapware."
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: stick_to_windows_hardware
 lang: bn
 title: হার্ডওয়্যার
 tags: stick_to_windows

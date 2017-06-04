@@ -1,4 +1,5 @@
 ---
+permalink: switch_install
 lang: tw
 title: 安裝 Linux（並且仍然保留 Windows）
 tags: switch

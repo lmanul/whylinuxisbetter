@@ -1,4 +1,5 @@
 ---
+permalink: report_bugs
 lang: br
 title: "﻿Relatando Bugs"
 ---

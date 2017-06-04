@@ -1,4 +1,5 @@
 ---
+permalink: search_software
 lang: he
 title: "   צריכים תכנה חדשה?  אל תטרחו לחפש ברשת, לינוקס תדאג לכם. "
 ---
