@@ -1,4 +1,4 @@
-Hvorfor Linux er bedre
+TITLE:Hvorfor Linux er bedre
 STICK_TO_WINDOWS:Translated by Henrik Peytz, Jonas Hansen and <a href=http://syrelyre.dk/>Søren Howe Gersager</a>
 SWITCH:Okay, jeg vil have Linux på min pc, hvad skal jeg gøre nu?
 

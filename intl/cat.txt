@@ -1,4 +1,4 @@
-Per qu&egrave; &eacute;s millor Linux
+TITLE:Per qu&egrave; &eacute;s millor Linux
 STICK_TO_WINDOWS:Els pocs casos en qu&egrave; hauries de continuar en Windows (per ara)
 SWITCH:D'acord, vull Linux al meu ordinador! Qu&egrave; hauria de fer ara?
 

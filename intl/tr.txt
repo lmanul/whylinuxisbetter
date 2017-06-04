@@ -1,4 +1,4 @@
-Linux neden daha iyidir
+TITLE:Linux neden daha iyidir
 STICK_TO_WINDOWS:(şimdilik) Windows'a bağlı kalmanızı gerektirecek birkaç konu
 SWITCH:Tamam, bilgisayarıma Linux kurmak istiyorum! Şimdi ne yapmalıyım?
 

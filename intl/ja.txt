@@ -1,4 +1,4 @@
-なんでLinuxなのよぉ！
+TITLE:なんでLinuxなのよぉ！
 STICK_TO_WINDOWS:夢のチョコレート工場へようこそ
 SWITCH:おっしゃ！　Linux使ってみたろ！　で、どうすんの？
 

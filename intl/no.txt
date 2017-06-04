@@ -1,4 +1,4 @@
-Hvorfor Linux er bedre
+TITLE:Hvorfor Linux er bedre
 STICK_TO_WINDOWS:De få gangene der du bør beholde Windows (inntil videre)
 SWITCH:OK, jeg vil bruke Linux på min datamaskin! Hva nå?
 

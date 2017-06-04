@@ -1,4 +1,4 @@
-﻿Prečo je Linux lepší
+TITLE:﻿Prečo je Linux lepší
 STICK_TO_WINDOWS:Pár prípadov, kedy by ste mali radšej ostať pri Windows (zatiaľ)
 SWITCH:Chcem Linux na môj počítač! Čo mám spraviť?
 

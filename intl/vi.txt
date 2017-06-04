@@ -1,4 +1,4 @@
-Why Linux is better
+TITLE:Why Linux is better
 STICK_TO_WINDOWS:Bạn vẫn phải sử dụng Windows (tại thời điểm này) nếu
 SWITCH:Tôi muốn dùng thử Linux ngay! Tôi phải làm những gì ?
 

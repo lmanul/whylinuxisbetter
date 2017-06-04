@@ -1,4 +1,4 @@
-Pourquoi choisir Linux
+TITLE:Pourquoi choisir Linux
 STICK_TO_WINDOWS:Les quelques cas où vous devriez rester sous Windows (pour l'instant)
 SWITCH:OK, je veux Linux sur mon PC ! Qu'est-ce que je dois faire ?
 

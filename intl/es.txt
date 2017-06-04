@@ -1,4 +1,4 @@
-¿Por qué Linux es mejor?
+TITLE:¿Por qué Linux es mejor?
 STICK_TO_WINDOWS:Los pocos casos donde deberías quedarte con Windows (por ahora)
 SWITCH:De acuerdo, quiero Linux en mi ordenador ¿Qué debo hacer ahora?
 

@@ -1,4 +1,4 @@
-Perché Linux è Meglio
+TITLE:Perché Linux è Meglio
 STICK_TO_WINDOWS:I pochi casi per i quali non dovresti abbandonare Windows (per ora)
 SWITCH:OK, voglio Linux sul mio PC! Cosa faccio?
 

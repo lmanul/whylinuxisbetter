@@ -1,4 +1,4 @@
-Miért jobb a Linux?
+TITLE:Miért jobb a Linux?
 STICK_TO_WINDOWS:Néhány ok, ami miatt (egyelőre) a Windows-hoz vagy kötve
 SWITCH:Oké, Linuxot akarok a gépemre! Mit kell tennem?
 

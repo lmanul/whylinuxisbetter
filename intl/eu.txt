@@ -1,4 +1,4 @@
-Zergaitik Linux hobeagoa den
+TITLE:Zergaitik Linux hobeagoa den
 STICK_TO_WINDOWS:Windowsen (momentuz) geratzeko arrazoi eskasak
 SWITCH:Primeran, Linux nahi dut nire ordenagailuan! Zer egin behar dut orain?
 

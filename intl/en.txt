@@ -1,4 +1,4 @@
-TITLE:Why Linux is Better
+TITLE:TITLE:Why Linux is Better
 STICK_TO_WINDOWS:The few cases where you should stick to Windows (for now)
 SWITCH:Okay, I want Linux on my PC! What now?
 STICK_TO_WINDOWS:The few cases where you should stick to Windows (for now)

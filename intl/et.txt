@@ -1,4 +1,4 @@
-Miks Linux on parem
+TITLE:Miks Linux on parem
 STICK_TO_WINDOWS:The few cases where you should stick to Windows (for now)
 SWITCH:Okay, I want Linux on my PC! What should I do now?
 
