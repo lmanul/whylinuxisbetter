@@ -205,6 +205,10 @@ div.main.rtl {float: left;}
   text-align: left;
 }
 
+.footer {
+  font-size: 80%;
+}
+
 
 /*-->*/
 /*</style>*/
