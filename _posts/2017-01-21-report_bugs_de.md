@@ -8,7 +8,7 @@ Wenn du einen Bug (Fehler) in Windows findest, kannst du eigentlich nur warten u
 
 Fast alle Open-Source-Programme (inklusive den Linuxdistributionen) haben ein „Bug Tracking System“ (System um Fehler aufzuspüren). Du kannst Fehlerberichte nicht nur einreichen (und wir ermutigen dich, das zu machen!) und dein Problem beschreiben; du kannst auch sehen, was als nächstes passiert: Alles ist offen und transparent für jeden. Entwickler werden antworten und könnten auch nach ein bisschen extra Informationen fragen, die ihnen helfen, den Fehler zu beheben. Du wirst wissen, wann der Fehler behoben ist und du wirst wissen, wie du die neue Version bekommst (kaum erwähnenswert, dass sie wieder frei erhältlich ist). Hier gibt es also Leute, die sich um deine Probleme kümmern und dich über alles Neue informieren, und das alles gratis! Wenn das Problem auf deinem System gelöst ist, ist es das auch auf allen anderen Systemen: Jeder hat Interesse daran, zusammen zu arbeiten, um die Software besser zu machen. So funktioniert Open Source.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

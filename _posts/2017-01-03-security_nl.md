@@ -32,7 +32,7 @@ mankracht en brengt meestal een maand na de ontdekking beveiligingsupdates uit
 (en soms zelfs al gepubliceerd): dat is meer dan genoeg voor aanvallers om te doen wat ze
 willen met uw computer.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

@@ -14,7 +14,7 @@ Você conhece os servidores de Internet? Eles são os grandes computadores que t
 
 Você provavelmente não deixará seu computador ligado por várias semanas, mas a idéia é: o sistema não te aborrecerá para ser reiniciado toda hora.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

@@ -18,7 +18,7 @@ i singoli pacchetti installati nel tuo computer. Quindi, se vuoi avere
 <i>tutto</i> aggiornato, l'unica cosa che ti serve è premere il pulsante 
 "Install Updates" (Installa Aggiornamenti) come qui sotto:
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

@@ -23,7 +23,7 @@ z przeglądarką, zamiast tego wystarczy przełączyć pulpit - to wszystko.
 
 Spójrz na następujący zrzut ekranu, na prawy dolny róg:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 To właśnie Twój "przełącznik pulpitów". Widać tu cztery (wirtualne)
 pulpity, ale można uaktywnić ich więcej - to tylko kwestia odpowiedniej
@@ -33,7 +33,7 @@ pokazuje miniaturowy podgląd rozkładu okien, lecz w tym przypadku trzy
 pozostałe są jeszcze puste), można też użyć skrótu klawiszowego - wedle
 uznania.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

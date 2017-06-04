@@ -14,7 +14,7 @@ Web sunucularını bilirsiniz. Bir çok web sunucusu Linux kullanır. Bu sunucul
 
 Büyük ihtimalle bilgisayarınızı haftalarca açık bırakmayacaksınız. Fakat burada önemli nokta şudur: Sistem sürekli yeniden başlatılarak sizi rahatsız etmeyecek.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

@@ -39,7 +39,7 @@ obţineţi de asemenea, <i>fără a instala nimic în plus</i>:
 
 Puteţi să începeţi lucrul imediat.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

@@ -10,11 +10,11 @@ Flere skriveborde (multiple workspaces) er en feature jeg ikke ville bytte for n
 
 Kig engang på billedet nedenunder, og vær specielt opmærksom på den del af skærmen der ligger nederst til højre.:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Det er din "skrivebords-vælger". Du kan se den har fire (virtuelle) skærme, men du kan også have mange flere end det (jeg bruger selv 12, men andre folk bruger meget mere). Skrivebordet til venstre er highlighted: det er det nuværende skrivebord der ses på skærmen. For at skifte til et andet klikker man blot på det skrivebord man vil hen til nede til højre (hvert lille skrivebord viser en lille gengivelse af hvad der ligger på skrivebordet): i dette specifikke tilfælde er de tre andre skriveborde tomme), eller bruger en genvejstast på keyboardet.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

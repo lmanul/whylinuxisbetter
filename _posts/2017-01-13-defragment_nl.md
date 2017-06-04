@@ -45,7 +45,7 @@ methode om bestanden op te slaan, Linux gebruikt de tweede. Hoe meer u Windows
 gebruikt, hoe trager bestanden te raadplegen zijn; hoe meer u Linux gebruikt,
 hoe sneller het gaat. De keuze is aan u!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

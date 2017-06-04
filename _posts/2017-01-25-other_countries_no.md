@@ -14,7 +14,7 @@ Med fri programvare (for eksempel Linux), vil økonomien (og de IT-profesjonelle
 
 Folk som vet hvordan man gjør ting og beholder penger i ditt land vil dra nytte av det, kontra de som bare selger esker med proprietær programvare (som sender penger ut av landet ditt), som igjen etterlater liten kunnskap blant IT-profesjonelle om hvordan ting faktisk fungerer.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

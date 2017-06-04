@@ -18,7 +18,7 @@ parčetu softvera koji Vaš kompjuter ima. Dakle, ako hoćete da imate
 <i>sve</i> najsvežije verzije, jedina stvar koju treba da uradite jeste da stisnete
 "Install Updates" dugme :
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

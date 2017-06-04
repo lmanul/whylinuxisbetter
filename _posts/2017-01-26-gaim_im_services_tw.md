@@ -8,6 +8,6 @@ title: "只需要一套軟體，就能使用 MSN、AIM、ICQ 和 Jabber 等服�
 
 Pidgin 是 Linux 上的即時通訊軟體（它也有 Windows 版本，在 Mac OS X 上則叫做「Adium」），透過它你可以一次連上所有服務，並且能夠同時看見你的所有朋友。
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

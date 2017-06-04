@@ -19,7 +19,7 @@ Se a túa computadora apágase soa sen preguntarche, se aparecen estrañas vent�
 </ul>
 
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

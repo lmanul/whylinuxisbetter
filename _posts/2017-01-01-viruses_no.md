@@ -18,7 +18,7 @@ Linux har så å si ingen virus. Og det er ikke «tja, ikke så veldig ofte, vet
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

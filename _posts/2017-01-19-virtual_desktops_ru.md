@@ -22,7 +22,7 @@ Linux, и у вас их станет 4. Или 8. Или 24, если вы за
 
 Обратите внимание на следующее изображение (нижний правый угол):
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 That's your "workspace switcher". You can see it has four (virtual) 
 screens, but you can have more than this (I use 12 of them, but some 
@@ -38,7 +38,7 @@ in this case the three others are empty), or use a keyboard shortcut.
 своего содержимого (в данном случае остальные рабочие столы пусты). 
 Вы также можете с удобством использовать клавиатуру для переключения РС.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

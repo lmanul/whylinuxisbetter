@@ -45,7 +45,7 @@ généralement un correctif environ un mois après la découverte de la
 faille (parfois rendue publique) : c'est plus qu'il n'en faut aux 
 pirates pour faire ce qu'ils veulent avec votre ordinateur.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

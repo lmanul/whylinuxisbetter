@@ -46,7 +46,7 @@ Roberto Di Cosmo</a> για αυτή την παρομοίωση). Κάθε συ
 Όσο περισσότερο χρησιμοποιείτε το Linux, τόσο πιο γρήγορο γίνεται. Η επιλογή
 είναι δική σας!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

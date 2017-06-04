@@ -11,7 +11,7 @@ Tačiau kaip su visomis kitomis programomis, kurių nesukūrė Microsoft'as? Ado
 
 Linux'ai turi įrankį, kuris vadinasi "Package manager", kuris rūpinasi visa įdiegta programine įranga jūsų sistemoje. Taigi, jeigu norite atsinaujinti <i> viską </i>, viskas, ką jums tereikia padaryti - tai nuspausti vieną mygtuką "Install Updates", kai išlenda atnaujinimų langas:
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

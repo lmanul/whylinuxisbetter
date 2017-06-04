@@ -7,7 +7,7 @@ title: "Choose what your desktop looks like."
 If you're a Windows user, your desktop environment probably isn't 
 very far from this:
 
-<img src="Images/windows_vista.jpg" />
+<img src="/img/windows_vista.jpg" />
 
 Pretty much all Windows users have the same desktop. You can still 
 change your wallpaper, or the color of your windows decorations (default 
@@ -24,21 +24,21 @@ it if you wish.
 So if you like a simple, efficient and easy-to-use desktop 
 environment, you'll probably like this one:
 
-<img src="Images/ubuntu.jpg"/>
+<img src="/img/ubuntu.jpg"/>
 
 If you like a more modern and glossy look, you might want to switch 
 to this one:
 
-<img src="Images/kde.png" />
+<img src="/img/kde.png" />
 
 Or you could try this one, simple and fast:
 
-<img src="Images/xfce.jpg" />
+<img src="/img/xfce.jpg" />
 
 Or even this one, if you love to completely customize your desktop 
 environment:
 
-<img src="Images/wm.jpg" />
+<img src="/img/wm.jpg" />
 
 As you can see, with Linux <b>you decide what your desktop looks 
 like</b>. And you don't even need to decide once and for all : you can 

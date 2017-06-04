@@ -39,7 +39,7 @@ nakon mesec dana od momenta otkrivanja propusta (i obično
 objavljivanja istog): što je više nego dovoljno da zlobnici naprave  
 manje-više šta god hoće da Vašim kompjuterom.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

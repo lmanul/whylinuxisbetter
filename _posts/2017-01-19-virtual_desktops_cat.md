@@ -26,7 +26,7 @@ canvia a la teva tercera pantalla i ja està, aquí el tens.
 Pega una ullada a la següent pantalla, i en particular a allò què hi 
 ha baix a la dreta :
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Això és el teu “selector d'espais de treball”. Pots veure que hi ha 
 quatre pantalles (virtuals), però pots tenir-ne més que això (jo faig 
@@ -36,7 +36,7 @@ a un altre, tan sols fes clic en el que vulguis (cadascun d'ells mostra
 una petita previsualització de les finestres que conté : en aquest cas 
 les altres tres estan buides), o fes servir una drecera de teclat.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

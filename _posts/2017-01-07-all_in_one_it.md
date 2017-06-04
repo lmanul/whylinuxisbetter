@@ -42,7 +42,7 @@ presentazioni, disegnare, risolvere equazioni.</li>
 
 Puoi cominciare a lavorare da subito.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

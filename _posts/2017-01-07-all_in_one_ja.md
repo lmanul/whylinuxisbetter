@@ -23,7 +23,7 @@ Linuxなら（たとえばUbuntuとか、Mandrivaとか、Fedoraとか、いろ�
 
 インストールしたら即、何でもできる！
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

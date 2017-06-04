@@ -8,7 +8,7 @@ Sei stufo di avere un termometro fuori alla finestra e andare a
 controllarlo prima di sapere la temperatura esterna? Dai semplicemente 
 un'occhiata al tuo desktop Linux e dà un'occhiata al tempo:
 
-<img src="Images/weather.png" />
+<img src="/img/weather.png" />
 
 Ovviamente Linux non ti obbliga a far nulla, quindi puoi piazzarlo 
 ovunque sullo schermo, o non averlo affatto (dopotutto, non è meglio 

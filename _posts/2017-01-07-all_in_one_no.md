@@ -24,7 +24,7 @@ Når du skaffer deg Linux (som for eksempel Ubuntu, Mandriva, Fedora, osv. (dett
 
 Du kan starte med arbeidet ditt med en gang!
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

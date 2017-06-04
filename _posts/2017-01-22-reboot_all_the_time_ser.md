@@ -34,7 +34,7 @@ radi bez stalnog restartovanja.
 Vi verovatno nećete držati kompjuter upaljenim nekoliko nedelja, ali
 poenta je: sistem Vam neće dosađivati stalnim restartovanjima.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

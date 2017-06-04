@@ -14,6 +14,6 @@ Amb el Pidgin, el client de missatgeria instantània per a Linux
 a la vegada, amb el mateix programa, i veure als teus col·legues a la 
 mateixa vegada.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

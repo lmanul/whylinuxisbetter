@@ -19,7 +19,7 @@ Buf, tio estas multa laboro por nur provi ion novan!
 
 Per Linux, ĉio estas <b>pli simpla</b>. Linux havas ion nomatan "Pakaĵa administrilo": ĉiu programo estas storita en sia propra "pakaĵo". Se vi bezonas iun novan programon, nur malfermu la pakaĵan administrilon, entajpu kelkajn vortojn, elektu kiun programon vi volas instali kaj premu "Apliki" aŭ "OK". Aŭ vi ankaŭ povas esplori ene de la kategorioj de programaro ekzistanta (ekzistas multaj programoj por elekti!)
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Do, unue: ne pli da retumo. Due: ne pli da elŝutoj kaj instaloj por vi mem. Trie: ja pli da tempo por provi la programaron.
 

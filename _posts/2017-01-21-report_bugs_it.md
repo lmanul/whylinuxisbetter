@@ -27,7 +27,7 @@ gratuitamente! Se il problema è risolto per il tuo sistema, potrebbe non esserl
 per qualcun'altro: è interesse di tutti lavorare insieme per rendere il software 
 migliore. E' così che funziona l'open source.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

@@ -8,7 +8,7 @@ Vous en avez marre d'avoir un thermomètre de l'autre côté de la
 fenêtre et d'aller le consulter avant de sortir ? Un coup d'oeil à 
 votre écran Linux suffit pour garder l'oeil sur le climat :
 
-<img src="Images/weather.png" />
+<img src="/img/weather.png" />
 
 Naturellement, Linux ne vous oblige à rien, vous pouvez placer 
 cet accessoire où il vous plaira sur l'écran, ou simplement ne pas 

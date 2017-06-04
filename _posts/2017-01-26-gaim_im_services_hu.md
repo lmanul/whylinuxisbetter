@@ -8,6 +8,6 @@ Valószínűleg rengeteg azonnaliüzenet-küldő szolgáltatáshoz van felhaszn�
 
 Pidginnel, a Linux egyik azonnaliüzenet-küldő programjával (Windows-on is fut, akárcsak Mac OS X-en „Adium” néven), egyszerre kapcsolódhatsz az összes programhoz, és ezzel az egyetlen programmal egyszerre láthatod az összes partnered.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

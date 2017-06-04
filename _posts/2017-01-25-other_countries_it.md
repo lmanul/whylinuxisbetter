@@ -31,7 +31,7 @@ a vendere le confezioni con un predefinito importo, a mandare il tuo
 denaro all'estero e a lasciare i professionisti di IT senza sapere 
 decentemente come funzionino le cose.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

@@ -30,7 +30,7 @@ Microsoft không có nhiều nhân lực như vậy, bản vá thường chỉ �
 khoảng thời gian đó quá đủ để những kẻ xâm nhập làm bất kì điều gì với máy tính của bạn.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

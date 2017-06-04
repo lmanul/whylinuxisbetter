@@ -53,7 +53,7 @@ mais si blabla bliblu, ce ne serait pas un trou de sécurité ?".</li>
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

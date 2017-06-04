@@ -10,7 +10,7 @@ itd.), a neki od njih su <b>odlični</b>. Pogledajte, na primer, AmaroK
 pesme više volite, automatski dobavlja njihove nazive (i tekstove) 
 sa internet-a, i čak može da Vam pokaže omot CD-a !
 
-<img src="Images/amarok.png" />
+<img src="/img/amarok.png" />
 
 
 

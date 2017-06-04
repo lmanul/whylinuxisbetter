@@ -18,7 +18,7 @@ Linux har knappt några virus. Och det betyder inte “I alla fall inte så ofta
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

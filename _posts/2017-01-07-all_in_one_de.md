@@ -22,7 +22,7 @@ Mit Linux (Ubuntu, Mandriva, Fedora, etc. sind verschiedene „Geschmacksrichtun
 
 Du kannst sofort mit der Arbeit loslegen.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

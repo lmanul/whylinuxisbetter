@@ -23,7 +23,7 @@ wpisujesz kilka słów kluczowych, wybierasz z gotowej listy programy, które
 chcesz zainstalować i klikasz "OK". Możesz też przeglądać wszystkie dostępne
 programy (a jest ich naprawdę dużo!) według kategorii.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Czyli po pierwsze: nigdy więcej szukania nowych programów przeglądarką. Po drugie:
 dość ręcznego ściągania plików... i wreszcie po trzecie: więcej czasu na eksperymenty

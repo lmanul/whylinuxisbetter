@@ -8,7 +8,7 @@ Ak nájdete vo Windows-e nejakú chybu, vlastne môžte len  čakať a modliť s
 
 Takmer všetok slobodný softvér (vrátane Linux distribúcií) má <i>systém vyhľadávania chýb</i>. Nielenže možete vyplniť správu o chybe (a očakáva sa to od vás), vysvetliť, aká je podstata problému, ale takisto môžete vidieť, čo sa udeje ďalej: všetko je otvorené a jasné pre všetkých. Vývojári vám odpovedia, dokonca sa môžu opýtať na upresňujúce informácie, ktoré im umožnia opraviť chybu. Dozviete sa, keď bude chyba opravená a takisto vám povedia, ako získať novú verziu (stále bezplatne). Teda tu sa ľudia naozaj zaujímajú o vaše problémy, informujú vás o nich, a všetko zadarmo! Ak je problém vyriešený na vašom systéme, bude vyriešený na všetkých ostatných systémoch: je v záujme každého pracovať spoločne, aby bol softvér čo najlepší. Takto funguje vývoj slobodného softvéru.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

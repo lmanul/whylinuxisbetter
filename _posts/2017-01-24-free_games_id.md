@@ -15,7 +15,7 @@ Ratusan jenis permainan telah dilepas dengan gratis bagi para penikmatnya (seper
 
 Dan jika kamu tertarik dalam permainan, kamu mungkin menyukai gambar dari Quake 3 yang berjalan di atas Linux, dalam 24 layar (!) :
 
-<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
 
 
 

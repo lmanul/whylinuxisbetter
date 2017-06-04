@@ -14,7 +14,7 @@ Con el Software Libre (ej. Linux), la economía (y el conocimiento del profesion
 
 Las personas que saben cómo hacer las cosas y retener el dinero en tu país se beneficiarían con esto, en vez de otras personas que sólo saben vender ordenadores, enviando tu dinero al extranjero, dejando a los profesionales IT sin un conocimiento real de cómo trabajan las cosas.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

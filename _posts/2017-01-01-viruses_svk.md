@@ -18,7 +18,7 @@ Linux takmer nemá vírusy. A nie je to tak, že "No viete, aspoň nie veľmi č
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

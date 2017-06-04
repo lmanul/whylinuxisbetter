@@ -24,7 +24,7 @@ do niego dodatkami (jak biblioteki, czy tapety/tematy pulpitu). Jeśli więc
 chcesz mieć <i>wszystko</i> zawsze zaktualizowane, jedyne co musisz uczynić,
 to kliknąć przycisk "Zainstaluj aktualizacje" (poniżej wersja angielska):
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

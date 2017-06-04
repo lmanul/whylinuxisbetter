@@ -10,7 +10,7 @@ De mi a helyzet a nem microsoftos szoftvereiddel? Adobe-alkalmazások? ZIP töm�
 
 Linuxon van egy központi ún. csomagkezelő, ami mindenről gondoskodik, nem csak a rendszerhez tartozó telepítésekről, hanem a géped minden egyes szoftveréről. Így ha szeretnéd, hogy <i>minden</i> naprakész legyen, csak egyetlen dolgot kell tenned: rákattintasz a „Frissítések telepítése” gombra alul:
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

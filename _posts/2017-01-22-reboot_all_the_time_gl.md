@@ -15,7 +15,7 @@ Coñeces os servidores de internet? Son grandes computadoras que te responden ca
 Probablemente non vas deixar a túa computadora funcionando varias semanas pero o asunto é: o teu sistema non te vai molestar con iso de reiniciar cada pouco tempo.
 
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

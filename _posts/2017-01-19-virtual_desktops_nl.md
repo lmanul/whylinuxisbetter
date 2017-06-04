@@ -21,7 +21,7 @@ wisselt gewoon naar uw derde scherm en voilà, daar is het.
 
 Kijk naar onderstaand scherm en besteed bijzondere aandacht aan het deel rechtsonderaan:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Dat is uw "werkbladwisselaar". U kunt zien dat het vier (virtuele) 
 schermen heeft, maar u kan er meer toevoegen (ik gebruik er 12, maar sommige
@@ -30,7 +30,7 @@ werkblad. Om te wisselen naar een ander werkblad, klik op diegene die u wilt
 (eenieder toont een kleine voorvertoning van de vensters die ze bevatten: 
 in dit geval zijn de drie andere leeg) of gebruik een sneltoetscombinatie om te wisselen.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

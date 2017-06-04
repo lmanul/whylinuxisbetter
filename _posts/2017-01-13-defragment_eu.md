@@ -20,7 +20,7 @@ Orain imagina ezazu armairu horren jabea zarela, baina zoritxarrez ez daukazu ho
 
 Pentsatu barik, seguru emakumea kontratatuko zenukeela (jakin beharko zenuke, emakumeak normalean hobeto antolatzen direla :) ). Beno ba, Windowsek lehenengo metodoa erabiltzen du, eta Linuxek bigarrena. Hortaz, Windows gero eta gehiago erabiltzerakoan, gero eta motelagoa izango da fitxategien irakurketa: Linux erabiltzerakoan, azkarrago izango da. Aukera ezazu!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

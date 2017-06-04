@@ -40,7 +40,7 @@ Linux по определению не требует перезагрузок. 
 без перерыва, но основной плюс именно в том, что система не будет постоянно
 просить вас перезагрузить машину.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

@@ -10,6 +10,6 @@ title: "MSN, AIM, ICQ та Jabber в одній програмі"
 
 За допомогою Pidgin – програми передачі повідомлень для Linux (існує її Windows-версія) або за допомогою Kopete ти можеш використовувати всі служби одразу та бачити всіх своїх друзів в одному списку.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

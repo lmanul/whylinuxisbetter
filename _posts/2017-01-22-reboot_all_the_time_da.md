@@ -15,7 +15,7 @@ Du kender godt internet servere? Det er de hér store computere der svarer dig n
 
 Du vil nok ikke lade din computer stå og køre i flere uger, men pointen er, at dit system ikke vil irriterer dig med at genstarte hele tiden.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

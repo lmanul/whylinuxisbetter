@@ -36,7 +36,7 @@ Probabil că nu vă veţi lăsa computerul pornit săptămâni întregi, dar ide
 sistemul nu vă va mai deranja cu restartarea.
 
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

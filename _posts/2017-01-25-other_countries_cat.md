@@ -33,7 +33,7 @@ llengua predeterminada, envia els teus diners cap a fora, i deixa als
 professionals de les Tecnologies de la Informació sense un coneixement 
 sobre com funcionen les coses.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

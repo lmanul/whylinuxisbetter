@@ -38,7 +38,7 @@ Microsoft, nie posiadając takiej mocy przerobowej, zwykle wypuszcza poprawki
 w przeciągu miesiąca od wykrycia (a czasem opublikowania) usterki - to zwykle
 wystarcza oszustom, by robić z Twoim komputerem, co tylko zechcą.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

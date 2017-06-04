@@ -43,7 +43,7 @@ Linux koristi drugi. Što više koristite Windows imaćete sporiji pristup
 podacima; što više koristite Linux, on je sve brži. 
 Izbor je na Vama!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

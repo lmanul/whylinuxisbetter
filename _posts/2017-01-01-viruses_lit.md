@@ -34,7 +34,7 @@ rei&#353;kia, kad bet kuris programuotojas gali &#382;vilgtel&#279;ti &#303; pro
 „recept&#261;“), ar tiesiog pasakyti kitiems programuotojams „ei, o jeigu taip ir taip, ar &#269;ia n&#279;ra saugumo 
 spraga?“.
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

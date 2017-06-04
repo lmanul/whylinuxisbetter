@@ -23,7 +23,7 @@ không cần số vốn đầu tư khổng lồ.
 Càng nhiều người có trình độ tin học cao (thay vì những người chỉ biết bán hàng), đất nước 
 của bạn sẽ càng có lợi.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

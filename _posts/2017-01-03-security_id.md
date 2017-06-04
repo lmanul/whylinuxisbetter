@@ -13,7 +13,7 @@ Seperti yang sudah kami katakan pada artikel bagian "virus", perangkat lunak Ope
 Tetapi sebenarnya, ini bukan hanya tentang <i>seberapa banyak</i> celah keamanan yang dimiliki suatu sistem, dibandingkan dengan sistem lain. Jika ada banyak celah, tetapi tidak ada yang menemukan celah tersebut (termasuk para pembajak), atau celah-celah itu bersifat minor (tidak mempengaruhi bagian penting dari sistem), maka para pembajak tidak akan bisa menimbulkan kerusakan yang besar. Sesungguhnya ini adalah masalah <i>seberapa cepat sebuah celah keamanan dapat diperbaiki setelah ia ditemukan</i>. Jika sebuah celah keamanan ditemukan pada perangkat lunak open source, siapapun pada komunitas open source dapat memeriksanya dan membantu memecahkan masalahnya. Solusinya (dan versi update dari program tersebut) biasanya akan tersedia dalam beberapa hari, bahkan kadang-kadang beberapa jam sesudahnya. Microsoft tidak memiliki kekuatan komunitas sebesar itu, dan biasanya merilis patch keamanan sekitar satu bulan setelah celah keamanan tersebut ditemukan (dan terkadang dipublikasikan): itu lebih dari cukup bagi para pembajak untuk melakukan apapun yang mereka inginkan pada komputermu.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

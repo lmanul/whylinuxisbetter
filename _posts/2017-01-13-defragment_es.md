@@ -21,7 +21,7 @@ Ahora imagina que eres el dueño de este armario pero no tienes el tiempo para e
 
 Sin ninguna duda contratarías a la mujer (deberías haberlo sabido, las mujeres son más organizadas :) ). Bien, Windows usa el primer método y Linux usa el segundo. Mientras más uses Windows, más lento será acceder a los archivos; mientras más uses Linux, más rápido será. ¡Tú decides!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

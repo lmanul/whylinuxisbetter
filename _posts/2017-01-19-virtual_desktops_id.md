@@ -10,11 +10,11 @@ Workspace adalah sebuah fitur di Linux yang takkan pernah saya tukar dengan apap
 
 Perhatikanlah gambar berikut, terutama pada bagian kanan-bawah dari layar:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Itu adalah "workspace switcher" / penukar workspace. Kamu bisa mengaturnya agar ia memiliki empat (virtual) layar, tapi kamu bisa memiliki lebih dari ini (saya menggunakan 12 layar, tapi beberapa orang menggunakan lebih banyak lagi). Yang paling kiri ditandai dengan highlight: itu adalah layar yang sedang aktif saat ini. Untuk berpindah/bertukar ke layar lain, kamu tinggal mengklik satu yang kamu inginkan (setiap layar akan memberikan jendela preview kecil yang menggambarkan jendela apa yang mereka miliki: pada gambar, tiga layar lainnya kosong), atau gunakan shortcut keyboard.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

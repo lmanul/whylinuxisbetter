@@ -42,7 +42,7 @@ Bien sûr, vous ne laisserez sans doute pas votre ordinateur allumé
 pendant des semaines, mais ce qui est important, c'est que le système ne 
 vous ennuiera pas en vous demandant de redémarrer tout le temps.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

@@ -27,7 +27,7 @@ Ludzie, którzy wiedzą jak zarabiać pieniądze będą mieli z tego korzyść,
 w miejsce sprzedawców pudełek, wysyłających następnie Twoje pieniądze za granicę
 i zostawiających rodzimych informatyków bez prawdziwej, fachowej wiedzy.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

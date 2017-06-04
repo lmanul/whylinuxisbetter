@@ -14,7 +14,7 @@ Tudod, mik az internetszerverek? Ezek nagy számítógépek, amelyek válaszolna
 
 Valószínűleg nem hagyod bekapcsolva a géped hetekig, de a lényeg: a rendszer nem fog állandóan az újraindítással zaklatni.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

@@ -38,7 +38,7 @@ Du kommer antaligen inte att låta din dator stå på i flera
 veckor i sträck, men pängen är att systemet inte kommer att störa 
 dig med att vilja starta om.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

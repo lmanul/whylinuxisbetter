@@ -20,7 +20,7 @@ vilket tar hand om allt som är installerat på systemet. Som om du vill
 hålla <i>allt</i> uppdaterat är det enda du behöver göra att 
 trycka på "Installera uppdateringarar" nere i hörnet:
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

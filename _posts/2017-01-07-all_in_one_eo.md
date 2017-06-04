@@ -24,7 +24,7 @@ Kiam vi akiras Linux (ĉu Ubuntu, ĉu Mandriva, ĉu Fedora, ktp., ĉi tioj estas
 
 Vi povas eklabori tuj.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

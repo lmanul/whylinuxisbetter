@@ -11,6 +11,6 @@ riêng cho một dịch vụ: MSN Messenger cho MSN, ICQ với ICQ, etc.
 Với Pidgin, chương trình chat của Linux (chạy cả trên Windows nữa, với Mac Pidgin có 
 tên là "Adium"), bạn có thể sử dụng mọi dịch vụ đó cùng một lúc.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

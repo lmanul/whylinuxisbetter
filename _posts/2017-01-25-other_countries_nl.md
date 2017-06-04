@@ -28,7 +28,7 @@ profiteren, in plaats van mensen die gewoon dozen verkopen met een
 voorgedefinieerd winstpercentage, het verzenden van uw geld naar een ander land, terwijl
 IT-professionals zonder echte kennis achterblijven over hoe dingen werken.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

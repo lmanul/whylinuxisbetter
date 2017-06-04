@@ -33,7 +33,7 @@ Linux 最基本的设计目标就是不需要重启。不管您安装了新的�
 
 您也许不会一直让您的计算机开几个星期，关键的是：Linux系统不会一天到晚用重新启动来打扰您。
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

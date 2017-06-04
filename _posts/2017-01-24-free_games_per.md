@@ -22,7 +22,7 @@ title: "صدها بازي رو رايگان انجام بدين"
 
 
 
-<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg"></a>
+<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg"></a>
 
 
 

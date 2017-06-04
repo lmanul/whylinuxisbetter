@@ -15,7 +15,7 @@ Apakah kamu pernah mendengar tentang server Internet? Server Internet adalah kom
 
 Mungkin kamu tidak akan membiarkan komputer hidup dalam beberapa minggu tetapi intinya: dengan Linux, sistem komputermu tidak akan merepotkan dengan keharusan <i>restart</i> setiap waktu.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

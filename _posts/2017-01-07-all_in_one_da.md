@@ -24,7 +24,7 @@ Når du installerer Linux (f.eks. Ubuntu, Mandriva, Fedora, etc., disse er forsk
 
 Du kan simpelthen begynde at bruge computeren lige med det samme
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

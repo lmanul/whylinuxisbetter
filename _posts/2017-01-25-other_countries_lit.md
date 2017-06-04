@@ -16,7 +16,7 @@ Su laisva programine &#303;ranga (pvz. Linux'ais), j&#363;s&#371; &#353;alies ek
 
 I&#353;lo&#353;t&#371; &#382;mon&#279;s, &#382;inantys kaip daryti versl&#261; ir palikti pinigus savo &#353;alyje, o ne tik u&#382; nustatyt&#261; kain&#261; pardavin&#279;jantys d&#279;&#382;utes, siun&#269;iantys j&#363;s&#371; pinigus &#303; u&#382;sien&#303;, paliekantys IT profesionalus be tikr&#371; &#382;ini&#371;.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

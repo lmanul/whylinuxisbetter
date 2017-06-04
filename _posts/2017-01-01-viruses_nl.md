@@ -40,7 +40,7 @@ andere ontwikkelaars vertellen: "Hej, wat als bla bla, is dit geen beveiligingsp
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

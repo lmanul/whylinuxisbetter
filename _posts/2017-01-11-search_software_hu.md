@@ -19,7 +19,7 @@ Hű, elég sok munkával jár, csak hogy kipróbálj valami újat!
 
 Linuxszal minden <b>sokkal egyszerűbb</b>. Linuxon van egy csomagkezelő: minden egyes szoftvert tartalmaz annak saját kis csomagjában. Ha néhány új programra van szükséged, csak megnyitod a szoftverközpontot, esetleg beírsz pár kulcsszót, kiválasztod, melyik szoftvert szeretnéd telepíteni, majd rákattintasz az „Alkalmaz” vagy „OK” gombra. Akár csak nézelődhetsz is, milyen programok vannak (igen széles a választék!) a különféle kategóriákban.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Tehát egy: nem kell többé keresgélned a neten. Kettő: nem kell többé neked magadnak letölteni és telepíteni a programokat. Három: így végül is több időd jut arra, hogy kipróbáld a szoftvereket.
 

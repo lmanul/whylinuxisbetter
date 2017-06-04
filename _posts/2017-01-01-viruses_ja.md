@@ -18,7 +18,7 @@ Linuxにはほとんどウィルスはありません。それも、「まあ、
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

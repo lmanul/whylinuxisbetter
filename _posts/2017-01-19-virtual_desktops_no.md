@@ -10,11 +10,11 @@ Flere skrivebord (eller «workspaces») er en funksjon jeg ikke ville byttet mot
 
 Ta en titt på dette bildet, og vær spesielt oppmerksom på den delen av skjermen nederst til høyre:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Det er din «workspace switcher», eller «skrivebord-velger». Du kan se på det som fire forskjellige (virtuelle) skjermer. Du kan til og med ha flere enn dette (jeg har 12 av dem, men noen har mange flere). Den til venstre er markert: Det er det nåværende skrivebordet. Hvis du vil skifte til en annen, bare klikk på den du ønsker å navigere til (hver enkelt av dem viser en gjengivelse av hva skrivebordet inneholder, men i dette tilfellet er de tre andre tomme), eller bruk en hurtigtast.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

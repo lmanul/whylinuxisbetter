@@ -13,7 +13,7 @@ Ako sme už v článku "Vírusy" povedali, slobodný softvér (napr Linux) kontr
 Ale vlastne to nie je otázka <i>množstva</i> chýb, ktoré systém má v porovnaní s inými. Ak má systém veľa chýb, ale ešte ich nikto neodhalil (vrátane internetových pirátov), alebo sú malé (neohrozujú dôležitú časť systému), piráti nebudú schopní urobiť veľa škody. V podstate ide o to, <i>ako rýchlo môže byť bezpečnostná chyba vyriešená po jej objavení</i>. Ak je bezpečnostná chyba odhalená v akomkoľvek slobodnom softvéri, ktokoľvek z komunity sa na to môže pozrieť a pomôcť ju vyriešiť. Riešenie (a aktualizácia) je väčšinou hotové za pár dní, niekedy aj za pár hodín. Microsoft nemá zďaleka tak veľa ľudí, a zvyčajne vydáva bezpečnostné záplaty do mesiaca od objavenia chyby (a niekedy je táto chyba aj publikovaná): to je viac ako dostatok času pre pirátov, aby urobili s vaším počítačom čokoľvek ich napadne.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

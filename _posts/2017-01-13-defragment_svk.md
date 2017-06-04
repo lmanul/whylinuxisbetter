@@ -21,7 +21,7 @@ Teraz si predstavte, že ste vlastník tejto kartotéky, ale nemáte čas, aby s
 
 Bezpochyby by ste mali najať ženu (mali ste to vedieť, ženy sú poriadnejšie :) ). Windows používa prvú metódu; Linux druhú. Čím viac používate Windows, tým dlhšie trvá prístup k súborom; čím viac používate Linux, tým rýchlejší je. Voľba je na vás.
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

@@ -43,7 +43,7 @@ instal·lar res més</i>:
 
 Ja pots començar a treballar.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

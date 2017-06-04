@@ -34,7 +34,7 @@ Windows sủ dụng cách đầu tiên, Linux sử dụng cách thứ hai. Bạn
 Bạn càng dùng Linux nhiều, Linux càng chạy nhanh.Well, Windows uses the first 
 method ; Linux uses the second one. Đó là lựa chọn của bạn!.
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

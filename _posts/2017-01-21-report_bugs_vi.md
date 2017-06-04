@@ -20,7 +20,7 @@ mới như thế nào. Vậy là có rất nhiều người sẵn sàng giúp đ
 tất cả đều miễn phí!. Nếu lỗi được sửa, mọi người đều có lợi. Tất cả đều muốn phần mềm của họ được 
 cải thiện. Đây là mô hình làm việc của phần mềm mã nguồn mở.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

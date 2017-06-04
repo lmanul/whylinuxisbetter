@@ -15,7 +15,7 @@ Linux 系统中有一个软件管理中心叫做“Package manager”，它负�
 软件管理，而且包含了每一个软件安装在您计算机中的所有部分。因此如果您需要升级<i>所有</i>
 软件，您只需要按下软件管理中心的“Install Updates（安装更新）”按钮：
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

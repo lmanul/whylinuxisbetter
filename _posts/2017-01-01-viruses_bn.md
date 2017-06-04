@@ -18,7 +18,7 @@ title: "ভাইরাস নিয়ে দুশ্চিন্তা ভুল
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

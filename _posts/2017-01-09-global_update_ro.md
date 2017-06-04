@@ -19,7 +19,7 @@ aveţi <i>totul</i> actualizat, singurul lucru ce trebuie să-l faceţi
 e să apăsaţi butonul "Instalare actualizări (Install Updates)" aici: 
 
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

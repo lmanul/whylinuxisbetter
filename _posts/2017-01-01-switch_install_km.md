@@ -40,14 +40,14 @@ href="http://www.distrowatch.com">distrowatch.com</a>៖
 </tr>
 
 <tr>
-<td><a href="Images/ubuntu.png"><img src="Images/ubuntu_thumbnail.png"
+<td><a href="/img/ubuntu.png"><img src="/img/ubuntu_thumbnail.png"
 /></a></td>
-<td><a href="Images/suse.png"><img src="Images/suse_thumbnail.png"
+<td><a href="/img/suse.png"><img src="/img/suse_thumbnail.png"
 /></a></td>
-<td><a href="Images/mandriva.png"><img 
-src="Images/mandriva_thumbnail.png"
+<td><a href="/img/mandriva.png"><img 
+src="/img/mandriva_thumbnail.png"
 /></a></td>
-<td><a href="Images/fedora.png"><img src="Images/fedora_thumbnail.png"
+<td><a href="/img/fedora.png"><img src="/img/fedora_thumbnail.png"
 /></a></td>
 
 </tr>

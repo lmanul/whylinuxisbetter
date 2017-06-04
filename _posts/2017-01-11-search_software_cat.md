@@ -24,7 +24,7 @@ tecleja unes poques paraules, tria el que vols instal·lar i prem
 “Aplicar” o “OK”. O pots sols navegar pel programari existent (això és 
 molta elecció!) per categories.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Així que una: no més navegar. Dos: no més baixar programari i instal·lar-te'l tu mateix. Tres: més temps per a provar el programari realment.
 

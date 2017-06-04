@@ -38,7 +38,7 @@ kopete etc.).</li>
 
 Galite i&#353;kart prad&#279;ti darb&#261;.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

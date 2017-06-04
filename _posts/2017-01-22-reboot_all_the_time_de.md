@@ -15,7 +15,7 @@ Kennst du Internet-Server? Das sind die gro&szlig;en Computer, die antworten, we
 Du l&auml;sst deinen Computer vermutlich nicht wochenlang laufen, aber der Punkt ist: Das System wird dich nicht die ganze Zeit mit Neustarts bel&auml;stigen.
 
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

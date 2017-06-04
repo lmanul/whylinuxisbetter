@@ -25,7 +25,7 @@ installeren en drukt u "Toepassen" of "OK". U kunt ook de
 beschikbare software bekijken (dat is veel keuze!) in
 categorieën.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Dus 1: niet meer surfen. 2: niet meer zelf downloaden en zelf installeren. 3: meer tijd om de software uit te proberen.
 

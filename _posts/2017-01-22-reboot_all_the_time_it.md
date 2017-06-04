@@ -34,7 +34,7 @@ Linux è stabile, funziona diligentemente senza dover riavviare sempre.
 Quasi certamente non lascerai accesso il computer per molte settimane, 
 ma il punto è che il sistema non ti chiederà mai di riavviare.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

@@ -10,11 +10,11 @@ Quen nunca foi usuario de Windows hai algo que non pode entender: unha vez que a
 
 Dálle unha mirada á seguinte pantalla, e pon especial atención á parte inferior dereita:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Ese é o "cambiador de áreas de traballo". Podes ver que ten catro pantallas (virtuais), pero podes ter máis (eu uso 12, pero algunhas persoas teñen máis). A que está á esquerda está resaltada: é a que estou usando. Para cambiar a outra, só clic na que queiras (en cada unha delas podes ver unha pequena mostra das ventás que contén: neste caso, as outras tres están baleiras), ou tamén podes usar unha combinación de teclas que ti escollas.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

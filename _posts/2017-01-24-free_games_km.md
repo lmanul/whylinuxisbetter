@@ -16,7 +16,7 @@ title: "លេង​ល្បែងរាប់​​រយ​​ដោយ​ឥ
 
 ​ហើយ​ប្រសិន​​បើ​ អ្នក​ចាប់​អារម្មណ៍​នឹង​ល្បែង​​​ អ្នក​អាច​ចូល​ចិត្ត​​រូប​ភាព​របស់ Quake 3 ដែល​ដំណើរការ​លើ​​លីនុច​ លើ​​អេ​ក្រង់​ ២៤ (!):
 
-<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
 
 
 

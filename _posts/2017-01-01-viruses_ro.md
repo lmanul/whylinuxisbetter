@@ -38,7 +38,7 @@ din lume se poate uita la codul sursă (ingredientul fiecărui program) şi să 
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

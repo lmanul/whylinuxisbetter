@@ -8,7 +8,7 @@ Hvis du finner en feil i Windows, må du faktisk vente og be om at Microsoft vil
 
 Så å si all «Open source»-programvare (Linux-distribusjoner inkludert) har noe som kalles <i>bug tracking system</i>. Her kan du mer enn å fylle inn rapporter (noe som du blir oppfordret til!) der du forklarer problemet, ja du kan også bli oppdatert på hva som skjer videre: Alt er åpent og klart for alle. Utviklere vil svare deg, og de vil kanskje be om litt mer informasjon for å fikse feilen. Du vil få rede på når feilen har blitt fikset, og du vil også bli gjort oppmerksom på hvordan man får den nye versjonen (som fortsatt er helt gratis). Så, her har du folk som tar hånd om dine problemer, samtidig som de holder deg informert, ja alt dette helt gratis! Så hvis problemet er fikset på ditt system, vil det være det for andre også: Det er av alles interesse å jobbe sammen for å utvikle bedre programvare. Dette er essensen i «Open source»-programvare!
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

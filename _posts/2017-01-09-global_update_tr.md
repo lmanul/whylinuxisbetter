@@ -19,7 +19,7 @@ bir uygulaması vardır. Yani <i>her şeyi</i> güncel tutmak
 istiyorsanız, yapmanız gereken tek şey oradaki "Güncellemeleri Kur"
 butonuna tıklamanız olacaktır. :
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

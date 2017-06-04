@@ -47,7 +47,7 @@ primer mètode ; Linux utilitza el segon. Com més fas servir Windows, més
 lent és l'accés als fitxers ; com més fas servir Linux, més ràpid és. 
 Tria !
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

@@ -25,7 +25,7 @@ alcune keyword, scegli quale software vuoi installare e clicca su "Applica" o
 "OK". Oppure puoi semplicemente navigare tra il software esistente (c'è molta 
 scelta!) per categorie.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Quindi, uno: niente più navigazione. Due: niente più scaricare e 
 installare manualmente. Tre: più tempo per provare effettivamente il software.

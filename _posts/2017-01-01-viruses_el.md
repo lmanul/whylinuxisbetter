@@ -50,7 +50,7 @@ Apache web server (ένας web server είναι ένα πρόγραμμα πο
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

@@ -20,7 +20,7 @@ Sekarang andaikan kamu menjadi si empunya lemari data, tetapi kamu tidak punya b
 
 Tanpa ragu-ragu, kamu seharusnya menyewa perempuan tersebut (tentunya kamu sudah tahu, wanita umumnya bekerja dengan lebih rapi :) ). Nah, Windows menggunakan metode pertama;  sedangkan Linux menggunakan yang kedua. Semakin sering kamu menggunakan Windows, semakin lambat kamu mengakses suatu data; semakin sering kamu menggunakan Linux, semakin cepat akses yang kamu dapat. Semuanya terserah kamu!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

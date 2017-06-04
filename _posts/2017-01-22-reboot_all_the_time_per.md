@@ -38,7 +38,7 @@ title: "آيا از راه&zwnj;اندازي مجدد كردن هميشگي كا
 
 
 
-<img src="Images/reboot_all_the_time_thumb.png">
+<img src="/img/reboot_all_the_time_thumb.png">
 
 
 

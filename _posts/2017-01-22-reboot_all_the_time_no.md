@@ -14,7 +14,7 @@ Du vet slike Internettservere? Store datamaskiner som svarer deg hver gang du ko
 
 Du vil nok ikke la datamaskinen din stå å kjøre sammenhengende i flere uker, men poenget er: Systemet vil ikke irritere deg med en restart hele tiden.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

@@ -28,7 +28,7 @@ Als het probleem is opgelost op uw systeem, is dit ook het geval op alle
 andere systemen: het is in ieders belang om samen te werken zodat de
 software beter wordt. Dit is hoe open source werkt.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

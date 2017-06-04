@@ -23,7 +23,7 @@ title: "當系統安裝完成，為什麼你還需要安裝其他軟體呢？"
 
 你馬上就可以開始使用了。
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

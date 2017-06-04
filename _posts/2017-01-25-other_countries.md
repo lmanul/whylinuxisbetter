@@ -29,7 +29,7 @@ will benefit from it, rather than people who just sell boxes with a
 predefined sales pitch, sending your money offshore, leaving IT professionals 
 without real knowledge about how things work.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

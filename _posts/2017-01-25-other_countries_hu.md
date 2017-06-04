@@ -14,7 +14,7 @@ Szabad szoftverrel (mint a Linux), az országod gazdasága (és az informatikus 
 
 Így azok húzhatnának ebből hasznot és tarhatnák az országodban a pénzt, akik tudják, hogyan kell ezeket a dolgokat csinálni, nem pedig azok, akik csak dobozokat árulnak előre betanított reklámszöveggel, a pénzed külföldi számlákra utalják, az informatikus szakembereket pedig alacsony tudásra ösztönzik.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

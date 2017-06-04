@@ -13,7 +13,7 @@ sa Pidgin-om, instant mesendžerom za Linux (koji postoji i za
 Windows), možete se konektovati na sve ove servise odjednom, sa samo 
 jednim programom, i videti sve Vaše kontakte u isto vreme.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
 
 

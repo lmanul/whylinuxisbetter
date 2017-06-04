@@ -41,7 +41,7 @@ OpenOffice, μα και πάλι, πρέπει να το βρείτε, να το
 
 Μπορείτε απλούστατα να αρχίσετε να δουλεύετε άμεσα.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

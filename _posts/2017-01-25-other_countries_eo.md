@@ -14,7 +14,7 @@ Per la libera programaro (ekz. Linux), la ekonomio (kaj la sciado de la profesiu
 
 La homoj kiuj scias kiel fari la aferojn kaj reteni la monon en via lando profitus de tio, pli ol tiuj homoj kiuj nur vendas komputilojn, sendante vian monon eksterlande, lasante la profesiulojn pri IT sen vera sciado pri kiel laboras la aferoj.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

@@ -15,6 +15,6 @@ as well, and for Mac OS X with the name "Adium"), you can connect to all
 these services at once, with this one program, and see all your buddies 
 at the same time.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

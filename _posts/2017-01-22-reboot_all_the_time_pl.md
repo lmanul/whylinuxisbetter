@@ -36,7 +36,7 @@ Prawdopodobnie nie zostawisz swojego komputera włączonego przez kilka
 tygodni, ale najważniejsze, że system nie będzie zawracać Ci głowy
 ciągłymi potrzebami restartu.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

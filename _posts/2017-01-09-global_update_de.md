@@ -11,7 +11,7 @@ Aber was ist mit deiner ganzen Software, die nicht von Microsoft stammt? Adobe-P
 Linux hat eine zentrale Stelle namens „Paket-Manager“, die sich ebenso um alles k&uuml;mmert, was auf deinem System installiert ist, wie auch um jede Software, die dein Computer besitzt. Wenn du also <i>alles</i> auf dem neuesten Stand halten willst, ist das einzige, was du tun musst, den „Installiere Updates“-Button da unten zu dr&uuml;cken:
 
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

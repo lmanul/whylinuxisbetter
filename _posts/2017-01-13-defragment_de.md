@@ -21,7 +21,7 @@ Jetzt stell dir vor, du bist der Besitzer dieses Aktenschranks, aber du hast kei
 
 Zweifellos solltest du die Frau anstellen (du h&auml;ttest es wissen m&uuml;ssen, Frauen sind viel besser organisiert :) ). Nun, Windows benutzt die erste Methode; Linux die zweite. Je l&auml;nger du Windows benutzt, desto langsamer erfolgt der Zugriff auf Dateien; je l&auml;nger du Linux benutzt, desto schneller ist es. Triff deine Wahl!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

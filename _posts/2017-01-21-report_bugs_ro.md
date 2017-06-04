@@ -25,7 +25,7 @@ sistemul dvs, va fi rezolvată pe sistemele tuturor: e în interesul tuturor să
 împreună pentru a face software-ul mai bun. Aşa funcţionează open source.
 
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

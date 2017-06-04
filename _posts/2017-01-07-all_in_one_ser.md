@@ -42,7 +42,7 @@ Kada nabavite Linux (kao što je Ubuntu, Mandriva, Fedora, itd., ovo su različi
 
 Možete jednostavno odmah da počnete sa radom.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

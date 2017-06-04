@@ -15,7 +15,7 @@ Linux básicamente no necesita reiniciar. Ya sea si instalas nuevo software (inc
 Probablemente no vas a dejar tu computadora funcionando por varias semanas pero la cuestión es: tu sistema no va a molestarte con eso de reiniciar todo el tiempo.
 
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

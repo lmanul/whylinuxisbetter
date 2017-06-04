@@ -23,7 +23,7 @@ goût du jour, tout ce que vous avez à faire, c'est cliquer sur le bouton
 "Install Updates" (la capture est en anglais, mais vous aurez bien 
 sûr un système en français chez vous) ci-dessous :
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

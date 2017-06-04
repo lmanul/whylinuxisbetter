@@ -36,7 +36,7 @@ Di Cosmo</a> על ההשוואה הזו).
 עקב שימוש הולך וגובר בלינוקס, הגישה לקבצים תלך ותהיה יותר מהירה.
 הבחירה בידכם!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

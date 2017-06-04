@@ -24,7 +24,7 @@ Ketika kamu menggunakan Linux (seperti Ubuntu, Mandriva, Fedora, dll., masing-ma
 
 <o>Kamu bisa langsung bekerja dengan komputermu.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

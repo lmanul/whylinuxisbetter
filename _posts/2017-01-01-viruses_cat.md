@@ -48,7 +48,7 @@ què si bla bla bla, no és això una errada de seguretat?”.</li>
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

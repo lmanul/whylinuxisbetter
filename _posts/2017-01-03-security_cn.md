@@ -28,7 +28,7 @@ title: "Linux 完美地保护着您的计算机"
 让一个骇客做他所想做的任何事情了。
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

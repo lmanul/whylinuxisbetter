@@ -20,7 +20,7 @@ Forestill deg nå at du er eieren av dette filkabinettet. Beklagelig nok har du 
 
 Ville du ha leid mannen eller kvinnen? Kvinnen, så klart. (Kvinner er vel også bedre på å organisere – eller? :-) ). Windows leier mannen, mens Linux leier kvinnen. Jo mer du bruker Windows, jo lengre tid tar det å finne frem filene, og jo mer du bruker Linux, jo raskere er det. Valget er ditt!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

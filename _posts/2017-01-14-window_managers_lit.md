@@ -6,7 +6,7 @@ title: "Pasirinkite, kaip atrodys Jūsų darbalaukis."
 
 Jei Jūs naudojatės Windows'ais, Jūsų darbalaukio aplinka tikriausiai bus gerokai panaši į šią:
 
-<img src="Images/windows_vista.jpg" />
+<img src="/img/windows_vista.jpg" />
 
 Beveik visi Windows'ų vartotojai turi vienodai atrodantį darbalaukį. Žinoma, galite keisti darbalaukio tapetus (Wallpaper'į), langų juostų spalvas (paprastai jos būna mėlynos), bet iš esmės vis tiek turėsite standartiškai atrodantį darbalaukį.
 
@@ -14,19 +14,19 @@ Su Linux'ais, Jūs turite pasirinkime. Jūs  nebesate priversti naudoti tą vien
 
 Taigi, jei mėgstate paprastą darbalaukio aplinką, jums tikriausiai patiks štai ši:
 
-<img src="Images/ubuntu.jpg"/>
+<img src="/img/ubuntu.jpg"/>
 
 Jei patinka modernesnė ir blizgi išvaizda, galbūt patiks štai šita:
 
-<img src="Images/kde.png" />
+<img src="/img/kde.png" />
 
 Galite išmėginti ir šitą, paprastą ir greitą:
 
-<img src="Images/xfce.jpg" />
+<img src="/img/xfce.jpg" />
 
 Ar netgi štai tokią, jei Jums patinka savaip susitvarkyti absoliučiai viską:
 
-<img src="Images/wm.jpg" />
+<img src="/img/wm.jpg" />
 
 Kaip matote, Linux'ai <b>leidžia nuspręsti Jums patiems, kaip atrodys Jūsų darbalaukis</b>. Tačiau net ir nusprendus vieną kartą, galite persigalvoti: keisti darbalaukio aplinką galite kiekvieną kartą įsijungę kompiuterį.
 

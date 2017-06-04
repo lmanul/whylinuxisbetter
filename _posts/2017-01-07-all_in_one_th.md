@@ -24,7 +24,7 @@ title: "เมื่อระบบติดตั้งมาให้แล้
 
 คุณสามารถปลดปล่อยศักยภาพของคุณได้ในทันที
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

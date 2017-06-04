@@ -14,7 +14,7 @@ Eğer ABD'de yaşamıyorsanız, lisanslı bir yazılım satın aldığınızda (
 
 Ülkenize yabancı yazılımları satıp yurtdışına para gönderenlerin dışındaki, işini iyi bilen ve sermayesi olan Bilişim Teknolojisi sektöründeki kişiler bu durumu değerlendirecekler ve ülkenize değer katacaklardır.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

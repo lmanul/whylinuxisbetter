@@ -14,7 +14,7 @@ Linux esence ne bezonas restartigi. Ĉu se vi instalas novan programon (eĉ gran
 
 Vi eble ne lasos vian komputilon funkciantan dum kelkaj semajnoj sed la fakto estas: la operaciumo ne tedos vin per tio ke ĝi devas restarti daŭre.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

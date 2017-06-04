@@ -27,7 +27,7 @@ your system, it will be on everyone else's : it's in everyone's interest to
 work together to make software better. This is how open source 
 works.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

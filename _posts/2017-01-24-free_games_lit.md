@@ -15,7 +15,7 @@ title: "&#381;aisk &#353;imtus &#382;aidim&#371; nemokamai."
 
 Jei m&#279;gstate &#382;aidimus, jums tur&#279;t&#371; patikti &#353;i nuotrauka, kurioje matomas  Quake 3 veikiantis Linux'uose ir matomas 24-uose ekranuose(!) :
 
-<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
 
 
 

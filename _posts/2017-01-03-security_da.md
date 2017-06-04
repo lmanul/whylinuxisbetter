@@ -13,7 +13,7 @@ Som vi allerede har snakket om i "Virus"-sektionen, så betyder Open Source soft
 Men det er faktisk ikke kun et spørgsmål om <i>hvor mange</i> fejl et system har sammenlignet med andre. Hvis der er mange fejl i systemet, og ingen har opdaget dem endnu (hackerne inkluderet), eller at der er tale om mindre fejl (de komprommiterer ikke en vigtig del af dit system), så vil hackere ikke være i stand til at gøre nogen stor skade. Det er i realiteten et spørgsmål om <i>hvor hurtigt en sikkerhedsfejl bliver rettet efter at den er fundet</i>. Hvis man finder en fejl i et open source program, så kan alle i community'et kigge på koden og hjælpe med at finde en løsning på problemet. Løsningen (og den dertil hørende update) følger som regel efter et par dage, nogengange kun et par timer. Microsoft har ikke arbejdskraft i den størrelsesorden, og udgiver som regel patches og updates ca. en måned efter at problemerne er blevet påpeget (og nogengange offentliggjort på nettet): det tidsrum giver hackerne rigeligt med tid til at overtage din computer.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

@@ -40,7 +40,7 @@ Linux kurduğunuzda (Ubuntu,  Mandriba, Fedora vs. bir çok "dağıtım" size fa
 
 Linux ile, kolayca çalışmaya başlayabilirsiniz. 
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

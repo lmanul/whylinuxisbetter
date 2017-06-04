@@ -8,6 +8,6 @@ title: "MSN, AIM, ICQ, Jabber를 한꺼번에 사용하기"
 
 Pidgin이라는 리눅스용 메신저(윈도우즈용으로도 있고, 맥 OS용으로도 “Adium”이라는 이름으로 있습니다)를 사용하면, 하나의 프로그램으로 여러 메신저 서비스들 전부에 접속하고 친구들과 대화할 수 있습니다.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

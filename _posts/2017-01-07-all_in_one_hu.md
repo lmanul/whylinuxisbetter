@@ -24,7 +24,7 @@ Amikor beszerzel egy Linuxot (mint például az Ubuntu, Mandriva, Fedora stb., e
 
 Akár azonnal munkához is láthatsz!
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

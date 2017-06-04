@@ -35,7 +35,7 @@ găsirea vulnerabilităţii (şi câteodată şi publicarea ei): asta e mai mult
 crackerilor să facă orice vor în computerul dumneavoastră.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

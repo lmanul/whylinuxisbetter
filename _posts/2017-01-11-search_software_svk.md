@@ -19,7 +19,7 @@ No to je veľa práce len kvôli vyskúšaniu niečoho nového!
 
 S Linux-om je všetko <b>omnoho ľahšie</b>. Linux má nástroj, ktorý sa volá "správca balíkov": každý program je obsiahnutý vo svojom vlastnom "balíku". Ak potrebujete nejaký nový program, iba otvoríte správcu balíkov, napíšete niekoľko kľúčových slov, vyberiete si, aký program chcete nainštalovať a stlačíte tlačidlo "Použiť" alebo "OK". Alebo si môžete prezrieť existujúce programy podľa kategórií (a je tam toho veľa na výber).
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Takže po prvé: už žiadne hľadanie na internete. Po druhé: už žiadne manuálne sťahovanie a inštalovanie. Po tretie: viac času na vyskúšanie nových programov.
 

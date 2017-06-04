@@ -10,11 +10,11 @@ Arbeitsflächen sind ein Feature, dass ich gegen nichts auf der Welt eintauschen
 
 Wirf einen Blick auf den folgenden Screenshot und beachte dabei besonders das, was unten rechts zu sehen ist:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Das ist dein „Arbeitsfl&auml;chen-Schalter“. Du kannst sehen, dass er vier (virtuelle) Bildschirme eingestellt hat, aber du kannst auch noch mehr nutzen (ich habe 12 davon, aber manche Leute benutzen sogar noch mehr). Die linke Arbeitsfläche ist markiert: Das ist die aktuelle. Um zu einer anderen zu wechseln, brauchst du nur auf sie zu klicken (jede zeigt eine kleine Vorschau der Fenster, die sie enthält: hier sind die anderen drei leer) oder das entsprechende Tastenkürzel zu benutzen.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

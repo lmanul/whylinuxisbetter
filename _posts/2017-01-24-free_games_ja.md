@@ -15,7 +15,7 @@ title: "無料ゲームが無数にあるんだよ"
 
 ゲーマーなら、Linuxで走るQuake 3のこの画像を見なくちゃ！　24画面だよっ！
 
-<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
 
 
 

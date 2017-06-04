@@ -19,7 +19,7 @@ of dit nu systeemsoftware is of niet. Als u <i>alles</i> up-to-date
 wilt houden, het enige dat u hoeft te doen is duwen op de knop 
 "Installeer updates":
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

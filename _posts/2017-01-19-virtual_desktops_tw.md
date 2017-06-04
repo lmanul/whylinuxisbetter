@@ -10,11 +10,11 @@ title: "太多視窗嗎？使用工作區吧"
 
 看看下方的畫面截圖，特別注意右下角的地方：
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 那就是你的「工作區切換器」。如你所見，它有四個（虛擬的）顯示區，但是你可以增加它的數量（我自己有 12 個，有些人甚至使用更多的顯示區）。最左邊被特別強調的顯示區就是目前的螢幕畫面。如果要切換到另一個顯示區，只要用滑鼠在它上面點一下（每個工作區都顯示著小預覽圖，包含了它目前擁有的視窗：上圖代表其他三個顯示區是空的）或者是用鍵盤的熱鍵。
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

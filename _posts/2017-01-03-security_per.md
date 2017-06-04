@@ -39,7 +39,7 @@ title: "لينوكس از كامپيوتر شما محافظت مي&zwnj;كنه"
 
 
 
-<img src="Images/security_thumb.png">
+<img src="/img/security_thumb.png">
 
 
 

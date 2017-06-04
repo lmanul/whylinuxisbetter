@@ -20,7 +20,7 @@ Prøv nu at forestille dig at du er ejeren af dette fil-kabinet. Du har ikke tid
 
 Du skal, uden tvivl, hyre kvinden til at tage sig af fil-kabinettet (du burde vide det i forvejen, kvinder er bare mere organiserede :) ). Nåh, men Windows bruger den første metode; Linux bruger den anden. Jo længere du bruger Windows, jo langsommere går det med at få adgang til dine filer; jo længere du bruger Linux, jo hurtigere går det. Valget er op til dig!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

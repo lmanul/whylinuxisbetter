@@ -7,7 +7,7 @@ title: "Kies hoe uw bureaubladomgeving eruitziet."
 Als u een Windows-gebruiker bent, is uw bureaubladomgeving waarschijnlijk
 niet veel verschillend van dit:
 
-<img src="Images/windows_vista.jpg" />
+<img src="/img/windows_vista.jpg" />
 
 Bijna alle Windows-gebruikers hebben dezelfde bureaubladomgeving. U kan
 de bureaubladachtergrond aanpassen of de kleur van de vensterdecoraties
@@ -24,20 +24,20 @@ als u dat wilt
 Als u een eenvoudige, efficiënte en gemakkelijk te gebruiken desktopomgeving wilt,
 zult deze waarschijnlijk leuk vinden:
 
-<img src="Images/ubuntu.jpg"/>
+<img src="/img/ubuntu.jpg"/>
 
 Als u meer van een moderne en glanzend uiterlijk houdt, wilt u misschien eerder deze
 proberen:
 
-<img src="Images/kde.png" />
+<img src="/img/kde.png" />
 
 Of u kunt deze proberen, simpel en snel:
 
-<img src="Images/xfce.jpg" />
+<img src="/img/xfce.jpg" />
 
 Of zelfs deze, als u graag uw omgeving volledig aanpast:
 
-<img src="Images/wm.jpg" />
+<img src="/img/wm.jpg" />
 
 Zoals u kan zien, met Linux <b>beslist uzelf hoe uw bureaublad eruitziet</b>. En u hoeft niet te beslissen voor eens en altijd: u kan altijd nog wisselen van bureaubladstijl als u inlogt in uw computer.
 

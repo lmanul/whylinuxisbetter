@@ -34,7 +34,7 @@ title: "当你的系统已经安装好了以后，为什么你<i>还</i>需要�
 
 你现在就可以开始着手工作了！
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

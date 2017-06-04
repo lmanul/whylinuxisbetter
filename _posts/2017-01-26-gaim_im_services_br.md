@@ -11,6 +11,6 @@ para
 Windows também), você pode conectar em todos esses serviços de uma vez, com esse único programa, e ver todos os seus contatos ao mesmo tempo.
 
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

@@ -14,7 +14,7 @@ Windows 總是要求你重新啟動電腦，這實在很惱人（也許碰巧有
 
 也許你不會持續開機好幾個星期，但重點是：系統不會三不五時就煩著你要重開它。
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

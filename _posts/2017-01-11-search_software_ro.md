@@ -24,7 +24,7 @@ aveţi nevoie de software nou, deschideţi managerul de pachete, scrieţi câtev
 cuvinte cheie, alegeţi software-ul şi apăsaţi "Aplicare" sau "OK". Sau puteţi
 doar naviga prin software-ul existent (o mulţime de software-uri!) în categorii.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Unu: Fără navigări. Doi: Fără descărcare şi instalare manuală. Trei: mai mult timp să folosiţi noul program.
 

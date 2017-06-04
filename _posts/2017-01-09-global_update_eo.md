@@ -10,7 +10,7 @@ Sed kio okazas kun la programaro ekster Microsoft? Aplikaĵoj Adobe? Kompaktigil
 
 Linux havas centran lokon nomatan "Pakaĵa administrilo", kiu okupiĝas pri ĉio instalita en via operaciumo, sed ankaŭ pri ĉiu peco de programo kiun havas via komputilo. Do, se vi volas teni <i>ĉion</i> aktualigitan, la nura afero kiun vi bezonas fari estas premi la butonon "Instali aktualigojn" kiel ĉi-sube:
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

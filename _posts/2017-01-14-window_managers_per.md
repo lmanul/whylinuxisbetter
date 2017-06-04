@@ -16,7 +16,7 @@ title: "خودتون شكل ميزكارتون رو انتخاب كنيد."
 
 
 
-<div style="text-align: center;"><img src="Images/windows_vista.jpg">
+<div style="text-align: center;"><img src="/img/windows_vista.jpg">
 
 
 
@@ -34,25 +34,25 @@ title: "خودتون شكل ميزكارتون رو انتخاب كنيد."
 
 اگه شما يك ميزكار ساده،كارا و آسان رو ميخواين،ممكنه اين بدردتون بخوره:
 
-<img src="Images/ubuntu.jpg">
+<img src="/img/ubuntu.jpg">
 
 اگر هم به يك ميزكار مدرنتر و زيباتر ميانديشيد اين يكي انتخاب خوبيه:
 
 
 
-<img src="Images/kde.png">
+<img src="/img/kde.png">
 
 و يا شايد اين رو انتخاب كنيد،ساده و سريع:
 
 
 
-<img src="Images/xfce.jpg">
+<img src="/img/xfce.jpg">
 
 يا حتي اين يكي اگه شما واقعاً يك ميزكار متمايز وكاملاً قابل شخصي سازي لازم دارين:
 
 
 
-<img src="Images/wm.jpg">
+<img src="/img/wm.jpg">
 
 همينطور كه ميبينيد با لينوكس شما ميتونين شكل ميزكارتون رو خودتون
 انتخاب كنيد و همچنين لازم نيست كه اورو يكبار براي هميشه انتخاب كنيد:شما

@@ -19,7 +19,7 @@ Linux difícilmente tendrá algún virus y no es como: "Bueno, no muy común, tu
 </ul>
 
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

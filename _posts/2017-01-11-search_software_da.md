@@ -19,7 +19,7 @@ Pyha, det var da en masse arbejde blot for at prøve noget nyt!
 
 Med Linux er alting <b>meget mere simpelt</b>. Linux har det man kalder en "pakke manager": hvert stykke software ligger dets egen "pakke". Hvis du har brug for et nyt stykke software, så åbner du blot pakke manageren, indtaster et par søgeord, vælger hvilken software du vil installere og trykker "Udfør" eller "OK". Eller du kan vælge at browse eksisterende software (der er meget at vælge imellem!) i kategorier.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Så A: ikke mere surfing efter software. B: ikke mere downloaden og installeren manuelt. C: mere tid til faktisk at prøve softwaren.
 

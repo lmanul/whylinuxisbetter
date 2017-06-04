@@ -25,7 +25,7 @@ Oamenii ce ştiu cum să facă lucrurile şi să păstreze banii în ţara dumne
 beneficia, nu ca cei ce doar vând computere cu o strategie predefinită de vânzare,
 lăsând profesioniştii IT fără cunoştiinţe reale despre cum merg lucrurile.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

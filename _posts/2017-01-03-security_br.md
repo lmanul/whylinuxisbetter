@@ -40,7 +40,7 @@ de um mês depois da falha ter sido descoberta (e algumas vezes
 publicada): é mais que o suficiente pros piratas fazerem o que quiser 
 com o seu computador.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

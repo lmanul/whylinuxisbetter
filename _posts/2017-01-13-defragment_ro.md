@@ -43,7 +43,7 @@ mult mai bine organizate :) ). Windows foloseşte prima metodă; Linux o folose�
 pe a doua. Cu cât folosiţi mai mult Windows, accesul la fişiere devine din ce în ce
 mai lent; cu cât folosiţi mai mult Linux, accesul la fişiere devine mai rapid. Alegerea e a dumneavoastră!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

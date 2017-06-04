@@ -14,7 +14,7 @@ title: "﻿계속되는 재부팅에 지치셨나요?"
 
 당신은 아마 컴퓨터를 몇 주씩이나 켜놓지는 않겠지만, 여기서 말하고자 하는 점은: 컴퓨터가 당신에게 재부팅하라고 계속 귀찮게 하지 않을 것이라는 것입니다.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

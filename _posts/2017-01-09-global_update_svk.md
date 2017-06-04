@@ -10,7 +10,7 @@ Ale čo všetky vaše ostatné nie-Microsoft programy? Adobe aplikácie? Komprim
 
 Linux má centrálny nástroj s názvom "Správca balíkov" ("Package Manager"), ktorý sa stará o všetko, čo máte nainštalované vo vašom systéme, ale aj o každý program, ktorý váš počítač má. Takže ak chcete mať <i>všetko</i> aktualizované, jediné, čo musíte spraviť, je stalčiť tlačidlo "Inštaluj aktualizácie" ("Install Updates"):
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

@@ -12,7 +12,7 @@ Como ya dijimos en la sección de los "virus", un software de código abierto (e
 
 Pero de hecho esto no es exactamente un asunto de <i>cuántos</i> fallos tiene un sistema, comparado con los otros. Si hay muchos fallos pero nadie los ha descubierto aún (incluyendo los delincuentes informáticos), o hay unos pocos (que no comprometan una parte importante del sistema), los delincuentes informáticos no serán capaces de hacer gran daño. Es realmente un asunto de <i>que tan rápido un fallo de seguridad puede ser resuelto, una vez que haya sido descubierto</i>. Si un fallo de seguridad es descubierto en un programa de código abierto, cualquiera en la comunidad de código abierto puede darle una mirada y resolverlo. La solución (y la actualización) usualmente aparecen en pocos días, algunas veces unas pocas horas. Microsoft no tiene tal mano de obra y usualmente libera los parches de seguridad dentro del mes siguiente al que el fallo haya sido descubierto (y algunas veces hasta publicada): eso es más que suficiente para que los delincuentes informáticos hagan lo que quieran con tu ordenador.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

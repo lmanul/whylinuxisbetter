@@ -25,7 +25,7 @@ manager, ukucajte par kjučnih reči, izaberite softver koji želite instalirati
 i pritisnite "Apply" ili "OK". Ili možete samo pregledati postojeći softver
 (to je stvarno puno mogućnosti!) po kategorijama.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Dakle jedan: nema surfovanja. Dva: nema skidanja i instaliranja ponaosob.
 Tri: više vremena da se sam program proba.

@@ -19,7 +19,7 @@ single piece of software your computer has. So if you want to keep
 <i>everything</i> up-to-date, the only thing you need to do is press the 
 "Install Updates" button down there :
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

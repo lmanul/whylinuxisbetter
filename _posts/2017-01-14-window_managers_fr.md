@@ -7,7 +7,7 @@ title: "Choisissez l'allure de votre bureau."
 Si vous utilisez Windows, votre bureau ressemble sans doute à
 peu près à ceci :
 
-<img src="Images/windows_vista.jpg" />
+<img src="/img/windows_vista.jpg" />
 
 Tous les utilisateurs de Windows voient, en gros, la même interface
 graphique. Vous pouvez toujours changer de fond d'écran, ou changer la
@@ -25,21 +25,21 @@ souhaitez.
 Par exemple si vous voulez un environnement simple, efficace et
 facile à utiliser, vous aimerez probablement celui-ci :
 
-<img src="Images/ubuntu.jpg"/>
+<img src="/img/ubuntu.jpg"/>
 
 Si vous aimez le look moderne et acidulé, vous voudrez peut-être
 changer pour celui-ci :
 
-<img src="Images/kde.png" />
+<img src="/img/kde.png" />
 
 Ou bien, vous pourriez essayer celui-là, simple et rapide :
 
-<img src="Images/xfce.jpg" />
+<img src="/img/xfce.jpg" />
 
 Ou même celui-ci, si vous aimez personnaliser totalement votre
 environnement :
 
-<img src="Images/wm.jpg" />
+<img src="/img/wm.jpg" />
 
 Vous le voyez, avec Linux <b>vous décidez à quoi ressemble votre
 bureau</b>. Et vous n'avez même pas besoin de décider une fois pour

@@ -49,7 +49,7 @@ ekvationer, etc.</li>
 
 Du kan börja arbeta direkt.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

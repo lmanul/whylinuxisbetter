@@ -10,11 +10,11 @@ Laborspacoj estas ilo kiun mi neniam ŝanĝos per io. Vi eble nur havas unu ekra
 
 Ĵetu rigardon al la jena ekrano, kaj atentu speciale al la suba parto dekstre de la ekrano:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Tio estas la "ŝanĝilo de laborspacoj". Vi povas vidi ke ĝi havas kvar (virtualajn) ekranojn, sed vi povas havi pli (mi uzas 12 el ili, sed kelkaj uloj havas pli). Tiu de la maldekstra estas markita: ĝi estas kiun mi uzas. Por ŝanĝi al alia, nur klaku sur tiun kiun vi volas (en ĉiu el ili vi povas vidi malgrandan montron de la fenestroj kiujn ĝi havas: ĉi-kaze, la aliaj tri estas malplenaj) aŭ vi ankaŭ povas uzi klavkombinojn.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

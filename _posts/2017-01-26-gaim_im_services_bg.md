@@ -10,6 +10,6 @@ Messenger за MSN, ICQ за ICQ, и т.н.
 
 С Pidgin, софтуер за моментална комуникация за Linux (той съществува и за Windows и за Mac OS X с името "Adium"), може да свържете към всички тези услуги наведнъж и да видите всичките си приятелчета по едно и също време.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

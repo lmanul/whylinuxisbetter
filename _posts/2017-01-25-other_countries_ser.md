@@ -29,7 +29,7 @@ imaće koristi od slobodnog softvera, mnogo više nego ljudi koji samo prodaju k
 sa gotovim rešenjima, šaljući novac napolje i ostavljajući IT profesionalce
 bez stvarnog znanja kako stvari funkcionišu.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

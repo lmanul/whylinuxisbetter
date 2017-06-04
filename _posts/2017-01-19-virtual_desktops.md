@@ -24,7 +24,7 @@ just switch to your third screen and voilà, here it is.
 Take a look at the following screen, and pay particular attention to 
 the bottom right of the screen:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 That's your "workspace switcher". You can see it has four (virtual) 
 screens, but you can have more than this (I use 12 of them, but some 
@@ -33,7 +33,7 @@ current one. To switch to another one, just click on the one you want
 (each one of them shows a small preview of the windows they contain: 
 in this case the three others are empty), or use a keyboard shortcut.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

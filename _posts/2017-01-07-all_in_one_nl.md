@@ -43,7 +43,7 @@ Wanneer u Linux verkrijgt (zoals Ubuntu, Mandriva, Fedora, enz., dit zijn versch
 
 U kan direct beginnen met werken.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

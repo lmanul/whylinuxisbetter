@@ -15,7 +15,7 @@ Webでページを見ようと思ったら、パソコンからの信号に答�
 
 まあ、何週間もパソコンつけっ放しっていうわけにもいかないだろうけど。でも、とにかくしょっちゅう再起動なんてことだけはないんだからねっ。
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

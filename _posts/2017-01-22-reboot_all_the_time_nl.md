@@ -34,7 +34,7 @@ te herstarten
 U zult waarschijnlijk geen weken uw computer laten aanstaan, maar het
 punt is: het systeem zal u niet lastig vallen met de hele tijd herstarten.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

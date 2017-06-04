@@ -23,7 +23,7 @@ Cando obtés unha distribución Linux (talles como Ubuntu, Mandriva, Fedora, etc
 
 Simplemente puedes empezar a trabajar en seguida.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

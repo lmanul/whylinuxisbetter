@@ -14,7 +14,7 @@ Co Software Libre (ex. Linux), a economía (e o coñecemento do profesional *IT)
 
 As persoas que saben como facer as cousas e reter o diñeiro no teu país beneficiaríanse con isto, no canto doutras persoas que só saben vender computadoras, mandando o teu diñeiro ao estranxeiro, e deixando aos profesionais IT sen un coñecemento real de como traballan as cousas.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

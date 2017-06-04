@@ -12,7 +12,7 @@ Wie ja schon im „Virus“-Abschnitt gesagt wurde, bedeutet Open-Source-Softwar
 
 Aber tats&auml;chlich ist es nicht wirklich die Frage, <i>wieviele</i> L&uuml;cken ein System im Vergleich zu den anderen hat. Wenn es viele L&uuml;cken gibt, aber niemand sie bis jetzt entdeckt hat (einschließlich Piraten), oder sie unbedeutend sind (sie beeintr&auml;chtigen keine wichtigen Bereiche des Systems), werden Piraten nicht in der Lage sein, großen Schaden anzurichten. Wirklich entscheidend ist, <i>wie schnell eine Sicherheitsl&uuml;cke geschlossen werden kann, nachdem sie entdeckt wurde</i>. Wenn eine Sicherheitsl&uuml;cke in einem Open-Source-Programm entdeckt wird, kann jeder innerhalb der Open-Source-Community einen Blick darauf werfen und helfen, das Problem zu fixen. Die L&ouml;sung (und das Update) erscheint normalerweise binnen weniger Tage, manchmal sogar innerhalb von Stunden. Microsoft hat nicht derart viele Arbeitskr&auml;fte zur Verf&uuml;gung und ver&ouml;ffentlicht Sicherheits-Patches in der Regel innerhalb etwa eines Monats, nachdem die L&uuml;cke erkannt (und manchmal ver&ouml;ffentlicht) wurde; das ist mehr als genug Zeit f&uuml;r Piraten, mit deinem Computer zu tun, was immer sie wollen.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

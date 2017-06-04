@@ -44,7 +44,7 @@ açık bulunduktan (ve hatta paylaşıldıktan) bir ay kadar bir süre sonra
 çözümü sunmayı başarırlar. Bu, korsanların sizin sisteminizde cirit 
 atması için yeterli bir süredir.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

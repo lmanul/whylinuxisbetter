@@ -17,14 +17,14 @@ title: "太多窗口？请使用工作区"
 
 请看一下下面的屏幕截图，注意右下角的地方：
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 这就是您工作区切换的地方。您可以看到他有4个虚拟屏幕，但是您也可以设置更多（我使用了
 12个屏幕，但是很多人有更多）。最左边高亮的是正在使用的屏幕。要切换到另一个屏幕，只需要
 点击您想切换的那一个就可以（每一个屏幕都显示了那一个屏幕中窗口的缩略图：我们可以发现，
 图中其他三个工作区是空白的），或者可以使用快捷键。
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

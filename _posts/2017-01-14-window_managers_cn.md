@@ -6,7 +6,7 @@ title: "选择您的桌面主题"
 
 如果您是Windows的使用者，您的桌面也许和这个很像：
 
-<img src="Images/windows_vista.jpg" />
+<img src="/img/windows_vista.jpg" />
 
 相当一部分Windows使用者都是使用一样的桌面主题。您也许还可以换一下
 桌面壁纸，或者选择一下不同的颜色方案（默认为蓝色），但是其实不难发现，
@@ -18,19 +18,19 @@ title: "选择您的桌面主题"
 
 所以，如果您喜欢简单、有效、易用的桌面环境，您也许会喜欢下面这个：
 
-<img src="Images/ubuntu.jpg"/>
+<img src="/img/ubuntu.jpg"/>
 
 如果您习惯更现代、更华丽的外观，您会换成这个吧：
 
-<img src="Images/kde.png" />
+<img src="/img/kde.png" />
 
 或者是这个，简介明了：
 
-<img src="Images/xfce.jpg" />
+<img src="/img/xfce.jpg" />
 
 或者喜欢全景的屏幕：
 
-<img src="Images/wm.jpg" />
+<img src="/img/wm.jpg" />
 
 不难看出，Linux<b>让您来决定您的桌面外观</b>。而且，您不是只有一次选择机会，您可以随时随地更换您想要的桌面风格。
 

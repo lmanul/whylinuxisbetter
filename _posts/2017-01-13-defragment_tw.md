@@ -20,7 +20,7 @@ title: "你的數位生活似乎有些零散？"
 
 毫無疑問，你應該僱用這位女人。（也許你已經知道了，女人比較擅長組織。:)）嗯，Windows 採用了第一個方法，而 Linux 採用了第二個。當你愈常使用 Windows，存取檔案的速度就愈慢；當你愈常使用 Linux，存取的速度就愈快。該僱用誰呢？由你決定！
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

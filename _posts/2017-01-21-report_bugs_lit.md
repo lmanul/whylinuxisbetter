@@ -13,7 +13,7 @@ Ma&#382;ne visa atvirojo kodo programin&#279; &#303;ranga (tuo pa&#269;iu ir Lin
 Programos k&#363;r&#279;jai atsakys, galb&#363;t paklaus papildomos informacijos, pad&#279;sian&#269;ios i&#353;taisyti rikt&#261;. &#381;inosite, kada riktas i&#353;taisytas ir kaip gauti atnaujint&#261; programos versij&#261; (savaime suprantama, nemokamai). 
 Tad &#269;ia yra &#382;mon&#279;s, sprend&#382;iantys problemas, informuojantys apie jas ir visa tai nemokamai! Jei problema i&#353;sprend&#382;iama j&#363;s&#371; sistemoje, ji bus i&#353;sp&#281;sta ir visiems kitiems: vis&#371; interesas yra dirbti kartu, gerinant ir tobulinant programin&#281; &#303;rang&#261;. Taip veikia atvirasis kodas.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

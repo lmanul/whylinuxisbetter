@@ -44,7 +44,7 @@ primeiro método; o Linux usa o segundo. Quanto mais você usa o Windows,
 mais lento fica o acesso a arquivos; quanto mais você usa o Linux, mais 
 rápido ele fica. A escolha é toda sua!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

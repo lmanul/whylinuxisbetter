@@ -24,7 +24,7 @@ Ak si dáte Linux (napríklad Ubuntu, Mandriva, Fedora, atď., toto sú rôzne "
 
 Môžete hneď začať pracovať.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

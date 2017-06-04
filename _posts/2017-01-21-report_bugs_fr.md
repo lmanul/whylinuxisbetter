@@ -31,7 +31,7 @@ produira plus chez les autres utilisateurs non plus : c'est dans
 l'intérêt de tous de travailler ensemble pour améliorer les logiciels. 
 Tel est le principe des logiciels libres.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

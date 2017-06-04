@@ -57,8 +57,8 @@ typu Live CD, możesz wypróbować jedną z poniższych:
 </tr>
 
 <tr>
-<td><a href="Images/ubuntu.png"><img src="Images/ubuntu_thumbnail.png" /></a></td>
-<td><a href="Images/knoppix.png"><img src="Images/knoppix_thumbnail.png" /></a></td>
+<td><a href="/img/ubuntu.png"><img src="/img/ubuntu_thumbnail.png" /></a></td>
+<td><a href="/img/knoppix.png"><img src="/img/knoppix_thumbnail.png" /></a></td>
 </tr>
 
 <tr>

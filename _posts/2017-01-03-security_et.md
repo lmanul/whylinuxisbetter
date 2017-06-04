@@ -12,7 +12,7 @@ Nagu juba viiruste osas &ouml;eldud, t&auml;hendab avatud l&auml;htekoodiga tark
 
 Kui tegelikult ei oma t&auml;htsust niiv&otilde;rd see, <i>kui palju</i> vigu s&uuml;steemil on, vaid <i>kui kiiresti on v&otilde;imalik viga selle avastamisest alates parandada</i>. Kui s&uuml;steemil on palju vigu, kuid keegi (ka piraadid) pole neid veel avastanud, v&otilde;i need on v&auml;ikesed (turvarike ei ohusta t&auml;htsat s&uuml;steemiosa), siis ei ole piraatidel suurt kahju v&otilde;imalik tekitda. Kui avatud l&auml;htekoodiga programmis on turvaviga leitud, v&otilde;ib &uuml;ksk&otilde;ik kes kommuunist selle &uuml;le vaadata ja aidata seda parandada. Parandus (ja uuendus) saab tavaliselt paari p&auml;eva, ning vahel ka paari tunni jooksul avalikuks. Microsoftil sellist inimt&ouml;&ouml;j&otilde;udu pole  ja tavaliselt antakse turvaparandused avastamisest (ja vahest avaldamisest) paari kuu jooksul v&auml;lja: see on enam, kui piisavalt, et piraadid v&otilde;iks sinu arvutiga teha mida iganes nad soovivad.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

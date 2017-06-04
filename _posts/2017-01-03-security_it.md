@@ -40,7 +40,7 @@ pubblicata): è un tempo più che sufficiente per i pirati per fare quello che
 vogliono con il tuo computer.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

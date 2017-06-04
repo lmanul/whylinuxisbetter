@@ -11,7 +11,7 @@ reprodueix la teva música perfectament, aprèn quines cançons
 prefereixes, automàticament cerca per tu el seu títol (i lletra) en 
 Internet, i fins i tot aconsegueix les cobertes del CD per tu !
 
-<img src="Images/amarok.png" />
+<img src="/img/amarok.png" />
 
 
 

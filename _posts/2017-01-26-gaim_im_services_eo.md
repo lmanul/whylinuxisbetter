@@ -8,6 +8,6 @@ Vi eble havas kontojn por diversaj tujmesaĝiloj, kiel MSN, Yahoo, ICQ, Jabber, 
 
 Per Pidgin, la tujmesaĝilo de Linux (ĝi ekzistas por Windows ankaŭ, kaj por Mac OS sub la nomo "Adium"), vi povas ensaluti ĉiujn samtempe, per ĉi tiu sola programo, kaj vidi ĉiujn viajn geamikojn samtempe.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

@@ -27,7 +27,7 @@ title: "گزارش كردن خطاها"
 .
 
 
-<img src="Images/report_bugs_thumb.png">
+<img src="/img/report_bugs_thumb.png">
 
 
 

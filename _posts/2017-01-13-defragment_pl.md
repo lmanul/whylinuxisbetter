@@ -43,7 +43,7 @@ kobiety są lepiej zorganizowane :) ). Tyle, że system Windows używa tej pierw
 Linuks zaś tej drugiej. Im dłużej używasz systemu Windows, tym wolniejszy jest dostęp
 do plików - im więcej Linuksa, tym szybszy. Wybór należy do Ciebie!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

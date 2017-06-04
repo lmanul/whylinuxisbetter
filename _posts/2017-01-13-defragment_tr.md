@@ -43,7 +43,7 @@ Evet, Windows ilk yöntemi kullanır, Linux ise ikincisini. Windows'u kullandık
 dosyalara erişim hızınız yavaşlayacak, Linux'u kullandıkça ise bu hız artacaktır.
 Seçim size kalmış! 
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

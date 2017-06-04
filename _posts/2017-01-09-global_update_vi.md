@@ -16,7 +16,7 @@ Linux quản lý mọi chương trình bằng một phần mềm duy nhất: ch�
 Chương trình này sẽ quản lý mọi chương trình đã cài đặt trong máy, tự động cập nhật mọi 
 thứ chỉ với 1 click chuột.
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

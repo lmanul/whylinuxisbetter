@@ -8,6 +8,6 @@ title: "MSNにAIMにICQにGoogle Talkに。ああ、どれを使ったらいい�
 
 Linux用のメッセンジャー、Pidginなら、こういったアカウントに全て接続できますって。たったひとつのソフトで、友達全員に同時にアクセスできるわけ。（まあ、PidginはWindows版も、Adiumっていう名前のMac OSX版もあるんだけど）
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

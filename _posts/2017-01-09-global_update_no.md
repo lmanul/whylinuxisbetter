@@ -10,7 +10,7 @@ Men – hva med all din programvare som <i>ikke</i> kommer fra Microsoft – som
 
 Linux har noe som kalles «Package manager», som passer på alt som er installert på systemet ditt, ja til og med all din programvare. Så, hvis du ønsker <i>alt</i> kontinuerlig oppdatert, så trenger du ikke gjøre noe annet enn å trykke på «Installer oppdateringer»-knappen:
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

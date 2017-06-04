@@ -33,7 +33,7 @@ Quando você adquire o Linux (como o Ubuntu, Kurumin, Mandriva, Fedora, etc., es
 
 Você pode começar a trabalhar desde já.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

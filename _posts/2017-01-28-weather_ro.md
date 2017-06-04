@@ -9,7 +9,7 @@ de fiecare dată când vreţi să ieşiţi? Doar uitaţi-va la ecranul dvs. cu L
 vedea vremea:
 
 
-<img src="Images/weather.png" />
+<img src="/img/weather.png" />
 
 Desigur, Linux nu vă forţează să faceţi un anumit lucru, deci puteţi
 să amplasaţi acest add-on oriunde vreţi pe ecran, sau să scăpaţi de el.

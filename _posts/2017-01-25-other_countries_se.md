@@ -29,7 +29,7 @@ säljer boxar med fördefinierade säljargument, skicka pengar ut
 från landet, och lämna IT-expertisen utan riktig kunskap om hur 
 saker fungerar.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

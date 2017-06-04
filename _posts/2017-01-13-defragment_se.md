@@ -48,7 +48,7 @@ metoden; Linux använder den andra. Ju mer du använder Windows,
 desto längre tid tar det att komma åt en fil; ju mer du använder 
 Linux, desto snabbare går det. Valet är upp till dig!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

@@ -18,7 +18,7 @@ Linuxon szinte alig vannak vírusok. És ez nem azt jelenti, hogy „Hát, tudod
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

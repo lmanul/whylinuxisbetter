@@ -18,14 +18,14 @@ să căutaţi prin ferestre browser-ul. Doar accesaţi ecranul trei şi gata, ac
 Priviţi această captură de ecran, şi fiţi atenţi în dreapta jos:
 
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Acela e schimbătorul de spaţiu. Puteţi vedea că are patru ecrane (virtuale),
 dar puteţi avea mai multe (eu folosesc 12, dar unii oameni au mult mai multe). Cel din stânga e
 accentuat: e cel curent. Pentru a vă duce pe altul, click pe unul din cele rămase (fiecare arată
 o mică previzualizare a ce conţine), sau folosiţi o scurtătură din taste.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

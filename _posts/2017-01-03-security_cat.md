@@ -12,7 +12,7 @@ Com ja hem parlat a la secció de “virus”, el programari de codi obert (per 
 
 Però realment, el problema no és quantes falles de seguretat té un sistema, comparat amb els altres. Si hi ha moltes falles, però ningú no les ha descobertes encara (inclosos els pirates), o hi ha poques (que no comprometen una part important del sistema), els pirates no podran fer un gran mal. El problema realment és com de ràpid és resol una falla de seguretat una vegada és descoberta. Si una falla de seguretat es descobreix en un programa de codi obert, qualsevol de la comunitat de codi obert pot pegar una ullada i ajudar a resoldre-la. La solució (i l'actualització) normalment apareix en uns pocs dies, a vegades fins i tot en hores. Microsoft no té tanta mà d'obra, i normalment publica els pedaços de seguretat un mes després que la falla de seguretat és descoberta (i a vegades publicada): això és més que suficient perquè els pirates facin el que vulguin amb el teu ordinador.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

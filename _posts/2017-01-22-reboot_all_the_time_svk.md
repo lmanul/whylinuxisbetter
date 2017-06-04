@@ -14,7 +14,7 @@ Poznáte internetové servery? Sú to veľké počítače, ktoré vám odpovedaj
 
 Pravdepodobne nenecháte svoj počítač zapnutý niekoľko týždňov, ale podstatné je: systém vás nebude neustále otravovať s reštartovaním.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

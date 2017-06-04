@@ -15,7 +15,7 @@ Stovky hier sú vydávané pod bezplatnou (ako v "bezplatný servis", alebo "bez
 
 A ak vás zaujímajú hry, možno sa vám bude páčiť tento obrázok Quake 3 bežiacej na Linuxe, na 24 monitoroch (!):
 
-<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
 
 
 

@@ -18,7 +18,7 @@ Linux malfacile havos iun viruson. Kaj tio estas ne kiel: "Nu, ne tre ofte, vi s
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

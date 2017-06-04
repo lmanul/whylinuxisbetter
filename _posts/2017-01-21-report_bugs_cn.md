@@ -19,7 +19,7 @@ Windows的下一个版本能够修复它（但是您将又为此支付上千元�
 问题，通知您关于问题的一切，这样的待遇对任何人都是一样的：所有人都抱着对Linux的
 喜爱共克漏洞，让软件变得更好。这就是开源软件的伟大。
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

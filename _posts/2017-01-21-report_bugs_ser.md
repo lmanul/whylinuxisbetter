@@ -26,7 +26,7 @@ i sve to besplatno ! Ako se problem reši na Vašem sistemu,
 rešiće se na svačijem: u interesu je svih da rade zajedno
 i naprave bolji softver. To je način na koji Open Source funkcioniše.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

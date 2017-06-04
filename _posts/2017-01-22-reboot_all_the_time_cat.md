@@ -14,7 +14,7 @@ Coneixes els servidors d'Internet? Són uns grans computadors que et responen qu
 
 Probablement tu no hauràs de tenir el teu ordinador encès durant setmanes però l'assumpte és : el sistema no et molestarà volent reiniciar tot el temps.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

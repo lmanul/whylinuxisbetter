@@ -17,14 +17,14 @@ cửa sổ trình duyệt trong hàng chục cửa sổ đang mở, chỉ việc
 
 Hãy xem ảnh bên dưới, lưu ý góc phía dưới bên phải của màn hình:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Bạn có thể chuyển workspace bằng cái đó. Ở đây bạn thấy 4 màn hình (ảo), nhưng 
 bạn có thể có bao nhiêu tuỳ thích (tôi dùng 12 màn hình cùng lúc, có người còn 
 dùng nhiều hơn thế). Màn hình bên trái phát sáng: đó là màn hình bạn đang sử dụng. Để 
 chuyển sang màn hình khác, chỉ việc bấm vào khung chữ nhật tương ứng hoặc dùng phím tắt.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

@@ -15,6 +15,6 @@ Pidgin, le programme de messagerie instantanée pour Linux (il existe
 vous permet de connecter à l'ensemble de ces services en même temps, 
 avec un seul programme, et de voir tous vos contacts en même temps.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

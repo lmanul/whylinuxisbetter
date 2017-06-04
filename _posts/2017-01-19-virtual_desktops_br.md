@@ -10,11 +10,11 @@ Desktop virtual é um recurso que eu não trocaria por nada. Você provavelmente
 
 Dê uma olhada na seguinte tela, e preste atenção especial ao lado inferior direito da tela:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Esse é o seu "trocador de desktops virtuais". Você pode ver que ele tem quatro telas (virtuais), mas pode mais que isso (Eu uso 12 delas, mas algumas pessoas têm muito mais). A da esquerda está destacada: é a tela atual. Para mudar para outra, apenas clique na que desejar (cada uma delas tem uma pequena amostra das janelas que contém: neste caso, as outras três estão vazias), ou use um atalho de teclado.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

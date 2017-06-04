@@ -10,7 +10,7 @@ href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.h
 
 Preskaŭ la tuta libera programaro (inkludante la distribuojn Linux) havas <i>ilon pri erar-spurado</i>. Vi povas ne nur plenumi raportojn pri eraroj (kaj ni instigas vin fari tion!) klarigante la problemon, sed ankaŭ vidi kio okazas poste: ĉio estas malfermita kaj videbla por ĉiuj. Programistoj respondos al vi, ili ankaŭ povas peti iom pli da informo por helpi ilin solvi la eraron. Vi scios kiam oni riparis la eraron kaj kiel akiri la novan version (ĉiam senkoste, kompreneble). Jen homoj kiuj zorgas pri la problemoj, sciigante pri ili, kaj ĉio senkoste! Se la problemo estas solvita por via operaciumo, ĝi estos tia por ĉiuj: labori kune por fari pli bonan programaron estas en la intereso de ĉiuj. Tiel estas la maniero kiel laboras la malfermita kodo.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

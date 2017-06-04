@@ -11,7 +11,7 @@ en Facebook Chat. Op Windows of Mac OS X heeft u waarschijnlijk verschillende pr
 Met Pidgin, hét chatprogramma voor Linux (het bestaat voor Windows ook, en voor Mac OS X bestaat het onder de naam "Adium"), kunt u met alle chatdiensten tegelijk verbinding maken en direct alle online contactpersonen zien.
 
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
 
 

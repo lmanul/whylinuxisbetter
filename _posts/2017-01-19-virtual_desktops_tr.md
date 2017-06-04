@@ -10,11 +10,11 @@ Ben hiç Windows kullanmadım ve hiç anlamadığım bazı alışkanlıklarını
 
 Alttaki görüntüye ve sağ alt köşeye dikkatli bakın:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 İşte bu sizin "çoklu masaüstü değiştiriciniz". Değişik dört masaüstü görünüyor fakat, bundan fazlasını da yapabilirsiniz (ben 12 tane kullanıyorum bazıları daha da çok). Geçiş yapmak için sadece istediğinizin üzerine tıklayın. Soldaki aktif görünen sizin kullandığınızdır (her biri içindeki pencerelerin ufak bir görüntüsünü sunar). Ya da değiştirmek için bir klavye kısayolu kullanın.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

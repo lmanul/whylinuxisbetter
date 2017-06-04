@@ -33,7 +33,7 @@ Microsoft'as neturi tiek &#382;mogi&#353;k&#371;j&#371; i&#353;tekli&#371; ir pa
 pataisymus po m&#279;nesio nuo spragos aptikimo (ir da&#382;nai paskelbimo): tai daugiau nei gana laiko 
 &#303;silau&#382;&#279;liams daryti su j&#363;s&#371; kompiuteriu k&#261; tinkamiems.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

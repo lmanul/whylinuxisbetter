@@ -37,7 +37,7 @@ title: "您的数字生活看上去是破碎的吗？"
 是第一种管理文件的方式；而Linux 则是使用第二种。更长时间使用Windows，就会让你访问
 文件的速度越慢；越多的使用Linux，计算机读取文件就将更快速。最终的选择权在于您！
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

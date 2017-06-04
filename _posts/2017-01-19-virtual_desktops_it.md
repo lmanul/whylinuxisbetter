@@ -23,7 +23,7 @@ terzo workspace e voilà, eccolo qua.
 Dà un occhiata alla seguente schermata e presta particolare attenzione 
 in basso a destra dello screenshot:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 Quello è il tuo "workspace switcher". Puoi ben vedere che ha quattro 
 schermi (virtuali), ma puoi averne di più (io ne uso 12, ma qualcuno ne 
@@ -32,7 +32,7 @@ passare a un altro ti basta cliccare su quello che vuoi (ognuno mostra
 una piccola anteprima delle finestre che contiene: in questo caso gli altri 
 tre sono vuoti), o usare una scorciatoia da tastiera.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

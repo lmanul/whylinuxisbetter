@@ -19,7 +19,7 @@ Uf, ¡eso es un montón de trabajo para simplemente probar algo nuevo!
 
 Con Linux todo es <b>mucho más simple</b>. Linux tiene algo llamado "Gestor de Paquetes": cada pieza de software está almacenada en su propio "paquete". Si necesitas algún nuevo software sólo abre el gestor de paquetes, escribe unas cuantas palabras clave, escoge qué software quieres instalar y presiona "Aplicar" u "Ok". O puedes también navegar dentro de las categorías de software existente (¡hay un montón para escoger!).
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Primera conclusión: no hay que navegar más por internet. Segunda: no más descargar e instalar por tu cuenta. Tercera: definitivamente más tiempo para probar el software.
 

@@ -13,7 +13,7 @@ Ahogyan már a vírusokról szóló részben említettük, a nyílt forráskód�
 De tulajdonképpen nem is az a lényeg, <i>mennyi</i> rés van egy rendszerben a többihez képest. Ha sok a rés, de ezidáig senki sem vette őket észre (még a crackerek sem) vagy aprók (tehát nem veszélyeztetnek fontos rendszerrészeket), a crackerek képtelenek lesznek kárt okozni. Az számít igazán, <i>milyen gyorsan javítanak ki egy biztonsági rést a felfedezése után</i>. Ha egy nyílt forráskódú programban találnak rést, bárki a nyílt forráskódú közösségből megnézheti és kijavíthatja. A megoldás (és a frissítés) általában pár napon belül megjelenik, olykor mindössze néhány óra alatt. A Microsoft nem rendelkezik az ilyen gyorsasághoz szükséges munkaerő-állománnyal, és a biztonsági javításokat általában csak egy hónappal a rés felfedezése után adják ki (ami esetenként addigra már nyilvánosságra is került): ez több mint elegendő a crackereknek, hogy azt tegyenek a számítógépeddel, amit csak akarnak.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

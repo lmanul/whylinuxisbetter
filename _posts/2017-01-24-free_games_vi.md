@@ -16,7 +16,7 @@ game online... Đây là vài ví dụ:
 
 Nếu bạn thích chơi game, bạn có thể thấy bức ảnh này rất hấp dẫn (Quake 3 chạy trên Linux, trên 24 màn hình cùng lúc (!) ):
 
-<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
 
 
 

@@ -38,7 +38,7 @@ title: "همه نرم افزارهاتون رو با يك كليك به روز �
 
 <br />
 
-<img src="Images/global_update.png">
+<img src="/img/global_update.png">
 
 
 

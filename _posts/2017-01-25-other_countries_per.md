@@ -46,7 +46,7 @@ title: "به كشورهاي ديگه و كشور خودتون كمك كنيد."
 
 
 
-<img src="Images/earth.png">
+<img src="/img/earth.png">
 
 
 

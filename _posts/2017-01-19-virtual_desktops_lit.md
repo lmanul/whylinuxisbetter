@@ -10,11 +10,11 @@ Virtual&#363;s darbastaliai - savyb&#279;, kurios &#303; niek&#261; nekeis&#269;
 
 Pa&#382;i&#363;r&#279;kite &#303; &#382;emiau esant&#303; paveiksl&#279;l&#303;, ir atkreipkite ypating&#261; d&#279;mes&#303; &#303; apatin&#281; de&#353;in&#281; vaizdo dal&#303;.:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 &#269;ia yra darbastali&#371; perjungiklis. &#268;ia matote keturis virtualius darbastalius (galite j&#371; tur&#279;ti ir daugiau (a&#353; naudoju 12, o kai kas j&#371; turi dar daugiau). Kairysis yra pary&#353;kintas: tai einamasis darbastalis. Nor&#279;dami persijungti, spragtel&#279;kite ant norimo (jie rodo ma&#382;yt&#281; savo turinio per&#382;i&#363;r&#261;: &#353;iuo atveju jie yra tu&#353;ti), ar naudokit&#279;s klaviat&#363;ros greitaisiais klavi&#353;ais (Ctrl+Tab).
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

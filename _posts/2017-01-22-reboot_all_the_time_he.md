@@ -24,7 +24,7 @@ lang: he
 קרוב לוודאי שלא תשאיר את מחשבך דולק למשך שבועות רבים אבל הנקודה היא:
 המערכת לא תטריד אתכם באיתחולים כל הזמן.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

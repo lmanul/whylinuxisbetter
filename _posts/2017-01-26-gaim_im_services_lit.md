@@ -10,6 +10,6 @@ Pidgin, tiesioginio susira&#353;in&#279;jimo programa Linux'ams (yra
 ir Windows'ams skirta versija), galite prisijungti prie &#353;i&#371; 
 tarnyb&#371; vienu metu ir matyti visus draugus i&#353; karto.
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

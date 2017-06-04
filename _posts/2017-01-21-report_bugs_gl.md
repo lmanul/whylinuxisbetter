@@ -10,7 +10,7 @@ hai un interesante artigo sobre isto. Que pasa se Microsoft nin sequera se decat
 
 Case todo o software de código aberto (incluíndo as distribucións Linux) ten un <i>sistema de rastrexo de erros</i>. Ti podes non só encher informes de fallos (e animámosche a facelo!) explicando cal é o problema, senón que tamén podes ver o que pasa logo: todo é aberto e transparente para todos. Responderante os desenvolvedores de software, tamén te poden pedir algo mais de información que lles axude a solucionar o erro. Saberás cando foi arranxado o fallo e como obter a nova versión (sempre gratis, non faltaba máis). Entón aquí tes persoas arranxando os teus problemas, manténdote informado e todo iso gratis!. Se o problema é resolto para o teu sistema, tamén o será para os sistemas dos demais: está no interese de todos traballar xuntos para facer un mellor software. Esta é o xeito en que traballa o código aberto.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

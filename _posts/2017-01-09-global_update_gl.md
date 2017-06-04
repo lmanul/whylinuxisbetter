@@ -11,7 +11,7 @@ Pero que pasa con todo o teu software non-Microsoft? aplicacións Adobe? compres
 Linux ten unha aplicación especial chamada "Xestor de Paquetes", e encárgase de todo o que estea instalado no teu sistema, pero tamén de cada peza de software que a túa computadora ten. Entón se queres manter <i>todo actualizado, o único que necesitas facer é presionar o botón de "Instalar Actualizacións" de abaixo :
 
 
-<img src="Images/global_update.png" />
+<img src="/img/global_update.png" />
 
 
 

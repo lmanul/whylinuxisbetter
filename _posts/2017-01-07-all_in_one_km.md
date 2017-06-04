@@ -26,7 +26,7 @@ title: "នៅ​ពេល​ដែល​​បាន​ដំឡើង​ប្
 
 អ្នក​​អាច​ចាប់ផ្ដើម​តាមវិធី​ដែល​ត្រឹមត្រូវ ។
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

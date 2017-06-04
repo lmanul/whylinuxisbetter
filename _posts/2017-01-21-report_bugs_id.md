@@ -9,7 +9,7 @@ href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.h
 
 Hampir seluruh perangkat lunak open source (termasuk distribusi Linux) memiliki sebuah <i>sistem pelacakan bug</i>. Kamu tidak hanya dapat mengarsipkan laporan bug (dan kamu disarankan untuk melakukannya!) menjelaskan permasalahannya, tetapi kamu juga dapat melihat perkembangannya: semuanya terbuka dan transparan kepada semua orang. Para pengembang akan menjawab, dan mereka mungkin akan bertanya tentang informasi tambahan untuk membantu mereka dalam memperbaiki bug. Kamu akan mendapatkan informasi ketika <i>bug</i> sudah diperbaiki, dan kamu juga akan mengetahui cara mendapatkan versi yang terbaru (tentu saja tanpa biaya). Jadi, di sini kamu memiliki orang yang menjawab permasalahanmu, menginformasikannya, dan semuanya itu gratis! Jika masalah pada sistem komputermu sudah terpecahkan, ini juga berlaku untuk semua orang: hal ini membuat semua orang selalu bekerja sama untuk membuat perangkat lunak yang lebih baik. Beginilah cara open source bekerja.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

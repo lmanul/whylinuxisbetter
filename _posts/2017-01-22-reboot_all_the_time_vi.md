@@ -26,7 +26,7 @@ Linux rất ổn định, chạy hoàn hảo mà không cần khởi động l�
 Có thể bạn sẽ không bật máy liên tục trong vài tuần lễ, những điều quan trọng ở đây là: 
 hệ thống sẽ không yêu cầu bạn khởi động lại liên tục.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

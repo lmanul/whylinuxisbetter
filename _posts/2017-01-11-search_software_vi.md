@@ -22,7 +22,7 @@ phần mềm": mỗi chương trình được dặt trong một "gói". Nếu b�
 mới, chỉ cần mở chương trình quản lý phần mềm, gõ tên chương trình, bấm "Cài Đặt". 
 Hoặc duyệt qua danh sách các chương trình (rất nhiều đấy!) theo từng chủ đề.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Với Linux, bạn sẽ: không phải tìm kiếm trên mạng, không phải tải về và càt đặt 
 bằng tay, và có nhiều thời gian để dùng thử chương trình.

@@ -13,6 +13,6 @@ MSN, Yahoo, ICQ, Jabber, AIM ។ល។ អំឡុង​ពេល​ដែល�
 ​អ្នក​អាច​តភ្ជាប់​ទៅ​កាន់​សេវា​ទាំង​នេះ​​​​ជា​មួយ​កម្មវិធីតែមួយ​​ និង​ឃើញ​មិត្តភក្តិរបស់​អ្នកទាំងអស់
 នៅ​ពេល​តែ​មួយ​ ។
 
-<img src="Images/gaim_im_services.png" />
+<img src="/img/gaim_im_services.png" />
 
   

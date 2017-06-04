@@ -15,7 +15,7 @@ title: "Играйте безплатно стотици игри"
 
 И ако игрите ви интересуват, може да погледнете тази снимка на Quake 3 под Линукс на 24 екрана (!) :
 
-<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
 
 
 

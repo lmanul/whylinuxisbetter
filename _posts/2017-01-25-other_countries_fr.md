@@ -33,7 +33,7 @@ avec un discours de vente prédéfini, envoient votre argent à l'étranger, et
 ne permettent pas aux spécialistes des technologies de l'information
 d'acquérir des réelles compétences sur le fonctionnement des logiciels.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

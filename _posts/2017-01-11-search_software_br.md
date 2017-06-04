@@ -19,7 +19,7 @@ Ufa, tem muita coisa a fazer só para dar uma olhada em algo novo!
 
 Com o Linux, tudo é <b>muito mais simples</b>. O Linux tem o que é chamado de "gerenciador de pacotes": cada programa está contido em seu próprio "pacote". Se você precisa de um programa novo, apenas abra o gerenciador de pacotes, digite algumas palavras chave, escolha qual programa quer instalar e cliqe em "Aplicar" ou "OK". Ou você pode simplesmente procurar programas existentes (tem muita chance) em categorias.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Primeira conclusão: não precisa mais de navegar na internet. Segunda: não precisa mais baixar nem instalar por conta própria. Terceira: definitivamente mais tempo para testar o programa.
 

@@ -13,7 +13,7 @@ Med fri software (f.eks. Linux), vil økonomien (og de IT-professionelles viden)
 
 Folk der véd hvordan at man gør ting og holder penge i dit land vil drage fordel af dette, modsat folk der blot sælger en kasse med en forud-defineret salgstale, og som sender pengene ud af landet, samt efterlader de IT-professionelle uden nogen form for reél viden om hvordan tingene egentlig virker.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

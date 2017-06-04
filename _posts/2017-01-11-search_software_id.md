@@ -19,7 +19,7 @@ Wow, banyak sekali yang harus kamu lakukan, hanya untuk mencoba sesuatu yang bar
 
 Dengan Linux, segalanya menjadi <b>sangat mudah</b>. Linux memiliki program yang namanya "Package Manager": ia mendaftar setiap perangkat lunak pada paket <i>(package)</i> mereka sendiri. Jika kamu butuh beberapa perangkat lunak baru, kamu cukup membuka Package Manager, ketik beberapa kata kunci, pilih perangkat lunak yang diinginkan lalu klik "OK". Atau lihat saja daftar perangkat lunak yang telah ada (dengan banyak sekali pilihan!) dalam setiap kategori.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Jadi, pertama: tidak perlu berselancar di internet. Kedua: tidak perlu lagi mengunduh dan meng-install perangkat lunak sendiri. Ketiga: ada banyak waktu tersedia untuk benar-benar mencoba perangkat lunak tersebut.
 

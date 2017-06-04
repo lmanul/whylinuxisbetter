@@ -15,7 +15,7 @@ title: "自由地享受上百個遊戲"
 
 如果你喜歡玩遊戲，你可能會喜歡下面這張照片，在 Linux 上玩 Quake 3，而且用 24 個螢幕來顯示（！）：
 
-<a href="Images/quake_24_screens.jpg"><img src="Images/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
 
 
 

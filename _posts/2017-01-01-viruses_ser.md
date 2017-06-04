@@ -43,7 +43,7 @@ ili da kaže drugom developeru "Hej, šta ako bla bla, zar to nije propust?".</l
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

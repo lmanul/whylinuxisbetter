@@ -13,7 +13,7 @@ Kiel ni diris en la sekcio pri "virusoj", libera programaro (ekz. Linux) signifa
 Sed fakte, ĉi tio ne estas afero pri <i>kiomajn</i> erarojn havas operaciumo, se kompari kun la aliaj. Se ekzistas multaj eraroj sed oni (eĉ la piratoj) ankoraŭ ne eltrovis ilin, aŭ ekzistas tre malmultaj (kiuj ne riskas gravan parton de la operaciumo), la piratoj ne estos kapablaj fari grandan damaĝon. Tio vere estas afero pri <i>Kiom rapide sekureco-cimo povas esti solvata post la eltrovo</i>. Se sekureco-cimo estas eltrovata en libera programo, iu ajn en la komunumo de la libera programaro povas ĵeti rigardon al ĝi kaj solvi ĝin. La solvo (kaj la aktualigo) kutime aperas post malmultaj tagoj, kelkfoje post malmultaj horoj. Microsoft ne posedas la labor-forton, kaj ĝi kutime havigas sekureco-aktualigojn post la venonta monato de la eltrovo de la eraro (kaj kelkfoje publikigita): tio estas pli sufiĉe por ke la piratoj faru ĉion kion ili volas kun kaj per via komputilo.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

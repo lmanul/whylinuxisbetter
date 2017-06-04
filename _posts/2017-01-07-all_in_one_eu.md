@@ -24,7 +24,7 @@ Linuxen sailkapen bat lortzen duzunean (adibidez Ubuntu, Mandriva, Fedore, etab.
 
 Berehala lanean hasi zaitezke.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

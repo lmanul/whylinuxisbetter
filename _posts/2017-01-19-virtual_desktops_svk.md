@@ -10,11 +10,11 @@ Pracovné plochy sú niečo, čo by som nikdy nevymenil za nič iné. Pravdepodo
 
 Pozrite sa na nasledujúci obrázok, a špeciálne si všimnite pravý dolný roh obrazovky:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 To je váš "prepínač pracovných plôch". Môžete vidieť, že sú tam štyri (virtuálne) obrazovky, ale môžete ich mať viac (ja ich používam 12, ale niektorí ľudia ich majú oveľa viac). Tá napravo je zvýraznená: je to aktuálna pracovná plocha. Na prepnutie na inú proste kliknite na tú, na ktorú chcete (každá z nich obsahuje malú ukážku okien, ktoré obsahuje: v tomto prípade ostatné tri sú prázdne), alebo použite klávesovú skratku.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

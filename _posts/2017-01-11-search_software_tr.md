@@ -19,7 +19,7 @@ Püff, gerçekten çok iş.
 
 .Linux ile, her şey <b>çok daha basittir</b>. Linux, "paket yöneticisi" adı verilen, her yazılımı "paket" adı altında gören bir uygulamaya sahiptir. Eğer yeni bir yazılıma ihtiyacınız varsa, basitçe paket yöneticisini açar, bir anahtar kelimeyle uygulamayı bulur ve kurmasını söylersiniz. Depolardan sizin için gerekli yazılım (hepsinin bir çok alternatifi olur) indirilir.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Daha fazla sörf yapmama, veya verileri indirip kurmakla uğraşmama gerek yok, istediğim kadar yazılımı kolayca deneyebilirim.
 

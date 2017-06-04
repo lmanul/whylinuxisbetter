@@ -48,7 +48,7 @@ przypadkiem nie jest to luka w bezpieczeństwie?"</li>
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

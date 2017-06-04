@@ -33,7 +33,7 @@ Khi bạn cài Linux (như Ubuntu, Mandriva, Fedora...), bạn đã có sẵn nh
 
 Bạn có thể làm việc ngay lập tức.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

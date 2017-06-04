@@ -32,7 +32,7 @@ href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.h
 и надежнее! И по прежнему бесплатно и открыто - вот как работает OpenSource.
 
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

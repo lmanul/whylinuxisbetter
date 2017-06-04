@@ -14,7 +14,7 @@ Bei Freier Software (z.&#x202f;B. Linux) könnte die Wirtschaft (und das IT-Wiss
 
 Menschen, die wissen, wie man Dinge erledigt und das Geld im Land halten, werden daraus einen größeren Vorteil ziehen als solche, die nur Schachteln verkaufen, das Geld verschicken und Leute zurücklassen, die IT nicht wirklich verstehen.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

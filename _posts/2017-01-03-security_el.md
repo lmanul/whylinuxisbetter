@@ -39,7 +39,7 @@ title: "Το Linux προστατεύει τον υπολογιστή σας"
 υπολογιστή σας.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

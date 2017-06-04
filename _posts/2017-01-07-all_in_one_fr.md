@@ -58,7 +58,7 @@ etc.).</li>
 
 Vous pouvez commencer à travailler dès maintenant.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

@@ -20,7 +20,7 @@ Nun imagu ke vi estas la posedanto de ĉi tiu ŝranko, sed vi ne havas la tempon
 
 Sendube, vi dungus la virinon (vi devus scii tion, la virinoj estas pli organizitaj :) ). Nu, Windows uzas la unuan manieron; Linux uzas la duan. Ju pli vi uzas Windows, des pli malrapida estas la aliro al la arkivoj; ju pli vi uzas Linux, des pli rapida ĝi estas. La elekto estas via!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

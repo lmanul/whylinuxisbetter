@@ -20,7 +20,7 @@ Na ir daug darbo, kad išbandyti ką nors naujo!
 
 Su Linux'ais, viskas yra <b>daug paprasčiau</b>. Linux'ai turi tokį įrankį, pavadintą „Package manager“ (Programų paketų tvarkyklė): kiekviena programinės įrangos rūšis yra laikoma atskiram pakete.  Prireikus naujos programos, tiesiog atverkite programų paketų tvarkyklę, įveskite keletą žodžių į paieškos laukelį, pasirinkite programą iš sąrašo ir nuspauskite Apply (Pritaikyti) arba OK. Programinės įrangos (kurios tikrai nemažai!) galima ieškoti ir pagal kategorijas.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Taigi visų pirma: nereikia klaidžioti internete. Antra: parsisiųsti ir įdiegti programos pačiam nebereikia. Trečia: sutaupote laiko, kurį galite panaudoti naujos programos išmėginimui.
 

@@ -12,7 +12,7 @@ Som vi allerede har snakket om i «Virus»-delen av websiden, så betyr «Open s
 
 Men faktisk så er det ikke et spørsmål om <i>hvor mange</i> sikkerhetsfeil et system har, sammenlignet med andre. Hvis det er mange feil i systemet, men ingen har oppdaget dem ennå (inkludert hackere), eller hvis det er små feil (som ikke har innflytelse på de viktige delene av systemet), vil ikke hackere være i stand til å utføre stor skade. Det er et spørsmål om <i>hvor raskt en sikkerhetsfeil kan bli rettet opp i etter oppdagelsen</i>. Hvis en sikkerhetsfeil blir oppdaget i et «Open source»-program, kan alle hjelpe til med å fikse feilen. Løsningen (og oppdateringen) blir vanligvis utgitt etter noen få timer til noen få dager. Microsoft har ikke så mye arbeidskraft, og utgir vanligvis sikkerhetsoppdateringer innen rundt en måned etter at feilen har blitt oppdaget (og til og med offentliggjort). Innenfor den tiden kan mange hackere utnytte feilen i deres favør, og i noen tilfeller kan de gjøre hva de vil med datamaskinen din.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

@@ -20,7 +20,7 @@ Most képzeld el, hogy te vagy ennek az iratszekrénynek a tulajdonosa, de nincs
 
 Kétségtelen, hogy a nőt kellene felvenned (egyébként is tudnod kellett volna, hogy a nők sokkal szervezettebbek :) ). Nos, a Windows az első módszert használja, a Linux pedig a másodikat. Minél többet használsz Windows-t, annál lassabban férsz csak hozzá a fájlokhoz; minél többet használsz Linuxot, az annál gyorsabbá válik. A kezedben a döntés!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

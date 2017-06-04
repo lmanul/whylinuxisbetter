@@ -28,7 +28,7 @@ le bouton « Appliquer » ou « OK ». Vous pouvez aussi parcourir les
 listes de logiciels existants (énormément de choix !), classés par 
 catégories.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Donc premièrement: plus besoin de surfer. Deuxièmement: plus besoin 
 de télécharger et d'installer vous-même. Troisièmement: davantage de 

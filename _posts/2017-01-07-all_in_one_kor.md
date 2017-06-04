@@ -24,7 +24,7 @@ title: "﻿시스템을 설치하고 난 뒤에도 왜 <i>여전히</i> 이것�
 
 바로 작업을 시작할 수 있습니다.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 

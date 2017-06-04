@@ -13,7 +13,7 @@ Som vi redan har sagt i ”virus”-sektionen, betyder ”öppen mjukvara” (t.
 Men egentligen har inte <i>hur många</i> säkerhetshål som systemet har någon betydelse. Om det är många säkerhetshål, men ingen har upptäckt de än (pirater inkluderade), eller om de är små (de gör ingen större skillnad för systemet i sig), kommer pirater inte att kunna göra skada. Det är egentligen en fråga om <i>hur snabbt ett säkerhetshål blir åtgärdat, när det väl upptäckts</i>. Om ett säkerhetshål upptäcks i ett öppet program kan vem som helst i communityn ta en titt och hjälpa till. Lösningen (och uppdateringen) dyker vanligtvis upp inom ett par dagar, ibland efter bara några timmar. Microsoft har inte så stor kraft, och deras säkerhetsuppdateringar släpps efter ungefär en månad efter att hålet upptäckts (och ibland publicerad): Det är mer än tillräckligt med tid för pirater att göra vad de än vill göra med din dator.
 
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

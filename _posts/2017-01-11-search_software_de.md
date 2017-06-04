@@ -19,7 +19,7 @@ Uff, das ist eine Menge Arbeit, nur um etwas Neues auszuprobieren!
 
 Mit Linux geht alles <b>viel einfacher</b>. Linux hat etwas an Bord, das sich „Paketmanager“ nennt: Jede Software ist in ihrem eigenen Container (Paket) enthalten. Wenn du neue Software brauchst, musst du nur den Paketmanager öffnen, ein paar Suchwörter eintippen, die Software, die du installieren willst, auswählen und „Übernehmen“ oder „OK“ anklicken. Falls du lieber selber stöberst, kannst du dir die Software auch in Kategorien anzeigen lassen (es gibt sehr viel Auswahl!).
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 Zusammengefasst: Kein Gesuche im Netz mehr, kein manuelles Herunterladen und Installieren, dafür aber mehr Zeit, um die gesuchte Software auszuprobieren.
 

@@ -45,7 +45,7 @@ method ; Linux uses the second one. The more you use Windows, the slower
 it is to access files ; the more you use Linux, the faster it is. 
 The choice is up to you!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

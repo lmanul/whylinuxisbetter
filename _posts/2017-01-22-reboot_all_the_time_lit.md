@@ -14,7 +14,7 @@ Esate gird&#279;j&#281; apie interneto tarnybines stotis - serverius? Tai galing
 
 J&#363;s tikriausiai nepaliksite &#303;jungto kompiuterio keletui savai&#269;i&#371;, bet &#269;ia svarbu tai, kad sistema jums ne&#303;kyr&#279;s nuolat pra&#353;ydama perkrauti kompiuter&#303;.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

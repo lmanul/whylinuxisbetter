@@ -28,7 +28,7 @@ votre troisième écran, et le voilà.
 Jetez un coup d'oeil à la capture d'écran ci-dessous, et regardez 
 particulièrement le coin inférieur droit de l'écran :
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 C'est votre sélecteur d'espaces de travail (ou « bureaux virtuels »). 
 On peut y voir quatre bureaux (virtuels), mais vous pouvez en demander 
@@ -39,7 +39,7 @@ courant. Pour passer à un autre bureau, il suffit de cliquer dessus
 qu'ils contiennent: ici les trois autres sont vides), ou d'utiliser un 
 raccourci clavier.
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

@@ -39,7 +39,7 @@ problem zostanie rozwiązany, przestanie on nękać kogokolwiek, gdyż rozwiąza
 to będzie od razu dostępne dla wszystkich - w interesie ogółu jest przecież
 praca nad wspólnym ulepszaniem oprogramowania. Na tym opiera się rozwój Otwartego Oprogramowania.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

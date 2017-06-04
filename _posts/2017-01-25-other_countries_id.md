@@ -15,7 +15,7 @@ Dengan menggunakan <i>Free Software</i> (misalnya Linux), perekonomian (dan peng
 
 Orang-orang yang memahami bagaimana melakukan hal yang benar untuk menyimpan uangmu di negaramu sendiri akan memperoleh banyak manfaat, daripada orang-orang yang hanya menjual kotak-kotak dengan tingkat penjualan yang sudah ditentukan, mengirim uangmu ke luar negeri, dan meninggalkan para profesional IT tanpa pemahaman bagaimana mereka seharusnya bekerja.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

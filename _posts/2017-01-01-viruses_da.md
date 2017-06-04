@@ -18,7 +18,7 @@ Linux har næsten ingen virusser (eller vira hvis man skal tale korrekt). Og det
 
 </ul>
 
-<img src="Images/viruses_thumb.png" />
+<img src="/img/viruses_thumb.png" />
 
 
 

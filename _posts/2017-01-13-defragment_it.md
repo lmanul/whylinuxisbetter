@@ -42,7 +42,7 @@ sono molto più ordinate :) ). Ecco, Windows usa il primo metodo; Linux utilizza
 il secondo. Più usi Windows, più lento è l'accesso ai file; più usi Linux, più 
 questo è veloce. A te la scelta!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

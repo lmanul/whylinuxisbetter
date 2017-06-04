@@ -26,7 +26,7 @@ href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.h
 τους άλλους : είναι προς το συμφέρον όλων να συνεργαστούν για να βελτιωθεί το λογισμικό.
 Αυτός είναι ο τρόπος που δουλεύει ο ανοιχτός κώδικας.
 
-<img src="Images/report_bugs_thumb.png" />
+<img src="/img/report_bugs_thumb.png" />
 
 
 

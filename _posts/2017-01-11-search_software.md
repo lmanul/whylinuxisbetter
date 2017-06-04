@@ -25,7 +25,7 @@ manager, type a few keywords, choose which software you want to install
 and press "Apply" or "OK". Or you can just browse existing software 
 (that's a lot of choice!) in categories.
 
-<img src="Images/synaptic.png" />
+<img src="/img/synaptic.png" />
 
 So one: no more surfing. Two: no more downloading and installing 
 software yourself. Three: more time to actually try out the software.

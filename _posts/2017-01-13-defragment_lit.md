@@ -20,7 +20,7 @@ Jeigu jau žinote, kas yra fragmentacija, ir kas kelis mėnesius defragmentuojat
 
 Be abejonės, pasamdyti tokiam darbui reikėtų moterį (beveik visada moterys yra tvarkingesnės už vyrus :) ). Taigi, Windows'ai naudoja pirmąjį metodą; Linux'ai naudoja antrąjį. Kuo daugiau naudojatės Windows'ais, tuo lėčiau jums atsiveria failai; kuo daugiau naudojate Linux'us, failų atvėrimo greitis nelėtėja. Pasirinkimas Jūsų!
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

@@ -35,7 +35,7 @@ runs perfectly well without restarting all the time.
 You'll probably not let your computer stay on for several weeks but the 
 point is: the system won't bother you with restarting all the time.
 
-<img src="Images/reboot_all_the_time_thumb.png" />
+<img src="/img/reboot_all_the_time_thumb.png" />
 
 
 

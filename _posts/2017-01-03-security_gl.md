@@ -12,7 +12,7 @@ Como xa dixemos na sección dos "virus", un software de código aberto (ex Linux
 
 Pero de feito isto non é exactamente un asunto de <i>cantas</i> fallas un sistema ten, comparado cos outros. Se hai moitas fallas pero ninguén as descubriu aínda (incluíndo os delincuentes informáticos), ou hai unhas poucas (que non comprometan unha parte importante do sistema), os delincuentes informáticos non serán capaces de facer gran dano. É realmente un asunto de <i>canto tarda unha falla de seguridade en ser resolta unha vez que sexa descuberta</i>. Se unha falla de seguridade é descuberta nun programa de código aberto, calquera na comunidade de código aberto pode darlle unha mirada e resolvelo. A solución (e a actualización) adoita aparecer en poucos días, algunhas veces unhas poucas horas. Microsoft non ten tal man de obra e adoita liberar os parches de seguridade un mes despois que a falla sexa descuberta (e algunhas veces ata publicada): iso é máis que suficiente para que os delincuentes informáticos fagan os que queiran coa túa computadora.
 
-<img src="Images/security_thumb.png" />
+<img src="/img/security_thumb.png" />
 
 
 

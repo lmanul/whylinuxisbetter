@@ -14,7 +14,7 @@ So slobodným softvérom (napr Linux), sa hospodárstvo (a znalosti IT profesion
 
 Ľudia, ktorí vedia ako niečo spraviť, a udržia peniaze vo vašej krajine, z nich budú prosperovať, a nie tí, ktorí iba predávajú krabice s preddefinovaným ziskom z predaja, a posielajú peniaze mimo krajiny, a nechávajú IT profesionálov bez reálnych vedomostí o tom, ako veci fungujú.
 
-<img src="Images/earth.png" />
+<img src="/img/earth.png" />
 
 
 

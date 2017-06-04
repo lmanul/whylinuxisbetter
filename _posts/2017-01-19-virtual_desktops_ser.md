@@ -24,7 +24,7 @@ prebacite sa prvog na treći desktop i gotovo, tu je.
 Pogledajte sledeću sliku i obratite posebnu pažnju na donji desni ugao
 radne površine:
 
-<img src="Images/workspaces.png" border="0"/>
+<img src="/img/workspaces.png" border="0"/>
 
 To je Vaš "izmenjivač desktopova", i kao što vidite, ima ih četiri,
 ali možete da koristite i više od toga (ja koristim 12, a neki ljudi i
@@ -33,7 +33,7 @@ aktivan. Da bi prešli na neki drugi, kliknite na njega (svaki od njih
 pokazuje mali prikaz prozora koje sadrži: u ovom slučaju ostali su prazni),
 a možete koristiti i prečice sa tastature
 
-<img src="Images/workspaces_full.png" border="0"/>
+<img src="/img/workspaces_full.png" border="0"/>
 
 
 

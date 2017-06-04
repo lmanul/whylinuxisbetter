@@ -21,7 +21,7 @@ Di Cosmo</a>のアイデア）。引き出しひとつひとつにはあんま�
 
 どっちを雇うべきかって、考えるまでもないよね（体力だけあってもダメなの）。で、Windowsは体育会系で、Linuxは事務専門職のやりかた。Windowsは使えば使うほど、ファイルへのアクセスが遅くなる。Linuxは使えば使うほど早くなる。さっ、どっちを選ぶ？
 
-<img src="Images/defragment.png" />
+<img src="/img/defragment.png" />
 
 
 

@@ -36,7 +36,7 @@ title: "אחרי שכבר התקנת את המערכת, למה עליך <i>בכ�
 
 יאללה, הכול כבר מוכן.
 
-<img src="Images/app_menu.png" />
+<img src="/img/app_menu.png" />
 
 
 
