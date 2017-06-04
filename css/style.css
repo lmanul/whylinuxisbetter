@@ -65,7 +65,8 @@ body {background-color: #f2ffff; color: black; margin: 0;}
 /* Les éléments flottants */
 
 div.item {
-  float: left;
+  /* float: left; */
+  display: inline-block;
   text-align: center;
   width: 171px;
   height: 196px;
@@ -77,6 +78,7 @@ div.item {
   background-color: white;
   box-shadow: 5px 5px 9px #bbb;
   border-radius:5px;
+  vertical-align: top;
 }
 
 div.item p {
