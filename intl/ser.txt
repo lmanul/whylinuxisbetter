@@ -1,1 +1,4 @@
 Zašto je linux bolji
+STICK_TO_WINDOWS:Nekoliko slučajeva kada se treba držati Windows-a (za sada)
+SWITCH:Dobro, hoću linux na mom računaru! Šta sad treba da radim?
+

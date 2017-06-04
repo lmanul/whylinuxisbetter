@@ -1,1 +1,4 @@
 Kodėl Linux yra geriau
+STICK_TO_WINDOWS:Keli atvejai, kai turėtumėte likti prie Windows'ų (kol kas)
+SWITCH:Gerai, noriu Linux'ų savo kompiuteryje! Ką turėčiau daryti
+

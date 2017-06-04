@@ -1,1 +1,3 @@
-Varför Linux är bättre
+Varför Linux är bättreSTICK_TO_WINDOWS:De få fall där du ska stanna kvar med Windows (än så länge)
+SWITCH:Okej, jag vill ha Linux på min dator! Vad ska jag göra nu?
+

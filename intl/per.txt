@@ -1,1 +1,4 @@
 چرا لینوکس بهتره
+STICK_TO_WINDOWS:The few cases where you should stick to Windows (for now)
+SWITCH:خيلي خوب،من مي&zwnj;خوام لينوكس رو شروع كنم،چيكار بايد
+

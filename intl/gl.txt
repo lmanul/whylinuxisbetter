@@ -1,1 +1,4 @@
 Por que é mellor Linux?
+STICK_TO_WINDOWS:Os poucos casos onde deberías quedarte con Windows (polo de agora, aínda que podes instalar os dous sistemas)
+SWITCH:Ok, quero Linux no meu PC! Qué debería facer agora?
+

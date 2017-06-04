@@ -1,1 +1,4 @@
 Czemu Linuks jest lepszy?
+STICK_TO_WINDOWS:Kilka przypadków, w których pozostanie przy systemie Windows jest konieczne (przynajmniej na razie)
+SWITCH:No dobra, chcę spróbować tego całego Linuksa! Co teraz?
+

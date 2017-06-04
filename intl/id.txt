@@ -1,1 +1,4 @@
 Kenapa linux lebih baik
+STICK_TO_WINDOWS:Beberapa alasan kenapa harus tetap menggunakan Windows (saat ini)
+SWITCH:Baik, saya ingin Linux di PC saya! Apa yang harus saya lakukan sekarang?
+

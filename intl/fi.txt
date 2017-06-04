@@ -1,1 +1,4 @@
 Miksi Linux on parempi
+STICK_TO_WINDOWS:Muutama tapaus jonka vuoksi pysyisit Windowsissa (toistaiseksi)
+SWITCH:Selv&auml;, Tahdon Linuxin tietokoneelleni! Mit&auml; teen?
+

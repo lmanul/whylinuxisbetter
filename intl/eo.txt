@@ -1,1 +1,4 @@
 Kial Linux estas pli bona?
+STICK_TO_WINDOWS:Malmulte da kazoj kie vi devus resti kun Windows (dume)
+SWITCH:Bone, mi volas Linux en mia komputilo. Kion mi devas fari nun?
+

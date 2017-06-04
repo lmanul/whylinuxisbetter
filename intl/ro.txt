@@ -1,1 +1,4 @@
 De ce e Linux mai bun
+STICK_TO_WINDOWS:Puţinele motive pentru care ar trebui să rămâneţi la Windows (momentan)
+SWITCH:Okay, vreau Linux pe PC-ul meu! Ce trebuie să fac?
+

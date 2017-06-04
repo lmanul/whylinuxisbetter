@@ -1,1 +1,3 @@
-﻿為什麼 Linux 更為出色
+﻿為什麼 Linux 更為出色STICK_TO_WINDOWS:正體中文翻譯者：陳伯符。<br>bafu.chen [At] gmail [Dot] com
+SWITCH:Ok，我想要讓電腦擁有 Linux！我現在該怎麼做？
+

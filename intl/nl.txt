@@ -1,1 +1,4 @@
 Waarom Linux zoveel beter is
+STICK_TO_WINDOWS:Een paar dingen waarvoor je (nu nog) bij Windows moet blijven
+SWITCH:Ok, ik wil Linux op mijn computer! Wat moet ik nu doen?
+
