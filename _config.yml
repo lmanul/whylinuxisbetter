@@ -2,6 +2,6 @@ title: Why Linux is Better
 baseurl: "/"
 url: "http://whylinuxisbetter.net"
 
-permalink: :title
+permalink: :lang/:title
 
 markdown: kramdown
