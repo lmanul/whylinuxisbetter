@@ -3,7 +3,7 @@
 {% for post in posts reversed %}
   {% unless post.tags contains 'switch' %}
     {% unless post.tags contains 'stick_to_windows' %}
-      <a href="{{ post.url }}">
+      <a href=/{{ post.lang }}/"{{ post.url }}">
         <div class="item">
           {{ post.title }}
           <br /><br />
