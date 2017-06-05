@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: eo
 title: Industrio de presado de libroj
 tags: stick_to_windows

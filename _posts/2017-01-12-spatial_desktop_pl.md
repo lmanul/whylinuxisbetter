@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: pl
 title: "Nowa generacja rozwiązań wizualnych czeka na Ciebie"
 ---

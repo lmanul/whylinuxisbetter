@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: km
 title: "ឆ្ពោះ​ទៅ​កាន់​​ផ្ទៃ​តុ​ជំនាន់​ក្រោយ​ ។"
 ---

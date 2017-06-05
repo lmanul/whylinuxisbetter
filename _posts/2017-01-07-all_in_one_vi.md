@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: vi
 title: "Sau khi cài xong hệ điều hành, vì sao bạn <i>vẫn phải cài thêm</i> các chương trình khác ?"
 ---

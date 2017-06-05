@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: bg
 title: "Когато системата е инсталирана, защо <i>все още</i> да има нужда от инсталиране на разни неща?"
 ---

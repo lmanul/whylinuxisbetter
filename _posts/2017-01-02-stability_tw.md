@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: tw
 title: "你的系統穩定嗎？"
 ---

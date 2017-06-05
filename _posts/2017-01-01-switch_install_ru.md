@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: ru
 title: Устанавливаем Linux
 tags: switch

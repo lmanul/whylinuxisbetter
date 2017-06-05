@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: pl
 title: "Linuks chroni Twój komputer"
 ---

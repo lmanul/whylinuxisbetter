@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: per
 title: "صدها بازي رو رايگان انجام بدين"
 ---

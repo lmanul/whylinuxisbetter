@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: no
 title: "For mange vinduer? Bruk flere skrivebord."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: th
 title: "กระโดดเข้าสู่เดสก์ท็อปยุคใหม่"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: freedom
+identifier: freedom
 lang: tr
 title: "Özgürlük için!"
 ---

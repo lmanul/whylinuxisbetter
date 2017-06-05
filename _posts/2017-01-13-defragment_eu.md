@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: eu
 title: "Zure bizitza digitala zatituta dirudi?"
 ---

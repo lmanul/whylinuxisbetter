@@ -1,5 +1,5 @@
 ---
-permalink: freedom
+identifier: freedom
 lang: eo
 title: "Libereco!"
 ---

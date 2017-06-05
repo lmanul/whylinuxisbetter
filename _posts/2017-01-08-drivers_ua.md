@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: ua
 title: "Не думай про драйвери!"
 ---

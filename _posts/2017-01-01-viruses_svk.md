@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: svk
 title: "Zabudnite na vírusy"
 ---

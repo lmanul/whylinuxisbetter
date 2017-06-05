@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: lit
 title: "Ar Jūsų skaitmeninis gyvenimas atrodo išsibarstęs?"
 ---

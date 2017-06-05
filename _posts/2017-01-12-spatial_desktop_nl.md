@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: nl
 title: "Probeer de laatste generatie van bureaubladomgevingen"
 ---

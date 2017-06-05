@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: hu
 title: "Ismerd meg az asztalok legújabb generációját!"
 ---

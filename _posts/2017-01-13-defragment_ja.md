@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: ja
 title: "デフラグって何さ！"
 ---

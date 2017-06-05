@@ -1,5 +1,5 @@
 ---
-permalink: report_bugs
+identifier: report_bugs
 lang: el
 title: "Μην περιμένετε χρόνια να λυθούν τα προβλήματα, αναφέρετέ τα και παρακολουθήστε τα."
 ---

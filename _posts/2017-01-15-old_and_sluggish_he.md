@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: he
 title: " מדוע חלונות איטית יותר מיום ליום?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_hardcore_gamer
+identifier: stick_to_windows_hardcore_gamer
 lang: tw
 title: 你是一位重度的電腦遊戲玩家
 tags: stick_to_windows

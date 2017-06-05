@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: ser
 title: "Izaberite kako će Vaš desktop izgledati."
 ---

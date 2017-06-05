@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: tw
 title: "為什麼你的 Windows 日漸緩慢"
 ---

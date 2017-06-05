@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: pl
 title: "Czy Twoje życie wydaje się pofragmentowane?"
 ---

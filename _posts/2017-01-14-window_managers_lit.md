@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: lit
 title: "Pasirinkite, kaip atrodys Jūsų darbalaukis."
 ---

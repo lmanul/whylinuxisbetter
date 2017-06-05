@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: se
 title: "Verkar ditt digitala liv vara fragmenterat?"
 ---

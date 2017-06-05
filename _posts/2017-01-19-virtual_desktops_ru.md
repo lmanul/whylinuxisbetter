@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: ru
 title: "Слишком много окон? Используйте Виртуальные Рабочие Столы!."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_software
+identifier: stick_to_windows_software
 lang: da
 title: Proprietær software.
 tags: stick_to_windows

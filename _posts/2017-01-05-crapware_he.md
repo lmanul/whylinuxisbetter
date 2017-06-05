@@ -1,5 +1,5 @@
 ---
-permalink: crapware
+identifier: crapware
 lang: he
 title: "לא עוד תכניות זבל."
 ---

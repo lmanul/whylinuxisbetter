@@ -1,5 +1,5 @@
 ---
-permalink: reboot_all_the_time
+identifier: reboot_all_the_time
 lang: gl
 title: "Estás cansado de reiniciar a túa computadora todo o tempo?"
 ---

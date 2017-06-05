@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: ru
 title: "Ваша цифровая жизнь сильно фрагментирована?"
 ---

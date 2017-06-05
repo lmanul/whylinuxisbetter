@@ -1,5 +1,5 @@
 ---
-permalink: search_software
+identifier: search_software
 lang: ja
 title: "ソフトをお探し？　Web検索なんてやめとこうよ。Linuxにお任せ！"
 ---

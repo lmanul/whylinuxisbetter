@@ -1,5 +1,5 @@
 ---
-permalink: categories
+identifier: categories
 lang: se
 title: "Inget kaos i startmenyn"
 ---

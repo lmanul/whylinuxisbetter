@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_software
+identifier: stick_to_windows_software
 lang: it
 title: C'è del software proprietario di cui non puoi fare a meno
 tags: stick_to_windows

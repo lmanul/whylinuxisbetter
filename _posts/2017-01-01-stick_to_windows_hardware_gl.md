@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_hardware
+identifier: stick_to_windows_hardware
 lang: gl
 title: Compoñentes e Periféricos (Hardware)
 tags: stick_to_windows

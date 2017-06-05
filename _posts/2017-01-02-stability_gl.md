@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: gl
 title: "É inestable o teu sistema ?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: pl
 title: Książki i przemysł wydawniczy
 tags: stick_to_windows

@@ -1,5 +1,5 @@
 ---
-permalink: freedom
+identifier: freedom
 lang: hu
 title: "Szabadság!"
 ---

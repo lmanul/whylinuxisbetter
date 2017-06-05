@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: se
 title: "Varför blir Windows långsammare för var dag som går?"
 ---

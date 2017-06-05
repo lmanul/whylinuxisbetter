@@ -1,5 +1,5 @@
 ---
-permalink: amarok
+identifier: amarok
 lang: svk
 title: "Získajte úžasný prehrávač hudby"
 ---

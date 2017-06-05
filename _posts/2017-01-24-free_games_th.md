@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: th
 title: "หลายร้อยหลายพันเกมส์ให้เล่นฟรี"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: search_software
+identifier: search_software
 lang: ru
 title: "Нужен новый софт? Не парьтесь с гуглом, позвольте Linux скачать его."
 ---

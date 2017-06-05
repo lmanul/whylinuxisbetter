@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: ja
 title: "Linuxがパソコンを守ります！"
 ---

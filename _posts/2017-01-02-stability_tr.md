@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: tr
 title: "Sisteminiz kararsız mı?"
 ---

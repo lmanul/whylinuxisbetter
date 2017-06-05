@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: pl
 title: "Zagraj w setki darmowych gier"
 ---

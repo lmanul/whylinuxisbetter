@@ -1,5 +1,5 @@
 ---
-permalink: crapware
+identifier: crapware
 lang: fr
 title: "Fini les pourriciels."
 ---

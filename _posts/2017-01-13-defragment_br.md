@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: br
 title: "Sua vida digital parece fragmentada ?"
 ---

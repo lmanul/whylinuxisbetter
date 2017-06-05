@@ -1,5 +1,5 @@
 ---
-permalink: gaim_im_services
+identifier: gaim_im_services
 lang: cat
 title: "Fes servir MSN, AIM, ICQ, Jabber en una mateixa aplicació."
 ---

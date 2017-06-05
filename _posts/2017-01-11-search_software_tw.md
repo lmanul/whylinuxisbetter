@@ -1,5 +1,5 @@
 ---
-permalink: search_software
+identifier: search_software
 lang: tw
 title: "需要新軟體嗎？不用為了在網路上搜尋而煩惱，Linux 已經為你準備好了"
 ---

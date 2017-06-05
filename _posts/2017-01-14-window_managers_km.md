@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: km
 title: "ជ្រើស​រើស​​​រូប​រាង​ផ្ទៃ​តុ​របស់​អ្នក​ ។"
 ---

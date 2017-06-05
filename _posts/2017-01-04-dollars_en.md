@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: en
 title: "Don't pay $100 for your operating system"
 ---

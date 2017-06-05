@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: cat
 title: "Oblida't dels controladors"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: tr
 title: Bir "Çalışan CD" deneyin
 tags: switch

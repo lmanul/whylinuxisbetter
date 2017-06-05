@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: ser
 title: "Osvežite Vaš softver jednim klikom miša."
 ---

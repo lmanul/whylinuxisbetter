@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: bg
 title: "Прекалено много прозорци? Използвайте работните места."
 ---

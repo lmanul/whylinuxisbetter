@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: no
 title: "Hjelp andre land og ditt eget!"
 ---

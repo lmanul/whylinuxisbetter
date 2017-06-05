@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: per
 
 title: "وقتي سيستم نصب شد چرا شما بايد هنوز نصب كنيد؟"

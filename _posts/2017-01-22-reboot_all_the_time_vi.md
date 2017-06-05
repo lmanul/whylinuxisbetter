@@ -1,5 +1,5 @@
 ---
-permalink: reboot_all_the_time
+identifier: reboot_all_the_time
 lang: vi
 title: "Bạn có mệt khi phải khởi động lại máy tính suốt ngày không ?"
 ---

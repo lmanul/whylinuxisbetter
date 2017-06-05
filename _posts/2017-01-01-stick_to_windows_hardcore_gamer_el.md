@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_hardcore_gamer
+identifier: stick_to_windows_hardcore_gamer
 lang: el
 title: Παιχνίδια
 tags: stick_to_windows

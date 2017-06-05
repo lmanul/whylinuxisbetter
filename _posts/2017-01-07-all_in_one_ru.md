@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: ru
 title: "Вы установили систему. <i>Зачем</i> устанавливать дополнительный софт?!"
 ---

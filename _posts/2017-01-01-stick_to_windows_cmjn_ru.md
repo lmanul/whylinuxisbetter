@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: ru
 title: Книги и печатная индустрия
 tags: stick_to_windows

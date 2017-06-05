@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: bn
 title: "আবহাওয়ার উপর নজর রাখুন।"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: ua
 title: "Допоможи іншим країнам та своїй власній"
 ---

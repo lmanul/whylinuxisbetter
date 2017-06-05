@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: bn
 title: "অপারেটিং সিস্টেমের জন্য $100 খরচ করতে হবে না।"
 ---

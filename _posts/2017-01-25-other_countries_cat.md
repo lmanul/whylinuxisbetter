@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: cat
 title: "Ajuda altres païssos i al teu també"
 ---

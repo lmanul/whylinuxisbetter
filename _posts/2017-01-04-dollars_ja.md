@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: ja
 title: "OSに3万円？"
 ---

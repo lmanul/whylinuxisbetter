@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: eo
 title: "Kiam la operaciumo estas instalita, kial vi<i>ankoraŭ</i> bezonas instali pli?"
 ---

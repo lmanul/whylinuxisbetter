@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: ru
 title: "Почему Windows работает всё медленнее, день за днем?"
 ---

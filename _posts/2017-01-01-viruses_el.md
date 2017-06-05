@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: el
 title: "Ξεχάστε τους ιούς."
 ---

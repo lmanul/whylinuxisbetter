@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: id
 title: "Membantu Negara Lain, dan juga Negara Anda"
 ---

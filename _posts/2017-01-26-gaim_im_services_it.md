@@ -1,5 +1,5 @@
 ---
-permalink: gaim_im_services
+identifier: gaim_im_services
 lang: it
 title: "Usa MSN, AIM, ICQ, Jabber, con un singolo programma"
 ---

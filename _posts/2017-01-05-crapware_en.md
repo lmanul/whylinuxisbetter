@@ -1,5 +1,5 @@
 ---
-permalink: crapware
+identifier: crapware
 lang: en
 title: "No more crapware."
 ---

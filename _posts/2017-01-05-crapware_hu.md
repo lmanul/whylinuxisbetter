@@ -1,5 +1,5 @@
 ---
-permalink: crapware
+identifier: crapware
 lang: hu
 title: "Nincs több sz*rware."
 ---

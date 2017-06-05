@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: km
 title: ដំ​ឡើង​​លីនុច
 tags: switch

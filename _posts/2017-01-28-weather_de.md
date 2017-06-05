@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: de
 title: "Behalt das Wetter im Auge."
 ---

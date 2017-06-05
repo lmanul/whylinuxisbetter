@@ -1,5 +1,5 @@
 ---
-permalink: gaim_im_services
+identifier: gaim_im_services
 lang: ser
 title: "Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom."
 ---

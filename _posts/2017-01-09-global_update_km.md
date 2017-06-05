@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: km
 title: "ធ្វើ​ឲ្យ​​កម្មវិធី​របស់​អ្នកទាំងអស់​ជា​ទាន់សម័យ ដោយ​គ្រាន់​តែ​ចុច​ម្ដង​ប៉ុណ្ណោះ ។"
 ---

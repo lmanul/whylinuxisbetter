@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: bn
 title: "সফটওয়্যারে গোপন কিছু থাকবে না।"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: no
 title: "Hvorfor blir din Windows tregere for hver dag som går?"
 ---

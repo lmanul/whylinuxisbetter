@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: per
 
 title: "زندگي ديجيتالتون متفرق شده؟"

@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: kor
 title: 리눅스 라이브CD 사용하기
 tags: switch

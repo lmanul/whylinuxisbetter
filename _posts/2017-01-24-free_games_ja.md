@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: ja
 title: "無料ゲームが無数にあるんだよ"
 ---

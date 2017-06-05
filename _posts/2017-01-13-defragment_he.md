@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: he
 title: "מרגישים שהחיים הדיגיטליים שלכם שבורים לרסיסים?"
 ---

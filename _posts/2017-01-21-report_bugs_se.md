@@ -1,5 +1,5 @@
 ---
-permalink: report_bugs
+identifier: report_bugs
 lang: se
 title: "Rapportera buggar"
 ---

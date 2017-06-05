@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: id
 title: "Pilih seperti apa desktop pilihanmu."
 ---

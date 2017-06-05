@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: id
 title: "Mengapa semakin hari Windows Anda semakin lambat?"
 ---

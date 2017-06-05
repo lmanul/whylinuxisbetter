@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: de
 title: Buch-/Druckindustrie
 tags: stick_to_windows

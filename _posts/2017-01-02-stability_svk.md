@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: svk
 title: "Je váš systém nestabilný?"
 ---

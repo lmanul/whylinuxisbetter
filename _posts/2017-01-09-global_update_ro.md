@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: ro
 title: "Actualizaţi-vă tot software-ul cu un singur click."
 ---

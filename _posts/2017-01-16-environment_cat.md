@@ -1,5 +1,5 @@
 ---
-permalink: environment
+identifier: environment
 lang: cat
 title: "Gràcies a Franz Bourlet per la idea"
 ---

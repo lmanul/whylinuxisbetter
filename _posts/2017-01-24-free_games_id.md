@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: id
 title: "Mainkan ratusan jenis permainan secara bebas"
 ---

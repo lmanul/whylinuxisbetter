@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: ja
 title: DTP業界は厳しいよ。
 tags: stick_to_windows

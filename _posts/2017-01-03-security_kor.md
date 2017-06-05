@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: kor
 title: "리눅스, 당신의 컴퓨터를 지킵니다"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: environment
+identifier: environment
 lang: cn
 title: "环境保护"
 ---

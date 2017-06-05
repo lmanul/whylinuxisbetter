@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: hu
 title: "Frissítsd minden programod egyetlen kattintással!"
 ---

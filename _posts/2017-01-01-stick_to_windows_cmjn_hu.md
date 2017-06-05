@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: hu
 title: Nyomdaipar
 tags: stick_to_windows

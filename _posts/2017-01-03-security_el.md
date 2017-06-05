@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: el
 title: "Το Linux προστατεύει τον υπολογιστή σας"
 ---

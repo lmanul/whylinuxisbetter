@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: eo
 title: "Forgesu la pelilojn"
 ---

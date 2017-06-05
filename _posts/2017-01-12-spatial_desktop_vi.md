@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: vi
 title: "Sử dụng môi trường làm việc mới"
 ---

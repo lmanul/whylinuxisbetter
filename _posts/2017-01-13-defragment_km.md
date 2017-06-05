@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: km
 title: "តើ​ជីវិត​ឌី​ជីថល​របស់​អ្នក​ហាក់​ដូចជា​​ការ​រៀបចំ​​​ឬ ?"
 ---

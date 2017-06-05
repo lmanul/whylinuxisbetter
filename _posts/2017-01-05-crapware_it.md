@@ -1,5 +1,5 @@
 ---
-permalink: crapware
+identifier: crapware
 lang: it
 title: "Mai più software spazzatura."
 ---

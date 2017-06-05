@@ -1,5 +1,5 @@
 ---
-permalink: amarok
+identifier: amarok
 lang: per
 
 

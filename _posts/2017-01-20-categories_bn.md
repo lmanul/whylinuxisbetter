@@ -1,5 +1,5 @@
 ---
-permalink: categories
+identifier: categories
 lang: bn
 title: "স্টার্ট মেনু রাখুন পরিচ্ছন্ন।"
 ---

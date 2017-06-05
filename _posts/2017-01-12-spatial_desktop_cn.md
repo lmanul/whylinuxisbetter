@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: cn
 title: "进入下一代桌面时代"
 ---

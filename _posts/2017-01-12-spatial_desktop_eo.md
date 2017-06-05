@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: eo
 title: "Eniru en la novan generacion de labortabloj."
 ---

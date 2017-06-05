@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: se
 title: "Spela hundratals av spel gratis"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: th
 title: การติดตั้งลินุกซ์
 tags: switch

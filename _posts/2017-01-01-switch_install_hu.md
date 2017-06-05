@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: hu
 title: Telepíts Linuxot!
 tags: switch

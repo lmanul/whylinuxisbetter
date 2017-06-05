@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: ser
 title: "Uskočite u novu generaciju radne površine"
 ---

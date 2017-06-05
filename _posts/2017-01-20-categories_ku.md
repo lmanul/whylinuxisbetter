@@ -1,5 +1,5 @@
 ---
-permalink: categories
+identifier: categories
 lang: ku
 title: "هیچ قەرەباڵغیەک نیە لە لیستەی سەرەتادا"
 ---

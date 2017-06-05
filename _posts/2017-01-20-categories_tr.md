@@ -1,5 +1,5 @@
 ---
-permalink: categories
+identifier: categories
 lang: tr
 title: "Başlat menünüzde kaybolmayın"
 ---

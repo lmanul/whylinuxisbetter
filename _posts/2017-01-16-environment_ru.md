@@ -1,5 +1,5 @@
 ---
-permalink: environment
+identifier: environment
 lang: ru
 title: "Сделайте свой вклад в окружающую среду"
 ---

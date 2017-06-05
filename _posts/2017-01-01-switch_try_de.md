@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: de
 title: Teste eine „Live-CD“
 tags: switch

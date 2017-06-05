@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: fr
 title: Essayez Linux grâce à un "Live CD"
 tags: switch

@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_hardware
+identifier: stick_to_windows_hardware
 lang: th
 title: ฮาร์ดแวร์
 tags: stick_to_windows

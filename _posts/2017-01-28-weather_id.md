@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: id
 title: "Jangan lupa selalu mengamati cuaca."
 ---

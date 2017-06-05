@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: eo
 title: Provu "Senperan KD-n"
 tags: switch

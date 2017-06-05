@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: bg
 title: "Защо вашият Windows става все по-бавен с всеки изминал ден?"
 ---

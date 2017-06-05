@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: es
 title: "Juega gratis a cientos de juegos"
 ---

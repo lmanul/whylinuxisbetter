@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: tr
 title: "Yazılımınızı tek bir tık ile güncelleyin."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: th
 title: "เลือกเอาว่าจะให้หน้า (จอ) ของคุณเป็นอย่างไร"
 ---

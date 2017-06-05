@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: eo
 title: "Ĉu via cifereca vivo ŝajnas fragmentigita?"
 ---

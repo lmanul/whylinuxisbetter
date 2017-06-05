@@ -1,5 +1,5 @@
 ---
-permalink: report_bugs
+identifier: report_bugs
 lang: ua
 title: "Не чекай роками, поки помилки будуть усунені – повідом про них та позбудься їх"
 ---

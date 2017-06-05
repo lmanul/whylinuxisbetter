@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: vi
 title: "Linux bảo vệ máy tính của bạn"
 ---

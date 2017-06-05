@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: kor
 title: "﻿바탕환경을 맘껏 바꿔보세요"
 ---

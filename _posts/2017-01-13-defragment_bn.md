@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: bn
 title: "ডিস্ক ডিফ্রাগমেন্টের ঝামেলা থেকে মুক্তি।"
 ---

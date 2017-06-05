@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: th
 title: "ชีวิตดิจิตอลของคุณแตกออกเป็นเสี่ยงๆ ไหม?"
 ---

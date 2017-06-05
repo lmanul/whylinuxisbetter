@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: bn
 title: "স্ট্যাবিলিটি নিয়ে সমস্যা?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: de
 title: "Vergiss Viren."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: el
 title: Εγκαταστείστε το Linux
 tags: switch

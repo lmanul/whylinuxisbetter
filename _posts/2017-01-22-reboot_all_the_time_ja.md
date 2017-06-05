@@ -1,5 +1,5 @@
 ---
-permalink: reboot_all_the_time
+identifier: reboot_all_the_time
 lang: ja
 title: "再起動、再起動、再起動。もううんざり！"
 ---

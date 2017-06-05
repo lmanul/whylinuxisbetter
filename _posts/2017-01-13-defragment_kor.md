@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: kor
 title: "﻿조각모음이 필요하십니까?"
 ---

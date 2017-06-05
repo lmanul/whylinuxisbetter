@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: cat
 title: "No paguis 100€ pel teu sistema operatiu"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: es
 title: "Mantente al tanto del tiempo"
 ---

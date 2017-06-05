@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: fr
 title: "Pas de 'portes dérobées'."
 ---

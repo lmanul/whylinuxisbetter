@@ -1,5 +1,5 @@
 ---
-permalink: environment
+identifier: environment
 lang: km
 title: "បរិស្ថាន​"
 ---

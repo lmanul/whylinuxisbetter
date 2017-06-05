@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: per
 title: امتحان کردن یک "سی دی زنده"
 tags: switch

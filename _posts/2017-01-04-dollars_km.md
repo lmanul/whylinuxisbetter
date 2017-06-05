@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: km
 title: "មិន​ចាំបាច់​ចំណាយ ៣០០ ដុល្លា សម្រាប់​ប្រព័ន្ធការ​​ប្រតិបត្តិ​ការ​របស់​អ្នក​ទេ"
 ---

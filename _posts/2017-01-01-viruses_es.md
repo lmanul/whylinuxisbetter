@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: es
 title: "Olvida los virus."
 ---

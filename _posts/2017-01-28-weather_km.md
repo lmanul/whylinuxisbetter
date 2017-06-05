@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: km
 title: "មើល​អាកាស​ធាតុ​ ។"
 ---

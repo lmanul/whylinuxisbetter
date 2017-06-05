@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: tw
 title: "由你決定桌面環境的外觀"
 ---

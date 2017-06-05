@@ -1,5 +1,5 @@
 ---
-permalink: crapware
+identifier: crapware
 lang: nl
 title: "Geen crapware meer."
 ---

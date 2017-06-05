@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_software
+identifier: stick_to_windows_software
 lang: km
 title: កម្មវិធី​​មាន​កម្មសិទ្ធិ​
 tags: stick_to_windows

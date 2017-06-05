@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: id
 title: "Linux melindungi komputermu"
 ---

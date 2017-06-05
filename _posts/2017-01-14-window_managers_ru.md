@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: ru
 title: "Будьте эксклюзивными и альтернативными - выберите сами вид рабочего стола!."
 ---

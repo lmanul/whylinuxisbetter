@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: fr
 title: "Linux protège votre ordinateur"
 ---

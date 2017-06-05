@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_hardware
+identifier: stick_to_windows_hardware
 lang: tw
 title: 你的硬體尚未被支援
 tags: stick_to_windows

@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: svk
 title: Inštalácia Linux-u
 tags: switch

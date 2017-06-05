@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: ser
 title: "Jel Vap sistem stabilan ?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: he
 title: "תשכחו מוירוסים"
 ---

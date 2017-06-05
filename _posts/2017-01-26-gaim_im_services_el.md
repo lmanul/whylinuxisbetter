@@ -1,5 +1,5 @@
 ---
-permalink: gaim_im_services
+identifier: gaim_im_services
 lang: el
 title: "Χρησιμοποιήστε MSN, AIM, ICQ, Jabber, με ένα μόνο πρόγραμμα"
 ---

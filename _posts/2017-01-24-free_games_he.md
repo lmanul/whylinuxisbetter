@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: he
 title: " ! שחק במאות משחקים, בחינם "
 ---

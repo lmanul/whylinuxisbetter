@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: cn
 title: 安装Linux
 tags: switch

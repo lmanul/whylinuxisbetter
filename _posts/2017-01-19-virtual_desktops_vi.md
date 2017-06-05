@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: vi
 title: "Quá nhiều cửa sổ trên màn hình ? Hãy dùng nhiều không gian làm việc (workspace)"
 ---

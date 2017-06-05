@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: eo
 title: "Forgesu la virusojn."
 ---

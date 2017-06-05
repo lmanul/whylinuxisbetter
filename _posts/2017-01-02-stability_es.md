@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: es
 title: "¿Tu sistema es inestable?"
 ---

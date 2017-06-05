@@ -1,5 +1,5 @@
 ---
-permalink: categories
+identifier: categories
 lang: eo
 title: "Sen fuŝoj en via startmenuo"
 ---

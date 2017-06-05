@@ -1,5 +1,5 @@
 ---
-permalink: environment
+identifier: environment
 lang: kor
 title: "﻿환경문제"
 ---

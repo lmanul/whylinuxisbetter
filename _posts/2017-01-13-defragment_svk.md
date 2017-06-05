@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: svk
 title: "Vyzerá vaš digitálny život fragmentovane?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: ru
 title: "Не нужно платить $100 за новую операционную систему "
 ---

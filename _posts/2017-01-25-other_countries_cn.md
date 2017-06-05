@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: cn
 title: "帮助其他国家和您的祖国"
 ---

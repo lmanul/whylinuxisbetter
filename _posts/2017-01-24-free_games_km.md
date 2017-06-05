@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: km
 title: "លេង​ល្បែងរាប់​​រយ​​ដោយ​ឥត​គិត​ថ្លៃ​"
 ---

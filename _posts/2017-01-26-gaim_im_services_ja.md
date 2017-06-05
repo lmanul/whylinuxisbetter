@@ -1,5 +1,5 @@
 ---
-permalink: gaim_im_services
+identifier: gaim_im_services
 lang: ja
 title: "MSNにAIMにICQにGoogle Talkに。ああ、どれを使ったらいいのさ？"
 ---

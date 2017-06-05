@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: cn
 title: "当你的系统已经安装好了以后，为什么你<i>还</i>需要再安装别的东西？"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: svk
 title: "Pomôžte ostatným krajinám, a aj tej svojej"
 ---

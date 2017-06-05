@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_software
+identifier: stick_to_windows_software
 lang: svk
 title: Autorizovaný (zákonom chránený) softvér
 tags: stick_to_windows

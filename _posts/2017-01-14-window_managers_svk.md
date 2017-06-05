@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: svk
 title: "Vyberte si štýl vašej pracovnej plochy"
 ---

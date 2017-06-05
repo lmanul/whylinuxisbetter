@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: bn
 title: "ভাইরাস নিয়ে দুশ্চিন্তা ভুলে যান।"
 ---

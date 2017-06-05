@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_hardware
+identifier: stick_to_windows_hardware
 lang: hu
 title: Hardver
 tags: stick_to_windows

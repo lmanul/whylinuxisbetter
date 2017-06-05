@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: cn
 title: 图书及印刷业
 tags: stick_to_windows

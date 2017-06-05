@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: ru
 title: "Ваша система нестабильна?"
 ---

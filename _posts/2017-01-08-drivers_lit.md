@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: lit
 title: "Pamirškite tvarkykles (draiverius)"
 ---

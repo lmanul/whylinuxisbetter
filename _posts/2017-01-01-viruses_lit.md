@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: lit
 title: "Pamir&#353;kite apie virusus."
 ---

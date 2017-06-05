@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: eo
 title: "Sen post-pordoj en via programaro."
 ---

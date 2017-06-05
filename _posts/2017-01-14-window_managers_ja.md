@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: ja
 title: "デスクトップぐらい自分色に染めたいわな"
 ---

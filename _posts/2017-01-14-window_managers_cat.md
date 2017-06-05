@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: cat
 title: "Tria l'aparença del teu escriptori."
 ---

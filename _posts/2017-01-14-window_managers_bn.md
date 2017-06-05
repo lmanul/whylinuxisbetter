@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: bn
 title: "নিজের পছন্দমত ডেস্কটপ-পরিবেশ বেছে নিন।"
 ---

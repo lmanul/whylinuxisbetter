@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: cn
 title: "轻松了解天气情况"
 ---

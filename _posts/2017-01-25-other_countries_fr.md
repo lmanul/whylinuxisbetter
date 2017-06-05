@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: fr
 title: "Aidez les autres pays, et le vôtre"
 ---

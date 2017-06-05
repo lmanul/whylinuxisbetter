@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: lit
 title: "Sek orus."
 ---

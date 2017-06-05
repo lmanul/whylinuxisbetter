@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: it
 title: "Dimenticati dei driver"
 ---

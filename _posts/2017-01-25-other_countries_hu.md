@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: hu
 title: "Segíts más országokon és a sajátodon!"
 ---

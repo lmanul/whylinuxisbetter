@@ -1,5 +1,5 @@
 ---
-permalink: crapware
+identifier: crapware
 lang: es
 title: "No más mierdaware."
 ---

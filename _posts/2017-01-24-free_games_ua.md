@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: ua
 title: "Грай в сотні безкоштовних ігор"
 ---

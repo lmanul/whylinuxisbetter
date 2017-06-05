@@ -1,5 +1,5 @@
 ---
-permalink: reboot_all_the_time
+identifier: reboot_all_the_time
 lang: pl
 title: "Czy nie męczą Cię ciągłe restarty?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: tr
 title: "Sürücüleri unutun"
 ---

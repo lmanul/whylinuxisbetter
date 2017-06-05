@@ -1,5 +1,5 @@
 ---
-permalink: environment
+identifier: environment
 lang: ua
 title: "Linux сприятливіший для навколишнього середовища"
 ---

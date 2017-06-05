@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: bg
 title: "Линукс защитава компютъра ви"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: eo
 title: "Ĵetu rigardon al la vetero."
 ---

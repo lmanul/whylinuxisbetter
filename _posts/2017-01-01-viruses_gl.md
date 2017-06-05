@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: gl
 title: "Esquéceche dos virus."
 ---

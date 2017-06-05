@@ -1,5 +1,5 @@
 ---
-permalink: categories
+identifier: categories
 lang: de
 title: "Kein Riesendurcheinander in deinem Startmenü"
 ---

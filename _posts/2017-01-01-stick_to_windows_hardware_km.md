@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_hardware
+identifier: stick_to_windows_hardware
 lang: km
 title: ផ្នែក​រឹង​
 tags: stick_to_windows

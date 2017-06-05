@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: th
 title: "ไวรัส.... ลืมๆ มันไปได้เลย"
 ---

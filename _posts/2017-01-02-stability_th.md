@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: th
 title: "ระบบของคุณยังเสถียรดีอยู่ฤๅ?"
 ---

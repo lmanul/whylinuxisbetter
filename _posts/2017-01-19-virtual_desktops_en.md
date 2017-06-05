@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: en
 title: "Too many windows? Use workspaces."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: tr
 title: "Çok fazla mı pencere var? Çoklu masaüstü kullanın."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: ja
 title: "さよなら、ウィルス！"
 ---

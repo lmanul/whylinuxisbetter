@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: ro
 title: "Nu plătiţi $100 pentru sistemul de operare"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: bn
 title: "ড্রাইভার? ভুলে যান"
 ---

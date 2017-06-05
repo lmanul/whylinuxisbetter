@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: fr
 title: "Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?"
 ---

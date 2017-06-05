@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: cat
 title: "Sense portes falses al teu programari."
 ---

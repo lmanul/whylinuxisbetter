@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: tw
 title: "幫助台灣以及其他國家"
 ---

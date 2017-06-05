@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: th
 title: ธุรกิจหนังสือและสิ่งพิมพ์
 tags: stick_to_windows

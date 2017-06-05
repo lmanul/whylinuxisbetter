@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: vi
 title: "Không còn lo lắng về virus nữa"
 ---

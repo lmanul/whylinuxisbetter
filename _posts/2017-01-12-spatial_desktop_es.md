@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: es
 title: "Entra en la nueva generación de escritorios"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: nl
 title: "Teveel vensters? Gebruik werkbladen."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: cat
 title: "Juga a centenars de jocs de franc"
 ---

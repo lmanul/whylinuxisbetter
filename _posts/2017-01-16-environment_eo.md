@@ -1,5 +1,5 @@
 ---
-permalink: environment
+identifier: environment
 lang: eo
 title: "Medio"
 ---

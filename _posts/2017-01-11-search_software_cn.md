@@ -1,5 +1,5 @@
 ---
-permalink: search_software
+identifier: search_software
 lang: cn
 title: "需要新的软件，不必麻烦到网上搜索，Linux帮你搞定。"
 ---

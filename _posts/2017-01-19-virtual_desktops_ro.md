@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: ro
 title: "Prea multe ferestre? Folosiţi spaţiile de lucru."
 ---

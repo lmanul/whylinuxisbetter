@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: br
 title: "Salte para a próxima geração de desktops."
 ---

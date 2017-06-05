@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: ua
 title:  Встанови Linux (не видаляючи Windows)
 tags: switch

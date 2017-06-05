@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: ru
 title: "Помоги своей стране и многим другим!"
 ---

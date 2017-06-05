@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_software
+identifier: stick_to_windows_software
 lang: el
 title: "'Κλειστό' λογισμικό"
 tags: stick_to_windows

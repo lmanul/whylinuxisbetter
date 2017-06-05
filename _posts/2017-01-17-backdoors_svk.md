@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: svk
 title: "Žiadne zadné vrátka vo vašom softvéri"
 ---

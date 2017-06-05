@@ -1,5 +1,5 @@
 ---
-permalink: report_bugs
+identifier: report_bugs
 lang: bn
 title: "সহজে বাগ রিপোর্ট, ট্র্যাক করুন।"
 ---

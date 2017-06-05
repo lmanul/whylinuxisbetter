@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: no
 title: "Glem alt om virus."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: search_software
+identifier: search_software
 lang: se
 title: "Behöver du nya program? Strunta i att söka på nätet – Linux ordnar det åt dig."
 ---

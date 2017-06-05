@@ -1,5 +1,5 @@
 ---
-permalink: gaim_im_services
+identifier: gaim_im_services
 lang: no
 title: "Bruk MSN, AIM, ICQ, Jabber, alt med ett enkelt program."
 ---

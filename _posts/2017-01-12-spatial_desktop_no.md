@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: no
 title: "Gjør deg klar for neste generasjons skrivebord."
 ---

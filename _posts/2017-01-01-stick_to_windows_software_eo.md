@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_software
+identifier: stick_to_windows_software
 lang: eo
 title: Proprieta programaro
 tags: stick_to_windows

@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: he
 title: "האם המערכת שלך סובלת מאי-יציבות?"
 ---

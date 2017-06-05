@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: kor
 title: "﻿다른 나라를 도와주세요, 당신의 나라도요"
 ---

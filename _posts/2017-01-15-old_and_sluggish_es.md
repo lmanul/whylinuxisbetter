@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: es
 title: "¿Por qué tu Windows es más lento cada día?"
 ---

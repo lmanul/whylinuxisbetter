@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: el
 title: "Κάντε άλμα στην νέα γενιά περιβάλλοντων εργασίας."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: nl
 title: Probeer een "live-cd"
 tags: switch

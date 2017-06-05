@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: cat
 title: "Massa finestres? Fes servir els espais de treball."
 ---

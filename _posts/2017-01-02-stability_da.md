@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: da
 title: "Er dit system ustabilt?"
 ---

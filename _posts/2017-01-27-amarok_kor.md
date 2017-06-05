@@ -1,5 +1,5 @@
 ---
-permalink: amarok
+identifier: amarok
 lang: kor
 title: "훌륭한 음악 재생기를 써보세요"
 ---

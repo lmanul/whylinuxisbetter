@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: tw
 title: 你在出版業或印刷業工作
 tags: stick_to_windows

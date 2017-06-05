@@ -1,5 +1,5 @@
 ---
-permalink: environment
+identifier: environment
 lang: tr
 title: "Çevre için de bir şeyler yapın"
 ---

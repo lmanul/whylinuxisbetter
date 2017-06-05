@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: ru
 title: Испытайте "живой CD/DVD"
 tags: switch

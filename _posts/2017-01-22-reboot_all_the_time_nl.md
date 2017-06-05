@@ -1,5 +1,5 @@
 ---
-permalink: reboot_all_the_time
+identifier: reboot_all_the_time
 lang: nl
 title: "Ben je moe om de hele tijd te herstarten?"
 ---

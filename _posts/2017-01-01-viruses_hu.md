@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: hu
 title: "Felejtsd el a vírusokat!"
 ---

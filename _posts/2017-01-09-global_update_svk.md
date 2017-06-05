@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: svk
 title: "Aktualizujte všetky svoje programy jedným kliknutím"
 ---

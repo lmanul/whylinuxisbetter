@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: se
 title: "Välj hur du ditt skrivbord ska se ut."
 ---

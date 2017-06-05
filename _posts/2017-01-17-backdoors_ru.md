@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: ru
 title: "Никаких ''скрытых ходов'' в вашем ПО."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: gl
 title: Proba un "CD Vivo" (Live CD)
 tags: switch

@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: ua
 title: "Чи стійка ваша комп’ютерна система?"
 ---

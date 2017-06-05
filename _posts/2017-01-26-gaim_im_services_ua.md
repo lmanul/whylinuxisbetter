@@ -1,5 +1,5 @@
 ---
-permalink: gaim_im_services
+identifier: gaim_im_services
 lang: ua
 title: "MSN, AIM, ICQ та Jabber в одній програмі"
 ---

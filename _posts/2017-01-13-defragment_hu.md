@@ -1,5 +1,5 @@
 ---
-permalink: defragment
+identifier: defragment
 lang: hu
 title: "Töredékekként látod a világot?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: lit
 title: "Per daug lang&#371;? Naudokit&#279;s virtualiais darbastaliais."
 ---

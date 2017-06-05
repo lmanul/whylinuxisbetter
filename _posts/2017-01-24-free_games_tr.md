@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: tr
 title: "Yüzlerce oyunu ücretsiz oynayın"
 ---

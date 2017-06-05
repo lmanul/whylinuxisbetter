@@ -1,5 +1,5 @@
 ---
-permalink: report_bugs
+identifier: report_bugs
 lang: cn
 title: "报告漏洞（Bugs）"
 ---

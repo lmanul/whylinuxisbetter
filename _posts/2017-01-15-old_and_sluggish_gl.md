@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: gl
 title: "Por que Windows se fai máis lento cada día?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: th
 title: "ไม่จำเป็นต้องจ่ายเป็นหมื่นเพื่อระบบปฏิบัติการตัวเดียว"
 ---

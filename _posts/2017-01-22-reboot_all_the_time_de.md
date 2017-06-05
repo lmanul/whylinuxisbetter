@@ -1,5 +1,5 @@
 ---
-permalink: reboot_all_the_time
+identifier: reboot_all_the_time
 lang: de
 title: "Bist du es leid, deinen Computer st&auml;ndig neustarten zu m&uuml;ssen?"
 ---

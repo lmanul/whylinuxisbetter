@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: th
 title: "ลินุกซ์ปกป้องอย่างมั่นใจ"
 ---

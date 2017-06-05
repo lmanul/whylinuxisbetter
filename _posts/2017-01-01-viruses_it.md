@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: it
 title: "Dimenticati dei virus"
 ---

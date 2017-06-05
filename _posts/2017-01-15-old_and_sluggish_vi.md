@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: vi
 title: "Vì sao Windows càng ngày càng chạy chậm ?"
 ---

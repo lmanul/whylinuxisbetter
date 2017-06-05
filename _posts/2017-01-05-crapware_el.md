@@ -1,5 +1,5 @@
 ---
-permalink: crapware
+identifier: crapware
 lang: el
 title: "Όχι άλλο crapware."
 ---

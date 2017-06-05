@@ -1,5 +1,5 @@
 ---
-permalink: gaim_im_services
+identifier: gaim_im_services
 lang: lit
 title: "Naudokit&#279;s MSN, AIM, ICQ, Jabber su viena programa"
 ---

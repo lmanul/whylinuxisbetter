@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: he
 title: "עדכן את כל התוכנות שלך בקליק אחד."
 ---

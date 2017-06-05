@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: id
 title: "Lupakan <i>driver</i>"
 ---

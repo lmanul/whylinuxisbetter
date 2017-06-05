@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: ser
 title: " Igrajte stotine igara besplatno."
 ---

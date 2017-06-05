@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: bg
 title: "Помогнете на другите страни и на вашата собствена"
 ---

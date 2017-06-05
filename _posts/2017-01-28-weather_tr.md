@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: tr
 title: "Havadan sudan haberiniz olsun"
 ---

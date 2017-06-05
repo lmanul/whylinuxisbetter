@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: ro
 title: "Jucaţi-vă sute de jocuri gratuite!"
 ---

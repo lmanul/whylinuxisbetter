@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: it
 title: Prova un "Live CD"
 tags: switch

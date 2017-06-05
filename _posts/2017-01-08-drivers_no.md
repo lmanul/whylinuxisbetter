@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: no
 title: "Glem alt om drivere."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: th
 title: "เมื่อระบบติดตั้งมาให้แล้ว ทำไมคุณยังต้องการติดตั้งสิ่งต่างๆ เหล่านั้นอีก?"
 ---

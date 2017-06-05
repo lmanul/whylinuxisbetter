@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: el
 title: "Πάρα πολλά παράθυρα; Χρησιμοποιήστε επιφάνειες εργασίας."
 ---

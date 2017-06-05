@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: cn
 title: "成百上千的免费游戏任你玩"
 ---

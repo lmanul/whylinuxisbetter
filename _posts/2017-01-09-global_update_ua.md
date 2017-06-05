@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: ua
 title: "Один клік – і весь твій комплект програмного забезпечення обновлений"
 ---

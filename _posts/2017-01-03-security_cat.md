@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: cat
 title: "Linux protegeix el teu ordinador"
 ---

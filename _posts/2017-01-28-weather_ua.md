@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: ua
 title: "Хочеш завжди знати, яка погода?"
 ---

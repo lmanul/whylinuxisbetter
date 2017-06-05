@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: ru
 title: "Следите за погодой! Кажется дождь начинается... "
 ---

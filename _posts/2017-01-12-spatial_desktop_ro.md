@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: ro
 title: "Intraţi în noua generaţie de desktop-uri."
 ---

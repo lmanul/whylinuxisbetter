@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_software
+identifier: stick_to_windows_software
 lang: ua
 title: Існує комерційне програмне забезпечення, без якого ти не можеш жити
 tags: stick_to_windows

@@ -1,5 +1,5 @@
 ---
-permalink: reboot_all_the_time
+identifier: reboot_all_the_time
 lang: eo
 title: "Ĉu vi estas laca restartigi la komputilon daŭre?"
 ---

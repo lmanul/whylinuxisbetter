@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: th
 title: ลอง "ซีดีสด-Live CD"
 tags: switch

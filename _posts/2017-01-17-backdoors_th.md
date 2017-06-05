@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: th
 title: "No backdoors in your software."
 ---

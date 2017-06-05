@@ -1,5 +1,5 @@
 ---
-permalink: spatial_desktop
+identifier: spatial_desktop
 lang: bn
 title: "উপভোগ করুন পরবর্তী প্রজন্মের ডেস্কটপ-পরিবেশ।"
 ---

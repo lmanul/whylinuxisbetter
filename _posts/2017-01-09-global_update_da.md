@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: da
 title: "Opdatér al din software med et enkelt klik."
 ---

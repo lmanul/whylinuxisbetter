@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: hu
 title: Próbálj ki egy „élő CD-t”!
 tags: switch

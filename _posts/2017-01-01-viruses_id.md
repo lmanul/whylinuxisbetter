@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: id
 title: "Lupakan tentang virus."
 ---

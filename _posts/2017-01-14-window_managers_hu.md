@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: hu
 title: "Válaszd ki, milyen legyen az asztalod!"
 ---

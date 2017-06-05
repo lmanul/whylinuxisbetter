@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_hardcore_gamer
+identifier: stick_to_windows_hardcore_gamer
 lang: da
 title: Spil
 tags: stick_to_windows

@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: no
 title: "Når systemet er installert, hvorfor må du <i>stadig</i> installere nye ting?"
 ---

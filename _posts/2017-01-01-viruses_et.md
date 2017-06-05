@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: et
 title: "J&auml;ta viirustega h&uuml;vasti."
 ---

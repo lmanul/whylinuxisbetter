@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: es
 title: "Una vez instalado tu sistema, ¿Por qué <i>aún</i> necesitas instalar más cosas?"
 ---

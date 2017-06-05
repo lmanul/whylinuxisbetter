@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: kor
 title: "백도어는 가라!"
 ---

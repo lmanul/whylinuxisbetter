@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: en
 title: "Update all your software with a single click."
 ---

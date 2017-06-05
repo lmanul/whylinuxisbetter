@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_hardcore_gamer
+identifier: stick_to_windows_hardcore_gamer
 lang: cn
 title: 游戏
 tags: stick_to_windows

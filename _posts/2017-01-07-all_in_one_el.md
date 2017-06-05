@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: el
 title: "Γιατί να χρειάζεται να εγκαταστήσετε προγράμματα <i>και μετά</i> το τέλος της εγκατάστασης;"
 ---

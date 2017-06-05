@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: km
 title: "មាន​បង្អួច​ច្រើន​ពេក​ឬ​? ​ប្រើតំបន់​ធ្វើ​ការ​ ។"
 ---

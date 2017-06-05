@@ -1,5 +1,5 @@
 ---
-permalink: report_bugs
+identifier: report_bugs
 lang: pl
 title: "Zgłaszanie problemów (nie musisz czekać latami na ich rozwiązanie!)"
 ---

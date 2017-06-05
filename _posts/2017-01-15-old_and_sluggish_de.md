@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: de
 title: "Warum wird dein Windows Tag f&uuml;r Tag langsamer?"
 ---

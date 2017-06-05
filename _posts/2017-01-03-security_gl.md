@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: gl
 title: "Linux protexe a tua computadora."
 ---

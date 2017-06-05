@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: tw
 title: "太多視窗嗎？使用工作區吧"
 ---

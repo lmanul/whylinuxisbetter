@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: cn
 title: "您的系统不稳定吗？"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: environment
+identifier: environment
 lang: th
 title: "อย่างอมืองอเท้าเพื่อให้โลกมันดีขึ้น"
 ---

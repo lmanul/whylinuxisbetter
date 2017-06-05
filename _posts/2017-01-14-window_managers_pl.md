@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: pl
 title: "Dostosuj wygląd systemu do swoich potrzeb"
 ---

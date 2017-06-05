@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: ser
 title: " Pratite vreme."
 ---

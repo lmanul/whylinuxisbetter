@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: tr
 title: "Linux bilgisayarınızı korur."
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: no
 title: "Hold øye med været."
 ---

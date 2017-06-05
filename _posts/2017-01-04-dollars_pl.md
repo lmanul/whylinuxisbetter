@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: pl
 title: "Nie płać za system operacyjny"
 ---

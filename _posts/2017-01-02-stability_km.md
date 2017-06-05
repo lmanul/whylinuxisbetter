@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: km
 title: "តើ​ប្រព័ន្ធ​របស់​អ្នក​មិន​​ស្ថិត​ស្ថេរ​មែន​ទេ ​?"
 ---

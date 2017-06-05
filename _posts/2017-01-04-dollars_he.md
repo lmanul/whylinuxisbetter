@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: he
 title: "  למה לשלם 900 שקל על מערכת הפעלה"
 ---

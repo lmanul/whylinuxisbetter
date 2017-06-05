@@ -1,5 +1,5 @@
 ---
-permalink: report_bugs
+identifier: report_bugs
 lang: ser
 title: "Prijavljivanje grešaka"
 ---

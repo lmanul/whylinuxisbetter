@@ -1,5 +1,5 @@
 ---
-permalink: global_update
+identifier: global_update
 lang: id
 title: "<i>Update</i> semua perangkat lunakmu dengan satu klik."
 ---

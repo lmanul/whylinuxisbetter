@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: lit
 title: "Programinės įrangos durys yra atviros."
 ---

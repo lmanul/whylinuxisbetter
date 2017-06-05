@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: ja
 title: 「ライブCD」で試してみる。
 tags: switch

@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: nl
 title: "Is uw systeem onstabiel?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_software
+identifier: stick_to_windows_software
 lang: ja
 title: このソフト、こいつなしじゃ仕事にならないんだわ！
 tags: stick_to_windows

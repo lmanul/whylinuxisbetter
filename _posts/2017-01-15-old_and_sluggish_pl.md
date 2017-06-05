@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: pl
 title: "Czemu Twój Windows spowalnia z każdym dniem?"
 ---

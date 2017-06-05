@@ -1,5 +1,5 @@
 ---
-permalink: drivers
+identifier: drivers
 lang: en
 title: "Forget about drivers"
 ---

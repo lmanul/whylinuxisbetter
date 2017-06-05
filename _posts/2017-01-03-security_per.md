@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: per
 
 title: "لينوكس از كامپيوتر شما محافظت مي&zwnj;كنه"

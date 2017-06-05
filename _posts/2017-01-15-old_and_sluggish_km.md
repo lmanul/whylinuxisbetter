@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: km
 title: "ហេតុ​អ្វី​បាន​ជាវីដូ​របស់​អ្នក​របស់​អ្នក​កាន់​តែ​យឺត​ពី​មួយ​ថ្ងៃ​ទៅ​មួយ​ថ្ងៃ ?"
 ---

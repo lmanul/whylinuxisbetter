@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: fr
 title: "Trop de fenêtres ? Adoptez les espaces de travail."
 ---

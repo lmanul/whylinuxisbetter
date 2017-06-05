@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: en
 title: "Help other countries, and your own"
 ---

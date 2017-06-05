@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: el
 title: "Βοηθήστε άλλες χώρες, και τη δική σας"
 ---

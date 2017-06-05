@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: br
 title: "Quando o sistema é instalado, por que você <i>ainda</i> precisa instalar coisas?"
 ---

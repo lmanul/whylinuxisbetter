@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: el
 title: "Το σύστημά σας είναι ασταθές;"
 ---

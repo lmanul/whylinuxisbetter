@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: tr
 title: "Kendi ülkenize ve diğer ülkelere yardım edin"
 ---

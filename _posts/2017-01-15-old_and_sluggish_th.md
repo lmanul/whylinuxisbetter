@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: th
 title: "ทำไมวินโดวส์เชื่องช้าลงทุกวี่วัน?"
 ---

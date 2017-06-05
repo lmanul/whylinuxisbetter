@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: pl
 title: Instalacja systemu Linuks (system Windows zostaje na swoim miejscu!)
 tags: switch

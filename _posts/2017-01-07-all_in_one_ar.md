@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: ar
 title: "إذا قمت بتخزين نظام التشغيل، لماذا <i>أيضاً</i> تحتاج إلى تخزين الكثير من البرامج الأخرى؟"
 ---

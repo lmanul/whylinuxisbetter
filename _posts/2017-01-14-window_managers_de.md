@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: de
 title: "Such dir aus, wie dein Desktop aussehen soll."
 ---

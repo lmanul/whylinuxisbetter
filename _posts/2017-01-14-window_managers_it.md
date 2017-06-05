@@ -1,5 +1,5 @@
 ---
-permalink: window_managers
+identifier: window_managers
 lang: it
 title: "Scegli l'aspetto del tuo desktop"
 ---

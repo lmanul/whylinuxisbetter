@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: no
 title: "Spill hundrevis av spill helt gratis."
 ---

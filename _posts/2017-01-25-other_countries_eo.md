@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: eo
 title: "Helpu aliajn landojn, kaj vian propran"
 ---

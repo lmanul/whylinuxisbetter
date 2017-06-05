@@ -1,5 +1,5 @@
 ---
-permalink: switch_try
+identifier: switch_try
 lang: se
 title: Testa med en ”Live CD”
 tags: switch

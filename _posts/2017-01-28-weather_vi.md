@@ -1,5 +1,5 @@
 ---
-permalink: weather
+identifier: weather
 lang: vi
 title: "Xem dự báo thời tiết"
 ---

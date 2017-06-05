@@ -1,5 +1,5 @@
 ---
-permalink: amarok
+identifier: amarok
 lang: cat
 title: "Aconsegueix un genial reproductor musical."
 ---

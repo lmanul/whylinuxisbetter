@@ -1,5 +1,5 @@
 ---
-permalink: stick_to_windows_cmjn
+identifier: stick_to_windows_cmjn
 lang: da
 title: Bog og forlags-industrien.
 tags: stick_to_windows

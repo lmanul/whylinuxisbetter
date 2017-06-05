@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: vi
 title: Cài Linux
 tags: switch

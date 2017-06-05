@@ -1,5 +1,5 @@
 ---
-permalink: free_games
+identifier: free_games
 lang: vi
 title: "Chơi hàng trăm game miễn phí"
 ---

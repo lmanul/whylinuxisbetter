@@ -1,5 +1,5 @@
 ---
-permalink: virtual_desktops
+identifier: virtual_desktops
 lang: hu
 title: "Túl sok az ablak? Használj munkaterületeket!"
 ---

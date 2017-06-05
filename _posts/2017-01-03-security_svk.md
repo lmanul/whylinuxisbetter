@@ -1,5 +1,5 @@
 ---
-permalink: security
+identifier: security
 lang: svk
 title: "Linux chráni váš počítač"
 ---

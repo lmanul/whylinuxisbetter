@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: bg
 title: "Не плащайте $100 за операционната си система"
 ---

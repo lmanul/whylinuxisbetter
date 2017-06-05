@@ -1,5 +1,5 @@
 ---
-permalink: all_in_one
+identifier: all_in_one
 lang: he
 title: "אחרי שכבר התקנת את המערכת, למה עליך <i>בכל זאת</i> להתקין עוד דברים?"
 ---

@@ -1,5 +1,5 @@
 ---
-permalink: viruses
+identifier: viruses
 lang: pl
 title: "Zapomnij o wirusach"
 ---

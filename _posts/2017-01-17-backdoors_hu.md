@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: hu
 title: "Nincsenek többé backdoorok"
 ---

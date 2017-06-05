@@ -1,5 +1,5 @@
 ---
-permalink: switch_install
+identifier: switch_install
 lang: kor
 title: 리눅스 설치하기
 tags: switch

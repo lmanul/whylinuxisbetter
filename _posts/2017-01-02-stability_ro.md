@@ -1,5 +1,5 @@
 ---
-permalink: stability
+identifier: stability
 lang: ro
 title: "Sistemul dumneavoastră e instabil?"
 ---

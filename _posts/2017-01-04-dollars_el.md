@@ -1,5 +1,5 @@
 ---
-permalink: dollars
+identifier: dollars
 lang: el
 title: "Μην πληρώνετε €200 για το λειτουργικό σας."
 ---

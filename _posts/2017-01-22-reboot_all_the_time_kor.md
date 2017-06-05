@@ -1,5 +1,5 @@
 ---
-permalink: reboot_all_the_time
+identifier: reboot_all_the_time
 lang: kor
 title: "﻿계속되는 재부팅에 지치셨나요?"
 ---

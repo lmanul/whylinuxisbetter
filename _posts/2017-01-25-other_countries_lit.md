@@ -1,5 +1,5 @@
 ---
-permalink: other_countries
+identifier: other_countries
 lang: lit
 title: "Pad&#279;k kitoms &#353;alis, taip pat ir savo."
 ---

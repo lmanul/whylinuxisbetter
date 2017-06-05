@@ -1,5 +1,5 @@
 ---
-permalink: backdoors
+identifier: backdoors
 lang: tr
 title: "Yazılımda kapalı kapılara hayır!"
 ---

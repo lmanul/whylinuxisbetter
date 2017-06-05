@@ -1,5 +1,5 @@
 ---
-permalink: old_and_sluggish
+identifier: old_and_sluggish
 lang: bn
 title: "যত দিন যায়, তত স্লো হয় Windows... কেন?"
 ---
