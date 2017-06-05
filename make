@@ -29,7 +29,6 @@ for intl_file in intl_files:
     if not ":" in line:
       print("Badly formatted line in " + lang + " file: " + line)
     parts = line.strip().split(":", 1)
-    print(parts)
     translations[parts[0]] = parts[1]
   os.system("cp index.template " + lang + "/index.html")
   for id in IDS:
