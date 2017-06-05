@@ -1,6 +1,0 @@
-Ideas for future articles
-
-* Make a more dedicated article about tracking, privacy and encryption.
-  Windows offers BitLocker encryption in higher end versions (need to verify),
-  many Linux distributions offer encryption very easily and for free.
-  Credit David F for the idea.
