@@ -1,5 +1,4 @@
 {% assign posts=site.pages | where:"category", page.category %}
-{{ page.category }}
 <div id="items">
 {% for post in posts reversed %}
   {% unless post.tags contains 'switch' %}
