@@ -16,7 +16,7 @@ Hunderte von Spielen werden unter einer freien (frei wie „Freibier“ und wie 
 
 Und wenn dich Spiele interessieren, könnte dir dieses Bild gefallen. Quake 3 unter Linux, auf 24 Bildschirmen(!):
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

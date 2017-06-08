@@ -16,7 +16,7 @@ title: "Грай в сотні безкоштовних ігор"
 
 Якщо тебе цікавлять ігри, тобі мабуть сподобається ця картинка: Quake III під Linux на 24 екранах:
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

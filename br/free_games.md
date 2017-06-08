@@ -16,7 +16,7 @@ Centenas de jogos são lançados sob licença livre: 2D, 3D, puzzles, jogos de g
 
 E se você é interessado em jogos, vai gostar desta foto do Quake 3 rodando no Linux, em 24 monitores (!):
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

@@ -20,7 +20,7 @@ exempel (hela listan skulle bli oändlig) :
 Och om du skulle vara intresserad av spel, kanske du gillar bilden av Quake 3 som 
 spelas på Linux, på 24 skärmar (!):
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

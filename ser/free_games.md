@@ -16,7 +16,7 @@ Stotine igara se izdaju pod besplatnom/slobodnom (kao "besplatno pivo" i kao "sl
 
 A ukoliko Vas interesuju igre, možda biste voleli sliku Quake-a 3 na Linux-u, na 24 monitora (!) :
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

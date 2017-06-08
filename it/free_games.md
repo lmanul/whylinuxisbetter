@@ -18,7 +18,7 @@ ancora! Ecco alcuni esempi (la lista intera sarebbe infinita) :
 
 E, se sei un esperto di giochi, potrebbe interessarti questo snapshot di Quake 3 per Linux, su 24 monitor (!) :
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

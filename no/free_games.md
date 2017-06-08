@@ -16,7 +16,7 @@ Hundrevis av spill er utgitt under en fri lisens (som i en «gratis øl» og som
 
 Og hvis du er interessert i spill, så vil du kanskje like dette bildet av Quake 3 kjørende på Linux, på 24 skjermer (!):
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

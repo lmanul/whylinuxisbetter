@@ -16,7 +16,7 @@ title: "Παίξτε εκατοντάδες δωρεάν παιχνίδια"
 
 Μάλιστα αν σας αρέσουν τα παιχνίδια, θα σας ενδιαφέρει αυτή η εικόνα του Quake 3 στο Linux, σε 24 οθόνες (!) :
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

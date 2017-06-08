@@ -16,7 +16,7 @@ title: "หลายร้อยหลายพันเกมส์ให้เ
 
 และถ้าคุณจริงจังกับเกมส์ คุณอาจจะสนใจรูปด้านล่างนี้ นี่คือรูปของ Quake 3 เล่นอยู่บนลินุกซ์ บน 24 จอ (!) :
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

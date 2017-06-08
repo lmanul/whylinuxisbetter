@@ -16,7 +16,7 @@ Cientos de juegos están liberados bajo la licencia libre: 2D, 3D, crucigramas, 
 
 Y si estás interesado en los juegos, te gustará esta imagen de Quake 3 funcionando en Linux en ¡24 pantallas!:
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

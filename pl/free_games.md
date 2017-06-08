@@ -16,7 +16,7 @@ Setki gier wydawanych jest na licencjach umożliwiających ich darmowe rozpowsze
 
 Jeśli interesujesz się grami, być może spodoba Ci się to zdjęcie - przedstawia ono grę Quake 3 uruchomioną na Linuksie z 24 monitorami (!):
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

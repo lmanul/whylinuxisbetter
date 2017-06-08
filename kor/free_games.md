@@ -16,7 +16,7 @@ title: "무료로 즐기는 수백 가지의 게임들"
 
 그리고 게임에 취미가 있으신 분이라면, 아마 리눅스에서 24개의 모니터로 퀘이크3를 하는 걸 보신적 있으실겁니다(!) :
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 

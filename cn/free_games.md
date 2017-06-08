@@ -16,7 +16,7 @@ title: "成百上千的免费游戏任你玩"
 
 如果你非常喜欢游戏，你也许会对这张Linux上面运行“雷神之锤3“的图片感兴趣，看清楚了，这个屏幕是由24块屏幕拼起来的！：
 
-<a href="/img/quake_24_screens.jpg"><img src="/img/quake_24_screens_thumbnail.jpg" /></a>
+<a href="/img/free_games_quake_24_screens.jpg"><img src="/img/free_games_quake_24_screens_thumb.jpg" /></a>
 
 
 
