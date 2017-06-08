@@ -7,7 +7,7 @@ title: "﻿바탕환경을 맘껏 바꿔보세요"
 
 당신이 윈도우즈 사용자이시라면, 컴퓨터 바탕환경은 다음과 비슷할 것입니다:
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 대부분의 윈도우즈 사용자들은 동일한 바탕환경을 가지고 있습니다. 바탕화면을 바꾸거나 꾸밈색(기본설정은 푸른색)을 바꿀 수는 있겠지만 결국은 비슷한 바탕환경에 머무르고 맙니다.
 
@@ -15,7 +15,7 @@ title: "﻿바탕환경을 맘껏 바꿔보세요"
 
 만약 단순하고 효율적이며 사용하기 쉬운 바탕환경을 원하신다면, 아래처럼 하시면 될 것입니다:
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
  좀 더 현대적이고 번듯한 모양을 원하신다면, 이렇게 바꿔보셔도 됩니다:
 
@@ -23,11 +23,11 @@ title: "﻿바탕환경을 맘껏 바꿔보세요"
 
 아니면, 간단하고 쾌적한 다음 것은 어떤가요?:
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 그것도 아니면, 다음처럼 완전히 본인만의 바탕환경을 만드셔도 됩니다:
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 보시다시피, 리눅스에서는 <b>바탕환경을 직접 결정할 수 있습니다.</b> 그리고 결정 한 것이 어느 계정에나 적용되는 것이 아니고, 다른 계정으로 로그인할 때마다 원하는 환경으로 바꾸실 수 있습니다.
 

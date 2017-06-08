@@ -8,7 +8,7 @@ title: "Scegli l'aspetto del tuo desktop"
 Se sei un utente di Windows, probabilmente il tuo desktop non sarà 
 così diverso da questo:
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 Tutti gli utenti di Windows hanno lo stesso desktop. Puoi comunque 
 cambiare sfondo o il colore delle tue decorazioni delle finestre (il 
@@ -25,7 +25,7 @@ cambiarlo, se vuoi.
 Dunque, se vuoi un desktop semplice, efficiente e facile da usare, 
 gradirai avere probabilmente questo qui:
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
 Se ti piace un look più moderno e vistoso, potresti passare a questo:
 
@@ -33,11 +33,11 @@ Se ti piace un look più moderno e vistoso, potresti passare a questo:
 
 Oppure puoi provare questo, semplice e veloce:
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 O anche questo, se ami personalizzare completamente il tuo desktop:
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 Come puoi vedere, con Linux <b>sei tu a decidere l'aspetto del tuo 
 desktop</b>. E non dovrai fare una scelta per tutte: puoi passare a uno di 

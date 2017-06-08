@@ -7,7 +7,7 @@ title: "Escolle como queres que se vexa o teu escritorio."
 
 Si eres un usuario de Windows, probablemente tu escritorio no está muy lejos de esto:
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 Case todos os usuarios de Windows teñen o mesmo escritorio. Aínda que é certo podes cambiar o fondo de pantalla ou as cores da decoración de Windows (o azul é o predeterminado), pouco podes afastarte do escritorio común de Windows.
 
@@ -15,7 +15,7 @@ Con Linux esa elección é devolta ás túas mans. Xa non estarás forzado a ace
 
 Entón se te gusta unha contorna de escritorio simple, eficiente e fácil de usar probablemente gústache este:
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
 Se che gusta un máis moderno e brillante, talvez queiras cambiarte a este:
 
@@ -23,11 +23,11 @@ Se che gusta un máis moderno e brillante, talvez queiras cambiarte a este:
 
 Tamén poderías probar leste, simple e rápido:
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 Ou ata este, se te apaixona retocar completamente a túa contorna de escritorio:
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 Como podes ver, con Linux <b>ti decides como queres que se vexa o teu escritorio</b>. Ata non tes que decidir de xeito definitivo: podes cambiar a calquera destes diferentes estilos de escritorios no momento que te rexistres para entrar á túa sesión.
 

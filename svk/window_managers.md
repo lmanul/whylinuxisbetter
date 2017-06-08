@@ -7,7 +7,7 @@ title: "Vyberte si štýl vašej pracovnej plochy"
 
 Ak ste používateľom Windows, prostredie vašej pracovnej plochy pravdepodobne vyzerá nejak takto:
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 V podstate všetci používatelia Windows majú rovnakú plochu. Môžete si zmeniť pozadie, alebo farebnú schému (prednastavená je modrá), ale stále je to to klasické Windows prostredie.
 
@@ -15,7 +15,7 @@ S Linux-om vám bola vrátená slobodná voľba. Už nie ste nútený spravovať
 
 Teda ak preferujete jednoduché, efektívne pracovné prostredie, ktoré je jednoduché na používanie, asi sa vám bude páčiť toto: 
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
 Ak máte radšej niečo viac moderné a nablýskané, možno by ste chceli niečo takéto:
 
@@ -23,11 +23,11 @@ Ak máte radšej niečo viac moderné a nablýskané, možno by ste chceli nieč
 
 Alebo môžete skúsiť toto, jednoduché a rýchle:
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 Alebo dokonca niečo takéto, ak si radi kompletne prispôsobujete pracovné prostredie:
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 Ako môžete vidieť, s Linux-om <b>vy rozhodujete, ako vyzerá vaša pracovná plocha</b>. A dokonca sa ani nemusíte rozhodnúť pre jednu špecifickú: môžete si ich zmeniť vždy pri prihlasovaní do systému.
 

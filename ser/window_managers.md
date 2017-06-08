@@ -7,7 +7,7 @@ title: "Izaberite kako će Vaš desktop izgledati."
 
 Ako ste korisnik Windows-a onda Vaš desktop izgleda otprilike ovako:
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 Manje-više svi korisnici windows-a imaju isti desktop. Možete da promenite
 pozadinu, ili boju dekoracije (podrazumevana je plava), 
@@ -23,7 +23,7 @@ ukoliko to želite.
 Dakle, ako želite jednostavno i lako za korišćenje desktop 
 okrućenje, možda će Vam se svideti ovako nešto:
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
 A ako volite moderan i svetlucav izgled, možda ćete hteti da koristite
 ovako nešto:
@@ -32,12 +32,12 @@ ovako nešto:
 
 Ili možete da probate ovaj, jednostavan i brz:
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 Ili čak ovaj, ukoliko volite da potpuno prilagodite Vaše desktop 
 okruženje:
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 Kao što možete da vidite, <b>Vi birate kako Vaš desktop izgleda</b>.
 I čak ne morate da donesete konačnu odluku: možete  

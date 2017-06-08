@@ -7,7 +7,7 @@ title: "Such dir aus, wie dein Desktop aussehen soll."
 
 Wenn du ein Windowsnutzer bist, wird dein Desktop wahrscheinlich diesem Bildschirmfoto ähneln:
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 So ziemlich alle Windowsnutzer haben den gleichen Desktop. Man kann noch den Hintergrund oder die Farben und Dekoration der Fenster ändern (standardmäßig blau), aber im Grunde ist alles die Windowsstandard-Benutzeroberfläche.
 
@@ -15,7 +15,7 @@ Mit Linux erhälst du die deine Auswahl zurück. Du bist nicht mehr gezwungen de
 
 Solltest du eine simple, effektive und einfach zu nutzende Arbeitsumgebung suchen, wirst du dich vielleicht hiermit anfreunden:
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
 Wenn du eher auf einen moderneren Hochglanz-Look stehst, könntest du zu diesem wechseln:
 
@@ -23,11 +23,11 @@ Wenn du eher auf einen moderneren Hochglanz-Look stehst, könntest du zu diesem 
 
 Oder du könntest diesen ausprobieren, einfach und schnell:
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 Oder diesen, wenn du es liebst, deine Arbeitsumgebung vollständig selbst zu gestalten:
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 Wie du hier sehen kannst, <b>entscheidest du, wie dein Desktop aussieht</b>. Und diese Entscheidung ist auch nicht endgültig: Bei jedem Login kannst du zwischen jedem dieser Desktop-Stile wählen.
 

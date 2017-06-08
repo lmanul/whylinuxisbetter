@@ -8,7 +8,7 @@ Dacă sunteţi un utilizator de Windows, desktop-ul dumneavoastră
 probabil nu e prea departe de asta:
 
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 Aproape toţi utilizatorii de Windows au acelaşi desktop. Oricum, puteţi
 să schimbaţi tema, dar practic tot ce obţineţi e interfaţa obişnuită a
@@ -22,7 +22,7 @@ speriaţi, deoarece veţi avea un window manager prestabilit destul de bun. Idee
 Deci dacă vă place un desktop simplu, eficient şi uşor de folosit,
 probabil că vă place acesta:
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
 Dacă vreţi o înfăţişare mai modernă şi mai strălucitoare, poate vă place
 acesta:
@@ -31,11 +31,11 @@ acesta:
 
 Sau l-aţi putea încerca pe acesta, repede şi simplu:
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 Sau poate chiar acesta, dacă iubiţi să vă personalizaţi complet desktop-ul:
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 După cum puteţi vedea, cu Linux <b>dumneavoastră decideţi cum arată
 desktop-ul</b>. Şi nu e nevoie să decideţi odată pentru totdeauna:

@@ -8,7 +8,7 @@ title: "Masaüstünüzün nasıl olması gerektiğini siz seçin."
 Eğer bir windows kullanıcısıysanız Masaüsütünüz herhalde bundan 
 pek te farklı değildir:
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 Çoğunlukla bütün Windows kullanıcıları aynı masaüstüne sahiptir.
 Tabi ki duvar kağıdınızı değiştirebilir veya pencere dekorasyonunuzun 
@@ -25,7 +25,7 @@ olacaktır. Esas nokta ise istediğiniz zaman bunu değiştirebileceğinizdir.
 Eğer basit, verimli, kolay kullanımlı bir masaüstü ortamı arıyorsanız, 
 muhtemelen bunu beğeneceksiniz:
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
 Daha çağdaş ve gösterişli bir görünüm istiyorsanız, buna geçmek 
 isteyebilirsiniz:
@@ -34,11 +34,11 @@ isteyebilirsiniz:
 
 Ya da bunu deneyebilirsiniz, basit ve hızlı:
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 Ve hatta masaüstü ortamınızı tamamen özelleştirmek istiyorsanız:
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 Gördüğünüz gibi Linux'la beraber 
 <b>masaüatünüzün nasıl görüneceğine siz karar verirsiniz</b>

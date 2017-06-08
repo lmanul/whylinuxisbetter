@@ -8,7 +8,7 @@ title: "Dostosuj wygląd systemu do swoich potrzeb"
 Jeśli używasz systemu Windows, Twój pulpit najpewniej niewiele
 różni się od poniższego:
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 Większość użytkowników sytemu Windows ma taki sam pulpit. Oczywiście zmiana
 tła czy kolorów to żaden problem, mimo to interfejs pozostaje wciąż
@@ -22,7 +22,7 @@ całkiem niezły, lecz, ponieważ to kwestia gustu, więc możesz wybierać:
  Jeśli lubisz proste i wydajne rozwiązania, najpewniej polubisz taki
 widok:
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
 Jeśli wolisz podejście bardziej nowoczesne... to proszę bardzo!
 
@@ -30,12 +30,12 @@ Jeśli wolisz podejście bardziej nowoczesne... to proszę bardzo!
 
 Możesz też spróbować czegoś takiego - proste i szybkie:
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 ... jeśli zaś lubisz dopracowywać i konfigurować wszystkie detale,
 jest szansa, że spodoba Ci się to:
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 Jak widzisz, pod Linuksem to Ty decydujesz jak wszystko wokół będzie
 wyglądać. Decyzji tej wcale nie musisz podjąć raz na zawsze - menedżera

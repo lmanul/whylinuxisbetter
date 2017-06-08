@@ -7,7 +7,7 @@ title: "デスクトップぐらい自分色に染めたいわな"
 
 Windows使ってるんなら、デスクトップ環境って、だいたいこんな感じ。
 
-<img src="/img/windows_vista.jpg" />
+<img src="/img/window_managers_windows_vista.jpg" />
 
 Windowsのデスクトップって、どれもこれも同んなじ。そりゃ壁紙は変えられるし、ウィンドウの枠の色も変えられるけど（デフォルトは青だね）、どこまでいってもWindowsはWindowsだよ。
 
@@ -15,7 +15,7 @@ Linuxの場合、自分自身で選べる。ウィンドウを開いたり管理
 
 それで、シンプルで仕事優先、使い易いデスクトップ環境を選ぶんだったら、例えばこんなのがいいのかな。
 
-<img src="/img/ubuntu.jpg"/>
+<img src="/img/window_managers_ubuntu.jpg"/>
 
 モダンで派手好みなら、こっちの方に切り替えた方がいいかも。
 
@@ -23,11 +23,11 @@ Linuxの場合、自分自身で選べる。ウィンドウを開いたり管理
 
 シンプルで軽快なのがいいなら、こっちを試してみて。
 
-<img src="/img/xfce.jpg" />
+<img src="/img/window_managers_xfce.jpg" />
 
 隅から隅までデスクトップ環境をカスタマイズしたいんなら、こんなのもある。
 
-<img src="/img/wm.jpg" />
+<img src="/img/window_managers_wm.jpg" />
 
 ね。こんなふうに、Linuxなら<b>デスクトップの外観を自分で決めることができる！</b>　その上、たったひとつに決めてしまうことさえない。コンピュータにログインするときに、どのデスクトップを使うか決めて、そのたびに切り替えることだってできるんだから。
 
