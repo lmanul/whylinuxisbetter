@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: bn
+category: bn
 title: "এক ক্লিকে আপডেট করুন সবকিছু।"
 ---
 

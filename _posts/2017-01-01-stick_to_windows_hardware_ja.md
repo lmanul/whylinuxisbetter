@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: ja
+category: ja
 title: ごめん、うちのパソコンじゃ動かないの。
 tags: stick_to_windows
 ---

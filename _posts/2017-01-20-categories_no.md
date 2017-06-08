@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: no
+category: no
 title: "Ikke noe rot i Start-menyen din."
 ---
 

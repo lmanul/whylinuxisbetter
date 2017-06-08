@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: tr
+category: tr
 title: "İşletim sisteminize neden 100$ ödeyesiniz ki?"
 ---
 

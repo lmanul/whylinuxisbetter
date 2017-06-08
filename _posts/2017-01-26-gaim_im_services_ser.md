@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: ser
+category: ser
 title: "Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom."
 ---
 

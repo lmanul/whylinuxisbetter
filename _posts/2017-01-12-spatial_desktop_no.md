@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: no
+category: no
 title: "Gjør deg klar for neste generasjons skrivebord."
 ---
 

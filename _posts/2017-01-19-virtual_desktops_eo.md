@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: eo
+category: eo
 title: "Ĉu tro da fenestroj? Uzu laborspacojn."
 ---
 

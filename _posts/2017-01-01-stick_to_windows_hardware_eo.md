@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: eo
+category: eo
 title: Aparataro
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: en
+category: en
 title: "Need new software? Don't bother searching the web, Linux gets it for you."
 ---
 

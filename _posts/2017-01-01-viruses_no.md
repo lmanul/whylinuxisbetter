@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: no
+category: no
 title: "Glem alt om virus."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: bn
+category: bn
 title: "নতুন সফটওয়্যার খুজে বের করুন সহজেই।"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: ru
+category: ru
 title: "Вы установили систему. <i>Зачем</i> устанавливать дополнительный софт?!"
 ---
 

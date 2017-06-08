@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: el
+category: el
 title: Δοκιμάστε ένα "Live CD"
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: ser
+category: ser
 title: "Nemojte platiti 100$ za Vaš Operativni sistem"
 ---
 

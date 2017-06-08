@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: ro
+category: ro
 title: "Raportarea defectelor"
 ---
 

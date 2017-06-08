@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: ua
+category: ua
 title: "Тобі подобається постійно перезапускати комп'ютер?"
 ---
 

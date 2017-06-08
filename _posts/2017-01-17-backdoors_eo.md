@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: eo
+category: eo
 title: "Sen post-pordoj en via programaro."
 ---
 

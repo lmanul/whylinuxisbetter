@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: de
+category: de
 title: Proprietäre Software
 tags: stick_to_windows
 ---

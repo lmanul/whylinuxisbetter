@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: ja
+category: ja
 title: "天気予報もLinux！"
 ---
 

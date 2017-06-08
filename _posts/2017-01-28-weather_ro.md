@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: ro
+category: ro
 title: "Supravegheaţi vremea."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: ser
+category: ser
 title: Igre
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: eo
+category: eo
 title: "Forgesu la virusojn."
 ---
 

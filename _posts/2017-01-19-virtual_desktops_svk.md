@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: svk
+category: svk
 title: "Príliš veľa okien? Použite pracovné plochy"
 ---
 

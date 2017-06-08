@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: pl
+category: pl
 title: "Pomóż innym krajom, w tym również Twojemu"
 ---
 

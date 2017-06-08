@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: nl
+category: nl
 title: "Vrijheid!"
 ---
 

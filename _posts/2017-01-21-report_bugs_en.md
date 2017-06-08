@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: en
+category: en
 title: "Reporting bugs"
 ---
 

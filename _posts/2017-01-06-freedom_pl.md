@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: pl
+category: pl
 title: "Wolność!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: fr
+category: fr
 title: Installer Linux
 tags: switch
 ---

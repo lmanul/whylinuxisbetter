@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: no
+category: no
 title: "Velg hvordan ditt skrivebord skal se ut."
 ---
 

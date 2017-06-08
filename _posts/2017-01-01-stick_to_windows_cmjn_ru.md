@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: ru
+category: ru
 title: Книги и печатная индустрия
 tags: stick_to_windows
 ---

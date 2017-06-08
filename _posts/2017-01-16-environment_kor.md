@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: kor
+category: kor
 title: "﻿환경문제"
 ---
 

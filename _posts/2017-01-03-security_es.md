@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: es
+category: es
 title: "Linux protege tu ordenador"
 ---
 

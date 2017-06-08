@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: bg
+category: bg
 title: "Помогнете на другите страни и на вашата собствена"
 ---
 

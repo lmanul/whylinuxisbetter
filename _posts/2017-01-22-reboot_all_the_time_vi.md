@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: vi
+category: vi
 title: "Bạn có mệt khi phải khởi động lại máy tính suốt ngày không ?"
 ---
 

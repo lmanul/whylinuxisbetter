@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: bn
+category: bn
 title: "অসংখ্য গেম খেলুন, সম্পূর্ণ ফ্রি"
 ---
 

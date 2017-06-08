@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: ser
+category: ser
 title: "Previše prozora? Koristite radne površine."
 ---
 

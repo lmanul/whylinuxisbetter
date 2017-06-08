@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: hu
+category: hu
 title: "Környezetvédelem"
 ---
 

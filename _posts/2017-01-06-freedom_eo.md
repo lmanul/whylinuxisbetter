@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: eo
+category: eo
 title: "Libereco!"
 ---
 

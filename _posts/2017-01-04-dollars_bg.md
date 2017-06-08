@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: bg
+category: bg
 title: "Не плащайте $100 за операционната си система"
 ---
 

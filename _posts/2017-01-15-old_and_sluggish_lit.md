@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: lit
+category: lit
 title: "Kodėl Jūsų Windows'ai kasdien vis lėtėja?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: ua
+category: ua
 title: "Обери, як буде виглядати твій екран"
 ---
 <p align="center">Переклад з німецької Завгородньої Тетяни

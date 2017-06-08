@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: tr
+category: tr
 title: Donanım
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: br
+category: br
 title: "Salte para a próxima geração de desktops."
 ---
 

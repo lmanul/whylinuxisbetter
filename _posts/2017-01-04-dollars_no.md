@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: no
+category: no
 title: "Ikke betal hundrevis av kroner for ditt operativsystem!"
 ---
 

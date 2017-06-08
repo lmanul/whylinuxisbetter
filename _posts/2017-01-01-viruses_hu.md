@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: hu
+category: hu
 title: "Felejtsd el a vírusokat!"
 ---
 

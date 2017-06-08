@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: en
+category: en
 title: "Freedom!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: es
+category: es
 title: "Medio Ambiente"
 ---
 

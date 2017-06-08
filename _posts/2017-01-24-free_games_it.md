@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: it
+category: it
 title: "Gioca a centinaia di videogame gratuitamente"
 ---
 

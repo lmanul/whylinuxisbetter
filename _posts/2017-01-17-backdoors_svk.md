@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: svk
+category: svk
 title: "Žiadne zadné vrátka vo vašom softvéri"
 ---
 

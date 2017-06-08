@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: es
+category: es
 title: "Olvídate de los controladores"
 ---
 

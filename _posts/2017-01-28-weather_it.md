@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: it
+category: it
 title: "Dà un occhiata al tempo"
 ---
 

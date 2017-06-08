@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: fr
+category: fr
 title: "Choisissez l'allure de votre bureau."
 ---
 

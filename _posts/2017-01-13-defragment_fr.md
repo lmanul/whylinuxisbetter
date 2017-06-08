@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: fr
+category: fr
 title: "Votre vie digitale est-elle fragmentée ?"
 ---
 

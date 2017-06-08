@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: cat
+category: cat
 title: "És el teu sistema inestable?"
 ---
 

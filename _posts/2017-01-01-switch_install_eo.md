@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: eo
+category: eo
 title: Instalu Linux
 tags: switch
 ---

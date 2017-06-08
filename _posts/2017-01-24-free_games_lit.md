@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: lit
+category: lit
 title: "&#381;aisk &#353;imtus &#382;aidim&#371; nemokamai."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: eo
+category: eo
 title: "Elektu la ŝajnon de via labortablo."
 ---
 

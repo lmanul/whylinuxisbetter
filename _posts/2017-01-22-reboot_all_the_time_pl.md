@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: pl
+category: pl
 title: "Czy nie męczą Cię ciągłe restarty?"
 ---
 

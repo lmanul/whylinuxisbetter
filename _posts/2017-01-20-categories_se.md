@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: se
+category: se
 title: "Inget kaos i startmenyn"
 ---
 

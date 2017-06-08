@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: eu
+category: eu
 title: "Zure bizitza digitala zatituta dirudi?"
 ---
 

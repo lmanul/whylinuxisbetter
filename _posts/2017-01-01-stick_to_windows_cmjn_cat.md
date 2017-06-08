@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: cat
+category: cat
 title: Els llibres i la indústria de la impressió
 tags: stick_to_windows
 ---

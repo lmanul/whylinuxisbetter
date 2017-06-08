@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: en
+category: en
 title: "Don't pay $100 for your operating system"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: en
+category: en
 title: "Why does your Windows get slower day after day?"
 ---
 

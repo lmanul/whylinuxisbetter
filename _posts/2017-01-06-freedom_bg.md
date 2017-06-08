@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: bg
+category: bg
 title: "Свобода!"
 ---
 

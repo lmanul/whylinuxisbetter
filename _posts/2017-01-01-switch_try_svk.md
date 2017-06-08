@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: svk
+category: svk
 title: Vyskúšajte "Live CD"
 tags: switch
 ---

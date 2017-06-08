@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: es
+category: es
 title: "Mantente al tanto del tiempo"
 ---
 

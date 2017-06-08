@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: br
+category: br
 title: "﻿Atualize todos seus programas com um simples clique."
 ---
 

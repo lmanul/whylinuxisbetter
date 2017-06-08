@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: se
+category: se
 title: "Hjälp andra länder, och ditt eget"
 ---
 

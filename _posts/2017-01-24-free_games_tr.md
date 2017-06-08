@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: tr
+category: tr
 title: "Yüzlerce oyunu ücretsiz oynayın"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: ua
+category: ua
 title:  Встанови Linux (не видаляючи Windows)
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: kor
+category: kor
 title: 하드웨어
 tags: stick_to_windows
 ---

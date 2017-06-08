@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: km
+category: km
 title: "រាយ​ការណ៍​​កំហុស"
 ---
 

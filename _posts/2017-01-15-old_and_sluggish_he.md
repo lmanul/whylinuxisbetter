@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: he
+category: he
 title: " מדוע חלונות איטית יותר מיום ליום?"
 ---
 

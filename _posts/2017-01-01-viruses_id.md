@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: id
+category: id
 title: "Lupakan tentang virus."
 ---
 

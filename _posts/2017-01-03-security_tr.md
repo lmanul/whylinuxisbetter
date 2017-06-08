@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: tr
+category: tr
 title: "Linux bilgisayarınızı korur."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: br
+category: br
 title: "Esqueça os “crapwares”"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: per
+category: per
   
 
 

@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: bn
+category: bn
 title: লিনাক্স ইন্সটলেশন
 tags: switch
 ---

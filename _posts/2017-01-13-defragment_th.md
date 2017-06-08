@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: th
+category: th
 title: "ชีวิตดิจิตอลของคุณแตกออกเป็นเสี่ยงๆ ไหม?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: es
+category: es
 title: Instala Linux
 tags: switch
 ---

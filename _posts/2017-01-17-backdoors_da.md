@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: da
+category: da
 title: "Der er ingen bagdøre i dine programmer."
 ---
 

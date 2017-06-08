@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: cn
+category: cn
 title: "为什么Windows 会一天比一天慢"
 ---
 

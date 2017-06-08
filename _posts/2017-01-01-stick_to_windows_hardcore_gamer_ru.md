@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: ru
+category: ru
 title: Игры
 tags: stick_to_windows
 ---

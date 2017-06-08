@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: th
+category: th
 title: "จับตาดูอุณหภูมิโลก"
 ---
 

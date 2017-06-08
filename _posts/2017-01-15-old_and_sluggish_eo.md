@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: eo
+category: eo
 title: "Kial via Windows iĝas pli malrapida ĉiutage?"
 ---
 

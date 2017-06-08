@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: he
+category: he
 title: "שמירה על קשר עין עם מזג האויר"
 ---
 

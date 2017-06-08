@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: hu
+category: hu
 title: "Játssz játékok százaival ingyen!"
 ---
 

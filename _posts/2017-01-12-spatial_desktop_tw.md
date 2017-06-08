@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: tw
+category: tw
 title: "體驗下一代的桌面環境"
 ---
 

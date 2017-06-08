@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: ser
+category: ser
 title: Instalacija linux-a
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: ru
+category: ru
 title: Проприетарный, закрытый и платный софт
 tags: stick_to_windows
 ---

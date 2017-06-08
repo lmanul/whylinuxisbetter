@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: tr
+category: tr
 title: "Başlat menünüzde kaybolmayın"
 ---
 

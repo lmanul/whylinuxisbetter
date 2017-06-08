@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: bn
+category: bn
 title: প্রোপ্রাইটরি (স্বত্ব-সংরক্ষিত) সফটওয়্যার
 tags: stick_to_windows
 ---

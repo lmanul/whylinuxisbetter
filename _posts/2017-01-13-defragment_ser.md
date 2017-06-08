@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: ser
+category: ser
 title: "Da li Vaš digitalni život izgleda fragmentiran?"
 ---
 

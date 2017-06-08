@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: ja
+category: ja
 title: "デフラグって何さ！"
 ---
 

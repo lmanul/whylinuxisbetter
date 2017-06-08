@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: ro
+category: ro
 title: "Actualizaţi-vă tot software-ul cu un singur click."
 ---
 

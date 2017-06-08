@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: ser
+category: ser
 title: "Izaberite kako će Vaš desktop izgledati."
 ---
 

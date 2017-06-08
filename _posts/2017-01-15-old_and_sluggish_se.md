@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: se
+category: se
 title: "Varför blir Windows långsammare för var dag som går?"
 ---
 

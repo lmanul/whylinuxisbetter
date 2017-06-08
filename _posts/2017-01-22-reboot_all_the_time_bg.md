@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: bg
+category: bg
 title: "Уморихте ли се постоянно да рестартирате компютъра си?"
 ---
 

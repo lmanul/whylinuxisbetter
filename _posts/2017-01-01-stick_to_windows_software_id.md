@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: id
+category: id
 title: Software Proprietary
 tags: stick_to_windows
 ---

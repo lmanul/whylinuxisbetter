@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: se
+category: se
 title: "Inga bakdörrar i mjukvaran."
 ---
 

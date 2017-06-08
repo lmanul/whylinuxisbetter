@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: eo
+category: eo
 title: "Ne pagu 100 dolarojn por via operaciumo"
 ---
 

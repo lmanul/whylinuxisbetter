@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: ja
+category: ja
 title: "再起動、再起動、再起動。もううんざり！"
 ---
 

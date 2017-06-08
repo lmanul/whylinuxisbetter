@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: no
+category: no
 title: Prøv en «Live CD»
 tags: switch
 ---

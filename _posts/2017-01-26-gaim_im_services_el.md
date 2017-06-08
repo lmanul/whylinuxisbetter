@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: el
+category: el
 title: "Χρησιμοποιήστε MSN, AIM, ICQ, Jabber, με ένα μόνο πρόγραμμα"
 ---
 

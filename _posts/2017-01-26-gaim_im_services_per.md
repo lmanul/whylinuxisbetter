@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: per
+category: per
   
 
 

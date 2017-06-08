@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: eo
+category: eo
 title: "Forgesu la pelilojn"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: fr
+category: fr
 title: "Découvrez la nouvelle génération de bureaux."
 ---
 

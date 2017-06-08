@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: br
+category: br
 title: Livros & Indústria Gráfica
 tags: stick_to_windows
 ---

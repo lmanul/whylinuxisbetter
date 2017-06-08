@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: fr
+category: fr
 title: "Pas de 'portes dérobées'."
 ---
 

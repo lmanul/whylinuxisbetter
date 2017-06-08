@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: kor
+category: kor
 title: 게임들
 tags: stick_to_windows
 ---

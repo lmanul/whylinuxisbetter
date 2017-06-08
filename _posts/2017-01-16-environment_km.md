@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: km
+category: km
 title: "បរិស្ថាន​"
 ---
 

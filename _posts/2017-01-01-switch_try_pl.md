@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: pl
+category: pl
 title: Wypróbuj Linuksa, czyli więcej o "Live CD"
 tags: switch
 ---

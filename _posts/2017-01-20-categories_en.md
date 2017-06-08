@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: en
+category: en
 title: "No big mess in your start menu"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: hu
+category: hu
 title: "Instabil a rendszered?"
 ---
 

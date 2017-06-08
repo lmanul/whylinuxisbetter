@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: hu
+category: hu
 title: "Miért lesz a Windows napról napra lassabb?"
 ---
 

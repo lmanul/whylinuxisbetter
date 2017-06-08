@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: kor
+category: kor
 title: "MSN, AIM, ICQ, Jabber를 한꺼번에 사용하기"
 ---
 

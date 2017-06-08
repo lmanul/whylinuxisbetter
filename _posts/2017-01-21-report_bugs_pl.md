@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: pl
+category: pl
 title: "Zgłaszanie problemów (nie musisz czekać latami na ich rozwiązanie!)"
 ---
 

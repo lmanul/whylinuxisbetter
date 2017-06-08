@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: tr
+category: tr
 title: "Çöp yazılımlara son."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: es
+category: es
 title: "¡Libertad!"
 ---
 

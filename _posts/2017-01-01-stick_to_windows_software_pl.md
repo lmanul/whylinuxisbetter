@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: pl
+category: pl
 title: Oprogramowanie własnościowe
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: el
+category: el
 title: "Αλλάξτε την εμφάνιση της επιφάνειας εργασίας σας."
 ---
 

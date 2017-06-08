@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: km
+category: km
 title: "ឆ្ពោះ​ទៅ​កាន់​​ផ្ទៃ​តុ​ជំនាន់​ក្រោយ​ ។"
 ---
 

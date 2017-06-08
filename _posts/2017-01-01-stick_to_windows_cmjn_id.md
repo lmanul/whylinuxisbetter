@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: id
+category: id
 title: Industri Buku dan Percetakan
 tags: stick_to_windows
 ---

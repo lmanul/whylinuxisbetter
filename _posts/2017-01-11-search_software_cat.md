@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: cat
+category: cat
 title: "Necessites més programari? No cerques a la web, Linux l'aconsegueix per tu."
 ---
 

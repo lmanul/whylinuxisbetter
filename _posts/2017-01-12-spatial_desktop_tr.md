@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: tr
+category: tr
 title: "Masaüstlerinde yeni çağa atlayın"
 ---
 

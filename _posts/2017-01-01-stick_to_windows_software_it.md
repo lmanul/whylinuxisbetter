@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: it
+category: it
 title: C'è del software proprietario di cui non puoi fare a meno
 tags: stick_to_windows
 ---

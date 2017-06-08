@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: br
+category: br
 title: "Quando o sistema é instalado, por que você <i>ainda</i> precisa instalar coisas?"
 ---
 

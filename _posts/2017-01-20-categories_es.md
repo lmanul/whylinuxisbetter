@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: es
+category: es
 title: "Sin desastres en tu menú principal"
 ---
 

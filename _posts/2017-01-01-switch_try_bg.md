@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: bg
+category: bg
 title: Опитайте "Жив CD"
 tags: switch
 ---

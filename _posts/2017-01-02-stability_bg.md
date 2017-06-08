@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: bg
+category: bg
 title: "Нестабилна ли е системата ви?"
 ---
 

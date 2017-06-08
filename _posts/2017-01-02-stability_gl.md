@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: gl
+category: gl
 title: "É inestable o teu sistema ?"
 ---
 

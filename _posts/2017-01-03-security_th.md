@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: th
+category: th
 title: "ลินุกซ์ปกป้องอย่างมั่นใจ"
 ---
 

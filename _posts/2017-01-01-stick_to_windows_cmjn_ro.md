@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: ro
+category: ro
 title: Tipografia
 tags: stick_to_windows
 ---

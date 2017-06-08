@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: ja
+category: ja
 title: "新世代デスクトップへ飛び出そう！"
 ---
 

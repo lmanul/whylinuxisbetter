@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: hu
+category: hu
 title: "Segíts más országokon és a sajátodon!"
 ---
 

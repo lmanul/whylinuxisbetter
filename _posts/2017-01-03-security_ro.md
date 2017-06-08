@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: ro
+category: ro
 title: "Linux vă protejează computerul"
 ---
 

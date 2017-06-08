@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: th
+category: th
 title: ซอฟต์แวร์ปิด-Proprietary
 tags: stick_to_windows
 ---

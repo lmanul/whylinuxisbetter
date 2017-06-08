@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: svk
+category: svk
 title: "Zabudnite na ovládače"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: per
+category: per
 
   
 

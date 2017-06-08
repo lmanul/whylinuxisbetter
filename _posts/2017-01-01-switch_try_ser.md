@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: ser
+category: ser
 title: Probajte "Live CD"
 tags: switch
 ---

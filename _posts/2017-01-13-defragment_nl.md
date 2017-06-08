@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: nl
+category: nl
 title: "Is uw digitale leven een beetje gefragmenteerd?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: id
+category: id
 title: Hardware
 tags: stick_to_windows
 ---

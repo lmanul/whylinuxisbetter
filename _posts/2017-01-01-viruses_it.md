@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: it
+category: it
 title: "Dimenticati dei virus"
 ---
 

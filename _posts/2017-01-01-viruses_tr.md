@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: tr
+category: tr
 title: "Virüsleri unutun."
 ---
 

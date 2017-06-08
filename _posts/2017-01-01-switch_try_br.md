@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: br
+category: br
 title: Teste um "Live CD"
 tags: switch
 ---

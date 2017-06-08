@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: ro
+category: ro
 title: "Uitaţi de viruşi."
 ---
 

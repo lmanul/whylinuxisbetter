@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: tr
+category: tr
 title: "Yazılımda kapalı kapılara hayır!"
 ---
 

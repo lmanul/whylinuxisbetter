@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: lit
+category: lit
 title: "Laisv&#279;!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: pl
+category: pl
 title: "Czy Twoje życie wydaje się pofragmentowane?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: cat
+category: cat
 title: "Fes servir MSN, AIM, ICQ, Jabber en una mateixa aplicació."
 ---
 

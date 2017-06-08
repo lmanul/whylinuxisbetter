@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: el
+category: el
 title: "Πάρα πολλά παράθυρα; Χρησιμοποιήστε επιφάνειες εργασίας."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: en
+category: en
 title: "Jump into the next generation of desktops."
 ---
 

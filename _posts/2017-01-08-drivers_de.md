@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: de
+category: de
 title: "Denk nicht über Treiber nach"
 ---
 

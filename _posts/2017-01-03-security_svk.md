@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: svk
+category: svk
 title: "Linux chráni váš počítač"
 ---
 

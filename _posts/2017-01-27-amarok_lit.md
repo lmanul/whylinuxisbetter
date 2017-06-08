@@ -1,6 +1,6 @@
 ---
 identifier: amarok
-lang: lit
+category: lit
 title: "Gauk puik&#371; muzikos grotuv&#261;."
 ---
 

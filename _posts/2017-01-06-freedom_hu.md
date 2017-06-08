@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: hu
+category: hu
 title: "Szabadság!"
 ---
 

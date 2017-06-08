@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: ua
+category: ua
 title: Ти запеклий гравець
 tags: stick_to_windows
 ---

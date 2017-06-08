@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: hu
+category: hu
 title: "A Linux védelmet nyújt számítógéped számára"
 ---
 

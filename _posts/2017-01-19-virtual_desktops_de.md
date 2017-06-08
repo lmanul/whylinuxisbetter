@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: de
+category: de
 title: "Zu viele Fenster? Benutz Arbeitsflächen."
 ---
 

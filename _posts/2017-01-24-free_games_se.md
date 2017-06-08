@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: se
+category: se
 title: "Spela hundratals av spel gratis"
 ---
 

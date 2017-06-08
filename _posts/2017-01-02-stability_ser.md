@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: ser
+category: ser
 title: "Jel Vap sistem stabilan ?"
 ---
 

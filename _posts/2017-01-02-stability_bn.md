@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: bn
+category: bn
 title: "স্ট্যাবিলিটি নিয়ে সমস্যা?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: bn
+category: bn
 title: "অপারেটিং সিস্টেমের জন্য $100 খরচ করতে হবে না।"
 ---
 

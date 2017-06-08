@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: it
+category: it
 title: "La tua vita digitale sembra frammentata?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: lit
+category: lit
 title: "Saugok aplinką"
 ---
 

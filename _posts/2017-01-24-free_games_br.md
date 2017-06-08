@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: br
+category: br
 title: "Jogue centenas de jogos de graça"
 ---
 

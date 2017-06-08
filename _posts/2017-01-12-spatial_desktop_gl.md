@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: gl
+category: gl
 title: "Salta á próxima xeración de contornas gráficas de escritorio."
 ---
 

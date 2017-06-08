@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: da
+category: da
 title: Proprietær software.
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: gl
+category: gl
 title: Instala Linux
 tags: switch
 ---

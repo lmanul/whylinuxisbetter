@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: bn
+category: bn
 title: "শেষ হইয়াও হইলোনা শেষ..."
 ---
 

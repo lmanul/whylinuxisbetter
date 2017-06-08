@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: da
+category: da
 title: "Linux beskytter din computer."
 ---
 

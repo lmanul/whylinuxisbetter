@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: tr
+category: tr
 title: Bir "Çalışan CD" deneyin
 tags: switch
 ---

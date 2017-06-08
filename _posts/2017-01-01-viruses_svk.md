@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: svk
+category: svk
 title: "Zabudnite na vírusy"
 ---
 

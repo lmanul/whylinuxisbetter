@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: ja
+category: ja
 title: "さよなら、ウィルス！"
 ---
 

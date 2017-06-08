@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: per
+category: per
 title: "آيا از راه&zwnj;اندازي مجدد كردن هميشگي كامپيوترتون خسته شديد؟"
 ---
 

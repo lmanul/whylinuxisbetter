@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: he
+category: he
 ‏title: "נמאס לכם להפעיל את המחשב מחדש כל הזמן?"
 ---
 

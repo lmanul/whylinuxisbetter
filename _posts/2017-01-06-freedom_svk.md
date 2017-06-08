@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: svk
+category: svk
 title: "Sloboda!"
 ---
 

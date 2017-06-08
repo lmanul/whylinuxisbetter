@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: ser
+category: ser
 title: "Osvežite Vaš softver jednim klikom miša."
 ---
 

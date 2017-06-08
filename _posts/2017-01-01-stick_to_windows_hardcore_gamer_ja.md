@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: ja
+category: ja
 title: ゲーマーにゃゲーマーの道がある！
 tags: stick_to_windows
 ---

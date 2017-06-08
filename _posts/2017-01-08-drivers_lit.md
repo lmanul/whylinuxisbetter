@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: lit
+category: lit
 title: "Pamirškite tvarkykles (draiverius)"
 ---
 

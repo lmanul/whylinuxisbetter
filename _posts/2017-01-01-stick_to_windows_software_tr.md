@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: tr
+category: tr
 title: Sahipli yazılım
 tags: stick_to_windows
 ---

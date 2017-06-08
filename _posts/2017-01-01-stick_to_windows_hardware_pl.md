@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: pl
+category: pl
 title: Sprzęt
 tags: stick_to_windows
 ---

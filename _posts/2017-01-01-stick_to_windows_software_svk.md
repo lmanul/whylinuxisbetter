@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: svk
+category: svk
 title: Autorizovaný (zákonom chránený) softvér
 tags: stick_to_windows
 ---

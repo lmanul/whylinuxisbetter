@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: lit
+category: lit
 title: "Programinės įrangos durys yra atviros."
 ---
 

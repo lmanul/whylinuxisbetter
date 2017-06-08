@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: no
+category: no
 title: "Er du lei av å måtte restarte datamaskinen din hele tiden?"
 ---
 

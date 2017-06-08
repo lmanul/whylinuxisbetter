@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: el
+category: el
 title: "Βοηθήστε άλλες χώρες, και τη δική σας"
 ---
 

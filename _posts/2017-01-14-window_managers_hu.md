@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: hu
+category: hu
 title: "Válaszd ki, milyen legyen az asztalod!"
 ---
 

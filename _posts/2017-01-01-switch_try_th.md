@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: th
+category: th
 title: ลอง "ซีดีสด-Live CD"
 tags: switch
 ---

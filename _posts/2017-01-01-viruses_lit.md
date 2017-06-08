@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: lit
+category: lit
 title: "Pamir&#353;kite apie virusus."
 ---
 

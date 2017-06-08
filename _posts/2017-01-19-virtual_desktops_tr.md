@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: tr
+category: tr
 title: "Çok fazla mı pencere var? Çoklu masaüstü kullanın."
 ---
 

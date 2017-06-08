@@ -1,6 +1,6 @@
 ---
 identifier: amarok
-lang: cat
+category: cat
 title: "Aconsegueix un genial reproductor musical."
 ---
 

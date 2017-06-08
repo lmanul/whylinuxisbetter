@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: el
+category: el
 title: "Όχι άλλο crapware."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: tw
+category: tw
 title: "Linux 會保護你的電腦"
 ---
 

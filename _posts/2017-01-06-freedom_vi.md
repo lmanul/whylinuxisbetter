@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: vi
+category: vi
 title: "Tự do muôn năm!"
 ---
 

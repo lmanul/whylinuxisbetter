@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: svk
+category: svk
 title: "Keď je systém nainštalovaný, <i>prečo</i> je potrebné inštalovať ďalšie programy?"
 ---
 

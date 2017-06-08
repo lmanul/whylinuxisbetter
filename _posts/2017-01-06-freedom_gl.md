@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: gl
+category: gl
 title: "Liberdade!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: ua
+category: ua
 title: "Зазирни у наступне покоління робочих столів"
 ---
 <p align="center">Переклад з німецької Жолобака Максима

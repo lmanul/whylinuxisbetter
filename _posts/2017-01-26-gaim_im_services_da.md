@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: da
+category: da
 title: "Brug MSN, AIM, ICQ, Jabber, med ét enkelt program."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: no
+category: no
 title: "Trenger du ny programvare? Ikke søk på Internett, Linux skaffer det for deg."
 ---
 

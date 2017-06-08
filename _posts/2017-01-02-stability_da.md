@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: da
+category: da
 title: "Er dit system ustabilt?"
 ---
 

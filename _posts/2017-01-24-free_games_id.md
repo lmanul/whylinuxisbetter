@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: id
+category: id
 title: "Mainkan ratusan jenis permainan secara bebas"
 ---
 

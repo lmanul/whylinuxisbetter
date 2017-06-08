@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: th
+category: th
 title: "ไวรัส.... ลืมๆ มันไปได้เลย"
 ---
 

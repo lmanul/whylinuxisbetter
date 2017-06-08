@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: da
+category: da
 title: "Gør dig klar til den næste generation af desktops."
 ---
 

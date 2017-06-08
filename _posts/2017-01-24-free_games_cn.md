@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: cn
+category: cn
 title: "成百上千的免费游戏任你玩"
 ---
 

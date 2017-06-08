@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: svk
+category: svk
 title: "Vyberte si štýl vašej pracovnej plochy"
 ---
 

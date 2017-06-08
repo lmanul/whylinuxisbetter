@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: ru
+category: ru
 title: "Скажите “нет” беспорядку в вашем меню."
 ---
 

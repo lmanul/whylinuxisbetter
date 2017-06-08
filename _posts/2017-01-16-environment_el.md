@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: el
+category: el
 title: "Κάντε κάτι για το περιβάλλον"
 ---
 

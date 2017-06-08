@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: ser
+category: ser
 title: "Treba Vam nov softver? Ne tražite po mreži, Linux će Vam nabaviti."
 ---
 

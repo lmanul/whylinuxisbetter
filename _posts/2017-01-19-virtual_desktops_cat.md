@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: cat
+category: cat
 title: "Massa finestres? Fes servir els espais de treball."
 ---
 

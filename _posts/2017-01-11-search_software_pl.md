@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: pl
+category: pl
 title: "Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci! Linuks zrobi to za Ciebie"
 ---
 

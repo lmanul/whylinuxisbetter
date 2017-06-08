@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: da
+category: da
 title: "Hold øje med vejret."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: th
+category: th
 title: "อิสรภาพ!"
 ---
 

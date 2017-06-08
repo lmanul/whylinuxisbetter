@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: he
+category: he
 title: "חירות!"
 ---
 

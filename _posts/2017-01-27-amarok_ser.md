@@ -1,6 +1,6 @@
 ---
 identifier: amarok
-lang: ser
+category: ser
 title: " Nabavite odličan muzički plejer."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: el
+category: el
 title: Τομέας εκδόσεων
 tags: stick_to_windows
 ---

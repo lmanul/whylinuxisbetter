@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: kor
+category: kor
 title: "﻿드라이버는 잊어라!"
 ---
 

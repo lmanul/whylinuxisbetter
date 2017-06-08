@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: ro
+category: ro
 title: "Viaţa dvs. virtuală pare fragmentată?"
 ---
 

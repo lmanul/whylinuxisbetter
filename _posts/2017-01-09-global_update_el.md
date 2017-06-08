@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: el
+category: el
 title: "Αναβαθμίστε όλα σας τα προγράμματα με ένα κλικ"
 ---
 

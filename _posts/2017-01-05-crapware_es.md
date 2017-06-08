@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: es
+category: es
 title: "No más mierdaware."
 ---
 

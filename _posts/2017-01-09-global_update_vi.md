@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: vi
+category: vi
 title: "Cập nhật hệ thống bằng một click chuột"
 ---
 

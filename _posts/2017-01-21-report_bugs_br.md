@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: br
+category: br
 title: "﻿Relatando Bugs"
 ---
 

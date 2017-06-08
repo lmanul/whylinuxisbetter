@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: hu
+category: hu
 title: "Felejtsd el az eszközillesztőket!"
 ---
 

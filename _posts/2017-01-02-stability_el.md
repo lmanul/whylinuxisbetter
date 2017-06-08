@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: el
+category: el
 title: "Το σύστημά σας είναι ασταθές;"
 ---
 

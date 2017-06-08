@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: lit
+category: lit
 title: "Pad&#279;k kitoms &#353;alis, taip pat ir savo."
 ---
 

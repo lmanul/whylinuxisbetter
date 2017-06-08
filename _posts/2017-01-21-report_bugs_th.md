@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: th
+category: th
 title: "การรายงานบั๊ก"
 ---
 

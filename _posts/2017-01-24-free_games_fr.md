@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: fr
+category: fr
 title: "Jouez à des centaines de jeux gratuitement"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: br
+category: br
 title: "Por que seu Windows fica mais lento dia após dia ?"
 ---
 

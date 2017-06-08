@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: br
+category: br
 title: "Faça algo pelo meio ambiente"
 ---
 

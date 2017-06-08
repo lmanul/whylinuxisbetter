@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: no
+category: no
 title: "Når systemet er installert, hvorfor må du <i>stadig</i> installere nye ting?"
 ---
 

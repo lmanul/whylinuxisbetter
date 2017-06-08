@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: per
+category: per
 title: بازيها
 tags: stick_to_windows
 ---

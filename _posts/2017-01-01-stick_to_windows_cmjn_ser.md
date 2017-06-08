@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: ser
+category: ser
 title: Knjige i štamparska industrija
 tags: stick_to_windows
 ---

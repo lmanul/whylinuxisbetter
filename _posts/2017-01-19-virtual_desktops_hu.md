@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: hu
+category: hu
 title: "Túl sok az ablak? Használj munkaterületeket!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: fr
+category: fr
 title: "Gardez un oeil sur la météo"
 ---
 

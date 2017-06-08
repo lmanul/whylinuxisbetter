@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: en
+category: en
 title: "Help other countries, and your own"
 ---
 

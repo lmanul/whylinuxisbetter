@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: he
+category: he
 title: "עדכן את כל התוכנות שלך בקליק אחד."
 ---
 

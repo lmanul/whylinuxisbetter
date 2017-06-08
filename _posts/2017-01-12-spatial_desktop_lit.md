@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: lit
+category: lit
 title: "Pasinerkite į naują darbalaukių kartą."
 ---
 

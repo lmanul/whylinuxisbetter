@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: gl
+category: gl
 title: "Moitas ventás? Usa as áreas de traballo"
 ---
 

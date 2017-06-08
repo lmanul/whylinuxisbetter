@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: cn
+category: cn
 title: "只需单击一下鼠标，就能升级您的所有软件"
 ---
 

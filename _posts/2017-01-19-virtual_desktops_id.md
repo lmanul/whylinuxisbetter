@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: id
+category: id
 title: "Terlalu banyak membuka window/jendela? Gunakanlah Workspace."
 ---
 

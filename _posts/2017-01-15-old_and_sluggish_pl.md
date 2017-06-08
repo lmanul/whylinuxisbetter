@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: pl
+category: pl
 title: "Czemu Twój Windows spowalnia z każdym dniem?"
 ---
 

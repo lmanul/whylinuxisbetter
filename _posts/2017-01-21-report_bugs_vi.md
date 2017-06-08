@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: vi
+category: vi
 title: "Báo lỗi"
 ---
 

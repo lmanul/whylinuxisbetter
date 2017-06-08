@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: th
+category: th
 title: ฮาร์ดแวร์
 tags: stick_to_windows
 ---

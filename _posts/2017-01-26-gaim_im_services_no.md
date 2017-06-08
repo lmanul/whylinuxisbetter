@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: no
+category: no
 title: "Bruk MSN, AIM, ICQ, Jabber, alt med ett enkelt program."
 ---
 

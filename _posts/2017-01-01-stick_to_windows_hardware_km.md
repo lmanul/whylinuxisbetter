@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: km
+category: km
 title: ផ្នែក​រឹង​
 tags: stick_to_windows
 ---

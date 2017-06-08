@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: bn
+category: bn
 title: "'Live CD' চালিয়ে দেখুন"
 tags: switch
 ---

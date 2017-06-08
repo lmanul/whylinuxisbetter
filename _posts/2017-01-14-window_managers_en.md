@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: en
+category: en
 title: "Choose what your desktop looks like."
 ---
 

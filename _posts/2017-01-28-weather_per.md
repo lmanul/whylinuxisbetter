@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: per
+category: per
 
 
 

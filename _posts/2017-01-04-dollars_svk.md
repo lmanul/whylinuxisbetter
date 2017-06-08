@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: svk
+category: svk
 title: "Neplaťte €150 za váš operačný systém"
 ---
 

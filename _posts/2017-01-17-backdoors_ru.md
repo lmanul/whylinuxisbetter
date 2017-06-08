@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: ru
+category: ru
 title: "Никаких ''скрытых ходов'' в вашем ПО."
 ---
 

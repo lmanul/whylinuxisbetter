@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: per
+category: per
 
   
 

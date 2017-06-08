@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: en
+category: en
 title: "No more crapware."
 ---
 

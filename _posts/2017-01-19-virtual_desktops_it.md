@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: it
+category: it
 title: "Troppe finestre? Usa gli ambienti di lavoro"
 ---
 

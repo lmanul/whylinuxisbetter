@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: br
+category: br
 title: "Fique de olho no tempo."
 ---
 

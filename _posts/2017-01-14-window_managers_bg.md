@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: bg
+category: bg
 title: "Изберете как да изглежда работната ви площ."
 ---
 

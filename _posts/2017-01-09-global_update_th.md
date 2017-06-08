@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: th
+category: th
 title: "อัพเดททุกซอฟต์แวร์ของคุณด้วยคลิกเดียว"
 ---
 

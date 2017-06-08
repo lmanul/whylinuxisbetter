@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: cat
+category: cat
 title: "Salta a la nova generació d'escriptoris."
 ---
 

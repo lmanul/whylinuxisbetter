@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: el
+category: el
 title: "Κάντε άλμα στην νέα γενιά περιβάλλοντων εργασίας."
 ---
 

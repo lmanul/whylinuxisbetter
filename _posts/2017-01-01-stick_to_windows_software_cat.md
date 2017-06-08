@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: cat
+category: cat
 title: Programari propietari
 tags: stick_to_windows
 ---

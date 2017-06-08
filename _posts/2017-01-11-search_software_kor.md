@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: kor
+category: kor
 title: "소프트웨어가 필요하시다구요? 웹에서 찾느라 고생하지 마세요, 리눅스가 찾아줍니다."
 ---
 

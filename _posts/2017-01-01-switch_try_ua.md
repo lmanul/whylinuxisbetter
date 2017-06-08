@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: ua
+category: ua
 title: Спробуй "Live-CD"
 tags: switch
 ---

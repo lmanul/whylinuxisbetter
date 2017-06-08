@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: nl
+category: nl
 title: "Waarom zou u na de installatie <i>nog</i> software moeten installeren?"
 ---
 

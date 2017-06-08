@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: no
+category: no
 title: "Linux beskytter datamaskinen din."
 ---
 

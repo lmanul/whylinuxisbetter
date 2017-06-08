@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: th
+category: th
 title: ธุรกิจหนังสือและสิ่งพิมพ์
 tags: stick_to_windows
 ---

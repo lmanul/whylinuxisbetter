@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: km
+category: km
 title: "សេរី​ភាព!"
 ---
 

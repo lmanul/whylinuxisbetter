@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: cn
+category: cn
 
 title: "您的数字生活看上去是破碎的吗？"
 ---

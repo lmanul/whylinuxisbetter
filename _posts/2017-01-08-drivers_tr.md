@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: tr
+category: tr
 title: "Sürücüleri unutun"
 ---
 

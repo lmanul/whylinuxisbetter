@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: bg
+category: bg
 title: "Елате в следващото поколение на desktop-ите"
 ---
 

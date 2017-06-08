@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: ru
+category: ru
 title: Устанавливаем Linux
 tags: switch
 ---

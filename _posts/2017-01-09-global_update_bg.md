@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: bg
+category: bg
 title: "Осъвременете всичкия си софтуер с едно цъкане."
 ---
 

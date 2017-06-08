@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: se
+category: se
 title: Testa med en ”Live CD”
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: ja
+category: ja
 title: "いつまでも直らないバグ。バグ退治に協力すれば解決は早いのにぃ"
 ---
 

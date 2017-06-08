@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: ru
+category: ru
 title: "Не нужно платить $100 за новую операционную систему "
 ---
 

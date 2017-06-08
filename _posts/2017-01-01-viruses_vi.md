@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: vi
+category: vi
 title: "Không còn lo lắng về virus nữa"
 ---
 

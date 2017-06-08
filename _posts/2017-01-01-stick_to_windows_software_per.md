@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: per
+category: per
 title: نرم افزارهاي پولي(داراي حق مالكيت)
 tags: stick_to_windows
 ---

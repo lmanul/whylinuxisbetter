@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: id
+category: id
 title: Mencoba "Live CD" Linux
 tags: switch
 ---

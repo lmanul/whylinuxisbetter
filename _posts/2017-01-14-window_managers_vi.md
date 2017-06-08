@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: vi
+category: vi
 title: "Chọn giao diện nào bạn muốn"
 ---
 

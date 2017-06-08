@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: ua
+category: ua
 title: "Не чекай роками, поки помилки будуть усунені – повідом про них та позбудься їх"
 ---
 

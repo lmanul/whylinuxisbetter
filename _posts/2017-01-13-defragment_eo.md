@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: eo
+category: eo
 title: "Ĉu via cifereca vivo ŝajnas fragmentigita?"
 ---
 

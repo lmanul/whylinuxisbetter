@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: ser
+category: ser
 title: "Uskočite u novu generaciju radne površine"
 ---
 

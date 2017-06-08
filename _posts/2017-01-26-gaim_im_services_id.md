@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: id
+category: id
 title: "Gunakan MSN, AIM, ICQ, Jabber, dengan hanya satu program"
 ---
 

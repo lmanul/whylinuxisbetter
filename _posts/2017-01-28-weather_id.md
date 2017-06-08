@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: id
+category: id
 title: "Jangan lupa selalu mengamati cuaca."
 ---
 

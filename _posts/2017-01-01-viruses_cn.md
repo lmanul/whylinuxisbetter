@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: cn
+category: cn
 title: "从此忘却病毒"
 ---
 

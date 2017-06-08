@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: bg
+category: bg
 title: Собственически софтуер
 tags: stick_to_windows
 ---

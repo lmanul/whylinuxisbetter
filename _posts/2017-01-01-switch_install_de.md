@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: de
+category: de
 title: Linux installieren
 tags: switch
 ---

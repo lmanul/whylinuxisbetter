@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: eo
+category: eo
 title: "Aktualigu vian tutan programaron per unu klako."
 ---
 

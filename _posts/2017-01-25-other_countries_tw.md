@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: tw
+category: tw
 title: "幫助台灣以及其他國家"
 ---
 

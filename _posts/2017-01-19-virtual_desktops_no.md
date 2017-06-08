@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: no
+category: no
 title: "For mange vinduer? Bruk flere skrivebord."
 ---
 

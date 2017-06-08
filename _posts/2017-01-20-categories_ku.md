@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: ku
+category: ku
 title: "هیچ قەرەباڵغیەک نیە لە لیستەی سەرەتادا"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: tr
+category: tr
 title: "Bilgisayarınızı sürekli baştan başlatmaktan sıkıldınız mı?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: bg
+category: bg
 title: "Играйте безплатно стотици игри"
 ---
 

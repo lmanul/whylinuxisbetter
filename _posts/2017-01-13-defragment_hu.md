@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: hu
+category: hu
 title: "Töredékekként látod a világot?"
 ---
 

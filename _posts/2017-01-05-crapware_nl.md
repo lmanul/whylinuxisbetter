@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: nl
+category: nl
 title: "Geen crapware meer."
 ---
 

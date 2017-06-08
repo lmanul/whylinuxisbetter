@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: hu
+category: hu
 title: "Frissítsd minden programod egyetlen kattintással!"
 ---
 

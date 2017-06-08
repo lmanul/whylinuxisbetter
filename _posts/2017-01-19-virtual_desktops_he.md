@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: he
+category: he
 title: "  יותר מדי חלונות?  סביבות עבודה כבר ניסית?"
 ---
 

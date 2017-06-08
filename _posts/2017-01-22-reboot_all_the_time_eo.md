@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: eo
+category: eo
 title: "Ĉu vi estas laca restartigi la komputilon daŭre?"
 ---
 

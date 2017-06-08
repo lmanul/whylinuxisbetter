@@ -2,6 +2,7 @@ title: Why Linux is Better
 baseurl: "/"
 url: "http://whylinuxisbetter.net"
 
-permalink: :title
+permalink: /:category/:title
 
 markdown: kramdown
+include: [fr, de]

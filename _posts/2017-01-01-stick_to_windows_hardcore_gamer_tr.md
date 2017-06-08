@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: tr
+category: tr
 title: Oyunlar
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: da
+category: da
 title: Spil
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: cn
+category: cn
 title: 尝试一下 "Live CD"
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: se
+category: se
 title: Låst mjukvara
 tags: stick_to_windows
 ---

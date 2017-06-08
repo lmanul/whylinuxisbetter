@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: ro
+category: ro
 title: Instalaţi Linux
 tags: switch
 ---

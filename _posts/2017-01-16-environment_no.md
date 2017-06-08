@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: no
+category: no
 title: "Hjelp miljøet."
 ---
 

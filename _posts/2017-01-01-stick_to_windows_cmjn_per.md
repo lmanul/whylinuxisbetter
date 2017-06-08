@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: per
+category: per
 title: صنعت چاپ و نشر
 tags: stick_to_windows
 ---

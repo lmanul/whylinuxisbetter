@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: vi
+category: vi
 title: "Xem dự báo thời tiết"
 ---
 

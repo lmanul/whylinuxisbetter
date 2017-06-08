@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: pl
+category: pl
 title: Instalacja systemu Linuks (system Windows zostaje na swoim miejscu!)
 tags: switch
 ---

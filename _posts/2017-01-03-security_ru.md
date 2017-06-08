@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: ru
+category: ru
 title: "Linux защищает ваш компьютер"
 ---
 

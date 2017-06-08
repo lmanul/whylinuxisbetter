@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: ja
+category: ja
 title: "Linuxがパソコンを守ります！"
 ---
 

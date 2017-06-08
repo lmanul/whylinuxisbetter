@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: ua
+category: ua
 title: Існує комерційне програмне забезпечення, без якого ти не можеш жити
 tags: stick_to_windows
 ---

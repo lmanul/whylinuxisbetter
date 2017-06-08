@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: he
+category: he
 title: "עזבו אתכם ממנהלי התקנים"
 ---
 

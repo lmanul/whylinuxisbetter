@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: per
+category: per
 title: "صدها بازي رو رايگان انجام بدين"
 ---
 

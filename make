@@ -33,4 +33,6 @@ for intl_file in intl_files:
   os.system("cp index.template " + lang + "/index.html")
   for id in IDS:
     if id in translations:
-      os.system('sed -i "s/' + id + '/' + translations[id] + '/" ' + index_path)
+      command = 'sed -i "s/' + id + '/' + translations[id] + '/" ' + index_path
+      print(command)
+      os.system(command)

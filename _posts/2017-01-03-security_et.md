@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: et
+category: et
 title: "Linux kaitseb sinu arvutit"
 ---
 

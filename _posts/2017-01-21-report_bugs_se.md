@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: se
+category: se
 title: "Rapportera buggar"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: nl
+category: nl
 title: Boek- & printsector
 tags: stick_to_windows
 ---

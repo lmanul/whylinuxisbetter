@@ -1,6 +1,6 @@
 ---
 identifier: amarok
-lang: svk
+category: svk
 title: "Získajte úžasný prehrávač hudby"
 ---
 

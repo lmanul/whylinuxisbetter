@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: tr
+category: tr
 title: "Sisteminiz kararsız mı?"
 ---
 

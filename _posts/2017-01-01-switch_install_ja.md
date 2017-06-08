@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: ja
+category: ja
 title: Linuxのインストール
 tags: switch
 ---

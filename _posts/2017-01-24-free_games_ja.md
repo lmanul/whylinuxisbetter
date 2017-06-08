@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: ja
+category: ja
 title: "無料ゲームが無数にあるんだよ"
 ---
 

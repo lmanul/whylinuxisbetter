@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: es
+category: es
 title: "¿Tu vida digital parece fragmentada?"
 ---
 

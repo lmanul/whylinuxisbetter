@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: tr
+category: tr
 title: "Çevre için de bir şeyler yapın"
 ---
 

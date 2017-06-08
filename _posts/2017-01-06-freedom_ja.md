@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: ja
+category: ja
 title: "自由バンザイ！"
 ---
 

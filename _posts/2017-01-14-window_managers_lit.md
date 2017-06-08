@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: lit
+category: lit
 title: "Pasirinkite, kaip atrodys Jūsų darbalaukis."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: per
+category: per
 title: سخت افزار
 tags: stick_to_windows
 ---

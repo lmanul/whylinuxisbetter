@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: pl
+category: pl
 title: "Zagraj w setki darmowych gier"
 ---
 

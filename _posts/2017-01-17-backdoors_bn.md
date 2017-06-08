@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: bn
+category: bn
 title: "সফটওয়্যারে গোপন কিছু থাকবে না।"
 ---
 

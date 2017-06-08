@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: lit
+category: lit
 title: "Ar Jūsų skaitmeninis gyvenimas atrodo išsibarstęs?"
 ---
 

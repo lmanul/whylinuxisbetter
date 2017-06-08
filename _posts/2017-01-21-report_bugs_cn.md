@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: cn
+category: cn
 title: "报告漏洞（Bugs）"
 ---
 

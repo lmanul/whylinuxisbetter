@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: id
+category: id
 title: "Lingkungan"
 ---
 

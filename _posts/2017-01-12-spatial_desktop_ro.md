@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: ro
+category: ro
 title: "Intraţi în noua generaţie de desktop-uri."
 ---
 

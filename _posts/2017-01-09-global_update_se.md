@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: se
+category: se
 title: "Uppdatera all din mjukvara med ett klick."
 ---
 

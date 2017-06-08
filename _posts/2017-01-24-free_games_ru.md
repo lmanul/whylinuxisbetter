@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: ru
+category: ru
 title: "Играй в сотни игр - бесплатно!"
 ---
 

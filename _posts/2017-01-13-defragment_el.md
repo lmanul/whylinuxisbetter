@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: el
+category: el
 title: "Η ψηφιακή σας ζωή μοιάζει σκόρπια;"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: ser
+category: ser
 title: "a i svojoj."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: he
+category: he
 title: "האם המערכת שלך סובלת מאי-יציבות?"
 ---
 

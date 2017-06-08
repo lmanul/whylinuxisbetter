@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: ru
+category: ru
 title: Оборудование... 
 tags: stick_to_windows
 ---

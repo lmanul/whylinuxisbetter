@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: eo
+category: eo
 title: Provu "Senperan KD-n"
 tags: switch
 ---

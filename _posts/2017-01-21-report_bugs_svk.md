@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: svk
+category: svk
 title: "Ohlasovanie chýb"
 ---
 

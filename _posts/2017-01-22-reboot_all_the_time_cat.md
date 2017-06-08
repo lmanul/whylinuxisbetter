@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: cat
+category: cat
 title: "N'estàs ben tip de reiniciar el teu ordinador a sovint?"
 ---
 

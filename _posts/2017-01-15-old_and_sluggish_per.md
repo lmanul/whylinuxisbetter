@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: per
+category: per
 
 
 

@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: gl
+category: gl
 title: "Necesitas novos programas? Non busques en internet, Linux os trae por ti."
 ---
 

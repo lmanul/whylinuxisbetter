@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: nl
+category: nl
 title: "Help andere landen, ook uw eigen"
 ---
 

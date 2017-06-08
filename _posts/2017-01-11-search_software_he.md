@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: he
+category: he
 title: "   צריכים תכנה חדשה?  אל תטרחו לחפש ברשת, לינוקס תדאג לכם. "
 ---
 

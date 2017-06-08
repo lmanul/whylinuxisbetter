@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: fr
+category: fr
 title: " Mettez à jour tous vos logiciels d'un seul clic."
 ---
 

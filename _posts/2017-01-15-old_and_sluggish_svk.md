@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: svk
+category: svk
 title: "Prečo je Windows každým dňom pomalší?"
 ---
 

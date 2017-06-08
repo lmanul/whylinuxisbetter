@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: km
+category: km
 title: កម្មវិធី​​មាន​កម្មសិទ្ធិ​
 tags: stick_to_windows
 ---

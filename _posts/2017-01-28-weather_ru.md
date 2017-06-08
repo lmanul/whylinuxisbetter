@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: ru
+category: ru
 title: "Следите за погодой! Кажется дождь начинается... "
 ---
 

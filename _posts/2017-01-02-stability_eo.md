@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: eo
+category: eo
 title: "Ĉu via operaciumo estas nestabila?"
 ---
 

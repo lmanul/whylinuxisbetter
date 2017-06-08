@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: svk
+category: svk
 title: "Je váš systém nestabilný?"
 ---
 

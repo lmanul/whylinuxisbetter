@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: gl
+category: gl
 title: "Informe de Fallos"
 ---
 

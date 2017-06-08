@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: ku
+category: ku
 title: "سیستەمەکەت نوێ بکەرەوە بە یەک کرتە "
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: cat
+category: cat
 title: Prova un “Live CD”
 tags: switch
 ---

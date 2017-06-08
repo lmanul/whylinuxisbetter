@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: en
+category: en
 title: "Too many windows? Use workspaces."
 ---
 

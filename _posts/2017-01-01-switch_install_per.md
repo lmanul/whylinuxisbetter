@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: per
+category: per
 title: نصب لینوکس
 tags: switch
 ---

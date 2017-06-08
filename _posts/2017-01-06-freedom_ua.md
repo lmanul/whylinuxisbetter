@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: ua
+category: ua
 title: "Свобода!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: hu
+category: hu
 title: Játékok
 tags: stick_to_windows
 ---

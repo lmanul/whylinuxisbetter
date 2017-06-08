@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: id
+category: id
 title: "Melaporkan <i>bug</i>"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: ja
+category: ja
 title: "Windows使ってるとだんだん遅くならない？"
 ---
 

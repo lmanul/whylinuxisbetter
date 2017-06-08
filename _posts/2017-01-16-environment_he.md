@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: he
+category: he
 title: "תרמו את חלקכם למען איכות הסביבה"
 ---
 

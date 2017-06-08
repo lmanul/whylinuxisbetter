@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: hu
+category: hu
 title: Telepíts Linuxot!
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: bg
+category: bg
 title: "Следете прогнозата за времето."
 ---
 

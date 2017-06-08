@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: no
+category: no
 title: Bok- og trykkeriindustrien.
 tags: stick_to_windows
 ---

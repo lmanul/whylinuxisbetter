@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: svk
+category: svk
 title: Hardvér
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: lit
+category: lit
 title: "Reikia naujos programos? Neieškokite jos internete, Linux'ai ją suras už jus."
 
 ---

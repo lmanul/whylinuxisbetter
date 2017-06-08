@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: cn
+category: cn
 title: "您的系统不稳定吗？"
 ---
 

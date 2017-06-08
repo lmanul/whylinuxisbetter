@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: cat
+category: cat
 title: "Dóna una ullada al temps que fa."
 ---
 

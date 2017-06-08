@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: gl
+category: gl
 title: "Axuda a outros países, incluído o teu"
 ---
 

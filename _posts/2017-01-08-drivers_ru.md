@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: ru
+category: ru
 title: "Забудьте о драйверах."
 ---
 

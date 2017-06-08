@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: cn
+category: cn
 title: 私有软件
 tags: stick_to_windows
 ---

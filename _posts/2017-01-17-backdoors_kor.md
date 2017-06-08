@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: kor
+category: kor
 title: "백도어는 가라!"
 ---
 

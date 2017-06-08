@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: nl
+category: nl
 title: Installeer Linux
 tags: switch
 ---

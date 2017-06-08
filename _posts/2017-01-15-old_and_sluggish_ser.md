@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: ser
+category: ser
 title: "Zašto Windows postaje sporiji svakim danom?"
 ---
 

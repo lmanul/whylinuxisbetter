@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: hu
+category: hu
 title: "Ha egyszer már telepítetted a rendszert, miért kellene <i>még mindig</i> telepítgetned?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: bg
+category: bg
 title: "Изглежда ли разхвърлян дигиталният ви живот ?"
 ---
 

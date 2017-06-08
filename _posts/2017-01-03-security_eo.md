@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: eo
+category: eo
 title: "Linux protektas vian komputilon"
 ---
 

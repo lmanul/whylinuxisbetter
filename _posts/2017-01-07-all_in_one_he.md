@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: he
+category: he
 title: "אחרי שכבר התקנת את המערכת, למה עליך <i>בכל זאת</i> להתקין עוד דברים?"
 ---
 

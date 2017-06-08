@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: ua
+category: ua
 title: "Чи стійка ваша комп’ютерна система?"
 ---
 <p align="center">Переклад з німецької Ірини Каленської

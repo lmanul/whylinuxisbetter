@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: vi
+category: vi
 title: Phần cứng
 tags: stick_to_windows
 ---

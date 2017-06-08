@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: id
+category: id
 title: "Beralih ke desktop generasi selanjutnya."
 ---
 

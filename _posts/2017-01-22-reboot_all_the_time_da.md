@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: da
+category: da
 title: "Er du træt af at genstarte din computer hele tiden?"
 ---
 

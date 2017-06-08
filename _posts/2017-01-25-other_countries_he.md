@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: he
+category: he
 title: " עזרו לארצות זרות, ולשלכם"
 ---
 

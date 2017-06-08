@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: no
+category: no
 title: "Spill hundrevis av spill helt gratis."
 ---
 

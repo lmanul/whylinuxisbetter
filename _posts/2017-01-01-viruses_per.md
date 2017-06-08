@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: per
+category: per
 title: "ويروسها رو فراموش كنيد."
 ---
 

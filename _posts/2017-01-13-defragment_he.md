@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: he
+category: he
 title: "מרגישים שהחיים הדיגיטליים שלכם שבורים לרסיסים?"
 ---
 

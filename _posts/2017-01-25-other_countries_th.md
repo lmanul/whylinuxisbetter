@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: th
+category: th
 title: "ช่วยเหลือมวลมนุษยชาติ และประเทศไทยของเรา"
 ---
 

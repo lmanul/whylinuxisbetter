@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: km
+category: km
 title: "ជួយ​ប្រទេស​ដទៃទៀត​ ព្រម​ទាំង​ប្រទេស​របស់​អ្នក​ផង​ដែរ"
 ---
 

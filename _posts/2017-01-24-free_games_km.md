@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: km
+category: km
 title: "លេង​ល្បែងរាប់​​រយ​​ដោយ​ឥត​គិត​ថ្លៃ​"
 ---
 

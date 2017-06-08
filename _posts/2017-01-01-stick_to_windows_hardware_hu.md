@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: hu
+category: hu
 title: Hardver
 tags: stick_to_windows
 ---

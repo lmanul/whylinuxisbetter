@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: per
+category: per
 
 title: "لينوكس از كامپيوتر شما محافظت مي&zwnj;كنه"
 ---

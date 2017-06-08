@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: ku
+category: ku
 title: "ئازادی!"
 ---
 

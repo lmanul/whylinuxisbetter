@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: el
+category: el
 title: "Το Linux προστατεύει τον υπολογιστή σας"
 ---
 

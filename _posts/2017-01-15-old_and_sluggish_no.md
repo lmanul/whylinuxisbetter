@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: no
+category: no
 title: "Hvorfor blir din Windows tregere for hver dag som går?"
 ---
 

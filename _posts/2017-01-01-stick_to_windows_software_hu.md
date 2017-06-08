@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: hu
+category: hu
 title: Kereskedelmi szoftver
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: bg
+category: bg
 title: "Използвайте MSN, AIM, ICQ, Jabber с една-единствена програма"
 ---
 

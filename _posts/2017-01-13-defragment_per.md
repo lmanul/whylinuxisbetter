@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: per
+category: per
 
 title: "زندگي ديجيتالتون متفرق شده؟"
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: svk
+category: svk
 title: "Sledovanie počasia"
 ---
 

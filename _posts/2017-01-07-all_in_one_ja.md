@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: ja
+category: ja
 title: "「OS入れただけじゃ何もできない」なんて、おかしいじゃない？"
 ---
 

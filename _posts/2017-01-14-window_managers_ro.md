@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: ro
+category: ro
 title: "Control complet asupra aspectelor desktop-ului."
 ---
 Dacă sunteţi un utilizator de Windows, desktop-ul dumneavoastră

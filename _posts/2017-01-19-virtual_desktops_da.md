@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: da
+category: da
 title: "For mange vinduer? Brug flere skriveborde."
 ---
 

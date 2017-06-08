@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: per
+category: per
 
 title: "گزارش كردن خطاها"
 ---

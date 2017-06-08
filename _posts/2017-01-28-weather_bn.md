@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: bn
+category: bn
 title: "আবহাওয়ার উপর নজর রাখুন।"
 ---
 

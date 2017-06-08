@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: ar
+category: ar
 title: "لا تدفع 100$ دولار لتشتري نظام تشغيل"
 ---
 

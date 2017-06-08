@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: el
+category: el
 title: "Ξεχάστε τους ιούς."
 ---
 

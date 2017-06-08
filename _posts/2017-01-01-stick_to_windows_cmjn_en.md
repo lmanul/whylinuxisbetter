@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: en
+category: en
 title: Books & printing industry
 tags: stick_to_windows
 ---

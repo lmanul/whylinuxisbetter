@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: es
+category: es
 title: "Entra en la nueva generación de escritorios"
 ---
 

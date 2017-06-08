@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: id
+category: id
 title: "<i>Update</i> semua perangkat lunakmu dengan satu klik."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: ser
+category: ser
 title: " Pratite vreme."
 ---
 

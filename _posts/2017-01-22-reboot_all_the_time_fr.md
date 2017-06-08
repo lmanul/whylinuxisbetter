@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: fr
+category: fr
 title: "Êtes-vous fatigué de redémarrer votre PC sans arrêt ?"
 ---
 

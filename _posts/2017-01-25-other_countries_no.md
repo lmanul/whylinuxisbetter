@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: no
+category: no
 title: "Hjelp andre land og ditt eget!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: ser
+category: ser
 title: "Bez sranjvera"
 ---
 

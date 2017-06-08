@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: th
+category: th
 title: การติดตั้งลินุกซ์
 tags: switch
 ---

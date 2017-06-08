@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: per
+category: per
 title: امتحان کردن یک "سی دی زنده"
 tags: switch
 ---

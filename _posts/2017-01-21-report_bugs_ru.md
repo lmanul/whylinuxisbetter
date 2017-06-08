@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: ru
+category: ru
 title: "Сообщения об ошибках"
 ---
 

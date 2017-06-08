@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: no
+category: no
 title: "Frihet!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: it
+category: it
 title: "Fai un salto verso la nuova generazione di desktop."
 ---
 

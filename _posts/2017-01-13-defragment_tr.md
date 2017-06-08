@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: tr
+category: tr
 title: "Dijital hayatınızda parçalanmalar mı var ?"
 ---
 

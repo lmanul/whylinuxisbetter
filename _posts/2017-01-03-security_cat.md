@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: cat
+category: cat
 title: "Linux protegeix el teu ordinador"
 ---
 

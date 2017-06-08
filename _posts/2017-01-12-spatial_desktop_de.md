@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: de
+category: de
 title: "Erlebe die nächste Desktop-Generation."
 ---
 

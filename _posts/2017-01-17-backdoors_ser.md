@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: ser
+category: ser
 title: "Bez tajnih vrata u vašem softveru."
 ---
 

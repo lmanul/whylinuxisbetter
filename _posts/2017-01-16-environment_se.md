@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: se
+category: se
 title: "Miljö"
 ---
 

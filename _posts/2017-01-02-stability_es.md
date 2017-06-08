@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: es
+category: es
 title: "¿Tu sistema es inestable?"
 ---
 

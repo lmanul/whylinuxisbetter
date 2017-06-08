@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: ku
+category: ku
 title: ".بڕۆ بۆ نەوەی نوێی ڕوومێزەکان"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: se
+category: se
 title: "Hoppa in i nästa generations skrivbord."
 ---
 

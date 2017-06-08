@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: nl
+category: nl
 title: "Waarom wordt Windows steeds langzamer?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: tr
+category: tr
 title: Linux'u kurun
 tags: switch
 ---

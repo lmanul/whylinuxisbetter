@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: br
+category: br
 title: "﻿Use MSN, AIM, ICQ, Yahoo, Google Talk, Jabber, com um único programa"
 ---
 

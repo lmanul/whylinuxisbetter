@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: th
+category: th
 title: "ไม่ต้องมองหาไดร์เวอร์อีกต่อไป"
 ---
 

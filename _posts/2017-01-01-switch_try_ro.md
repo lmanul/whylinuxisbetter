@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: ro
+category: ro
 title: Încercaţi un Live CD
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: br
+category: br
 title: "O Linux protege seu computador"
 ---
 

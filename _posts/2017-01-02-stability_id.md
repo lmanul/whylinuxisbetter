@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: id
+category: id
 title: "Apakah sistem komputermu tidak stabil?"
 ---
 

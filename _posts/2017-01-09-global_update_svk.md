@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: svk
+category: svk
 title: "Aktualizujte všetky svoje programy jedným kliknutím"
 ---
 

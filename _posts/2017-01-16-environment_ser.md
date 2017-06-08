@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: ser
+category: ser
 title: "Okolina"
 ---
 

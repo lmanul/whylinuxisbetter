@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: cn
+category: cn
 title: "进入下一代桌面时代"
 ---
 

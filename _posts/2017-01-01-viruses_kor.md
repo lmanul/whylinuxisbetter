@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: kor
+category: kor
 title: "﻿바이러스 고민 뚝!"
 ---
 

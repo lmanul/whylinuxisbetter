@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: id
+category: id
 title: "Kebebasan!"
 ---
 

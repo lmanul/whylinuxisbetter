@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: ru
+category: ru
 title: "Забудьте о вирусах."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: kor
+category: kor
 title: "﻿운영체제에 30만원이나 쓰지 마세요"
 ---
 

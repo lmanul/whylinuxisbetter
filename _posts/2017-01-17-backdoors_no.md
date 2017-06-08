@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: no
+category: no
 title: "Programvaren din er fri for bakdører."
 ---
 

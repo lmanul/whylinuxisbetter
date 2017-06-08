@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: ua
+category: ua
 title: "MSN, AIM, ICQ та Jabber в одній програмі"
 ---
 

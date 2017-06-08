@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: svk
+category: svk
 title: "Pomôžte ostatným krajinám, a aj tej svojej"
 ---
 

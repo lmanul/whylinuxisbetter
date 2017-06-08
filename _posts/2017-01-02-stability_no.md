@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: no
+category: no
 title: "Er systemet ditt ustabilt?"
 ---
 

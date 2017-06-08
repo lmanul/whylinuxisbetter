@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: se
+category: se
 title: Spel
 tags: stick_to_windows
 ---

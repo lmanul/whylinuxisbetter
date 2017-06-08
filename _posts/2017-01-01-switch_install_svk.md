@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: svk
+category: svk
 title: Inštalácia Linux-u
 tags: switch
 ---

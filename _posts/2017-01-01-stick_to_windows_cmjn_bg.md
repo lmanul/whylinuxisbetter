@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: bg
+category: bg
 title: Книги и печатна индустрия
 tags: stick_to_windows
 ---

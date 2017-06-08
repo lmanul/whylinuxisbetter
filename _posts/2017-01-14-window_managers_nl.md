@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: nl
+category: nl
 title: "Kies hoe uw bureaubladomgeving eruitziet."
 ---
 

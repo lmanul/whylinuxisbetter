@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: svk
+category: svk
 title: Hry
 tags: stick_to_windows
 ---

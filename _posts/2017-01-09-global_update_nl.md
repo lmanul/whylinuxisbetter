@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: nl
+category: nl
 title: "Update uw software met 1 klik"
 ---
 

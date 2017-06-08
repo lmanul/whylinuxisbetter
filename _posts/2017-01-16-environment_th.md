@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: th
+category: th
 title: "อย่างอมืองอเท้าเพื่อให้โลกมันดีขึ้น"
 ---
 

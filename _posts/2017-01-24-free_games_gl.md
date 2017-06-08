@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: gl
+category: gl
 title: "Accede gratis por centos de xogos"
 ---
 

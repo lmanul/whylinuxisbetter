@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: se
+category: se
 title: "Håll koll på vädret."
 ---
 

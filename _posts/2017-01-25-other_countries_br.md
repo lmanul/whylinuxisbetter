@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: br
+category: br
 title: "Ajude outros países, inclusive o seu"
 ---
 

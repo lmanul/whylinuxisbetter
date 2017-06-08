@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: pl
+category: pl
 title: "Używaj równocześnie Gadu-Gadu, MSN, ICQ i Jabbera z pomocą jednego programu"
 ---
 

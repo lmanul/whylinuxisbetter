@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: de
+category: de
 title: "Spiel hunderte von freien Spielen"
 ---
 

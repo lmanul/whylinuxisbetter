@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: eo
+category: eo
 title: "Ludu centojn da ludoj senkoste"
 ---
 

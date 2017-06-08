@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: de
+category: de
 title: "Keine Hintertüren in deiner Software."
 ---
 

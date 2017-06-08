@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: nl
+category: nl
 title: Spelletjes
 tags: stick_to_windows
 ---

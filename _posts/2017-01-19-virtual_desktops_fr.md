@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: fr
+category: fr
 title: "Trop de fenêtres ? Adoptez les espaces de travail."
 ---
 

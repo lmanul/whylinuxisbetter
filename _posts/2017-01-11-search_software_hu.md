@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: hu
+category: hu
 title: "Egy új szoftverre lenne szükséged? Ne bajlódj a neten való keresgéléssel, a Linux megteszi helyetted!"
 ---
 

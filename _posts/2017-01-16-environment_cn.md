@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: cn
+category: cn
 title: "环境保护"
 ---
 

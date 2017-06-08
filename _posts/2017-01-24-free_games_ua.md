@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: ua
+category: ua
 title: "Грай в сотні безкоштовних ігор"
 ---
 <p align="center">Переклад з німецької Жолобака Максима

@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: bg
+category: bg
 title: "Нуждаете се от нов софтуер? Не се занимавайте да търсите из Мрежата, Линукс ще ви го намери."
 
 ---

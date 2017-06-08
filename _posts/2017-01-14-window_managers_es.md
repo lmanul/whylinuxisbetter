@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: es
+category: es
 title: "Escoge la apariencia de tu escritorio."
 ---
 

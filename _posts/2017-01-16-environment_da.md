@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: da
+category: da
 title: "Hjælp miljøet."
 ---
 

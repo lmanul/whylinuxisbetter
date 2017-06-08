@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: nl
+category: nl
 title: "Is uw systeem onstabiel?"
 ---
 

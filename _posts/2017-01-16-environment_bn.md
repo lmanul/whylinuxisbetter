@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: bn
+category: bn
 title: "পরিবেশ রক্ষায় ভূমিকা রাখুন।"
 ---
 

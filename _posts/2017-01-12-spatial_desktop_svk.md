@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: svk
+category: svk
 title: "Naskočte na novú vlnu desktopov"
 ---
 

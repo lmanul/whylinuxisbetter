@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: ru
+category: ru
 title: "Слишком много окон? Используйте Виртуальные Рабочие Столы!."
 ---
 

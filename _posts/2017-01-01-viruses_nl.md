@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: nl
+category: nl
 title: "Geen virussen meer."
 ---
 

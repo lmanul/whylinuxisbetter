@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: nl
+category: nl
 title: Probeer een "live-cd"
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: nl
+category: nl
 title: "Foutmeldingen rapporteren"
 ---
 

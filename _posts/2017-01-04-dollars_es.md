@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: es
+category: es
 title: "No pagues 100 euros por tu sistema operativo"
 ---
 

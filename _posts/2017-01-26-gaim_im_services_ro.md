@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: ro
+category: ro
 title: "Folosiţi MSN, AIM, ICQ, Jabber cu un singur program"
 ---
 

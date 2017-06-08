@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: pl
+category: pl
 title: "Linuks chroni Twój komputer"
 ---
 

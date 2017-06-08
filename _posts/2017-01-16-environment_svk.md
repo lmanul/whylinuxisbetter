@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: svk
+category: svk
 title: "Spravte niečo pre životné prostredie"
 ---
 

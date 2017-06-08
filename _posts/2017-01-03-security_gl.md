@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: gl
+category: gl
 title: "Linux protexe a tua computadora."
 ---
 

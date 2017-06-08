@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: eo
+category: eo
 title: "Ĵetu rigardon al la vetero."
 ---
 

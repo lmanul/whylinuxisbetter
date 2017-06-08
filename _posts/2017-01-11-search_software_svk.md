@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: svk
+category: svk
 title: "Potrebujete nové programy? Neobťažujte sa hľadaním na internete, Linux ich nájde pre vás"
 ---
 

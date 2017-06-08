@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: cat
+category: cat
 title: "Gràcies a Franz Bourlet per la idea"
 ---
 

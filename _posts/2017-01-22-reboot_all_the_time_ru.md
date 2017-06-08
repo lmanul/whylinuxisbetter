@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: ru
+category: ru
 title: "Устали постоянно перезагружать ваш компьютер?"
 ---
 

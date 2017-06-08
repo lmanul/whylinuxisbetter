@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: cn
+category: cn
 title: 安装Linux
 tags: switch
 ---

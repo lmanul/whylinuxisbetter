@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: pl
+category: pl
 title: "Zbyt wiele okien? Użyj wirtualnych pulpitów"
 ---
 

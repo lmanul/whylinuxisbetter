@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: cat
+category: cat
 title: "Sense portes falses al teu programari."
 ---
 

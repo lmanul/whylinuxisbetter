@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: tw
+category: tw
 title: "天氣監控"
 ---
 

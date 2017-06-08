@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: ja
+category: ja
 title: "システムが不安定だって？"
 ---
 

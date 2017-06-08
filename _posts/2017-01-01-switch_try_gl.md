@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: gl
+category: gl
 title: Proba un "CD Vivo" (Live CD)
 tags: switch
 ---

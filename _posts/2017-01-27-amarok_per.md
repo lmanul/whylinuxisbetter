@@ -1,6 +1,6 @@
 ---
 identifier: amarok
-lang: per
+category: per
 
 
 <h2 style="font-family: Tahoma;">يك پخش كننده موسيقي قوي داشته باشيد!

@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: ser
+category: ser
 title: "Linux štiti Vaš kompjuter "
 ---
 

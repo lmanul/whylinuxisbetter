@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: hu
+category: hu
 title: "Nincsenek többé backdoorok"
 ---
 

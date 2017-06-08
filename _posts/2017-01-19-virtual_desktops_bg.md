@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: bg
+category: bg
 title: "Прекалено много прозорци? Използвайте работните места."
 ---
 

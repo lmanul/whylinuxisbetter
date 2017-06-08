@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: ua
+category: ua
 title: "Не плати 100 євро за операційну систему."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: it
+category: it
 title: "Stanco di dover riavviare il computer tutte le volte?"
 ---
 

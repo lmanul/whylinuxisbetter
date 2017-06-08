@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: ua
+category: ua
 title: "Допоможи іншим країнам та своїй власній"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: vi
+category: vi
 title: "Sử dụng môi trường làm việc mới"
 ---
 

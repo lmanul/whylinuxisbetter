@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: ua
+category: ua
 title: "Один клік – і весь твій комплект програмного забезпечення обновлений"
 ---
 <p align="center">Переклад з німецької Джулій Анни

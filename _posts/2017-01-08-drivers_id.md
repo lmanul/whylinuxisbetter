@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: id
+category: id
 title: "Lupakan <i>driver</i>"
 ---
 

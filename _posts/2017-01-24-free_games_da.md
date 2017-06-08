@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: da
+category: da
 title: "Spil hundredevis af spil, helt gratis"
 ---
 

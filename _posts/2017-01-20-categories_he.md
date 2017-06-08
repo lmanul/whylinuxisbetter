@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: he
+category: he
 title: "אין בלגן בתפריט ההתחלה שלך"
 ---
 

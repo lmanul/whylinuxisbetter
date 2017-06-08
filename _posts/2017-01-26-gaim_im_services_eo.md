@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: eo
+category: eo
 title: "Uzu MSN, AIM, ICQ, Jabber, per nur unu programo"
 ---
 

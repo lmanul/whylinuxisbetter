@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: fr
+category: fr
 title: "Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?"
 ---
 

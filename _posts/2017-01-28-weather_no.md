@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: no
+category: no
 title: "Hold øye med været."
 ---
 

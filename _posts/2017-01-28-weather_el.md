@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: el
+category: el
 title: "Παρακολουθήστε τις καιρικές προβλέψεις."
 ---
 

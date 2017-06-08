@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: tw
+category: tw
 title: "太多視窗嗎？使用工作區吧"
 ---
 

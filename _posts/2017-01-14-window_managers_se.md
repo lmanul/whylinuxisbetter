@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: se
+category: se
 title: "Välj hur du ditt skrivbord ska se ut."
 ---
 

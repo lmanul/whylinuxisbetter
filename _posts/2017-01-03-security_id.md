@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: id
+category: id
 title: "Linux melindungi komputermu"
 ---
 

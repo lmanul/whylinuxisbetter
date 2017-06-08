@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: da
+category: da
 title: "Hvorfor bliver din Windows-maskine langsommere dag for dag?"
 ---
 

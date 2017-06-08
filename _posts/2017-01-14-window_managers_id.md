@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: id
+category: id
 title: "Pilih seperti apa desktop pilihanmu."
 ---
 

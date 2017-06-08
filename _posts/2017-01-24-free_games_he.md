@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: he
+category: he
 title: " ! שחק במאות משחקים, בחינם "
 ---
 

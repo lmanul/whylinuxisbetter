@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: gl
+category: gl
 title: "Estás cansado de reiniciar a túa computadora todo o tempo?"
 ---
 

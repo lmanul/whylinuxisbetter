@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: id
+category: id
 title: "Membantu Negara Lain, dan juga Negara Anda"
 ---
 

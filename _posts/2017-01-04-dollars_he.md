@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: he
+category: he
 title: "  למה לשלם 900 שקל על מערכת הפעלה"
 ---
 

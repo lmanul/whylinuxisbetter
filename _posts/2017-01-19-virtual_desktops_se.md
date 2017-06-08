@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: se
+category: se
 title: "För många fönster? Använd olika skrivbord."
 ---
 

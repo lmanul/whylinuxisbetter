@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: ar
+category: ar
 title: "Play hundreds of games for free"
 ---
 

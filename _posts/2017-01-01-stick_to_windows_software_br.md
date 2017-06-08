@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: br
+category: br
 title: ﻿Software proprietário
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: cat
+category: cat
 title: "Ajuda altres païssos i al teu també"
 ---
 

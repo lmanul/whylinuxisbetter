@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: da
+category: da
 title: "Glem alt om virusser."
 ---
 

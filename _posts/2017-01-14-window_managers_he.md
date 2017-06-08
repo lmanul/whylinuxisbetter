@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: he
+category: he
 title: "בחר כיצד אתה רוצה ששולחן העבודה שלך יראה."
 ---
 

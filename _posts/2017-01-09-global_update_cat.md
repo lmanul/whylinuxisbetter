@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: cat
+category: cat
 title: "Actualitza el teu programari amb un sol clic."
 ---
 

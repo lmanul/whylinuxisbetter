@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: ua
+category: ua
 title: "Забудь про віруси!"
 ---
 

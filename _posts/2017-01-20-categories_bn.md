@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: bn
+category: bn
 title: "স্টার্ট মেনু রাখুন পরিচ্ছন্ন।"
 ---
 

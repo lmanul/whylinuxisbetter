@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: lit
+category: lit
 title: "Prane&#353;imai apie riktus (klaidas)"
 ---
 

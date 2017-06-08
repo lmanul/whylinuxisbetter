@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: it
+category: it
 title: "Nessuna confusione nel tuo menu di avvio"
 ---
 

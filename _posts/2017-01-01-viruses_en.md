@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: en
+category: en
 title: "Forget about viruses."
 ---
 

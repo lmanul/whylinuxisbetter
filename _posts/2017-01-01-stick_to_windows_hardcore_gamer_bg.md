@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: bg
+category: bg
 title: Игри
 tags: stick_to_windows
 ---

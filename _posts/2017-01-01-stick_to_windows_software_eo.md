@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: eo
+category: eo
 title: Proprieta programaro
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: tr
+category: tr
 title: "Özgürlük için!"
 ---
 

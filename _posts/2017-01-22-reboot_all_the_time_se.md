@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: se
+category: se
 title: "Är du trött på att starta om datorn hela tiden?"
 ---
 

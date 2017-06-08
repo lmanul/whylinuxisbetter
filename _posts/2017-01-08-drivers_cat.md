@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: cat
+category: cat
 title: "Oblida't dels controladors"
 ---
 

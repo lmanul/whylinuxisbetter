@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: cn
+category: cn
 title: "自由！"
 ---
 

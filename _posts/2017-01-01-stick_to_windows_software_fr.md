@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: fr
+category: fr
 title: Les logiciels propriétaires
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: svk
+category: svk
 title: "Už vás unavuje neustále reštartovávať váš počítač?"
 ---
 

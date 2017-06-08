@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: ser
+category: ser
 title: "Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?"
 ---
 

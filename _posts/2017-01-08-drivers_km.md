@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: km
+category: km
 title: "មិន​ខ្វល់អំពី​​អំពីកម្មវី​ធី​បញ្ជា"
 ---
 

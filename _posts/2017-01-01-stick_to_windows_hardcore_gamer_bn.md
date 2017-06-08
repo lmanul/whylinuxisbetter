@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: bn
+category: bn
 title: গেম
 tags: stick_to_windows
 ---

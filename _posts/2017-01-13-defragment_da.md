@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: da
+category: da
 title: "Føler du at dit digitale liv er fragmenteret?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: ro
+category: ro
 title: "Sistemul dumneavoastră e instabil?"
 ---
 

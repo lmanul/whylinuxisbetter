@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: bg
+category: bg
 title: Хардуер
 tags: stick_to_windows
 ---

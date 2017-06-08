@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: pl
+category: pl
 title: "Nowa generacja rozwiązań wizualnych czeka na Ciebie"
 ---
 

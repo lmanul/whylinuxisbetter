@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: ser
+category: ser
 title: Hardver
 tags: stick_to_windows
 ---

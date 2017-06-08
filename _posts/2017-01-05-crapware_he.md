@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: he
+category: he
 title: "לא עוד תכניות זבל."
 ---
 

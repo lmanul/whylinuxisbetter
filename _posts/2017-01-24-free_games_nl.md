@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: nl
+category: nl
 title: "Speel honderden gratis spellen"
 ---
 

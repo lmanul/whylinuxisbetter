@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: ser
+category: ser
 title: "Prijavljivanje grešaka"
 ---
 

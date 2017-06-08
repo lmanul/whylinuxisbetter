@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: it
+category: it
 title: "Riportare i bug"
 ---
 

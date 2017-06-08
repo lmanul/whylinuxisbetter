@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: ser
+category: ser
 title: "Sloboda!"
 ---
 

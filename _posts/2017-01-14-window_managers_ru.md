@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: ru
+category: ru
 title: "Будьте эксклюзивными и альтернативными - выберите сами вид рабочего стола!."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: ku
+category: ku
 title: "Reporting bugs"
 ---
 

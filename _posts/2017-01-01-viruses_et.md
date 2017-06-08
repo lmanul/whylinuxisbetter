@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: et
+category: et
 title: "J&auml;ta viirustega h&uuml;vasti."
 ---
 

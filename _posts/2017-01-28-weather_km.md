@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: km
+category: km
 title: "មើល​អាកាស​ធាតុ​ ។"
 ---
 

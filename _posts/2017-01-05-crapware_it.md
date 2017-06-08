@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: it
+category: it
 title: "Mai più software spazzatura."
 ---
 

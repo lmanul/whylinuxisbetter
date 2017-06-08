@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: fr
+category: fr
 title: "Aidez les autres pays, et le vôtre"
 ---
 

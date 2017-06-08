@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: he
+category: he
 title: "דיווח באגים"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: ser
+category: ser
 title: "Forget about viruses."
 ---
 

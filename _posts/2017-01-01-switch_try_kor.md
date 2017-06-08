@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: kor
+category: kor
 title: 리눅스 라이브CD 사용하기
 tags: switch
 ---

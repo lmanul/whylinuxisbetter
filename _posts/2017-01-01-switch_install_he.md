@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: he
+category: he
 title: התקנת לינוקס
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: bn
+category: bn
 title: "নিরাপদ রাখুন কম্পিউটার।"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: km
+category: km
 title: "តើ​ជីវិត​ឌី​ជីថល​របស់​អ្នក​ហាក់​ដូចជា​​ការ​រៀបចំ​​​ឬ ?"
 ---
 

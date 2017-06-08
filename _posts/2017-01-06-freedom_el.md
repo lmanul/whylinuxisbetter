@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: el
+category: el
 title: "Ελευθερία!"
 ---
 

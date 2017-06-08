@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: cat
+category: cat
 title: "Juga a centenars de jocs de franc"
 ---
 

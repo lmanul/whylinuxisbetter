@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: vi
+category: vi
 title: "Giúp đất nước của bạn phát triển"
 ---
 

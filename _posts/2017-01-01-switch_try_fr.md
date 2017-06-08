@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: fr
+category: fr
 title: Essayez Linux grâce à un "Live CD"
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: se
+category: se
 title: Hårdvara
 tags: stick_to_windows
 ---

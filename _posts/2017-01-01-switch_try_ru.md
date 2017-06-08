@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: ru
+category: ru
 title: Испытайте "живой CD/DVD"
 tags: switch
 ---

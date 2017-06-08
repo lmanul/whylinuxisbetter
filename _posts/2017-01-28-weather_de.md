@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: de
+category: de
 title: "Behalt das Wetter im Auge."
 ---
 

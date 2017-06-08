@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: cn
+category: cn
 title: "忘掉驱动程序"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: en
+category: en
 title: "Update all your software with a single click."
 ---
 

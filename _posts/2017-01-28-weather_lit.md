@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: lit
+category: lit
 title: "Sek orus."
 ---
 

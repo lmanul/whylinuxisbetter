@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: gl
+category: gl
 title: "Actualiza todo i que tes no teu PC cun só click."
 ---
 

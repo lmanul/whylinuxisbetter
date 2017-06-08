@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: en
+category: en
 title: "Linux protects your computer"
 ---
 

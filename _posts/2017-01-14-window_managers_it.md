@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: it
+category: it
 title: "Scegli l'aspetto del tuo desktop"
 ---
 

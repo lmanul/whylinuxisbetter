@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: tr
+category: tr
 title: "Havadan sudan haberiniz olsun"
 ---
 

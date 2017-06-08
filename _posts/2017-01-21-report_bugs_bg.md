@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: bg
+category: bg
 title: "Съобщаване за програмни грешки"
 ---
 

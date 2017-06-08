@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: id
+category: id
 title: Menginstall Linux
 tags: switch
 ---

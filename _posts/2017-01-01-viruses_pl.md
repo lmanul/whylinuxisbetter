@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: pl
+category: pl
 title: "Zapomnij o wirusach"
 ---
 

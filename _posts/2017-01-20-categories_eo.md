@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: eo
+category: eo
 title: "Sen fuŝoj en via startmenuo"
 ---
 

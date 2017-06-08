@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: th
+category: th
 title: "No backdoors in your software."
 ---
 

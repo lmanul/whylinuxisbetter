@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: fr
+category: fr
 title: "Fini les pourriciels."
 ---
 

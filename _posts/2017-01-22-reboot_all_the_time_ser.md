@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: ser
+category: ser
 title: " Zar niste umorni od stalnog restartovanja sistema?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: ja
+category: ja
 title: "デスクトップぐらい自分色に染めたいわな"
 ---
 

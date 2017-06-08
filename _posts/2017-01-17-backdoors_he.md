@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: he
+category: he
 title: "אין פרצות סתרים בתוכנה שלך."
 ---
 

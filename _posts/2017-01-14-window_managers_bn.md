@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: bn
+category: bn
 title: "নিজের পছন্দমত ডেস্কটপ-পরিবেশ বেছে নিন।"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: tw
+category: tw
 title: 你的硬體尚未被支援
 tags: stick_to_windows
 ---

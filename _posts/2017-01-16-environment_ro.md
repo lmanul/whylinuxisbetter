@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: ro
+category: ro
 title: "Mediu"
 ---
 

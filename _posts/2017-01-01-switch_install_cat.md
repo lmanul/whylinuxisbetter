@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: cat
+category: cat
 title: Instal·la Linux
 tags: switch
 ---

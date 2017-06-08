@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: it
+category: it
 title: "Usa MSN, AIM, ICQ, Jabber, con un singolo programma"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: se
+category: se
 title: "Linux skyddar din dator"
 ---
 

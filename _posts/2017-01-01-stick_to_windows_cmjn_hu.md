@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: hu
+category: hu
 title: Nyomdaipar
 tags: stick_to_windows
 ---

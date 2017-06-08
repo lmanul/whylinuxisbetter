@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: el
+category: el
 title: "Γιατί τα Windows σας γίνονται κάθε μέρα πιο αργά;"
 ---
 

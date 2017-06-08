@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: da
+category: da
 title: Bog og forlags-industrien.
 tags: stick_to_windows
 ---

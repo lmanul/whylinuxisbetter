@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: gl
+category: gl
 title: Compoñentes e Periféricos (Hardware)
 tags: stick_to_windows
 ---

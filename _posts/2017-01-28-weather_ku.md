@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: ku
+category: ku
 title: "چاودیری کەش و هەوا بکە."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: hu
+category: hu
 title: "Tartsd szemmel az időjárást!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: it
+category: it
 title: "Nessuna backdoor nel tuo software."
 ---
 

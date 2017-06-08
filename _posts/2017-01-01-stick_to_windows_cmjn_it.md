@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: it
+category: it
 title: Lavori nell'industria di libri/stampa
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: it
+category: it
 title: "Aiuta gli altri Paesi, ed il tuo"
 ---
 

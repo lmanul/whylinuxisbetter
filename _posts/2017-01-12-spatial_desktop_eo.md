@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: eo
+category: eo
 title: "Eniru en la novan generacion de labortabloj."
 ---
 

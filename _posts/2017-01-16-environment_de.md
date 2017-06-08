@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: de
+category: de
 title: "Umweltschutz"
 ---
 

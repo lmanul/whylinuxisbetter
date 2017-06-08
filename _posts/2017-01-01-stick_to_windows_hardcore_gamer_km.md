@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: km
+category: km
 title: ល្បែង​
 tags: stick_to_windows
 ---

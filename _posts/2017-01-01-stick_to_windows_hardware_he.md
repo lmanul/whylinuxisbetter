@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: he
+category: he
 title: חומרה
 tags: stick_to_windows
 ---

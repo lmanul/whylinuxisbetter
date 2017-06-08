@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: bn
+category: bn
 title: হার্ডওয়্যার
 tags: stick_to_windows
 ---

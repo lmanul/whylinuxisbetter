@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: bn
+category: bn
 title: "নিজ দেশের উন্নয়নে ভূমিকা রাখুন"
 ---
 

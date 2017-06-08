@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: ua
+category: ua
 title: "Linux сприятливіший для навколишнього середовища"
 ---
 

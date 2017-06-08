@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: no
+category: no
 title: "Oppdater all din programvare med ett enkelt museklikk."
 ---
 

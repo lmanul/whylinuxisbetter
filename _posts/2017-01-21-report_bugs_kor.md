@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: kor
+category: kor
 title: "버그 신고하기"
 ---
 

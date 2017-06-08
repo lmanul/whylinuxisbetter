@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: es
+category: es
 title: "Una vez instalado tu sistema, ¿Por qué <i>aún</i> necesitas instalar más cosas?"
 ---
 

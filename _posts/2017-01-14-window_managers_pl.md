@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: pl
+category: pl
 title: "Dostosuj wygląd systemu do swoich potrzeb"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: cat
+category: cat
 title: "Informa d'errades"
 ---
 

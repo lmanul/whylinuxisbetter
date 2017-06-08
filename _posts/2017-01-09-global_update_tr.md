@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: tr
+category: tr
 title: "Yazılımınızı tek bir tık ile güncelleyin."
 ---
 

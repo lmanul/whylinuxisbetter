@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: ro
+category: ro
 title: "Jucaţi-vă sute de jocuri gratuite!"
 ---
 

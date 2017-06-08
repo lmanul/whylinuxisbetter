@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: cn
+category: cn
 title: "选择您的桌面主题"
 ---
 

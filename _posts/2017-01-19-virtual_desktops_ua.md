@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: ua
+category: ua
 title: "Забагато вікон? Користуйся робочими поверхнями."
 ---
 

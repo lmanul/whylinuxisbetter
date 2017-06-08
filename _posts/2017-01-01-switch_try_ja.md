@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: ja
+category: ja
 title: 「ライブCD」で試してみる。
 tags: switch
 ---

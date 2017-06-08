@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: he
+category: he
 title: ספרים ותעשיית ההוצאה לאור
 tags: stick_to_windows
 ---

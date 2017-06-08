@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: ru
+category: ru
 title: "Ваша цифровая жизнь сильно фрагментирована?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: ru
+category: ru
 title: "Обновите весь ваш софт одним кликом!."
 ---
 

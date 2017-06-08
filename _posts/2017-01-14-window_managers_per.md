@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: per
+category: per
 
   
 

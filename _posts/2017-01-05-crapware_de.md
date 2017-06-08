@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: de
+category: de
 
 title: "Nie wieder Crapware"
 ---

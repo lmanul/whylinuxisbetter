@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: el
+category: el
 title: "Βαρεθήκατε να επανεκκινείτε συνέχεια τον υπολογιστή σας;"
 ---
 

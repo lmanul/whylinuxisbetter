@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: cat
+category: cat
 title: Maquinari
 tags: stick_to_windows
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: kor
+category: kor
 title: "﻿시스템을 설치하고 난 뒤에도 왜 <i>여전히</i> 이것저것 추가로 설치해야 하나요? "
 ---
 

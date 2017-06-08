@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: en
+category: en
 title: "Are your tired of restarting your computer all the time?"
 ---
 

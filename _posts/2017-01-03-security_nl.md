@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: nl
+category: nl
 title: "Linux beschermt uw computer"
 ---
 

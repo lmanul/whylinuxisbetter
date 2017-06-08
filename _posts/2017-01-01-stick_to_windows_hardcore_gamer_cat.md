@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: cat
+category: cat
 title: Jocs
 tags: stick_to_windows
 ---

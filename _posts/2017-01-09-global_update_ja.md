@@ -1,6 +1,6 @@
 ---
 identifier: global_update
-lang: ja
+category: ja
 title: "クリックひとつで、ぜーんぶアップデート！"
 ---
 

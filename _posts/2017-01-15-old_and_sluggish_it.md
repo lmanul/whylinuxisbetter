@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: it
+category: it
 title: "Perché Windows rallenta giorno dopo giorno?"
 ---
 

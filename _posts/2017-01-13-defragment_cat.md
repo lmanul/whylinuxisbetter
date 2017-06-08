@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: cat
+category: cat
 title: "La teva vida digital sembla fragmentada?"
 ---
 

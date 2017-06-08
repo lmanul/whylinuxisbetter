@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: ser
+category: ser
 title: " Igrajte stotine igara besplatno."
 ---
 

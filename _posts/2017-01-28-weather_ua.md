@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: ua
+category: ua
 title: "Хочеш завжди знати, яка погода?"
 ---
 <p align="center">Переклад з німецької Гончарової Юлії та Джулій Анни

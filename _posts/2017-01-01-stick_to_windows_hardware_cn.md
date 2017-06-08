@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardware
-lang: cn
+category: cn
 title: 硬件
 tags: stick_to_windows
 ---

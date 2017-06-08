@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: ru
+category: ru
 title: "Помоги своей стране и многим другим!"
 ---
 

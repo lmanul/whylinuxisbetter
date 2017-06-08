@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: eo
+category: eo
 title: "Helpu aliajn landojn, kaj vian propran"
 ---
 

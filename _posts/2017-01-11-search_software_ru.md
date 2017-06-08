@@ -1,6 +1,6 @@
 ---
 identifier: search_software
-lang: ru
+category: ru
 title: "Нужен новый софт? Не парьтесь с гуглом, позвольте Linux скачать его."
 ---
 

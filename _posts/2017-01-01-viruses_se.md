@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: se
+category: se
 title: "Glöm virus."
 ---
 

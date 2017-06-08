@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: tr
+category: tr
 title: "Hataların bildirilmesi"
 ---
 

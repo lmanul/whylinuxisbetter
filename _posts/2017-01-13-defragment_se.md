@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: se
+category: se
 title: "Verkar ditt digitala liv vara fragmenterat?"
 ---
 

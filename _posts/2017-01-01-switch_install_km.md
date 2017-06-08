@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: km
+category: km
 title: ដំ​ឡើង​​លីនុច
 tags: switch
 ---

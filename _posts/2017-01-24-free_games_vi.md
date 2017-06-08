@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: vi
+category: vi
 title: "Chơi hàng trăm game miễn phí"
 ---
 

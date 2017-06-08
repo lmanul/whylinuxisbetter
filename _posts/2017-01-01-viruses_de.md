@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: de
+category: de
 title: "Vergiss Viren."
 ---
 

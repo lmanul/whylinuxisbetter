@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: et
+category: et
 title: "&Auml;ra maksa operatsioonis&uuml;steemi eest 4 000.-"
 ---
 

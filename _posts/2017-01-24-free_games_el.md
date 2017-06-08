@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: el
+category: el
 title: "Παίξτε εκατοντάδες δωρεάν παιχνίδια"
 ---
 

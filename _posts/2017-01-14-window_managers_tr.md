@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: tr
+category: tr
 title: "Masaüstünüzün nasıl olması gerektiğini siz seçin."
 ---
 

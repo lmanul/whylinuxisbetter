@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: ru
+category: ru
 title: "Сделайте свой вклад в окружающую среду"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: vi
+category: vi
 title: Dùng thử "Live CD"
 tags: switch
 ---

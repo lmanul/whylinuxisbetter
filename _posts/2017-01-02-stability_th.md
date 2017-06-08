@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: th
+category: th
 title: "ระบบของคุณยังเสถียรดีอยู่ฤๅ?"
 ---
 

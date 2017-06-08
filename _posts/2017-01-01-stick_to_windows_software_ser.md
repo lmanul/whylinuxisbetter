@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: ser
+category: ser
 title: Vlasnički softver
 tags: stick_to_windows
 ---

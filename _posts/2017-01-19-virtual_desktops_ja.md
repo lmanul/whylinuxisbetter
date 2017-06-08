@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: ja
+category: ja
 title: "ウィンドウ散らかりっぱなし。ワークスペース使えばいいのに"
 ---
 

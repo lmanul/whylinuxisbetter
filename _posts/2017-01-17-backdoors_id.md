@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: id
+category: id
 title: "Tidak ada backdoor di perangkat lunakmu."
 ---
 

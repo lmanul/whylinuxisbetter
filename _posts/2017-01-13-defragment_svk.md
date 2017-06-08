@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: svk
+category: svk
 title: "Vyzerá vaš digitálny život fragmentovane?"
 ---
 

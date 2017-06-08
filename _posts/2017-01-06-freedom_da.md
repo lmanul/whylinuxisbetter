@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: da
+category: da
 title: "Frihed!"
 ---
 

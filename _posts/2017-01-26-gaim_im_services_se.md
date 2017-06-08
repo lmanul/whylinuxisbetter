@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: se
+category: se
 title: "Använd MSN, AIM, ICQ, Jabber - med ett enda program"
 ---
 

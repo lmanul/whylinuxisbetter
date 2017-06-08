@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: hu
+category: hu
 title: "Belefáradtál már abba, hogy folyton újraindítsd a géped?"
 ---
 

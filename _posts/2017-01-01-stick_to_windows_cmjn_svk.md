@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: svk
+category: svk
 title: Tlačiarne a vydavateľstvá
 tags: stick_to_windows
 ---

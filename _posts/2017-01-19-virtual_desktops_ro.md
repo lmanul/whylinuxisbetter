@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: ro
+category: ro
 title: "Prea multe ferestre? Folosiţi spaţiile de lucru."
 ---
 

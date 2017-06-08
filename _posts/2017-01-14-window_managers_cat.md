@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: cat
+category: cat
 title: "Tria l'aparença del teu escriptori."
 ---
 

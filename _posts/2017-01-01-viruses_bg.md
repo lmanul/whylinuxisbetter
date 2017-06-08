@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: bg
+category: bg
 title: "Забравете за вирусите."
 ---
 

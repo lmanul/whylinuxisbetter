@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: es
+category: es
 title: "Olvida los virus."
 ---
 

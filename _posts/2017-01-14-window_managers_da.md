@@ -1,6 +1,6 @@
 ---
 identifier: window_managers
-lang: da
+category: da
 title: "Vælg selv hvordan din desktop skal se ud."
 ---
 

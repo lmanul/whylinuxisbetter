@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: kor
+category: kor
 title: ﻿출판 & 인쇄 사업 종사
 tags: stick_to_windows
 ---

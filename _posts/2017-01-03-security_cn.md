@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: cn
+category: cn
 title: "Linux 完美地保护着您的计算机"
 ---
 

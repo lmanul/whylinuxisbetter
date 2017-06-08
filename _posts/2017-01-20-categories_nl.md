@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: nl
+category: nl
 title: "Geen grote rommel in uw startmenu"
 ---
 

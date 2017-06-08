@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: ro
+category: ro
 title: "Libertate!"
 ---
 

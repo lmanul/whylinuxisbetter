@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: kor
+category: kor
 title: 독점 소프트웨어
 tags: stick_to_windows
 ---

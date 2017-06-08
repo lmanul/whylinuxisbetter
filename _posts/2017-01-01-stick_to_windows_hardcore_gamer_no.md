@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: no
+category: no
 title: Spill
 tags: stick_to_windows
 ---

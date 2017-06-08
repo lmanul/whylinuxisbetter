@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: lit
+category: lit
 title: "Pavargote nuolat perkraudin&#279;ti kompiuter&#303;?"
 ---
 

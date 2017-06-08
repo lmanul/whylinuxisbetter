@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: gl
+category: gl
 title: "Esquéceche dos virus."
 ---
 

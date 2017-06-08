@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: th
+category: th
 title: "ทำไมวินโดวส์เชื่องช้าลงทุกวี่วัน?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: nl
+category: nl
 title: "Teveel vensters? Gebruik werkbladen."
 ---
 

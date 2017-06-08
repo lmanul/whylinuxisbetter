@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: id
+category: id
 title: "Mengapa semakin hari Windows Anda semakin lambat?"
 ---
 

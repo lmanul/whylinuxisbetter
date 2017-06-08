@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: tw
+category: tw
 title: "你的系統穩定嗎？"
 ---
 

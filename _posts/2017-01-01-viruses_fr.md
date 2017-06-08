@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: fr
+category: fr
 title: "Oubliez les virus."
 ---
 

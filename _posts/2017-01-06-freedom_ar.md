@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: ar
+category: ar
 title: "حرية الإستخدام!"
 ---
 

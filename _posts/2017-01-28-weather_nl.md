@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: nl
+category: nl
 title: "Hou het weer in de gaten"
 ---
 

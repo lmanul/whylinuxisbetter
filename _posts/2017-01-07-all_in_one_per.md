@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: per
+category: per
 
 title: "وقتي سيستم نصب شد چرا شما بايد هنوز نصب كنيد؟"
 ---

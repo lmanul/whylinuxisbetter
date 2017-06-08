@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: fr
+category: fr
 title: "Ne vous souciez plus des pilotes"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: br
+category: br
 title: Install Linux
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: categories
-lang: de
+category: de
 title: "Kein Riesendurcheinander in deinem Startmenü"
 ---
 

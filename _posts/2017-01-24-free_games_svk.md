@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: svk
+category: svk
 title: "Hrajte stovky hier zadarmo"
 ---
 

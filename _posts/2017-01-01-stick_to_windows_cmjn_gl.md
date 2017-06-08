@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: gl
+category: gl
 title: Industria de libros e impresión
 tags: stick_to_windows
 ---

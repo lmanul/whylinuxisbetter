@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: en
+category: en
 title: "Keep an eye on the weather."
 ---
 

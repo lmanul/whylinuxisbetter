@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: vi
+category: vi
 title: Cài Linux
 tags: switch
 ---

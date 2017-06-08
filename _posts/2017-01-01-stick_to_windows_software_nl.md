@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: nl
+category: nl
 title: Propriëtaire software
 tags: stick_to_windows
 ---

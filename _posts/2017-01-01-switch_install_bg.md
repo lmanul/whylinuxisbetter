@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: bg
+category: bg
 title: Инсталирайте Линукс
 tags: switch
 ---

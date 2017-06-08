@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: eo
+category: eo
 title: Ludoj
 tags: stick_to_windows
 ---

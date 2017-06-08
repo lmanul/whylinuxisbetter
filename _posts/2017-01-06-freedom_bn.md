@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: bn
+category: bn
 title: "স্বাধীনতা!"
 ---
 

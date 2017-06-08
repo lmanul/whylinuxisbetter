@@ -1,6 +1,6 @@
 ---
 identifier: free_games
-lang: tw
+category: tw
 title: "自由地享受上百個遊戲"
 ---
 

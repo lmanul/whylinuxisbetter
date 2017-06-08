@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: ru
+category: ru
 title: "Загляни в следующее поколение рабочих столов!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: it
+category: it
 title: "Quando il sistema è installato, perché hai <i>ancora</i> bisogno di installare roba?"
 ---
 

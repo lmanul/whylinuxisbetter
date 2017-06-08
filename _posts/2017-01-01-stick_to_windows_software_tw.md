@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: tw
+category: tw
 title: 如果不能使用某些非自由軟體，簡直會要了你的命
 tags: stick_to_windows
 ---

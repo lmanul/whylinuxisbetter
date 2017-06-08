@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: nl
+category: nl
 title: "Probeer de laatste generatie van bureaubladomgevingen"
 ---
 

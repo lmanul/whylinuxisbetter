@@ -1,6 +1,6 @@
 ---
 identifier: all_in_one
-lang: cn
+category: cn
 title: "当你的系统已经安装好了以后，为什么你<i>还</i>需要再安装别的东西？"
 ---
 

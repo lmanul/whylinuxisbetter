@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: no
+category: no
 title: "Er ditt digitale liv fragmentert?"
 ---
 

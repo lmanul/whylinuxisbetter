@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: cn
+category: cn
 title: "轻松了解天气情况"
 ---
 

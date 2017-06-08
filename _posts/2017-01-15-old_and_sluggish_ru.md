@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: ru
+category: ru
 title: "Почему Windows работает всё медленнее, день за днем?"
 ---
 

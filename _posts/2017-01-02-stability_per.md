@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: per
+category: per
 
 
 

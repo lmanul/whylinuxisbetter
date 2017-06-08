@@ -1,6 +1,6 @@
 ---
 identifier: spatial_desktop
-lang: he
+category: he
 title: "קפצו אל הדור הבא של שולחנות העבודה."
 ---
 

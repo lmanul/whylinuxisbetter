@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: hu
+category: hu
 title: Próbálj ki egy „élő CD-t”!
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: hu
+category: hu
 title: "A hibák jelentése"
 ---
 

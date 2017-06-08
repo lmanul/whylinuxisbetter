@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: th
+category: th
 title: "หน้าต่างมากเกินไปรึเปล่า? ใช้โต๊ะทำงานซิจ๊ะ (Workspaces)"
 ---
 

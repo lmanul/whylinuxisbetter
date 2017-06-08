@@ -1,6 +1,6 @@
 ---
 identifier: drivers
-lang: ua
+category: ua
 title: "Не думай про драйвери!"
 ---
 

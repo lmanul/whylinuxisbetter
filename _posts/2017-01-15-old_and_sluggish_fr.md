@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: fr
+category: fr
 title: "Pourquoi votre Windows est-il de plus en plus lent ?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: id
+category: id
 title: "Apakah kehidupan dijitalmu terasa terfragmentasi?"
 ---
 

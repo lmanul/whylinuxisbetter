@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: bn
+category: bn
 title: "সহজে বাগ রিপোর্ট, ট্র্যাক করুন।"
 ---
 

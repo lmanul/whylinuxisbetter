@@ -1,6 +1,6 @@
 ---
 identifier: defragment
-lang: gl
+category: gl
 title: "A túa vida dixital parece fragmentada?"
 ---
 

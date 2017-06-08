@@ -1,6 +1,6 @@
 ---
 identifier: switch_install
-lang: el
+category: el
 title: Εγκαταστείστε το Linux
 tags: switch
 ---

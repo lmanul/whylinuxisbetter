@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: gl
+category: gl
 title: Xogos
 tags: stick_to_windows
 ---

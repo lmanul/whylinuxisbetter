@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: cn
+category: cn
 title: "太多窗口？请使用工作区"
 ---
 

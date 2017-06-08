@@ -1,6 +1,6 @@
 ---
 identifier: weather
-lang: gl
+category: gl
 title: "Non perdas de vista o clima"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: crapware
-lang: hu
+category: hu
 title: "Nincs több sz*rware."
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: cat
+category: cat
 title: "Oblida't dels virus"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: cn
+category: cn
 title: 游戏
 tags: stick_to_windows
 ---

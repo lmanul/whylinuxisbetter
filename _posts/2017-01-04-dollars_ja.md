@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: ja
+category: ja
 title: "OSに3万円？"
 ---
 

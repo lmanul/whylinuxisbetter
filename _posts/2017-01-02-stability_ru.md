@@ -1,6 +1,6 @@
 ---
 identifier: stability
-lang: ru
+category: ru
 title: "Ваша система нестабильна?"
 ---
 

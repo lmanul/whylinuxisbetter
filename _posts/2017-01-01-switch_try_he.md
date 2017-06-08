@@ -1,6 +1,6 @@
 ---
 identifier: switch_try
-lang: he
+category: he
 title: התנסות באמצעות "Live CD"
 tags: switch
 ---

@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: th
+category: th
 title: "ใช้ MSN, AIM, ICQ, Jabber ด้วยโปรแกรมเพียงหนึ่งเดียว"
 ---
 

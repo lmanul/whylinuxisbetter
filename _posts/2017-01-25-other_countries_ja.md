@@ -1,6 +1,6 @@
 ---
 identifier: other_countries
-lang: ja
+category: ja
 title: "途上国のため、世界のために"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: environment
-lang: eo
+category: eo
 title: "Medio"
 ---
 

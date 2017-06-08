@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: el
+category: el
 title: "Μην πληρώνετε €200 για το λειτουργικό σας."
 ---
 

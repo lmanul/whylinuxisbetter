@@ -1,6 +1,6 @@
 ---
 identifier: virtual_desktops
-lang: es
+category: es
 title: "¿Demasiadas ventanas? Usa las distintas áreas de trabajo."
 ---
 

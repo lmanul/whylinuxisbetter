@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: vi
+category: vi
 title: Phần mềm độc quyền
 tags: stick_to_windows
 ---

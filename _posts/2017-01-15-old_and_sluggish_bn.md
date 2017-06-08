@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: bn
+category: bn
 title: "যত দিন যায়, তত স্লো হয় Windows... কেন?"
 ---
 

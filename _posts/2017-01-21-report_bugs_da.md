@@ -1,6 +1,6 @@
 ---
 identifier: report_bugs
-lang: da
+category: da
 title: "Rapportering af bugs"
 ---
 

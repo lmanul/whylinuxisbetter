@@ -1,6 +1,6 @@
 ---
 identifier: security
-lang: he
+category: he
 title: "לינוקס מגינה על המחשב שלך"
 ---
 

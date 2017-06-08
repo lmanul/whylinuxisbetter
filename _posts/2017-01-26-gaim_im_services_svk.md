@@ -1,6 +1,6 @@
 ---
 identifier: gaim_im_services
-lang: svk
+category: svk
 title: "Používajte MSN, AIM, ICQ, Jabber jedným programom"
 ---
 

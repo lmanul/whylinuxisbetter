@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: el
+category: el
 title: "'Κλειστό' λογισμικό"
 tags: stick_to_windows
 ---

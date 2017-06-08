@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_software
-lang: he
+category: he
 title: תוכנה קניינית
 tags: stick_to_windows
 ---

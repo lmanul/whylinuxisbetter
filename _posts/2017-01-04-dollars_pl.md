@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: pl
+category: pl
 title: "Nie płać za system operacyjny"
 ---
 

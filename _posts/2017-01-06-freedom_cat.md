@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: cat
+category: cat
 title: "Llibertat!"
 ---
 

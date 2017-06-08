@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_hardcore_gamer
-lang: en
+category: en
 title: Games
 tags: stick_to_windows
 ---

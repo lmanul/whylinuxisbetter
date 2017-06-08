@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: vi
+category: vi
 title: In ấn và xuât bản sách
 tags: stick_to_windows
 ---

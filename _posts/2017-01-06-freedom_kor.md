@@ -1,6 +1,6 @@
 ---
 identifier: freedom
-lang: kor
+category: kor
 title: "자유!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: old_and_sluggish
-lang: gl
+category: gl
 title: "Por que Windows se fai máis lento cada día?"
 ---
 

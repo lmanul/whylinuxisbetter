@@ -1,6 +1,6 @@
 ---
 identifier: viruses
-lang: he
+category: he
 title: "תשכחו מוירוסים"
 ---
 

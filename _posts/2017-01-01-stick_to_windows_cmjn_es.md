@@ -1,6 +1,6 @@
 ---
 identifier: stick_to_windows_cmjn
-lang: es
+category: es
 title: Industria de impresión de libros
 tags: stick_to_windows
 ---

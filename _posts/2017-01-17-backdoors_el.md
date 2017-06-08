@@ -1,6 +1,6 @@
 ---
 identifier: backdoors
-lang: el
+category: el
 title: "Λογισμικό χωρίς κερκόπορτες."
 ---
 

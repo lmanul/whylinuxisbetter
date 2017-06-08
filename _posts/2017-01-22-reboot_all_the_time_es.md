@@ -1,6 +1,6 @@
 ---
 identifier: reboot_all_the_time
-lang: es
+category: es
 title: "¿Estás cansado de reiniciar tu ordenador continuamente?"
 ---
 

@@ -1,6 +1,6 @@
 ---
 identifier: dollars
-lang: vi
+category: vi
 title: "Đừng trả 100$ cho hệ diều hành"
 ---
 
