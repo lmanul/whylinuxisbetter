@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: cn
 title: "进入下一代桌面时代"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: pl
 title: "Linuks chroni Twój komputer"

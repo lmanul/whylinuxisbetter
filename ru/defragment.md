@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: ru
 title: "Ваша цифровая жизнь сильно фрагментирована?"

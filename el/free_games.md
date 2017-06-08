@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: el
 title: "Παίξτε εκατοντάδες δωρεάν παιχνίδια"

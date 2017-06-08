@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: ua
 title: "Забагато вікон? Користуйся робочими поверхнями."

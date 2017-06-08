@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: eu
 title: "Ez dituzu 200€ zure sistema eragilearengatik ordainduko."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: cat
 title: "Ajuda altres païssos i al teu també"

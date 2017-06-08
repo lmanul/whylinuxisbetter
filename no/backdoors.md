@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: no
 title: "Programvaren din er fri for bakdører."

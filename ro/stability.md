@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: ro
 title: "Sistemul dumneavoastră e instabil?"

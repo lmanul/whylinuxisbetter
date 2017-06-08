@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: da
 title: "Vælg selv hvordan din desktop skal se ud."

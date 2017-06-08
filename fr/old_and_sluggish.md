@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: fr
 title: "Pourquoi votre Windows est-il de plus en plus lent ?"

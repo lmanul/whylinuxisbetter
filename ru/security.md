@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: ru
 title: "Linux защищает ваш компьютер"

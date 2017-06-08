@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: bg
 title: "Защо незаконно да копирате софтуер, ако можете да го получите свободно?"

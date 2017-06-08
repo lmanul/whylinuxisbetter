@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: th
 title: "ต้องการซอฟต์แวร์ใหม่ใช่ไหม? ไม่ต้องเที่ยวค้นหาตะพึ่ดตะพือ.... ลินุกซ์จัดให้"

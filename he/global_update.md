@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: he
 title: "עדכן את כל התוכנות שלך בקליק אחד."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: he
 title: " עזרו לארצות זרות, ולשלכם"

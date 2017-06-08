@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: cat
 title: "La teva vida digital sembla fragmentada?"

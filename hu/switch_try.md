@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: hu
 title: Próbálj ki egy „élő CD-t”!

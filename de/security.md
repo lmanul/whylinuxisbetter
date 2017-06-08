@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: de
 title: "Linux besch&uuml;tzt deinen Computer"

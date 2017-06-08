@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: bn
 title: "নিরাপদ রাখুন কম্পিউটার।"

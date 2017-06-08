@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: id
 title: "Melaporkan <i>bug</i>"

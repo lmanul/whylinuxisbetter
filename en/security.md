@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: en
 title: "Linux protects your computer"

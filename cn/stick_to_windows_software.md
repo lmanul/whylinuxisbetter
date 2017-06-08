@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_software
 category: cn
 title: 私有软件

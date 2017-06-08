@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: ru
 title: "Играй в сотни игр - бесплатно!"

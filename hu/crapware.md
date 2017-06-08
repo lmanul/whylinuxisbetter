@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: hu
 title: "Nincs több sz*rware."

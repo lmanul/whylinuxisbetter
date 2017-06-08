@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: ser
 title: "Zaboravite na drajvere"

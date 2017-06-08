@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: id
 title: "Mainkan ratusan jenis permainan secara bebas"

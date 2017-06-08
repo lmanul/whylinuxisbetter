@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: bn
 title: "নিজের পছন্দমত ডেস্কটপ-পরিবেশ বেছে নিন।"

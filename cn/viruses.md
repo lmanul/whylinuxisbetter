@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: cn
 title: "从此忘却病毒"

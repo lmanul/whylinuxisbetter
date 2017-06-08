@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: tr
 title: "Mükemmel bir müzik çalıcınız olsun"

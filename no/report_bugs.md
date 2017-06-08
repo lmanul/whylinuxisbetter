@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: no
 title: "Ikke vent årevis på at feil skal bli fikset – rapporter dem."

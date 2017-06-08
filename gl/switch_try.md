@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: gl
 title: Proba un "CD Vivo" (Live CD)

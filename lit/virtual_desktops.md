@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: lit
 title: "Per daug lang&#371;? Naudokit&#279;s virtualiais darbastaliais."

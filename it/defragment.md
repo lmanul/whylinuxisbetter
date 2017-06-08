@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: it
 title: "La tua vita digitale sembra frammentata?"

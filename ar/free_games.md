@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: ar
 title: "Play hundreds of games for free"

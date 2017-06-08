@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: eo
 title: "Sen post-pordoj en via programaro."

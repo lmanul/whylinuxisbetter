@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: eo
 title: "Ŝparu iom da energio: lasu ke via komputilo dormu aŭ travintru."
 ---

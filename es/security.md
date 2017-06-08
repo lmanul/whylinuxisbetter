@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: es
 title: "Linux protege tu ordenador"

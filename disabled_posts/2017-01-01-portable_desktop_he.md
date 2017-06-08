@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: he
 title: "תחנת העבודה שלכם בידיכם - תרתי משמע"
 ---

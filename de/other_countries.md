@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: de
 title: "Hilf anderen L&auml;ndern inklusive deinem eigenen"

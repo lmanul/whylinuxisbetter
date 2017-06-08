@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_cmjn
 category: cat
 title: Els llibres i la indústria de la impressió

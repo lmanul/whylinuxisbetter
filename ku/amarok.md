@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: ku
 title: "لێدەری مۆسیقا و گۆرانی و ڤیدیۆی زۆر باش بەکاربەرە"

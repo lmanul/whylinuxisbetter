@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: cat
 title: "Fes servir MSN, AIM, ICQ, Jabber en una mateixa aplicació."

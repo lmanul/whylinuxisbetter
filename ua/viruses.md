@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: ua
 title: "Забудь про віруси!"

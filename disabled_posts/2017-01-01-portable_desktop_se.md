@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: se
 title: "Din arbetsstation i handen."
 ---

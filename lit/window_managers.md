@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: lit
 title: "Pasirinkite, kaip atrodys Jūsų darbalaukis."

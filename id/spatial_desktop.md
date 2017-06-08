@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: id
 title: "Beralih ke desktop generasi selanjutnya."

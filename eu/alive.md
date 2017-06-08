@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: eu
 title: "Emaiozu zure ordenagailuari bigarren bizitza bat"

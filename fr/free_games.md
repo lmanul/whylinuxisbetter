@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: fr
 title: "Jouez à des centaines de jeux gratuitement"

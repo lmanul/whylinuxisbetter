@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: bn
 title: "নিজ দেশের উন্নয়নে ভূমিকা রাখুন"

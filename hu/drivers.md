@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: hu
 title: "Felejtsd el az eszközillesztőket!"

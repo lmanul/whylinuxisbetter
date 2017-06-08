@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: fr
 title: "Aidez les autres pays, et le vôtre"

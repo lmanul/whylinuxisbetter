@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_software
 category: th
 title: ซอฟต์แวร์ปิด-Proprietary

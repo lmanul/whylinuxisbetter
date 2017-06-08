@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: ru
 title: "Зачем копировать софт нелегально, если вы можете получить лучший аналог - бесплатно?"

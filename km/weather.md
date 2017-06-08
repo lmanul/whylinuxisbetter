@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: km
 title: "មើល​អាកាស​ធាតុ​ ។"

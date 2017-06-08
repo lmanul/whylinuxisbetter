@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: th
 title: "ไม่จำเป็นต้องจ่ายเป็นหมื่นเพื่อระบบปฏิบัติการตัวเดียว"

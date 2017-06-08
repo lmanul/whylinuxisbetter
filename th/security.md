@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: th
 title: "ลินุกซ์ปกป้องอย่างมั่นใจ"

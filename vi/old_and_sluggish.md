@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: vi
 title: "Vì sao Windows càng ngày càng chạy chậm ?"

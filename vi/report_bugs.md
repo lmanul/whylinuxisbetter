@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: vi
 title: "Báo lỗi"

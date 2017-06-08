@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: svk
 title: "Hrajte stovky hier zadarmo"

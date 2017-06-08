@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: hu
 title: "Felejtsd el a vírusokat!"

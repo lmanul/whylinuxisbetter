@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: eo
 title: "Akiru grandan muzikludilon"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: gl
 title: "Ten un gran reprodutor de música"

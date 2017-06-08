@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: tr
 title: "Ücretsiz ve sınırsız desteğin keyfini çıkarın"

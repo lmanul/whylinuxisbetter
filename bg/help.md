@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: bg
 title: "Радвайте се на безплатна и неограничена поддръжка"

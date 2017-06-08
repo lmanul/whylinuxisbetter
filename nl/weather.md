@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: nl
 title: "Hou het weer in de gaten"

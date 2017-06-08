@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: da
 title: "Linux beskytter din computer."

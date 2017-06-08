@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: tr
 title: "Linux bilgisayarınızı korur."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: br
 title: "Sua vida digital parece fragmentada ?"

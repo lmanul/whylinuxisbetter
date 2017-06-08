@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: id
 title: "Nikmati dukungan bebas dan tanpa batas"

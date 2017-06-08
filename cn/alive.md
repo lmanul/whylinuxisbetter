@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: cn
 title: "让你的老电脑重生"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: de
 title: "Bezahl keine 200&#x202f;&euro; f&uuml;r dein Betriebssystem"

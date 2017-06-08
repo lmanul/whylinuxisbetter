@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: gl
 title: "Usa MSN, AIM, ICQ, Jabber, cun só programa"

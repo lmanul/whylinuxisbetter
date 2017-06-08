@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: ku
 title: "سیستەمەکەت نوێ بکەرەوە بە یەک کرتە "

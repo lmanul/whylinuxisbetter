@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: br
 title: "﻿Atualize todos seus programas com um simples clique."

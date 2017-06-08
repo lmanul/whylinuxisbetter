@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: br
 title: "Fique de olho no tempo."

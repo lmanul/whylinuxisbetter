@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: gl
 title: "A túa vida dixital parece fragmentada?"

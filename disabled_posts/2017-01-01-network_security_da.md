@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: da
 title: "Giv hackerne baghjul!"
 ---

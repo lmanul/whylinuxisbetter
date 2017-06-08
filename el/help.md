@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: el
 title: "Απολαύστε δωρεάν και απεριόριστη υποστήριξη χρηστών"

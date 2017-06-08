@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: tw
 title: "為什麼你的 Windows 日漸緩慢"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: ro
 title: "Linux vă protejează computerul"

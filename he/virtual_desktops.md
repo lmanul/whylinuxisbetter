@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: he
 title: "  יותר מדי חלונות?  סביבות עבודה כבר ניסית?"

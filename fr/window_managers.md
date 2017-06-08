@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: fr
 title: "Choisissez l'allure de votre bureau."

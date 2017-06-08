@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: ru
 title: "Вдохни в старый компьютер новую жизнь!"

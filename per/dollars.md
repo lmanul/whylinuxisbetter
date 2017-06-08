@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: per
 

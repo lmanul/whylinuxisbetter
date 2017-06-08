@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: tw
 title: "天氣監控"

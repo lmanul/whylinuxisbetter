@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: ro
 title: "Uitaţi de drivere"

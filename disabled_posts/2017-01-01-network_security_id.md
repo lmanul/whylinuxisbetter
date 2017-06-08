@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: id
 title: "Mari berantas pembajakan"
 ---

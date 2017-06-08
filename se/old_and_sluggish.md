@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: se
 title: "Varför blir Windows långsammare för var dag som går?"

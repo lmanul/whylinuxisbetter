@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: ja
 title: "クリックひとつで、ぜーんぶアップデート！"

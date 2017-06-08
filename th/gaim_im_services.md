@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: th
 title: "ใช้ MSN, AIM, ICQ, Jabber ด้วยโปรแกรมเพียงหนึ่งเดียว"

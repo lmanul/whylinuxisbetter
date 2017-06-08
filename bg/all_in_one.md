@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: bg
 title: "Когато системата е инсталирана, защо <i>все още</i> да има нужда от инсталиране на разни неща?"

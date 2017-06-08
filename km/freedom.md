@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: freedom
 category: km
 title: "សេរី​ភាព!"

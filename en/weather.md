@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: en
 title: "Keep an eye on the weather."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: ja
 title: "昔のパソコンに第二の人生を！"

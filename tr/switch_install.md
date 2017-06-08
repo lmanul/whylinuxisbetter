@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_install
 category: tr
 title: Linux'u kurun

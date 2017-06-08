@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: cat
 title: "Sense portes falses al teu programari."

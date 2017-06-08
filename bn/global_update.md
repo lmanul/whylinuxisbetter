@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: bn
 title: "এক ক্লিকে আপডেট করুন সবকিছু।"

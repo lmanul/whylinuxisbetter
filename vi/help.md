@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: vi
 title: "Trợ giúp mọi lúc mọi nơi và miễn phí"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: ru
 title: "Устали постоянно перезагружать ваш компьютер?"

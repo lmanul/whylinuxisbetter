@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: eo
 title: "Kial kopii programaron neleĝe se vi povas akiri ĝin senkoste?"

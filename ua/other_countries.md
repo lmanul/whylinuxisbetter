@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: ua
 title: "Допоможи іншим країнам та своїй власній"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: ru
 title: "Обновите весь ваш софт одним кликом!."

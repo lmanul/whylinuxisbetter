@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: cat
 title: "Per què copiar programari il·legal quan pots tenir-lo de franc?"

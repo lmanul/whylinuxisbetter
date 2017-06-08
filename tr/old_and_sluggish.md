@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: tr
 title: "Windows'unuz neden gün geçtikçe yavaşlar?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: ru
 title: "Забудьте о вирусах."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: pl
 title: "Nowa generacja rozwiązań wizualnych czeka na Ciebie"

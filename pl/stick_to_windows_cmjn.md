@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_cmjn
 category: pl
 title: Książki i przemysł wydawniczy

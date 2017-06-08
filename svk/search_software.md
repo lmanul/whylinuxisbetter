@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: svk
 title: "Potrebujete nové programy? Neobťažujte sa hľadaním na internete, Linux ich nájde pre vás"

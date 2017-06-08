@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: no
 title: "Hvorfor blir din Windows tregere for hver dag som går?"

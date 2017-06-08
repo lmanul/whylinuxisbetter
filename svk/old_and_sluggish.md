@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: svk
 title: "Prečo je Windows každým dňom pomalší?"

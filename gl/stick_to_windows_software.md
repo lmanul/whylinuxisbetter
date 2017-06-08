@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_software
 category: gl
 title: Aplicacións ou programas privativos (Software privativo)

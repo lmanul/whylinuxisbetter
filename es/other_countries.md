@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: es
 title: "Ayuda a otros países y al tuyo propio"

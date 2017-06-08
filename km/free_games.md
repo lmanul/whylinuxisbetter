@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: km
 title: "លេង​ល្បែងរាប់​​រយ​​ដោយ​ឥត​គិត​ថ្លៃ​"

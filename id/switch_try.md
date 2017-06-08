@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: id
 title: Mencoba "Live CD" Linux

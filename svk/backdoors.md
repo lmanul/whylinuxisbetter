@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: svk
 title: "Žiadne zadné vrátka vo vašom softvéri"

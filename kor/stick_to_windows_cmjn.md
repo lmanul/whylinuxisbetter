@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_cmjn
 category: kor
 title: ﻿출판 & 인쇄 사업 종사

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: se
 title: "När systemet är installerat, varför skulle du då <i>fortfarande</i> behöva installera saker?"

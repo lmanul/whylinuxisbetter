@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: nl
 title: "Probeer de laatste generatie van bureaubladomgevingen"

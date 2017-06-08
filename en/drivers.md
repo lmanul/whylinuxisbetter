@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: en
 title: "Forget about drivers"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: fr
 title: "N'attendez pas des années que les bugs soient résolus, signalez-les et traquez-les."

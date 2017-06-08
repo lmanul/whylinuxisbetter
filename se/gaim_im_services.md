@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: se
 title: "Använd MSN, AIM, ICQ, Jabber - med ett enda program"

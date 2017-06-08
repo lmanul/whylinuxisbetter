@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: ro
 title: "Jucaţi-vă sute de jocuri gratuite!"

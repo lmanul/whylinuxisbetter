@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: it
 title: "Dà un occhiata al tempo"

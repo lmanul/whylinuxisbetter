@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: kor
 title: "﻿환경문제"

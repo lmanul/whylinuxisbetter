@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: he
 title: "קבל נגן מוסיקה מדהים"

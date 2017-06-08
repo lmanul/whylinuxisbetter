@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: gl
 title: "Por que Windows se fai máis lento cada día?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: gl
 title: "Accede gratis por centos de xogos"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: hu
 title: "Ismerd meg az asztalok legújabb generációját!"

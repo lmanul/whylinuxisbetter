@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: no
 title: "Ikke betal hundrevis av kroner for ditt operativsystem!"

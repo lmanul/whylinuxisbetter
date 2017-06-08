@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: per
 title: "صدها بازي رو رايگان انجام بدين"

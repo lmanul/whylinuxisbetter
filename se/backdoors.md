@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: se
 title: "Inga bakdörrar i mjukvaran."

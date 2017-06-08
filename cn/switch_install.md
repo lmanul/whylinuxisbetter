@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_install
 category: cn
 title: 安装Linux

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: el
 title: "Ξεχάστε τους οδηγούς υλικού"

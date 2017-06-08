@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: ser
 title: "Jel Vap sistem stabilan ?"

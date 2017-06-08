@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: id
 title: "Apakah kehidupan dijitalmu terasa terfragmentasi?"

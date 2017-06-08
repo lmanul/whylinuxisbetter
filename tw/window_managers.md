@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: tw
 title: "由你決定桌面環境的外觀"

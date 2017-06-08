@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: he
 title: "תמיכה לא מוגבלת ובחינם להנאתך"

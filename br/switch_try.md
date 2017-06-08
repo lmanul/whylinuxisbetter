@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: br
 title: Teste um "Live CD"

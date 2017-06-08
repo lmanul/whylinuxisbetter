@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: lit
 title: "Atnaujinkite visą savo programinę įrangą vienu paspaudimu."

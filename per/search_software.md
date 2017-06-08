@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: per
 

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: categories
 category: de
 title: "Kein Riesendurcheinander in deinem Startmenü"

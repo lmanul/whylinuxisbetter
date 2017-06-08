@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: ja
 title: "Windows使ってるとだんだん遅くならない？"

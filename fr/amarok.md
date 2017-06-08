@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: fr
 title: "Découvrez un lecteur de musique d'exception"

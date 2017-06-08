@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: freedom
 category: vi
 title: "Tự do muôn năm!"

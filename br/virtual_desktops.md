@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: br
 title: "Muitas janelas? Use desktops virtuais."

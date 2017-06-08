@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: de
 title: "Benutz MSN, AIM, ICQ und Jabber mit einem einzigen Programm."

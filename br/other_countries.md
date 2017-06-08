@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: br
 title: "Ajude outros países, inclusive o seu"

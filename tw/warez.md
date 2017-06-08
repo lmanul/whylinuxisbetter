@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: tw
 title: "如果你可以自由地取得軟體，哪還需要非法複製軟體呢？"

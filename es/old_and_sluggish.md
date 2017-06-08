@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: es
 title: "¿Por qué tu Windows es más lento cada día?"

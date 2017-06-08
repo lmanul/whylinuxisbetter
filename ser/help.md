@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: ser
 title: "Uživajte u besplatnoj i neograničenoj podršci"

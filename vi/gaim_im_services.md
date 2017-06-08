@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: vi
 title: "Dùng MSN, AIM, ICQ, Jabber, chỉ bằng một chương trình"

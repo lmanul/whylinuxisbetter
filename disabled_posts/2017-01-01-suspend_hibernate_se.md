@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: se
 title: "Spara energi: Låt datorn sova."
 ---

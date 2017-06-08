@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: vi
 title: "Đừng vi phạm bản quyền khi bạn có thể dùng phần mềm miễn phí"

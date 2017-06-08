@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: lit
 title: "Prane&#353;imai apie riktus (klaidas)"

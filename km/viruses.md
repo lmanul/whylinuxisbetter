@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: km
 title: "មិន​ខ្វល់​អំពី​មេរោគ ។"

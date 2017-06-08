@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: kor
 title: "늙은 컴퓨터에게도 할 일을 주세요"

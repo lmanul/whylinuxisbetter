@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: id
 title: "Dapatkan pemutar musik yang luar biasa!"

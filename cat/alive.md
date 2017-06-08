@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: cat
 title: "Dóna una segona vida al teu ordinador"

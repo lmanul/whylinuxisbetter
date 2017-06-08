@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: cat
 title: "Gaudeix de suport lliure i il·limitat"

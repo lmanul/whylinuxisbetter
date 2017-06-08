@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: en
 title: "Choose what your desktop looks like."

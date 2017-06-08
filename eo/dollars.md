@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: eo
 title: "Ne pagu 100 dolarojn por via operaciumo"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: cat
 title: "Necessites més programari? No cerques a la web, Linux l'aconsegueix per tu."

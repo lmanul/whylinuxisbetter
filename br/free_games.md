@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: br
 title: "Jogue centenas de jogos de graça"

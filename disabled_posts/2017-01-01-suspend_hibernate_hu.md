@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: hu
 title: "Takaríts meg egy kis energiát: függeszd fel vagy hibernáld számítógéped!"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: fr
 title: " Mettez à jour tous vos logiciels d'un seul clic."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: da
 title: "Føler du at dit digitale liv er fragmenteret?"

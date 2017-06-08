@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: se
 title: "Välj hur du ditt skrivbord ska se ut."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: se
 title: "Varför piratkopiera när du kan få program gratis?"

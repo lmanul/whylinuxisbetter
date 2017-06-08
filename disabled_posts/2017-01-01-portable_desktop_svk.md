@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: svk
 title: "Vaša pracovná stanica priamo vo vašej dlani."
 ---

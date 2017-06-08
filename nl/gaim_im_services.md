@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: nl
 title: "Gebruik AIM, ICQ, IRC, Jabber en Facebook Chat met één programma"

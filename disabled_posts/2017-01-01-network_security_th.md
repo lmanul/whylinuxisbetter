@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: th
 title: "ทิ้งให้โจรกินฝุ่น"
 ---

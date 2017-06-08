@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_install
 category: ua
 title:  Встанови Linux (не видаляючи Windows)

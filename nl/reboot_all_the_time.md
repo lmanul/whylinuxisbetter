@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: nl
 title: "Ben je moe om de hele tijd te herstarten?"

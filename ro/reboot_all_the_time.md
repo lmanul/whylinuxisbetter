@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: ro
 title: "V-aţi săturat să vă restartaţi computerul tot timpul?"

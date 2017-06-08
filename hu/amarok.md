@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: hu
 title: "Szeretnél egy klassz zenelejátszót?"

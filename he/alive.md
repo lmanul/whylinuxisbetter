@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: he
 title: "חיים חדשים למחשבך הישן"

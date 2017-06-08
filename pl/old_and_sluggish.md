@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: pl
 title: "Czemu Twój Windows spowalnia z każdym dniem?"

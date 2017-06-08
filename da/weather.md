@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: da
 title: "Hold øje med vejret."

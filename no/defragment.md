@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: no
 title: "Er ditt digitale liv fragmentert?"

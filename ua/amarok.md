@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: ua
 title: "Отримай чудовий музичний плейєр"

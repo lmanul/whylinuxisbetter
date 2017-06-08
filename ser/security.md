@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: ser
 title: "Linux štiti Vaš kompjuter "

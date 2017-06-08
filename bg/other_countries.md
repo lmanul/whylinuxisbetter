@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: bg
 title: "Помогнете на другите страни и на вашата собствена"

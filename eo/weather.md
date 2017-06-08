@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: eo
 title: "Ĵetu rigardon al la vetero."

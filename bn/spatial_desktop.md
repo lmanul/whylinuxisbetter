@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: bn
 title: "উপভোগ করুন পরবর্তী প্রজন্মের ডেস্কটপ-পরিবেশ।"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: gl
 title: "Por que copiar software ilegalmente se o podes ter gratis?"

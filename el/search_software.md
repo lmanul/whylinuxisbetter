@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: el
 title: "Χρειάζεστε νέο λογισμικό; Μην ψάχνετε στο δίκτυο, το Linux θα σας το φέρει."

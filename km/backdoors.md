@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: km
 title: "មិន​មានការ​ចូល​ដំណើរការ ​ដោយ​គ្មាន​ការ​អនុញ្ញាត​ក្នុង​កម្មវីធី​របស់​អ្នក​ ។"

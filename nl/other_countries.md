@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: nl
 title: "Help andere landen, ook uw eigen"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: he
 title: "   צריכים תכנה חדשה?  אל תטרחו לחפש ברשת, לינוקס תדאג לכם. "

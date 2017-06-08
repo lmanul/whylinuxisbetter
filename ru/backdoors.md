@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: ru
 title: "Никаких ''скрытых ходов'' в вашем ПО."

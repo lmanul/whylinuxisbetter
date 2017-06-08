@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: gl
 title: "Cando o sistema xa foi instalado, por que <i>aínda</i> necesitas instalar máis cousas?"

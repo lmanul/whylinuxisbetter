@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: bg
 title: "Вземете чудесна програма за слушане на музика"

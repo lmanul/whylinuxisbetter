@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: freedom
 category: ja
 title: "自由バンザイ！"

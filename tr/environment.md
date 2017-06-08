@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: tr
 title: "Çevre için de bir şeyler yapın"

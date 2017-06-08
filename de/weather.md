@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: de
 title: "Behalt das Wetter im Auge."

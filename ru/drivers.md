@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: ru
 title: "Забудьте о драйверах."

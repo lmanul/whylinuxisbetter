@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: vi
 title: "Cập nhật hệ thống bằng một click chuột"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: he
 title: "  בשביל מה להעתיק תכנה באופן לא חוקי אם אפשר לקבל אותה בחינם?"

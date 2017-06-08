@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: bn
 title: "পরিবেশ রক্ষায় ভূমিকা রাখুন।"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: el
 title: "Πάρα πολλά παράθυρα; Χρησιμοποιήστε επιφάνειες εργασίας."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: eo
 title: "Ĉu vi estas laca restartigi la komputilon daŭre?"

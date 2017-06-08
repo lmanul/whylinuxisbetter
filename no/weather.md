@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: no
 title: "Hold øye med været."

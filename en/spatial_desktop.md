@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: en
 title: "Jump into the next generation of desktops."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: da
 title: "Er du træt af at genstarte din computer hele tiden?"

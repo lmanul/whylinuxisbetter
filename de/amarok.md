@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: de
 title: "Hol dir einen gro&szlig;artigen Musikplayer."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: th
 title: "หลายร้อยหลายพันเกมส์ให้เล่นฟรี"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: cn
 title: "太多窗口？请使用工作区"

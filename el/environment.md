@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: el
 title: "Κάντε κάτι για το περιβάλλον"

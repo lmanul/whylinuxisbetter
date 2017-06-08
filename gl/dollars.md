@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: gl
 title: "Non pagas 100 € polo teu sistema operativo."

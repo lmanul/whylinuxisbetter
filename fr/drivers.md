@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: fr
 title: "Ne vous souciez plus des pilotes"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: tw
 title: "擁有一套很棒的音樂播放軟體"

@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: cn
 title: "节省能源：让您的计算机“睡眠”或者“休眠”"
 ---

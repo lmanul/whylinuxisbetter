@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: br
 title: "﻿Use MSN, AIM, ICQ, Yahoo, Google Talk, Jabber, com um único programa"

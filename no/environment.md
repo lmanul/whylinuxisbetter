@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: no
 title: "Hjelp miljøet."

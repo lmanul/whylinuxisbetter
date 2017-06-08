@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: ja
 title: "音楽聞くならLinux！"

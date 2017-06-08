@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: br
 title: "Esqueça os vírus."

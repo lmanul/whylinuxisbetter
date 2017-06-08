@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: bg
 title: "Забравете за вирусите."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: da
 title: "Spil hundredevis af spil, helt gratis"

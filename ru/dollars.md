@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: ru
 title: "Не нужно платить $100 за новую операционную систему "

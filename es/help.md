@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: es
 title: "Disfruta de soporte gratis e ilimitado"

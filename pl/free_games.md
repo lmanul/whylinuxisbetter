@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: pl
 title: "Zagraj w setki darmowych gier"

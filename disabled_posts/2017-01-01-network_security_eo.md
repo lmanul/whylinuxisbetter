@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: eo
 title: "Ni lasu ke la piratoj leku polvon"
 ---

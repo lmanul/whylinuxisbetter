@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: ro
 title: "Obţineţi un mp3 player minunat"

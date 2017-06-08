@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: fr
 title: "Gardez un oeil sur la météo"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: fr
 title: " Pourquoi pirater des logiciels quand vous pouvez en avoir gratuitement ?"

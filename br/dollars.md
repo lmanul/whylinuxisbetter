@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: br
 title: "﻿Não pague $100 pelo seu sistema operacional"

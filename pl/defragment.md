@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: pl
 title: "Czy Twoje życie wydaje się pofragmentowane?"

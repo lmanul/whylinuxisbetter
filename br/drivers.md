@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: br
 title: "Esqueça os drivers"

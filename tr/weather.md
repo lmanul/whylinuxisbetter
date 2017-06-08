@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: tr
 title: "Havadan sudan haberiniz olsun"

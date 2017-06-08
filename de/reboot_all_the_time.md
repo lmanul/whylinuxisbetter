@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: de
 title: "Bist du es leid, deinen Computer st&auml;ndig neustarten zu m&uuml;ssen?"

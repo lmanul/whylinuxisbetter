@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: tr
 title: "Masaüstlerinde yeni çağa atlayın"

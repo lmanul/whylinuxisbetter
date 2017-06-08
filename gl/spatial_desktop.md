@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: gl
 title: "Salta á próxima xeración de contornas gráficas de escritorio."

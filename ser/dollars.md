@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: ser
 title: "Nemojte platiti 100$ za Vaš Operativni sistem"

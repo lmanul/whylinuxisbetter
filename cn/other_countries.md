@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: cn
 title: "帮助其他国家和您的祖国"

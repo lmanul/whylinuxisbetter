@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: he
 title: " השתמשו במסנג'ר, AIM, אייסיקיו וג'אבר בתוכנה אחת "

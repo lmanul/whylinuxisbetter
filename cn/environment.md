@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: cn
 title: "环境保护"

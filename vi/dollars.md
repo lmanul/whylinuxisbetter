@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: vi
 title: "Đừng trả 100$ cho hệ diều hành"

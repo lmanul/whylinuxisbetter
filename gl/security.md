@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: gl
 title: "Linux protexe a tua computadora."

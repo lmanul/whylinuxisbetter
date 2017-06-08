@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: no
 title: "Oppdater all din programvare med ett enkelt museklikk."

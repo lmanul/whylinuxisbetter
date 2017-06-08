@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: ro
 title: "Prea multe ferestre? Folosiţi spaţiile de lucru."

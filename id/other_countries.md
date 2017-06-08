@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: id
 title: "Membantu Negara Lain, dan juga Negara Anda"

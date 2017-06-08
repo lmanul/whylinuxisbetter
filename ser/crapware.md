@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: ser
 title: "Bez sranjvera"

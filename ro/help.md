@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: ro
 title: "Bucuraţi-vă de ajutor gratuit şi nelimitat!"

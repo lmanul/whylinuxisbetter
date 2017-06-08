@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: th
 title: "เอาไปซิ.... เครื่องเล่นเพลงชั้นเลิศ"

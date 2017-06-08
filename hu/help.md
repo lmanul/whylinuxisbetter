@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: hu
 title: "Élvezd az ingyenes és korlátlan támogatást!"

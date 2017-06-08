@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: no
 title: "Dra nyte av gratis og ubegrenset support."

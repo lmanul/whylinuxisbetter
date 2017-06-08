@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: ua
 title: "Один клік – і весь твій комплект програмного забезпечення обновлений"

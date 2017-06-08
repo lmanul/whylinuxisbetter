@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: cn
 title: "不用为你的操作系统支付近2000元人民币"

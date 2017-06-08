@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: eo
 title: "Kial via Windows iĝas pli malrapida ĉiutage?"

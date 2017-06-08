@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: de
 title: "Zu viele Fenster? Benutz Arbeitsflächen."

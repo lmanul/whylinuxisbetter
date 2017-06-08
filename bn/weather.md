@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: bn
 title: "আবহাওয়ার উপর নজর রাখুন।"

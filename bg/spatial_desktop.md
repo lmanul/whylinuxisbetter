@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: bg
 title: "Елате в следващото поколение на desktop-ите"

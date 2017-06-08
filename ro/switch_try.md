@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: ro
 title: Încercaţi un Live CD

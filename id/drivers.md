@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: id
 title: "Lupakan <i>driver</i>"

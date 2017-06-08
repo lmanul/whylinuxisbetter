@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: cat
 title: "Dóna una ullada al temps que fa."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: nl
 title: "Geen achterpoortjes in uw software."

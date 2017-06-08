@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_software
 category: ru
 title: Проприетарный, закрытый и платный софт

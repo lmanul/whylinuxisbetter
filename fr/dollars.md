@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: fr
 title: "Ne payez pas 100 € pour votre système d'exploitation"

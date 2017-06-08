@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: cat
 title: "Juga a centenars de jocs de franc"

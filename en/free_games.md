@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: en
 title: "Play hundreds of games for free"

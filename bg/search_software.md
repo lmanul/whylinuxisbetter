@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: bg
 title: "Нуждаете се от нов софтуер? Не се занимавайте да търсите из Мрежата, Линукс ще ви го намери."

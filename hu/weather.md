@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: hu
 title: "Tartsd szemmel az időjárást!"

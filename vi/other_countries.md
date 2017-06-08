@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: vi
 title: "Giúp đất nước của bạn phát triển"

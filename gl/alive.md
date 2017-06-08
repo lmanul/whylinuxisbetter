@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: gl
 title: "Dálle á túa vella computadora unha segunda vida"

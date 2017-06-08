@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: eo
 title: "Ludu centojn da ludoj senkoste"

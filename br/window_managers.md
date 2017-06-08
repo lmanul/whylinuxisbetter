@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: br
 title: "Escolha o visual de sua área de trabalho."

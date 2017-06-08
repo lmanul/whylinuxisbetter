@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: es
 title: "Deja que tu viejo ordenador tenga una segunda vida"

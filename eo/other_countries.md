@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: eo
 title: "Helpu aliajn landojn, kaj vian propran"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: et
 title: "J&auml;ta viirustega h&uuml;vasti."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: bg
 title: "Защо вашият Windows става все по-бавен с всеки изминал ден?"

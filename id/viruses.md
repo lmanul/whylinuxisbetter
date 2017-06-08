@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: id
 title: "Lupakan tentang virus."

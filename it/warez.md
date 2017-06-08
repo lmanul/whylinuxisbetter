@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: it
 title: "Perché copiare software illegalmente quando puoi ottenerlo gratuitamente?"

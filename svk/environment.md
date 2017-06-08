@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: svk
 title: "Spravte niečo pre životné prostredie"

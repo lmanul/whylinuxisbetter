@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: no
 title: "Bruk MSN, AIM, ICQ, Jabber, alt med ett enkelt program."

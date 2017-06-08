@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: nl
 title: "Geniet van gratis, onbeperkte ondersteuning"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: ser
 title: "Izaberite kako će Vaš desktop izgledati."

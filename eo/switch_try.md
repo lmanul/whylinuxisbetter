@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: eo
 title: Provu "Senperan KD-n"

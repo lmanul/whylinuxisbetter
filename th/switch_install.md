@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_install
 category: th
 title: การติดตั้งลินุกซ์

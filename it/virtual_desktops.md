@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: it
 title: "Troppe finestre? Usa gli ambienti di lavoro"

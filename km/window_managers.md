@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: km
 title: "ជ្រើស​រើស​​​រូប​រាង​ផ្ទៃ​តុ​របស់​អ្នក​ ។"

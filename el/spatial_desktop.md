@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: el
 title: "Κάντε άλμα στην νέα γενιά περιβάλλοντων εργασίας."

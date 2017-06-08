@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: cat
 title: Prova un “Live CD”

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: ro
 title: "Aveţi nevoie de programe noi? Nu vă pierdeţi timpul căutând, Linux vă face rost."

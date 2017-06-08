@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: ser
 title: "Bez tajnih vrata u vašem softveru."

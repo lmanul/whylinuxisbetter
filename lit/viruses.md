@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: lit
 title: "Pamir&#353;kite apie virusus."

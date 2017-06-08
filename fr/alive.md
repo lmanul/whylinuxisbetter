@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: fr
 title: "Donnez une seconde jeunesse à votre vieil ordinateur"

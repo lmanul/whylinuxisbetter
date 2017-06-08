@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: id
 title: "Apakah sistem komputermu tidak stabil?"

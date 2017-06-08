@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: ser
 title: " Neka Vaš stari kompjuter dobije drugi život."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: id
 title: "Mengapa mengkopi perangkat lunak ilegal jika kamu bisa mendapatkannya secara bebas?"

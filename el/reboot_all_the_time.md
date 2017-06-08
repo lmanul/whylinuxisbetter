@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: el
 title: "Βαρεθήκατε να επανεκκινείτε συνέχεια τον υπολογιστή σας;"

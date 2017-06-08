@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: de
 title: "Lass deinen alten Computer einen zweiten Frühling erleben"

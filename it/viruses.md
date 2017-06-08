@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: it
 title: "Dimenticati dei virus"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: ja
 title: "「OS入れただけじゃ何もできない」なんて、おかしいじゃない？"

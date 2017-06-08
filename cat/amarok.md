@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: cat
 title: "Aconsegueix un genial reproductor musical."

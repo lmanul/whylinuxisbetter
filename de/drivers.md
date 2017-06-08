@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: de
 title: "Denk nicht über Treiber nach"

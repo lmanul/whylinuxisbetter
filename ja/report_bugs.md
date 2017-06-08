@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: ja
 title: "いつまでも直らないバグ。バグ退治に協力すれば解決は早いのにぃ"

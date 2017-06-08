@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: id
 title: "Tidak ada backdoor di perangkat lunakmu."

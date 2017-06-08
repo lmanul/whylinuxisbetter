@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: svk
 title: "Aktualizujte všetky svoje programy jedným kliknutím"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_install
 category: nl
 title: Installeer Linux

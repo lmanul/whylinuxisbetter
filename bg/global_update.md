@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: bg
 title: "Осъвременете всичкия си софтуер с едно цъкане."

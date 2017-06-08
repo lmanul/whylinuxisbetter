@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: vi
 title: "Linux bảo vệ máy tính của bạn"

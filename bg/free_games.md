@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: bg
 title: "Играйте безплатно стотици игри"

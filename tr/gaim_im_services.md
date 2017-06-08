@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: tr
 title: "MSN, AIM, ICQ veya Jabber' a tek bir yazılımla bağlanın"

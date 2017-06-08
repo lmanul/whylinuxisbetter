@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: pl
 title: "Dostosuj wygląd systemu do swoich potrzeb"

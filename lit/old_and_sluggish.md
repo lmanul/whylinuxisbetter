@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: lit
 title: "Kodėl Jūsų Windows'ai kasdien vis lėtėja?"

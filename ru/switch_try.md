@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: ru
 title: Испытайте "живой CD/DVD"

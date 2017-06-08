@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: hu
 title: "Adj még egy esélyt veterán számítógépednek!"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: bn
 title: "'Live CD' চালিয়ে দেখুন"

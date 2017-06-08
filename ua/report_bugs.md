@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: ua
 title: "Не чекай роками, поки помилки будуть усунені – повідом про них та позбудься їх"

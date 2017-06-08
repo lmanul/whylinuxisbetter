@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: pl
 title: Wypróbuj Linuksa, czyli więcej o "Live CD"

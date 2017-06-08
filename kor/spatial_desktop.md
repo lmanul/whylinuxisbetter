@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: kor
 title: "차세대 데스크탑으로 뛰어들기"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: el
 title: "Γιατί να αντιγράφεται παράνομα λογισμικό όταν μπορείτε να το έχετε δωρεάν;"

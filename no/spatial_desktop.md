@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: no
 title: "Gjør deg klar for neste generasjons skrivebord."

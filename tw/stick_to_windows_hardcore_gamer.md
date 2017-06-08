@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_hardcore_gamer
 category: tw
 title: 你是一位重度的電腦遊戲玩家

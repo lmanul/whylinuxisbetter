@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: es
 title: "Entra en la nueva generación de escritorios"

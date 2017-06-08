@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: pl
 title: "Czy nie męczą Cię ciągłe restarty?"

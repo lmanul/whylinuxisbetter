@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: tr
 title: Bir "Çalışan CD" deneyin

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: km
 title: សាក​ល្បង"ស៊ីឌី​បន្ត​ផ្ទាល់"

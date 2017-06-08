@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: hu
 title: "Belefáradtál már abba, hogy folyton újraindítsd a géped?"

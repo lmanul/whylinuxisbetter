@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: lit
 title: "Ar j&#363;s&#371; sistema nestabili?"

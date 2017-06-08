@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: he
 title: "עזבו אתכם ממנהלי התקנים"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: categories
 category: es
 title: "Sin desastres en tu menú principal"

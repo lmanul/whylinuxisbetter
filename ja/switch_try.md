@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: ja
 title: 「ライブCD」で試してみる。

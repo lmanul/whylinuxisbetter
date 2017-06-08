@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: bn
 title: "উপভোগ করুন চমৎকার একটি মিউজিক প্লেয়ার।"

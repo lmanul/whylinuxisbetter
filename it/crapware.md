@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: it
 title: "Mai più software spazzatura."

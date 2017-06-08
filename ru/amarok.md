@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: ru
 title: "Получите классный музыкальный проигрыватель"

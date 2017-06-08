@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: bg
 title: "Нека пиратите ни дишат прахта"
 ---

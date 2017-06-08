@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: br
 title: "O Linux protege seu computador"

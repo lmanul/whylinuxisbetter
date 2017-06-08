@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: gl
 title: "Non perdas de vista o clima"

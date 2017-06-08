@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: ser
 title: "Kada je Vaš sistem instaliran, zašto bi ste <i>morali</i> instalirati još stvari?"

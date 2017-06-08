@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: tr
 title: "Yazılımınızı tek bir tık ile güncelleyin."

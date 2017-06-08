@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: el
 title: "Μην πληρώνετε €200 για το λειτουργικό σας."

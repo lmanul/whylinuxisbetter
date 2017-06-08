@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: id
 title: "Butuh perangkat lunak baru? Tak perlu mencari di internet, Linux akan menyediakannya untukmu."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: no
 title: "Få en god musikkavspiller."

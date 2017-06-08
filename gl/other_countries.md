@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: gl
 title: "Axuda a outros países, incluído o teu"

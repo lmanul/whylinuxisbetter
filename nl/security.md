@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: nl
 title: "Linux beschermt uw computer"

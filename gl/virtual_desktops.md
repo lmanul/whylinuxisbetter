@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: gl
 title: "Moitas ventás? Usa as áreas de traballo"

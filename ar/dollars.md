@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: ar
 title: "لا تدفع 100$ دولار لتشتري نظام تشغيل"

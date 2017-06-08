@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: he
 title: "לא עוד תכניות זבל."

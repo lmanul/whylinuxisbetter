@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: km
 title: "​ឲ្យ​កុំព្យូរទ័រ​ចាស់​របស់​អ្នក មានជីវិតម្តងទៀត"

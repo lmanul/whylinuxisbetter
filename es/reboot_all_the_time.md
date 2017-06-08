@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: es
 title: "¿Estás cansado de reiniciar tu ordenador continuamente?"

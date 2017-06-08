@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: eu
 title: "Zure bizitza digitala zatituta dirudi?"

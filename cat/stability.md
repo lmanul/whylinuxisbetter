@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: cat
 title: "És el teu sistema inestable?"

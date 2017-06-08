@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: ro
 title: "Uitaţi de viruşi."

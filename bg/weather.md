@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: bg
 title: "Следете прогнозата за времето."

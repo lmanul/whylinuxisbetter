@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: categories
 category: eo
 title: "Sen fuŝoj en via startmenuo"

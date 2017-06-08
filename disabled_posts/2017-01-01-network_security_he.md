@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: he
 title: "חיים קשים יותר לתוקפים"
 ---

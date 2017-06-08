@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: gl
 title: "Escolle como queres que se vexa o teu escritorio."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: bg
 title: "Линукс защитава компютъра ви"

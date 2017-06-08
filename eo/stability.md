@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: eo
 title: "Ĉu via operaciumo estas nestabila?"

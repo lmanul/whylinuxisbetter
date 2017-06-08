@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: pl
 title: "System zainstalowany. Dlaczego zatem masz jeszcze coś instalować?"

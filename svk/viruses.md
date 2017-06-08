@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: svk
 title: "Zabudnite na vírusy"

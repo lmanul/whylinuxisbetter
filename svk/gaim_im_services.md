@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: svk
 title: "Používajte MSN, AIM, ICQ, Jabber jedným programom"

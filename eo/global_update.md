@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: eo
 title: "Aktualigu vian tutan programaron per unu klako."

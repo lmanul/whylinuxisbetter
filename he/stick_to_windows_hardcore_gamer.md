@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_hardcore_gamer
 category: he
 title: משחקים

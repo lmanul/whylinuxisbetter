@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: tw
 title: "為你的舊電腦找到生命的第二春"

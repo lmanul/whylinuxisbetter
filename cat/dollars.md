@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: cat
 title: "No paguis 100€ pel teu sistema operatiu"

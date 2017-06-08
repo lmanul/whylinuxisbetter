@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: vi
 title: "Các chương trình nghe nhạc tuyệt vời"

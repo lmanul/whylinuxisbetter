@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: th
 title: "หน้าต่างมากเกินไปรึเปล่า? ใช้โต๊ะทำงานซิจ๊ะ (Workspaces)"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: lit
 title: "Kai sistema jau įdiegta, kodėl jums vis dar reikia įdiegti visa kita?"

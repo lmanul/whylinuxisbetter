@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: ja
 title: "無料で無期限のサポートがあるって？"

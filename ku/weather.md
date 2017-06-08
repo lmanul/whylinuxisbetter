@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: ku
 title: "چاودیری کەش و هەوا بکە."

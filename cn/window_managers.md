@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: cn
 title: "选择您的桌面主题"

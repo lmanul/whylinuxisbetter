@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: pl
 title: "Aktualizuj <i>całe</i> swoje oprogramowanie jednym kliknięciem"

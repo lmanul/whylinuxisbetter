@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: bg
 title: "Нека старият ви компютър има втори живот"

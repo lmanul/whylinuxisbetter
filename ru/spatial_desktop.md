@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: ru
 title: "Загляни в следующее поколение рабочих столов!"

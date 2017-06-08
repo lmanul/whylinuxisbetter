@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: nl
 title: "Vergeet stuurprogramma's"

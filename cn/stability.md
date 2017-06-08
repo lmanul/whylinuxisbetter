@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: cn
 title: "您的系统不稳定吗？"

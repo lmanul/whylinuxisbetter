@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: th
 title: "ปลุกเครื่องคอมพิวเตอร์เก่าของคุณให้คืนชีพอีกครั้ง"

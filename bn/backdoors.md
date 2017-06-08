@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: bn
 title: "সফটওয়্যারে গোপন কিছু থাকবে না।"

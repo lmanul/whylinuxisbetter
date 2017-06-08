@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: da
 title: "Få dig en lækker musik-afspiller."

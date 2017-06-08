@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: it
 title: "Rilassati con un eccezionale riproduttore musicale."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: de
 title: "Such dir aus, wie dein Desktop aussehen soll."

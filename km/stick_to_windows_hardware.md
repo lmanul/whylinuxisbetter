@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_hardware
 category: km
 title: ផ្នែក​រឹង​

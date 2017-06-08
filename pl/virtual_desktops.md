@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: pl
 title: "Zbyt wiele okien? Użyj wirtualnych pulpitów"

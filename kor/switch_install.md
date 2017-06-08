@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_install
 category: kor
 title: 리눅스 설치하기

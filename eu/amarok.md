@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: eu
 title: "Musika entzuteko aukera on bat izan."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_software
 category: ua
 title: Існує комерційне програмне забезпечення, без якого ти не можеш жити

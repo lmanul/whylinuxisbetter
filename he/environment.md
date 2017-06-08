@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: he
 title: "תרמו את חלקכם למען איכות הסביבה"

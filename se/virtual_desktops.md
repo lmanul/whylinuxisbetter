@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: se
 title: "För många fönster? Använd olika skrivbord."

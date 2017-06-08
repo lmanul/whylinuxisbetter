@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: se
 title: "Glöm virus."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: tr
 title: "Eski bilgisayarınız ikinci baharını yaşasın"

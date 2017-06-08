@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: it
 title: "Dimenticati dei driver"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: ua
 title: "Тобі подобається постійно перезапускати комп'ютер?"

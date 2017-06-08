@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: ru
 title: "Будьте эксклюзивными и альтернативными - выберите сами вид рабочего стола!."

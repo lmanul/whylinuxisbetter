@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: per
 title: "آيا از راه&zwnj;اندازي مجدد كردن هميشگي كامپيوترتون خسته شديد؟"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: tw
 title: "當系統安裝完成，為什麼你還需要安裝其他軟體呢？"

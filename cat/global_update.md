@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: cat
 title: "Actualitza el teu programari amb un sol clic."

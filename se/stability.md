@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: se
 title: "Är ditt system instabilt?"

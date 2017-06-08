@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: da
 title: "Nyd gratis og ubegrænset support"

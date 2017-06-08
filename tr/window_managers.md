@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: tr
 title: "Masaüstünüzün nasıl olması gerektiğini siz seçin."

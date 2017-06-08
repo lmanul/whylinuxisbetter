@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: he
 title: "לינוקס מגינה על המחשב שלך"

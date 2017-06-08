@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: se
 title: "Spela hundratals av spel gratis"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: cat
 title: "Gràcies a Franz Bourlet per la idea"

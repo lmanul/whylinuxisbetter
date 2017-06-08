@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: el
 title: "Δώστε στον παλιό σας υπολογιστή μια δεύτερη ζωή"

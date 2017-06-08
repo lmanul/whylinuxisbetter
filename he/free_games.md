@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: he
 title: " ! שחק במאות משחקים, בחינם "

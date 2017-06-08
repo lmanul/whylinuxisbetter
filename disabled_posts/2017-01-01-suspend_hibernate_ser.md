@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: ser
 title: "Čuvajte energiju: neka Vaš kompjuter miruje ili hibernira."
 ---

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: km
 title: "តើ​អ្នក​ពិត​ជា​ធុញ​ទ្រាន់​នៅ​ក្នុង​ការ​ចាប់​ផ្តើម​កុំ​ព្យូទ័រ​របស់​អ្នក​ឡើង​វិញ​គ្រប់​ពេល​វេលា​ឬ​ ?"

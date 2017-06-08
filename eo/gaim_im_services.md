@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: eo
 title: "Uzu MSN, AIM, ICQ, Jabber, per nur unu programo"

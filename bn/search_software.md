@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: bn
 title: "নতুন সফটওয়্যার খুজে বের করুন সহজেই।"

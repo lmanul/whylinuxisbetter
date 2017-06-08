@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: no
 title: "Gi nytt liv til din gamle datamaskin!"

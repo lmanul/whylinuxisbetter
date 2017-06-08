@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: km
 title: "ទទួល​បាន​កម្មវិធី​ចាក់​​​តន្ត្រីដ៏អស្ចារ្យ"

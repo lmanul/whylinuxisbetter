@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: he
 title: "  למה לשלם 900 שקל על מערכת הפעלה"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: vi
 title: "Hệ thống của bạn có chạy ổn định ?"

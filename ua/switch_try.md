@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: ua
 title: Спробуй "Live-CD"

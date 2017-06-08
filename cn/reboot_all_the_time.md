@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: cn
 title: "您为不停的重新启动计算机而烦恼吗？"

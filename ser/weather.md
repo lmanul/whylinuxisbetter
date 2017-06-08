@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: ser
 title: " Pratite vreme."

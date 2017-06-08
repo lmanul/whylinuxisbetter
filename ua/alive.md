@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: ua
 title: "Дай своєму старому комп`ютеру пережити „другу весну“"

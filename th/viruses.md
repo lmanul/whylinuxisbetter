@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: th
 title: "ไวรัส.... ลืมๆ มันไปได้เลย"

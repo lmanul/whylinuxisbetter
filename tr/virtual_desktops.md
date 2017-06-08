@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: tr
 title: "Çok fazla mı pencere var? Çoklu masaüstü kullanın."

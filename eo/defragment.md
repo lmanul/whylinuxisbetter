@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: eo
 title: "Ĉu via cifereca vivo ŝajnas fragmentigita?"

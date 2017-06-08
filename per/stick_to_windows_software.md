@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_software
 category: per
 title: نرم افزارهاي پولي(داراي حق مالكيت)

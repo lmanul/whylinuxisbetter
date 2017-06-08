@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: en
 title: "Is your system unstable?"

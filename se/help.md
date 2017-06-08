@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: se
 title: "Njut av fri support för evigt"

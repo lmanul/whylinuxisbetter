@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: br
 title: "Faça algo pelo meio ambiente"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: ja
 title: "システムが不安定だって？"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: eo
 title: "Linux protektas vian komputilon"

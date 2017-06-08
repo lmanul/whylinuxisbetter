@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: lit
 title: "Prikelk savo sen&#261; kompiuter&#303; naujam gyvenimui"

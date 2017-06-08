@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: ru
 title: "Пользуйтесь ICQ, Jabber, MSN, AIM - в одной программе!"

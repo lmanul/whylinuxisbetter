@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: fr
 title: "Lorsque le système est installé, pourquoi devoir <i>encore</i> installer des logiciels ?"

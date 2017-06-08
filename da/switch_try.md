@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: da
 title: Prøv en "Live CD"

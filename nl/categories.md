@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: categories
 category: nl
 title: "Geen grote rommel in uw startmenu"

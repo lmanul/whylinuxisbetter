@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: el
 title: "Η ψηφιακή σας ζωή μοιάζει σκόρπια;"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: ja
 title: "ソフトをお探し？　Web検索なんてやめとこうよ。Linuxにお任せ！"

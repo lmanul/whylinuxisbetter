@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: da
 title: "Glem alt om virusser."

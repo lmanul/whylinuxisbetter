@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: tr
 title: "Yüzlerce oyunu ücretsiz oynayın"

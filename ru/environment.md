@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: ru
 title: "Сделайте свой вклад в окружающую среду"

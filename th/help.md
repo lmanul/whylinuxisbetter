@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: th
 title: "เมามันส์กับการสนับสนุนฟรี และไม่มีจำกัด"

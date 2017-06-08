@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: th
 title: "จะละเมิดใช้ซอฟต์แวร์ผิดกฎหมายทำไม? ในเมื่อคุณเรียกหามันได้ฟรี"

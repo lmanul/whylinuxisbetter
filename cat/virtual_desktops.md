@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: cat
 title: "Massa finestres? Fes servir els espais de treball."

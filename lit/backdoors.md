@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: lit
 title: "Programinės įrangos durys yra atviros."

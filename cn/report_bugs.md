@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: cn
 title: "报告漏洞（Bugs）"

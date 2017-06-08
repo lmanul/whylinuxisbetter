@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: nl
 title: "Geen virussen meer."

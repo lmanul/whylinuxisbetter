@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: eo
 title: "Forgesu la pelilojn"

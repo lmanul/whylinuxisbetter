@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: fr
 title: "Pas de 'portes dérobées'."

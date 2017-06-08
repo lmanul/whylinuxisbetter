@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: ro
 title: "Control complet asupra aspectelor desktop-ului."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: it
 title: "Fai un salto verso la nuova generazione di desktop."

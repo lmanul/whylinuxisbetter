@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: en
 title: "Enjoy free and unlimited support"

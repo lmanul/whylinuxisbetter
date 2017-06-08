@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: ser
 title: " Zar niste umorni od stalnog restartovanja sistema?"

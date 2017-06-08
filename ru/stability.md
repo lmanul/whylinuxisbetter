@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: ru
 title: "Ваша система нестабильна?"

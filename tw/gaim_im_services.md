@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: tw
 title: "只需要一套軟體，就能使用 MSN、AIM、ICQ 和 Jabber 等服務"

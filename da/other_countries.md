@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: da
 title: "Hjælp andre lande, og dit eget!"

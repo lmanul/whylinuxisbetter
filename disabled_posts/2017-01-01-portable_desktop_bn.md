@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: bn
 title: "ওয়ার্কস্টেশন রাখুন হাতের কাছেই..."
 ---

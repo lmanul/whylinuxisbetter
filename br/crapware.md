@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: br
 title: "Esqueça os “crapwares”"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: it
 title: "Regala una seconda vita al tuo vecchio computer"

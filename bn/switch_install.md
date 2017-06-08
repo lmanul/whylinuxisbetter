@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_install
 category: bn
 title: লিনাক্স ইন্সটলেশন

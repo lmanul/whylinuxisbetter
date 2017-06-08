@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: pl
 title: "Zgłaszanie problemów (nie musisz czekać latami na ich rozwiązanie!)"

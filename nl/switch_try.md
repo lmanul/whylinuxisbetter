@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: nl
 title: Probeer een "live-cd"

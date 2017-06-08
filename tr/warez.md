@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: tr
 title: "Yazılımı ücretsiz alabiliyorken, niçin yasal olmayan şekilde kopyalama yapalım?"

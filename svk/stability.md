@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: svk
 title: "Je váš systém nestabilný?"

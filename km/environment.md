@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: km
 title: "បរិស្ថាន​"

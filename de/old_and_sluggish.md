@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: de
 title: "Warum wird dein Windows Tag f&uuml;r Tag langsamer?"

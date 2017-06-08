@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: pl
 title: "Podaruj staruszkowi nowe życie"

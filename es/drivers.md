@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: es
 title: "Olvídate de los controladores"

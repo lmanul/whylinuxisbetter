@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: ar
 title: "بإمكانك إستخدام جهازك القديم مدة أطول."

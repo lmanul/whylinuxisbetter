@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: cn
 title: "让侵犯版权者烟消云散"
 ---

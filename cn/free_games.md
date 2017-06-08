@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: cn
 title: "成百上千的免费游戏任你玩"

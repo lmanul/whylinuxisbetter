@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: en
 title: "Let your old computer have a second life"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: cn
 title: "与其非法复制软件，何不使用免费软件？"

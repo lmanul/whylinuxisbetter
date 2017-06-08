@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: he
 title: "אין פרצות סתרים בתוכנה שלך."

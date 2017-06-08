@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: vi
 title: "Xem dự báo thời tiết"

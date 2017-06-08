@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: kor
 title: "버그 신고하기"

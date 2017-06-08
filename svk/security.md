@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: svk
 title: "Linux chráni váš počítač"

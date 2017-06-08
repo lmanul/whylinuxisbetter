@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: br
 title: "Por que copiar programas ilegalmente se você pode consegui-los de graça ?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: svk
 title: "Príliš veľa okien? Použite pracovné plochy"

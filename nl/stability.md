@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: nl
 title: "Is uw systeem onstabiel?"

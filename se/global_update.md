@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: se
 title: "Uppdatera all din mjukvara med ett klick."

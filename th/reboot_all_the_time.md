@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: th
 title: "คุณเหนื่อยหน่ายที่จะบู๊ตเครื่องของคุณใหม่ซ้ำๆ ซากๆ ไหม?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: ser
 title: "Koristite MSN, AIM, ICQ, Jabber, sa samo jednim programom."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: se
 title: "Hoppa in i nästa generations skrivbord."

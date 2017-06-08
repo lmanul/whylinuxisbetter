@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: vi
 title: Dùng thử "Live CD"

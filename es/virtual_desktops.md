@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: es
 title: "¿Demasiadas ventanas? Usa las distintas áreas de trabajo."

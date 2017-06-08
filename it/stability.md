@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: it
 title: "Il tuo sistema è instabile?"

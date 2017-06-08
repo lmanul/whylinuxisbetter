@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: da
 title: "Hvorfor bliver din Windows-maskine langsommere dag for dag?"

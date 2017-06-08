@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: gl
 title: "Esquéceche dos virus."

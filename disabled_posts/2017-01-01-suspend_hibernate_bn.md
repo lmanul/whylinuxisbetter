@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: bn
 title: "'Sleep' এবং 'Hibernate' মোড ব্যবহার করুন, শক্তি অপচয় কমান।"
 ---

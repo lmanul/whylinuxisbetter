@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: da
 title: "Opdatér al din software med et enkelt klik."

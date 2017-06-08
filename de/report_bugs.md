@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: de
 title: "Warte nicht jahrelang darauf, dass Bugs behoben werden; melde sie und bring sie zur Strecke"

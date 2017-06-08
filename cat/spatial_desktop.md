@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: cat
 title: "Salta a la nova generació d'escriptoris."

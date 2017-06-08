@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: categories
 category: se
 title: "Inget kaos i startmenyn"

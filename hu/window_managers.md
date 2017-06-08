@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: hu
 title: "Válaszd ki, milyen legyen az asztalod!"

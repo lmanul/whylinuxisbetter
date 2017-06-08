@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: gl
 title: "É inestable o teu sistema ?"

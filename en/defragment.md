@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: en
 title: "Does your digital life seem fragmented?"

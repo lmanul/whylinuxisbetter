@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: ser
 title: " Nabavite odličan muzički plejer."

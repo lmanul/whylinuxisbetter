@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: es
 title: "No esperes años a que se arreglen los fallos, comunícalos y sigue su solución"

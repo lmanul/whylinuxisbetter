@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: hu
 title: "Nincsenek többé backdoorok"

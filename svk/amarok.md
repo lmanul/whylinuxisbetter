@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: svk
 title: "Získajte úžasný prehrávač hudby"

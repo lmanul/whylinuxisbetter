@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: el
 title: "Γιατί να χρειάζεται να εγκαταστήσετε προγράμματα <i>και μετά</i> το τέλος της εγκατάστασης;"

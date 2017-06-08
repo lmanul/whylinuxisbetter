@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: vi
 title: "Quá nhiều cửa sổ trên màn hình ? Hãy dùng nhiều không gian làm việc (workspace)"

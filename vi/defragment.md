@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: vi
 title: "Cuộc sống số của bạn có bị 'phân mảnh' không ?"

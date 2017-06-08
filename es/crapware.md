@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: es
 title: "No más mierdaware."

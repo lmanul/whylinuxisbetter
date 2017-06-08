@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: he
 title: "שמירה על קשר עין עם מזג האויר"

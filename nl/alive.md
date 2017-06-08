@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: nl
 title: "Geef uw oude computer een tweede leven"

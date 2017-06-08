@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: ser
 title: "Forget about viruses."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: ja
 title: "デスクトップぐらい自分色に染めたいわな"

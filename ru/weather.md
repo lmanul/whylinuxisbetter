@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: ru
 title: "Следите за погодой! Кажется дождь начинается... "

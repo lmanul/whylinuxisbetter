@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: en
 title: "No backdoors in your software."

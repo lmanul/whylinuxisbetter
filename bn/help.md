@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: bn
 title: "আপনাকে ফ্রি সাহায্য করার জন্যে আছে একটি বিশাল কমিউনিটি।"

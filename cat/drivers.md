@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: cat
 title: "Oblida't dels controladors"

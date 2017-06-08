@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: br
 title: "Tenha um ótimo tocador de músicas"

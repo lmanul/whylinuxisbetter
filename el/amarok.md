@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: el
 title: "Ακούστε μουσική"

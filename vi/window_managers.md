@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: vi
 title: "Chọn giao diện nào bạn muốn"

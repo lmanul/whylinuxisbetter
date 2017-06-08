@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: da
 title: "Der er ingen bagdøre i dine programmer."

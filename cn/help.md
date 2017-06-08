@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: cn
 title: "享受免费无限的帮助与支持"

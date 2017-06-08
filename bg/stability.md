@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: bg
 title: "Нестабилна ли е системата ви?"

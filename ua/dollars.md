@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: ua
 title: "Не плати 100 євро за операційну систему."

@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: nl
 title: "Bespaar energie: zet uw computer in slaapstand of pauzestand"
 ---

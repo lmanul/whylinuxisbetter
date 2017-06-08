@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: kor
 title: "﻿다른 나라를 도와주세요, 당신의 나라도요"

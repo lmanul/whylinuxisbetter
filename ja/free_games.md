@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: ja
 title: "無料ゲームが無数にあるんだよ"

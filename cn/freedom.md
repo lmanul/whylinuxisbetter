@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: freedom
 category: cn
 title: "自由！"

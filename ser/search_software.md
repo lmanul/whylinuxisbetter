@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: ser
 title: "Treba Vam nov softver? Ne tražite po mreži, Linux će Vam nabaviti."

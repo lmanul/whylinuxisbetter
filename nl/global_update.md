@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: nl
 title: "Update uw software met 1 klik"

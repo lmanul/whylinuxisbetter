@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: de
 title: "Ist dein System instabil?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: lit
 title: "Pavargote nuolat perkraudin&#279;ti kompiuter&#303;?"

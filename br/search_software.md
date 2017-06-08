@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: br
 title: "Precisa de programas novos? Não se aborreça procurando na internet, o Linux pega para você."

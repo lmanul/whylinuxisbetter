@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: no
 title: "Spill hundrevis av spill helt gratis."

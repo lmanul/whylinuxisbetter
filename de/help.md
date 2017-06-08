@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: de
 title: "Komm in den Genuss freien und unbegrenzten Supports"

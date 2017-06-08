@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: categories
 category: ru
 title: "Скажите “нет” беспорядку в вашем меню."

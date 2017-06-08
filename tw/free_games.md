@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: tw
 title: "自由地享受上百個遊戲"

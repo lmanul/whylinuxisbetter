@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: pl
 title: "Potrzebujesz nowego programu? Nie trudź się przeszukiwaniem sieci! Linuks zrobi to za Ciebie"

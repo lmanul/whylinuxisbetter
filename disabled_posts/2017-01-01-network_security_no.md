@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: no
 title: "Ikke gi hackere sjansen."
 ---

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: ru
 title: "Наслаждайтесь бесплатной и безграничной поддержкой!"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: tr
 title: "Bilgisayarınızı sürekli baştan başlatmaktan sıkıldınız mı?"

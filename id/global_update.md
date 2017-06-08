@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: id
 title: "<i>Update</i> semua perangkat lunakmu dengan satu klik."

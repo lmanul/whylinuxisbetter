@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: tw
 title: "體驗下一代的桌面環境"

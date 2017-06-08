@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: cn
 title: "获得一个绝佳的音乐播放器"

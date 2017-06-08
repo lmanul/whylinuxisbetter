@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: bn
 title: "স্ট্যাবিলিটি নিয়ে সমস্যা?"

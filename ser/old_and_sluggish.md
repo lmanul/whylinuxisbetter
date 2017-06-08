@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: ser
 title: "Zašto Windows postaje sporiji svakim danom?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: el
 title: "Το Linux προστατεύει τον υπολογιστή σας"

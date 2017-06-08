@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: el
 title: "Βοηθήστε άλλες χώρες, και τη δική σας"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: th
 title: "อัพเดททุกซอฟต์แวร์ของคุณด้วยคลิกเดียว"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: hu
 title: "Frissítsd minden programod egyetlen kattintással!"

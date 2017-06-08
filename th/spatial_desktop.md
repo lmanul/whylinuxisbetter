@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: th
 title: "กระโดดเข้าสู่เดสก์ท็อปยุคใหม่"

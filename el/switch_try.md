@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: el
 title: Δοκιμάστε ένα "Live CD"

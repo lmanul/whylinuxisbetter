@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: id
 title: "Jangan habiskan Rp. 920.000,- (atau $100) hanya untuk sebuah sistem operasi"

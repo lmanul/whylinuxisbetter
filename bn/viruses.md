@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: bn
 title: "ভাইরাস নিয়ে দুশ্চিন্তা ভুলে যান।"

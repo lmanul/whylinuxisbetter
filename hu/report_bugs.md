@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: hu
 title: "A hibák jelentése"

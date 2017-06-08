@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: km
 title: "រាយ​ការណ៍​​កំហុស"

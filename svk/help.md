@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: svk
 title: "Využívajte bezplatnú a neobmedzenú podporu"

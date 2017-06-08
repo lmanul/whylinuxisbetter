@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: en
 title: "No more crapware."

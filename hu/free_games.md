@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: hu
 title: "Játssz játékok százaival ingyen!"

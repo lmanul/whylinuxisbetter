@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: fr
 title: Essayez Linux grâce à un "Live CD"

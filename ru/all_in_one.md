@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: all_in_one
 category: ru
 title: "Вы установили систему. <i>Зачем</i> устанавливать дополнительный софт?!"

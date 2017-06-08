@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: tw
 title: "不用為了你的作業系統而花費上萬元"

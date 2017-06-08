@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: kor
 title: "MSN, AIM, ICQ, Jabber를 한꺼번에 사용하기"

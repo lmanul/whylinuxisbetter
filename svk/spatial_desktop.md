@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: svk
 title: "Naskočte na novú vlnu desktopov"

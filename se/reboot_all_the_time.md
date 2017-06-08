@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: se
 title: "Är du trött på att starta om datorn hela tiden?"

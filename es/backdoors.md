@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: es
 title: "Sin puertas traseras en tu software."

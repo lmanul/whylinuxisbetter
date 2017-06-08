@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: id
 title: "Gunakan MSN, AIM, ICQ, Jabber, dengan hanya satu program"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: ku
 title: "رێگە بدە کۆمپیوتەرە کۆنەکەت دووبارە بژێتەوە "

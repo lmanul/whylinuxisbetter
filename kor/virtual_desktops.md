@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: kor
 title: "창을 너무 많이 띄우셨나요? 작업공간을 이용하세요"

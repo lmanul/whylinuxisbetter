@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: pl
 title: "Nie płać za system operacyjny"

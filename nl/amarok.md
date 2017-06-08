@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: nl
 title: "Gebruik een fantastische muziekspeler"

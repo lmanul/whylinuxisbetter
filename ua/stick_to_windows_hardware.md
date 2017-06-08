@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_hardware
 category: ua
 title: Дещо з твого апаратного забезпечення поки що не підтримується

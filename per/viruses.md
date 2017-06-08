@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: per
 title: "ويروسها رو فراموش كنيد."

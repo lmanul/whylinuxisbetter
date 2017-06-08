@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: ua
 title: "Грай в сотні безкоштовних ігор"

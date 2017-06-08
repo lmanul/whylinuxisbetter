@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: tw
 title: "幫助台灣以及其他國家"

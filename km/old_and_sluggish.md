@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: km
 title: "ហេតុ​អ្វី​បាន​ជាវីដូ​របស់​អ្នក​របស់​អ្នក​កាន់​តែ​យឺត​ពី​មួយ​ថ្ងៃ​ទៅ​មួយ​ថ្ងៃ ?"

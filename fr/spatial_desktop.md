@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: fr
 title: "Découvrez la nouvelle génération de bureaux."

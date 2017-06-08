@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: el
 title: "Ξεγράψτε τους πειρατές"
 ---

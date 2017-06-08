@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: en
 title: "Are your tired of restarting your computer all the time?"

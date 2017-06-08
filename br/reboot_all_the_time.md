@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: br
 title: "Cansou de reiniciar seu computador toda hora?"

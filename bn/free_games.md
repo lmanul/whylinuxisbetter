@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: bn
 title: "অসংখ্য গেম খেলুন, সম্পূর্ণ ফ্রি"

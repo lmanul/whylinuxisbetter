@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: ja
 title: "MSNにAIMにICQにGoogle Talkに。ああ、どれを使ったらいいのさ？"

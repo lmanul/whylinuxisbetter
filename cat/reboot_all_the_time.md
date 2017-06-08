@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: cat
 title: "N'estàs ben tip de reiniciar el teu ordinador a sovint?"

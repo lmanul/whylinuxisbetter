@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: km
 title: "ទុក​ឲ្យ​ចោរ​ស៊ី​ផេះ​"
 ---

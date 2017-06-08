@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: se
 title: "Håll koll på vädret."

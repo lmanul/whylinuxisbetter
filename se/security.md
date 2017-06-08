@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: se
 title: "Linux skyddar din dator"

@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: ja
 title: "省エネでエコ。使わないパソコンは眠らせよっ"
 ---

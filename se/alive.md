@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: se
 title: "Låt din gamla dator få ett nytt liv"

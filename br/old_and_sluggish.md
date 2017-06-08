@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: br
 title: "Por que seu Windows fica mais lento dia após dia ?"

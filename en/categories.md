@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: categories
 category: en
 title: "No big mess in your start menu"

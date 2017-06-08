@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: tr
 title: "Dijital hayatınızda parçalanmalar mı var ?"

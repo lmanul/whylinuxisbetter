@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: br
 title: "Deixe seu computador velho ter uma segunda vida"

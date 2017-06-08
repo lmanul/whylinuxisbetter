@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: bg
 title: "Прекалено много прозорци? Използвайте работните места."

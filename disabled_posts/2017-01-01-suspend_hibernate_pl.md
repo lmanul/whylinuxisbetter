@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: pl
 title: "Oszczędź nieco prądu: wprowadź komputer w stan uśpienia lub hibernacji"
 ---

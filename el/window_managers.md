@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: el
 title: "Αλλάξτε την εμφάνιση της επιφάνειας εργασίας σας."

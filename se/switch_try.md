@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: se
 title: Testa med en ”Live CD”

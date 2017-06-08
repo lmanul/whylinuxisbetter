@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: kor
 title: "﻿계속되는 재부팅에 지치셨나요?"

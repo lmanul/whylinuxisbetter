@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: ua
 title: "Хочеш завжди знати, яка погода?"

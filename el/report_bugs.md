@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: report_bugs
 category: el
 title: "Μην περιμένετε χρόνια να λυθούν τα προβλήματα, αναφέρετέ τα και παρακολουθήστε τα."

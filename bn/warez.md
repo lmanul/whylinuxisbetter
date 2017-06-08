@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: bn
 title: "ফ্রিতেই যদি সফটওয়্যার পাওয়া যায়, তাহলে অবৈধভাবে কপি করবো কেন?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: it
 title: "Aggiorna tutto il tuo software con un unico clic"

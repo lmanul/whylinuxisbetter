@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: ru
 title: "Нужен новый софт? Не парьтесь с гуглом, позвольте Linux скачать его."

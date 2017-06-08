@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: ua
 title: "Користуйся вільною і необмеженою підтримкою "

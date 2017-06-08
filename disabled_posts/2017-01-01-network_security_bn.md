@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: bn
 title: "হ্যাকাররা আঙুল চুষুক।"
 ---

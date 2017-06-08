@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: ku
 title: " .هتد بەکار بەرە بە تەنها یەک نەرمەکاڵا MSN , ICQ , YAHOO , JABBER , AIM "

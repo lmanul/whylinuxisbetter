@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: environment
 category: lit
 title: "Saugok aplinką"

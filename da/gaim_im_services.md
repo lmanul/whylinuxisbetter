@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: da
 title: "Brug MSN, AIM, ICQ, Jabber, med ét enkelt program."

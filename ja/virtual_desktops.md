@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: ja
 title: "ウィンドウ散らかりっぱなし。ワークスペース使えばいいのに"

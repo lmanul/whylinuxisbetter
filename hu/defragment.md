@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: hu
 title: "Töredékekként látod a világot?"

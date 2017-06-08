@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: vi
 title: "Sử dụng môi trường làm việc mới"

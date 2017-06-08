@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: kor
 title: "﻿무료! 무제한! 문제해결 즐기기"

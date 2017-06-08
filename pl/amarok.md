@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: pl
 title: "Poznaj wspaniały odtwarzacz muzyczny"

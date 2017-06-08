@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: en
 title: "Your workstation right here, in your hand."
 ---

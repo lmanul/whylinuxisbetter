@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: th
 title: "ชีวิตดิจิตอลของคุณแตกออกเป็นเสี่ยงๆ ไหม?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: cn
 title: "忘掉驱动程序"

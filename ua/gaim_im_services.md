@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: ua
 title: "MSN, AIM, ICQ та Jabber в одній програмі"

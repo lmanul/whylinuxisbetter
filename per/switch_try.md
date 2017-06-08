@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: per
 title: امتحان کردن یک "سی دی زنده"

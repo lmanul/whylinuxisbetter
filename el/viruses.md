@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: el
 title: "Ξεχάστε τους ιούς."

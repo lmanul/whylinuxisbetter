@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_try
 category: kor
 title: 리눅스 라이브CD 사용하기

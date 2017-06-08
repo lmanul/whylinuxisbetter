@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: it
 title: "Gioca a centinaia di videogame gratuitamente"

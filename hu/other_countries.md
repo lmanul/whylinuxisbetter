@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: hu
 title: "Segíts más országokon és a sajátodon!"

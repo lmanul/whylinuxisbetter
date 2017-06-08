@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_cmjn
 category: km
 title: ឧស្សាហ​កម្ម​​បោះពុម្ព និង​​សៀវ​ភៅ

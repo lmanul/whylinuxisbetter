@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: en
 title: "Get a great music player"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: id
 title: "Jangan lupa selalu mengamati cuaca."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: weather
 category: ro
 title: "Supravegheaţi vremea."

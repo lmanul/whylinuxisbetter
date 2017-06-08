@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: pl
 title: "Pomóż innym krajom, w tym również Twojemu"

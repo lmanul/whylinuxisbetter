@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: el
 title: "Το σύστημά σας είναι ασταθές;"

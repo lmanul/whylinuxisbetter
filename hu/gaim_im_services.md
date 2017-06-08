@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: hu
 title: "Használj AIM-et, MSN-t, ICQ-t és Jabbert egyetlen programmal!"

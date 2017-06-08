@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: ja
 title: "クラッカーなんてこてんぱ"
 ---

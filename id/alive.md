@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: id
 title: "Berikan kesempatan kedua buat komputer lama kamu"

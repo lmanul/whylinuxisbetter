@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: kor
 title: "﻿바탕환경을 맘껏 바꿔보세요"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: tw
 title: "你的系統穩定嗎？"

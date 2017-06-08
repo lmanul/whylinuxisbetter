@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: no
 title: "Trenger du ny programvare? Ikke søk på Internett, Linux skaffer det for deg."

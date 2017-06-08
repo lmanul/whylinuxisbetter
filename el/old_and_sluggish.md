@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: el
 title: "Γιατί τα Windows σας γίνονται κάθε μέρα πιο αργά;"

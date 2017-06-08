@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: tr
 title: "Yazılımda kapalı kapılara hayır!"

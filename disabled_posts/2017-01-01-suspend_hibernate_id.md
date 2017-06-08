@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: id
 title: "Berhematlah sedikit energi : biarkan komputermu 'tidur' (sleep) atau 'hibernasi' (hybernate)."
 ---

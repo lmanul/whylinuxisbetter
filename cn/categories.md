@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: categories
 category: cn
 title: "开始菜单不再混乱"

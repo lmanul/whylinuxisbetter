@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: tw
 title: "太多視窗嗎？使用工作區吧"

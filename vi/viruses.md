@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: vi
 title: "Không còn lo lắng về virus nữa"

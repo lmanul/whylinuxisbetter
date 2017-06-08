@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: lit
 title: "Pasinerkite į naują darbalaukių kartą."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: svk
 title: "Pomôžte ostatným krajinám, a aj tej svojej"

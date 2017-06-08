@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: hu
 title: "Miért lesz a Windows napról napra lassabb?"

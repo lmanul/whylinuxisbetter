@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: vi
 title: "Chơi hàng trăm game miễn phí"

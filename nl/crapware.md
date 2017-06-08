@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: nl
 title: "Geen crapware meer."

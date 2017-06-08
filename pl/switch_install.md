@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: switch_install
 category: pl
 title: Instalacja systemu Linuks (system Windows zostaje na swoim miejscu!)

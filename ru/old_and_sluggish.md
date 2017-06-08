@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: ru
 title: "Почему Windows работает всё медленнее, день за днем?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: bn
 title: "ড্রাইভার? ভুলে যান"

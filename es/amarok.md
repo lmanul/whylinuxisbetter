@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: es
 title: "Consigue un gran reproductor musical"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: he
 title: "האם המערכת שלך סובלת מאי-יציבות?"

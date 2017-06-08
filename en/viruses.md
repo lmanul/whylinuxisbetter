@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: en
 title: "Forget about viruses."

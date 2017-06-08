@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: cat
 title: "Linux protegeix el teu ordinador"

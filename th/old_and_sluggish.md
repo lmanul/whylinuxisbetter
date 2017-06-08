@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: th
 title: "ทำไมวินโดวส์เชื่องช้าลงทุกวี่วัน?"

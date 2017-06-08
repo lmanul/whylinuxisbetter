@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_cmjn
 category: bn
 title: প্রকাশনা এবং মুদ্রণশিল্প

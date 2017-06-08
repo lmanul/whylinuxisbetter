@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: lit
 title: "Ar Jūsų skaitmeninis gyvenimas atrodo išsibarstęs?"

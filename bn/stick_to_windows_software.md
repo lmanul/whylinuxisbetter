@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_software
 category: bn
 title: প্রোপ্রাইটরি (স্বত্ব-সংরক্ষিত) সফটওয়্যার

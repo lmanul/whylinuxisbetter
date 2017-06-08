@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: kor
 title: "크랩웨어(사전설치된 소프트웨어)는 그만."

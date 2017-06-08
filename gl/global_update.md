@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: gl
 title: "Actualiza todo i que tes no teu PC cun só click."

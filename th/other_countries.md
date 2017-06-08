@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: th
 title: "ช่วยเหลือมวลมนุษยชาติ และประเทศไทยของเรา"

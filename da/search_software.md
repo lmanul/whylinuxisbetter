@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: da
 title: "Har du brug for noget nyt software? Lad være med at søge på nettet, Linux finder det for dig."

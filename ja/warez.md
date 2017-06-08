@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: ja
 title: "フリーで使えるソフトがこんなにあるのに、何で違法コピーすんのよ！"

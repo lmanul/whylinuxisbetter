@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: br
 title: "Salte para a próxima geração de desktops."

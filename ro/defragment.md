@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: ro
 title: "Viaţa dvs. virtuală pare fragmentată?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: en
 title: "Don't pay $100 for your operating system"

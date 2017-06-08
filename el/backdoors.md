@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: el
 title: "Λογισμικό χωρίς κερκόπορτες."

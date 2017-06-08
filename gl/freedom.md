@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: freedom
 category: gl
 title: "Liberdade!"

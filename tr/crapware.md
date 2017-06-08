@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: crapware
 category: tr
 title: "Çöp yazılımlara son."

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: eo
 title: "Eniru en la novan generacion de labortabloj."

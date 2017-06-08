@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: other_countries
 category: lit
 title: "Pad&#279;k kitoms &#353;alis, taip pat ir savo."

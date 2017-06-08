@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: el
 title: "Αναβαθμίστε όλα σας τα προγράμματα με ένα κλικ"

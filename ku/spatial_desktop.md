@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: ku
 title: ".بڕۆ بۆ نەوەی نوێی ڕوومێزەکان"

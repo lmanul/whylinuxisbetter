@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: ua
 title: "Зазирни у наступне покоління робочих столів"

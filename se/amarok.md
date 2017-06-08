@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: amarok
 category: se
 title: "Få en fantastisk musikspelare"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: viruses
 category: cat
 title: "Oblida't dels virus"

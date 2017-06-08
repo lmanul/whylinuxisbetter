@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: backdoors
 category: ro
 title: "Fără găuri de securitate în software."

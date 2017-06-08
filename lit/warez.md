@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: warez
 category: lit
 title: "Kam nelegaliai kopijuoti programas jeigu galima gauti nemokamas?"

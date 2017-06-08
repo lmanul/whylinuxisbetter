@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: svk
 title: "Dajte svojmu starému počítaču nový život"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: he
 title: "קפצו אל הדור הבא של שולחנות העבודה."

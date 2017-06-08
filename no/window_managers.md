@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: no
 title: "Velg hvordan ditt skrivebord skal se ut."

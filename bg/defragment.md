@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: bg
 title: "Изглежда ли разхвърлян дигиталният ви живот ?"

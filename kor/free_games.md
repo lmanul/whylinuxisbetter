@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: kor
 title: "무료로 즐기는 수백 가지의 게임들"

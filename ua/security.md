@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: ua
 title: "Linux protects your computer"

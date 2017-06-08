@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: reboot_all_the_time
 category: tw
 title: "你是否為了要不斷重開電腦而感到厭煩？"

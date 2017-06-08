@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stability
 category: ua
 title: "Чи стійка ваша комп’ютерна система?"

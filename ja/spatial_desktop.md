@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: spatial_desktop
 category: ja
 title: "新世代デスクトップへ飛び出そう！"

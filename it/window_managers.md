@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: it
 title: "Scegli l'aspetto del tuo desktop"

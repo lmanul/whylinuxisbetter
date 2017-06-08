@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: id
 title: "Mengapa semakin hari Windows Anda semakin lambat?"

@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: eo
 title: "Plezuriĝu per senfina kaj senkosta helpo"

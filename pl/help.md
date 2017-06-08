@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: help
 category: pl
 title: "Ciesz się darmowym i nieograniczonym wsparciem"

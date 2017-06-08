@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: search_software
 category: es
 title: "¿Necesitas software nuevo? No te molestes buscando en la web, Linux lo hace por tí"

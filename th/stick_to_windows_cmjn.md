@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: stick_to_windows_cmjn
 category: th
 title: ธุรกิจหนังสือและสิ่งพิมพ์

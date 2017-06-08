@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: virtual_desktops
 category: bn
 title: "বেশি উইন্ডো নিয়ে ঝামেলা? 'ওয়ার্কস্পেস' ব্যবহার করুন।"

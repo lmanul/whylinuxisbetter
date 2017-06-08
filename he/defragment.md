@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: he
 title: "מרגישים שהחיים הדיגיטליים שלכם שבורים לרסיסים?"

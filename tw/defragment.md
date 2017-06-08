@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: defragment
 category: tw
 title: "你的數位生活似乎有些零散？"

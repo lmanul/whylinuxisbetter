@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: bg
 title: "Изберете как да изглежда работната ви площ."

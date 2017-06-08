@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: old_and_sluggish
 category: en
 title: "Why does your Windows get slower day after day?"

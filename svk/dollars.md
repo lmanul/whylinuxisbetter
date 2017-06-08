@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: dollars
 category: svk
 title: "Neplaťte €150 za váš operačný systém"

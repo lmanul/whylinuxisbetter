@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: security
 category: et
 title: "Linux kaitseb sinu arvutit"

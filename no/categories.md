@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: categories
 category: no
 title: "Ikke noe rot i Start-menyen din."

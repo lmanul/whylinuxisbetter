@@ -1,4 +1,5 @@
 ---
+layout: default
 lang: ro
 title: "Lăsaţi crackerii să eşueze"
 ---

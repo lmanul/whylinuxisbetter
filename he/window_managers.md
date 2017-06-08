@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: window_managers
 category: he
 title: "בחר כיצד אתה רוצה ששולחן העבודה שלך יראה."

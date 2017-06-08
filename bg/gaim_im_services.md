@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: gaim_im_services
 category: bg
 title: "Използвайте MSN, AIM, ICQ, Jabber с една-единствена програма"

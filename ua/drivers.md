@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: drivers
 category: ua
 title: "Не думай про драйвери!"

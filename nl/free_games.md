@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: free_games
 category: nl
 title: "Speel honderden gratis spellen"

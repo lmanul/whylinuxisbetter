@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: global_update
 category: ro
 title: "Actualizaţi-vă tot software-ul cu un singur click."

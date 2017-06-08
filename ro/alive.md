@@ -1,4 +1,5 @@
 ---
+layout: default
 identifier: alive
 category: ro
 title: "Permite-i computerului să învie"
