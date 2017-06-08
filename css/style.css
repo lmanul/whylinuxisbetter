@@ -140,14 +140,9 @@ div.main {float: right; text-align : center; width: 10em;}
 }
 
 #facebook {
-  margin: 35px 10px 0 0;
+  margin: 15px 10px 0 0;
   display: inline-block;
   float: right;
-}
-
-#facebook iframe {
-  display: inline-block;
-  height: 24px !important;
 }
 
 .author {
