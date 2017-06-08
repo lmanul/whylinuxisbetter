@@ -5,4 +5,3 @@ url: "http://whylinuxisbetter.net"
 permalink: /:categories/:title/
 
 markdown: kramdown
-include: [en, fr, de]

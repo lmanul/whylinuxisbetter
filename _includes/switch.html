@@ -1,4 +1,4 @@
-{% assign posts=site.posts | where:"lang", page.lang %}
+{% assign posts=site.pages | where:"category", page.category %}
 <div id="items">
 {% for post in posts %}
   {% if post.tags contains 'switch' %}
