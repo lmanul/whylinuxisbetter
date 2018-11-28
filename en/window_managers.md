@@ -8,7 +8,7 @@ title: "Choose what your desktop looks like."
 If you're a Windows user, your desktop environment probably isn't 
 very far from this:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Pretty much all Windows users have the same desktop. You can still 
 change your wallpaper, or the color of your windows decorations (default 
