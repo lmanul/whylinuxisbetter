@@ -12,7 +12,7 @@ very far from this:
 
 Pretty much all Windows users have the same desktop. You can still 
 change your wallpaper, or the color of your windows decorations (default 
-is blue), but basically you'll still end up with the usual Windows 
+is black), but basically you'll still end up with the usual Windows 
 interface.
 
 With Linux, choice has been brought back to you. You're no longer 
@@ -23,20 +23,20 @@ have a pretty good default. The point is you <i>can</i> change
 it if you wish.
 
 So if you like a simple, efficient and easy-to-use desktop 
-environment, you'll probably like this one:
+environment, you'll probably like GNOME:
 
 <img src="/img/window_managers_ubuntu.jpg"/>
 
 If you like a more modern and glossy look, you might want to switch 
-to this one:
+to KDE:
 
 <img src="/img/kde.png" />
 
-Or you could try this one, simple and fast:
+Or you could try this one, the simple and fast LXQT:
 
 <img src="/img/window_managers_xfce.jpg" />
 
-Or even this one, if you love to completely customize your desktop 
+Or even a lightweight window manager, if you love to completely customize your desktop 
 environment:
 
 <img src="/img/window_managers_wm.jpg" />
