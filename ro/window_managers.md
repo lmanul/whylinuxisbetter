@@ -8,7 +8,7 @@ Dacă sunteţi un utilizator de Windows, desktop-ul dumneavoastră
 probabil nu e prea departe de asta:
 
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Aproape toţi utilizatorii de Windows au acelaşi desktop. Oricum, puteţi
 să schimbaţi tema, dar practic tot ce obţineţi e interfaţa obişnuită a
@@ -27,7 +27,7 @@ probabil că vă place acesta:
 Dacă vreţi o înfăţişare mai modernă şi mai strălucitoare, poate vă place
 acesta:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Sau l-aţi putea încerca pe acesta, repede şi simplu:
 
