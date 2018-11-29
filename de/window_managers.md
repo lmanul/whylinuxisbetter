@@ -7,7 +7,7 @@ title: "Such dir aus, wie dein Desktop aussehen soll."
 
 Wenn du ein Windowsnutzer bist, wird dein Desktop wahrscheinlich diesem Bildschirmfoto ähneln:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 So ziemlich alle Windowsnutzer haben den gleichen Desktop. Man kann noch den Hintergrund oder die Farben und Dekoration der Fenster ändern (standardmäßig blau), aber im Grunde ist alles die Windowsstandard-Benutzeroberfläche.
 
@@ -19,11 +19,11 @@ Solltest du eine simple, effektive und einfach zu nutzende Arbeitsumgebung suche
 
 Wenn du eher auf einen moderneren Hochglanz-Look stehst, könntest du zu diesem wechseln:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Oder du könntest diesen ausprobieren, einfach und schnell:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Oder diesen, wenn du es liebst, deine Arbeitsumgebung vollständig selbst zu gestalten:
 
