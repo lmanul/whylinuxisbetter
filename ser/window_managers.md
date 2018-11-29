@@ -7,7 +7,7 @@ title: "Izaberite kako će Vaš desktop izgledati."
 
 Ako ste korisnik Windows-a onda Vaš desktop izgleda otprilike ovako:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Manje-više svi korisnici windows-a imaju isti desktop. Možete da promenite
 pozadinu, ili boju dekoracije (podrazumevana je plava), 
@@ -28,11 +28,11 @@ okrućenje, možda će Vam se svideti ovako nešto:
 A ako volite moderan i svetlucav izgled, možda ćete hteti da koristite
 ovako nešto:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Ili možete da probate ovaj, jednostavan i brz:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Ili čak ovaj, ukoliko volite da potpuno prilagodite Vaše desktop 
 okruženje:
