@@ -30,7 +30,7 @@ environment, you'll probably like GNOME:
 If you like a more modern and glossy look, you might want to switch 
 to KDE:
 
-<img src="/img/window_managers_kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Or you could try this one, the simple and fast LXQT:
 
