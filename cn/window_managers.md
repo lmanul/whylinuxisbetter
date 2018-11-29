@@ -7,7 +7,7 @@ title: "选择您的桌面主题"
 
 如果您是Windows的使用者，您的桌面也许和这个很像：
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 相当一部分Windows使用者都是使用一样的桌面主题。您也许还可以换一下
 桌面壁纸，或者选择一下不同的颜色方案（默认为蓝色），但是其实不难发现，
@@ -23,11 +23,11 @@ title: "选择您的桌面主题"
 
 如果您习惯更现代、更华丽的外观，您会换成这个吧：
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 或者是这个，简介明了：
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 或者喜欢全景的屏幕：
 
