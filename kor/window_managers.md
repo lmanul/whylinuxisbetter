@@ -7,7 +7,7 @@ title: "﻿바탕환경을 맘껏 바꿔보세요"
 
 당신이 윈도우즈 사용자이시라면, 컴퓨터 바탕환경은 다음과 비슷할 것입니다:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 대부분의 윈도우즈 사용자들은 동일한 바탕환경을 가지고 있습니다. 바탕화면을 바꾸거나 꾸밈색(기본설정은 푸른색)을 바꿀 수는 있겠지만 결국은 비슷한 바탕환경에 머무르고 맙니다.
 
@@ -19,11 +19,11 @@ title: "﻿바탕환경을 맘껏 바꿔보세요"
 
  좀 더 현대적이고 번듯한 모양을 원하신다면, 이렇게 바꿔보셔도 됩니다:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 아니면, 간단하고 쾌적한 다음 것은 어떤가요?:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 그것도 아니면, 다음처럼 완전히 본인만의 바탕환경을 만드셔도 됩니다:
 
