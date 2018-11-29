@@ -7,7 +7,7 @@ title: "Escolle como queres que se vexa o teu escritorio."
 
 Si eres un usuario de Windows, probablemente tu escritorio no está muy lejos de esto:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Case todos os usuarios de Windows teñen o mesmo escritorio. Aínda que é certo podes cambiar o fondo de pantalla ou as cores da decoración de Windows (o azul é o predeterminado), pouco podes afastarte do escritorio común de Windows.
 
@@ -19,11 +19,11 @@ Entón se te gusta unha contorna de escritorio simple, eficiente e fácil de usa
 
 Se che gusta un máis moderno e brillante, talvez queiras cambiarte a este:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Tamén poderías probar leste, simple e rápido:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Ou ata este, se te apaixona retocar completamente a túa contorna de escritorio:
 
