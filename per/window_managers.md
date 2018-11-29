@@ -17,7 +17,7 @@ title: "خودتون شكل ميزكارتون رو انتخاب كنيد."
 
 
 
-<div style="text-align: center;"><img src="/img/window_managers_windows_vista.jpg">
+<div style="text-align: center;"><img src="/img/window_managers_windows_10.jpg">
 
 
 
@@ -41,13 +41,13 @@ title: "خودتون شكل ميزكارتون رو انتخاب كنيد."
 
 
 
-<img src="/img/kde.png">
+<img src="/img/window_managers_kde.jpeg">
 
 و يا شايد اين رو انتخاب كنيد،ساده و سريع:
 
 
 
-<img src="/img/window_managers_xfce.jpg">
+<img src="/img/window_managers_lxqt.jpg">
 
 يا حتي اين يكي اگه شما واقعاً يك ميزكار متمايز وكاملاً قابل شخصي سازي لازم دارين:
 
