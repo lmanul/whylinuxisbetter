@@ -8,7 +8,7 @@ title: "Escolha o visual de sua área de trabalho."
 Se você é um usuário do Windows, provavelmente sua área de trabalho 
 não está muito longe disto:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 A maioria dos usuários do Windows têm a mesma área de trabalho. Você 
 ainda pode mudar o papel de parede, ou a cor de decoração das janelas (o 
@@ -30,11 +30,11 @@ eficiente e fácil de usar, provavelmente vai gostar deste:
 Se gosta de um visual mais moderno e brilhante, provavelmente vai 
 querer trocar para este:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Ou pode tentar este, simples e rápido:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Ou até mesmo este, se você ama modificar completamente o ambiente da 
 sua área de trabalho:
