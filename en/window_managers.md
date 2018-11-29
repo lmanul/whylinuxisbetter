@@ -30,11 +30,11 @@ environment, you'll probably like GNOME:
 If you like a more modern and glossy look, you might want to switch 
 to KDE:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.png" />
 
 Or you could try this one, the simple and fast LXQT:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Or even a lightweight window manager, if you love to completely customize your desktop 
 environment:
