@@ -7,7 +7,7 @@ title: "Chọn giao diện nào bạn muốn"
 
 Nếu bạn dùng Windows, giao diện của bạn có lẽ gần giống thế này:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Hầu như mọi người dùng Windows sử dụng giao diện giống nhau. Bạn có thể đổi màn hình nền, 
 màu của cửa sổ (mặc định là xanh da trời), nhưng tất cả chỉ có vậy.
@@ -22,11 +22,11 @@ Nếu bạn thích một giao diện đơn giản, hiệu quả và dễ sử d�
 
 Nếu bạn muốn một giao diện lung linh, bạn có thể dùng cái này:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Hoặc cái này, đơn giản và tốc độ cao:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Hay cả cái này nữa, nếu bạn muốn điều chỉnh mọi thứ bạn thấy trên màn hình:
 
