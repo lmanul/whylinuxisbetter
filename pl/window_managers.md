@@ -8,7 +8,7 @@ title: "Dostosuj wygląd systemu do swoich potrzeb"
 Jeśli używasz systemu Windows, Twój pulpit najpewniej niewiele
 różni się od poniższego:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Większość użytkowników sytemu Windows ma taki sam pulpit. Oczywiście zmiana
 tła czy kolorów to żaden problem, mimo to interfejs pozostaje wciąż
@@ -26,11 +26,11 @@ widok:
 
 Jeśli wolisz podejście bardziej nowoczesne... to proszę bardzo!
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Możesz też spróbować czegoś takiego - proste i szybkie:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 ... jeśli zaś lubisz dopracowywać i konfigurować wszystkie detale,
 jest szansa, że spodoba Ci się to:
