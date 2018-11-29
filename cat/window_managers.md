@@ -7,7 +7,7 @@ title: "Tria l'aparença del teu escriptori."
 
 Si ets un usuari de Windows, el teu escriptori probablement no serà molt distint a aquest:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Quasi tots els usuaris de Windows tenen el mateix escriptori. Tu pots encara canviar el fons de pantalla, o el color de les decoracions de les finestres (el predeterminat és blau), però bàsicament acabaràs amb la habitual interfície de Windows.
 
@@ -19,11 +19,11 @@ Així que si t'agrada un simple, eficient i fàcil d'usar entorn d'escriptori, p
 
 Si t'agrada una aparença un poc més moderna i brillant,  podries voler canviar-la per aquesta:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 O podries provar aquesta, simple i ràpida:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 O fins i tot aquesta, si t'agrada personalitzar completament el teu entorn d'escriptori:
 
