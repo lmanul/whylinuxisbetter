@@ -31,7 +31,7 @@ acesta:
 
 Sau l-aţi putea încerca pe acesta, repede şi simplu:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Sau poate chiar acesta, dacă iubiţi să vă personalizaţi complet desktop-ul:
 
