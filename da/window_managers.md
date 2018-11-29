@@ -7,7 +7,7 @@ title: "Vælg selv hvordan din desktop skal se ud."
 
 Hvis du er Windows-bruger, så ser din desktop sikkert ikke meget anderledes ud end det hér:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Næsten alle Windows-brugere har den samme desktop. Du kan skifte dit baggrundsbillede, eller farven på dine vinduer (standard er blåt), men i bund og grund enderdu altid op med det samme Windows interface.
 
@@ -19,11 +19,11 @@ Så hvis du kan lide en simpel, effektiv og easy-to-use desktop, så vil du sikk
 
 Hvis du kan lide et mere moderne og skinnende look, så kan du prøve denne hér:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Eller du kunne prøve denne hér, simpel og hurtig:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Eller denne hér, hvis du ønsker fuldstændig kontrol over hvad din window manager viser:
 
