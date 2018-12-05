@@ -8,7 +8,7 @@ title: "Kies hoe uw bureaubladomgeving eruitziet."
 Als u een Windows-gebruiker bent, is uw bureaubladomgeving waarschijnlijk
 niet veel verschillend van dit:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Bijna alle Windows-gebruikers hebben dezelfde bureaubladomgeving. U kan
 de bureaubladachtergrond aanpassen of de kleur van de vensterdecoraties
@@ -30,11 +30,11 @@ zult deze waarschijnlijk leuk vinden:
 Als u meer van een moderne en glanzend uiterlijk houdt, wilt u misschien eerder deze
 proberen:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Of u kunt deze proberen, simpel en snel:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Of zelfs deze, als u graag uw omgeving volledig aanpast:
 

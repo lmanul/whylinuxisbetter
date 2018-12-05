@@ -7,7 +7,7 @@ title: "Velg hvordan ditt skrivebord skal se ut."
 
 Hvis du er en Windows-bruker, så er høyst sannsynlig skrivebordmiljøet ditt noe som dette:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Nesten alle Windows-brukere har det samme skrivebordet. Du kan fortsatt forandre bakgrunnsbilde, eller farge på vindusdekorasjoner (standard er blå), men i bunn og grunn ender du alltid opp med et typisk grensesnitt for Windows.
 
@@ -19,11 +19,11 @@ Hvis du liker det enkelt, greit og ordinært, vil du nok like denne:
 
 Hvis du liker et mer moderne og skinnende, vil du kanskje like denne bedre:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Eller så kan du prøve denne, som er rask og enkel:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Eller kanskje denne, hvis du virkelig liker å tilpasse skrivebordsmiljøet ditt:
 

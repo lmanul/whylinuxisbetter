@@ -8,7 +8,7 @@ title: "Scegli l'aspetto del tuo desktop"
 Se sei un utente di Windows, probabilmente il tuo desktop non sarà 
 così diverso da questo:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Tutti gli utenti di Windows hanno lo stesso desktop. Puoi comunque 
 cambiare sfondo o il colore delle tue decorazioni delle finestre (il 
@@ -29,11 +29,11 @@ gradirai avere probabilmente questo qui:
 
 Se ti piace un look più moderno e vistoso, potresti passare a questo:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Oppure puoi provare questo, semplice e veloce:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 O anche questo, se ami personalizzare completamente il tuo desktop:
 

@@ -7,7 +7,7 @@ title: "Välj hur du ditt skrivbord ska se ut."
 
 Om du är en Windowsanvändare ser ditt skrivbord nog ut ungefär såhär:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Praktiskt taget alla Windowsanvändare har ett skrivbord som ser likadant ut. Du kan byta skrivbordsbakgrund, eller färgen på Windowsdekorationer (blått är standard), men det slutar ändå med det typiska utseendet för Windows.
 
@@ -19,11 +19,11 @@ Så om du gillar enkel, effektiv ett skrivbord som är lätt att använda gillar
 
 Om du gillar en lite mer modern och flashig look, kanske du vill byta till den här istället:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Eller så kan du pröva denna, som är enkel och snabb:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Eller kanske denna, om du vill ha total konfigurationsförmåga på skrivbordet:
 

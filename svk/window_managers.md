@@ -7,7 +7,7 @@ title: "Vyberte si štýl vašej pracovnej plochy"
 
 Ak ste používateľom Windows, prostredie vašej pracovnej plochy pravdepodobne vyzerá nejak takto:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 V podstate všetci používatelia Windows majú rovnakú plochu. Môžete si zmeniť pozadie, alebo farebnú schému (prednastavená je modrá), ale stále je to to klasické Windows prostredie.
 
@@ -19,11 +19,11 @@ Teda ak preferujete jednoduché, efektívne pracovné prostredie, ktoré je jedn
 
 Ak máte radšej niečo viac moderné a nablýskané, možno by ste chceli niečo takéto:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Alebo môžete skúsiť toto, jednoduché a rýchle:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Alebo dokonca niečo takéto, ak si radi kompletne prispôsobujete pracovné prostredie:
 

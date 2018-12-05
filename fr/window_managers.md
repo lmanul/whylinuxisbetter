@@ -8,7 +8,7 @@ title: "Choisissez l'allure de votre bureau."
 Si vous utilisez Windows, votre bureau ressemble sans doute à
 peu près à ceci :
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Tous les utilisateurs de Windows voient, en gros, la même interface
 graphique. Vous pouvez toujours changer de fond d'écran, ou changer la
@@ -31,11 +31,11 @@ facile à utiliser, vous aimerez probablement celui-ci :
 Si vous aimez le look moderne et acidulé, vous voudrez peut-être
 changer pour celui-ci :
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Ou bien, vous pourriez essayer celui-là, simple et rapide :
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Ou même celui-ci, si vous aimez personnaliser totalement votre
 environnement :

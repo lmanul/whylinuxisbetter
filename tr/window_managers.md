@@ -8,7 +8,7 @@ title: "Masaüstünüzün nasıl olması gerektiğini siz seçin."
 Eğer bir windows kullanıcısıysanız Masaüsütünüz herhalde bundan 
 pek te farklı değildir:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Çoğunlukla bütün Windows kullanıcıları aynı masaüstüne sahiptir.
 Tabi ki duvar kağıdınızı değiştirebilir veya pencere dekorasyonunuzun 
@@ -30,11 +30,11 @@ muhtemelen bunu beğeneceksiniz:
 Daha çağdaş ve gösterişli bir görünüm istiyorsanız, buna geçmek 
 isteyebilirsiniz:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Ya da bunu deneyebilirsiniz, basit ve hızlı:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Ve hatta masaüstü ortamınızı tamamen özelleştirmek istiyorsanız:
 

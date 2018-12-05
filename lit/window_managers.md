@@ -7,7 +7,7 @@ title: "Pasirinkite, kaip atrodys Jūsų darbalaukis."
 
 Jei Jūs naudojatės Windows'ais, Jūsų darbalaukio aplinka tikriausiai bus gerokai panaši į šią:
 
-<img src="/img/window_managers_windows_vista.jpg" />
+<img src="/img/window_managers_windows_10.jpg" />
 
 Beveik visi Windows'ų vartotojai turi vienodai atrodantį darbalaukį. Žinoma, galite keisti darbalaukio tapetus (Wallpaper'į), langų juostų spalvas (paprastai jos būna mėlynos), bet iš esmės vis tiek turėsite standartiškai atrodantį darbalaukį.
 
@@ -19,11 +19,11 @@ Taigi, jei mėgstate paprastą darbalaukio aplinką, jums tikriausiai patiks št
 
 Jei patinka modernesnė ir blizgi išvaizda, galbūt patiks štai šita:
 
-<img src="/img/kde.png" />
+<img src="/img/window_managers_kde.jpeg" />
 
 Galite išmėginti ir šitą, paprastą ir greitą:
 
-<img src="/img/window_managers_xfce.jpg" />
+<img src="/img/window_managers_lxqt.jpg" />
 
 Ar netgi štai tokią, jei Jums patinka savaip susitvarkyti absoliučiai viską:
 
