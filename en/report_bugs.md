@@ -10,7 +10,7 @@ Microsoft will fix it fast (and if it compromises your system's
 security, you would have to pray twice as hard). You might think that reporting that 
 bug to Microsoft (so that they can fix it more quickly) must be easy. Well, 
 think again. <a 
-href="http://www.oreillynet.com/mac/blog/2002/06/mission_impossible_submitting.html">Here</a> 
+href="https://web.archive.org/web/20170716232532/http://archive.oreilly.com/pub/post/mission_impossible_submitting.html">Here</a> 
 is an interesting article about this. What if Microsoft doesn't even 
 notice the bug? Well then, let's hope the next version of Windows will 
 fix it (but you'll need to pay another few hundred bucks).
