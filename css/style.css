@@ -204,6 +204,10 @@ div.main.rtl {float: left;}
   text-align: right;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
 
 /*-->*/
 /*</style>*/
