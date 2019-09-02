@@ -22,3 +22,8 @@ Note the upcoming Steambox will be running a fork of Debian and
 CEO of Valve (Gabe Newell) has pledged to support Linux with all
 of the company's games (Team Fortress 2, DOTA 2, Half Life, etc.) and upcoming titles.
 
+Valve has recently released a custom version of Wine called Proton
+that allows you to play a large library of Windows games on Linux,
+however, not all games are compatible and only a small number of them
+are currently certified to work by Valve.
+
