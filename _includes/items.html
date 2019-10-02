@@ -1,17 +1,19 @@
 {% assign posts=site.pages | where:"category", page.category %}
 <div id="items">
 {% for post in posts reversed %}
-  {% unless post.tags contains 'switch' %}
-    {% unless post.tags contains 'stick_to_windows' %}
-      <a href="{{ post.url }}">
-        <div class="item">
-          {{ post.title }}
-          <br /><br />
-          <img src="/img/{{ post.identifier }}_thumb.png" />
-        </div>
-      </a>
+  {% if post.title %}
+    {% unless post.tags contains 'switch' %}
+      {% unless post.tags contains 'stick_to_windows' %}
+        <a href="{{ post.url }}">
+          <div class="item">
+            {{ post.title }}
+            <br /><br />
+            <img src="/img/{{ post.identifier }}_thumb.png" />
+          </div>
+        </a>
+      {% endunless %}
     {% endunless %}
-  {% endunless %}
+  {% endif %}
 {% endfor %}
 </div>
 
