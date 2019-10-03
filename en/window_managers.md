@@ -5,6 +5,13 @@ category: en
 title: "Choose what your desktop looks like."
 ---
 
+<style>
+img {
+  width: 100%;
+  height: auto;
+}
+</style>
+
 If you're a Windows user, your desktop environment probably isn't 
 very far from this:
 
