@@ -5,13 +5,6 @@ category: en
 title: "Too many windows? Use workspaces."
 ---
 
-<style>
-img {
-  width: 100%;
-  height: auto;
-}
-</style>
-
 I never was a Windows user and there is something I just cannot 
 understand: once you have your word processor, your web browser, your 
 email application, your instant messenger software and some windows open to 
